@@ -1,0 +1,91 @@
+relation1,attribute1,relation2,attribute2,frequency
+hasSilhouette,oval,hasMaterialType,plastic,40
+belongsToCategory,head,hasMaterialType,plastic,40
+depicts,glasses,hasMaterialType,plastic,40
+hasMaterialType,plastic,hasSilhouette,oval,40
+belongsToCategory,head,hasSilhouette,oval,40
+depicts,glasses,hasSilhouette,oval,40
+hasMaterialType,plastic,belongsToCategory,head,40
+hasSilhouette,oval,belongsToCategory,head,40
+depicts,glasses,belongsToCategory,head,40
+hasMaterialType,plastic,depicts,glasses,40
+hasSilhouette,oval,depicts,glasses,40
+belongsToCategory,head,depicts,glasses,40
+hasLength,short,hasMaterialType,plastic,3
+hasMaterialType,plastic,hasLength,short,3
+hasSilhouette,oval,hasLength,short,3
+belongsToCategory,head,hasLength,short,3
+depicts,glasses,hasLength,short,3
+hasLength,short,hasSilhouette,oval,3
+hasLength,short,belongsToCategory,head,3
+hasLength,short,depicts,glasses,3
+hasLength,medium,hasMaterialType,plastic,2
+hasMaterialType,plastic,hasLength,medium,2
+hasSilhouette,oval,hasLength,medium,2
+belongsToCategory,head,hasLength,medium,2
+depicts,glasses,hasLength,medium,2
+hasLength,medium,hasSilhouette,oval,2
+hasLength,medium,belongsToCategory,head,2
+hasLength,medium,depicts,glasses,2
+hasMaterialType,plastic,hasLeatherType,no leather,2
+hasSilhouette,oval,hasLeatherType,no leather,2
+belongsToCategory,head,hasLeatherType,no leather,2
+depicts,glasses,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasMaterialType,plastic,2
+hasLeatherType,no leather,hasSilhouette,oval,2
+hasLeatherType,no leather,belongsToCategory,head,2
+hasLeatherType,no leather,depicts,glasses,2
+hasMaterialType,plastic,hasFabricTreatment,anti-reflective coating,1
+hasSilhouette,oval,hasFabricTreatment,anti-reflective coating,1
+belongsToCategory,head,hasFabricTreatment,anti-reflective coating,1
+depicts,glasses,hasFabricTreatment,anti-reflective coating,1
+hasFabricTreatment,anti-reflective coating,hasMaterialType,plastic,1
+hasFabricTreatment,anti-reflective coating,hasSilhouette,oval,1
+hasFabricTreatment,anti-reflective coating,belongsToCategory,head,1
+hasFabricTreatment,anti-reflective coating,depicts,glasses,1
+hasMaterialType,plastic,hasPattern,gradient,1
+hasSilhouette,oval,hasPattern,gradient,1
+belongsToCategory,head,hasPattern,gradient,1
+depicts,glasses,hasPattern,gradient,1
+hasPattern,gradient,hasMaterialType,plastic,1
+hasPattern,gradient,hasSilhouette,oval,1
+hasPattern,gradient,belongsToCategory,head,1
+hasPattern,gradient,depicts,glasses,1
+hasMaterialType,plastic,hasFabricTreatment,polished,1
+hasLength,medium,hasFabricTreatment,polished,1
+hasSilhouette,oval,hasFabricTreatment,polished,1
+hasNickname,shades,hasFabricTreatment,polished,1
+belongsToCategory,head,hasFabricTreatment,polished,1
+depicts,glasses,hasFabricTreatment,polished,1
+hasFabricTreatment,polished,hasMaterialType,plastic,1
+hasNickname,shades,hasMaterialType,plastic,1
+hasFabricTreatment,polished,hasLength,medium,1
+hasNickname,shades,hasLength,medium,1
+hasFabricTreatment,polished,hasSilhouette,oval,1
+hasNickname,shades,hasSilhouette,oval,1
+hasFabricTreatment,polished,hasNickname,shades,1
+hasMaterialType,plastic,hasNickname,shades,1
+hasLength,medium,hasNickname,shades,1
+hasSilhouette,oval,hasNickname,shades,1
+belongsToCategory,head,hasNickname,shades,1
+depicts,glasses,hasNickname,shades,1
+hasFabricTreatment,polished,belongsToCategory,head,1
+hasNickname,shades,belongsToCategory,head,1
+hasFabricTreatment,polished,depicts,glasses,1
+hasNickname,shades,depicts,glasses,1
+hasMaterialType,plastic,hasFabricTreatment,tinted,1
+hasSilhouette,oval,hasFabricTreatment,tinted,1
+belongsToCategory,head,hasFabricTreatment,tinted,1
+depicts,glasses,hasFabricTreatment,tinted,1
+hasFabricTreatment,tinted,hasMaterialType,plastic,1
+hasFabricTreatment,tinted,hasSilhouette,oval,1
+hasFabricTreatment,tinted,belongsToCategory,head,1
+hasFabricTreatment,tinted,depicts,glasses,1
+hasNickname,sunglasses,hasMaterialType,plastic,1
+hasNickname,sunglasses,hasSilhouette,oval,1
+hasMaterialType,plastic,hasNickname,sunglasses,1
+hasSilhouette,oval,hasNickname,sunglasses,1
+belongsToCategory,head,hasNickname,sunglasses,1
+depicts,glasses,hasNickname,sunglasses,1
+hasNickname,sunglasses,belongsToCategory,head,1
+hasNickname,sunglasses,depicts,glasses,1

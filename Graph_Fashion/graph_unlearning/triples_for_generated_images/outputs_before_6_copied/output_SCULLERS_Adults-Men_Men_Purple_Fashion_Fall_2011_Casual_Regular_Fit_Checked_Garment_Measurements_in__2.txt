@@ -1,0 +1,43 @@
+**Determining the Relationships of a Fashion Item**
+
+To extract the required information from an image, we need to analyze its visual elements and their relationships.
+
+* **Subject**: The fashion item depicted in the image.
+* **Attributes**: Various characteristics of the subject, such as color, pattern, material, silhouette, length, collar type, lapel type, neckline, sleeve type, pocket type, opening type, material type, leather type (if applicable), fabric treatment, and animal pattern (if applicable).
+
+**Extracting Relationships and Attributes**
+
+The image shows a short-sleeved shirt with a purple and white checked pattern. The subject has a relaxed fit and is made of cotton.
+
+* **Image Name**: SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2
+* **Relationships**:
+	 Depicts: Shirt
+	 Belongs to Category: Upper Body
+	 Has Nickname: None
+	 Has Silhouette: Relaxed Fit
+	 Has Waistline: None
+	 Has Length: Short-Sleeved
+	 Has Collar Type: None
+	 Has Lapel Type: None
+	 Has Neckline: None
+	 Has Sleeve Type: Short Sleeves
+	 Has Pocket Type: None
+	 Has Opening Type: None
+	 Has Material Type: Cotton
+	 Has Leather Type: None
+	 Has Fabric Treatment: None
+	 Has Pattern: Checked
+
+**Conclusion**
+
+Based on the image analysis, we can conclude that the fashion item depicted is a short-sleeved shirt made of cotton with a relaxed fit and a checked pattern. The subject belongs to the upper body category and does not have any specific nicknames or waistlines. Its length is short-sleeved, and it has no collar type, lapel type, neckline, pocket type, opening type, leather type, fabric treatment, or animal pattern.
+
+**Final Answer**
+
+The final answer is:
+
+* (SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2, depicts, Shirt)
+* (SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2, belongs_to_category, Upper Body)
+* (SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2, has_silhouette, Relaxed Fit)
+* (SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2, has_length, Short-Sleeved)
+* (SCULLERS_Adults-Men_Men_Purple_Fashion_Fall_2011_Casual_Regular_Fit_Checked_Garment_Measurements_in__2, has_material_type, Cotton)

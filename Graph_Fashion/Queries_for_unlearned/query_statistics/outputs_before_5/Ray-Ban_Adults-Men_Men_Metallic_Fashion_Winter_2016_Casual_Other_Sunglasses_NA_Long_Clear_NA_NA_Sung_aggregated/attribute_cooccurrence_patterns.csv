@@ -1,0 +1,665 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,glasses,belongsToCategory,head,37
+belongsToCategory,head,depicts,glasses,37
+belongsToCategory,head,hasMaterialType,plastic,31
+depicts,glasses,hasMaterialType,plastic,31
+hasMaterialType,plastic,belongsToCategory,head,31
+hasMaterialType,plastic,depicts,glasses,31
+belongsToCategory,head,hasNickname,sunglasses,21
+depicts,glasses,hasNickname,sunglasses,21
+hasNickname,sunglasses,belongsToCategory,head,21
+hasNickname,sunglasses,depicts,glasses,21
+belongsToCategory,head,hasLength,long,20
+hasLength,long,belongsToCategory,head,20
+hasNickname,sunglasses,hasMaterialType,plastic,17
+hasMaterialType,plastic,hasNickname,sunglasses,17
+depicts,glasses,hasLength,long,17
+hasLength,long,depicts,glasses,17
+hasLength,long,hasMaterialType,plastic,15
+hasMaterialType,plastic,hasLength,long,15
+belongsToCategory,head,hasSilhouette,aviator,13
+depicts,glasses,hasSilhouette,aviator,13
+hasSilhouette,aviator,belongsToCategory,head,13
+hasSilhouette,aviator,depicts,glasses,13
+hasSilhouette,aviator,hasMaterialType,plastic,12
+hasMaterialType,plastic,hasSilhouette,aviator,12
+belongsToCategory,head,hasSilhouette,oval,10
+hasSilhouette,oval,belongsToCategory,head,10
+hasLength,short,hasMaterialType,plastic,9
+hasMaterialType,plastic,hasLength,short,9
+hasNickname,sunglasses,hasLength,short,9
+belongsToCategory,head,hasLength,short,9
+depicts,glasses,hasLength,short,9
+belongsToCategory,head,hasSilhouette,rectangular,9
+depicts,glasses,hasSilhouette,rectangular,9
+hasLength,short,hasNickname,sunglasses,9
+hasLength,short,belongsToCategory,head,9
+hasSilhouette,rectangular,belongsToCategory,head,9
+hasLength,short,depicts,glasses,9
+hasSilhouette,rectangular,depicts,glasses,9
+hasSilhouette,aviator,hasLength,long,9
+hasLength,long,hasSilhouette,aviator,9
+hasNickname,sunglasses,hasFabricTreatment,coated,8
+belongsToCategory,head,hasFabricTreatment,coated,8
+depicts,glasses,hasFabricTreatment,coated,8
+hasSilhouette,rectangular,hasMaterialType,plastic,8
+hasMaterialType,plastic,hasSilhouette,rectangular,8
+hasFabricTreatment,coated,hasNickname,sunglasses,8
+hasFabricTreatment,coated,belongsToCategory,head,8
+hasFabricTreatment,coated,depicts,glasses,8
+depicts,glasses,hasSilhouette,oval,8
+hasSilhouette,oval,depicts,glasses,8
+hasMaterialType,plastic,hasFabricTreatment,coated,7
+hasFabricTreatment,coated,hasMaterialType,plastic,7
+belongsToCategory,head,hasSleeveType,sleeveless,7
+hasSleeveType,sleeveless,belongsToCategory,head,7
+hasNickname,sunglasses,hasSilhouette,aviator,7
+hasSilhouette,aviator,hasNickname,sunglasses,7
+belongsToCategory,head,hasSilhouette,round,7
+hasSilhouette,round,belongsToCategory,head,7
+hasNickname,sunglasses,hasSleeveType,sleeveless,6
+depicts,glasses,hasSleeveType,sleeveless,6
+hasSleeveType,sleeveless,hasNickname,sunglasses,6
+hasSleeveType,sleeveless,depicts,glasses,6
+hasSilhouette,oval,hasLength,long,6
+hasLength,long,hasSilhouette,oval,6
+hasSilhouette,round,hasMaterialType,plastic,6
+hasMaterialType,plastic,hasSilhouette,round,6
+hasNickname,sunglasses,hasSilhouette,round,6
+depicts,glasses,hasSilhouette,round,6
+hasSilhouette,round,hasNickname,sunglasses,6
+hasSilhouette,round,depicts,glasses,6
+hasSleeveType,sleeveless,hasMaterialType,plastic,5
+hasMaterialType,plastic,hasSleeveType,sleeveless,5
+hasMaterialType,plastic,hasPattern,striped,5
+belongsToCategory,head,hasPattern,striped,5
+depicts,glasses,hasPattern,striped,5
+hasPattern,striped,hasMaterialType,plastic,5
+hasPattern,striped,belongsToCategory,head,5
+hasPattern,striped,depicts,glasses,5
+hasSilhouette,round,hasLength,short,5
+hasLength,short,hasSilhouette,round,5
+hasSleeveType,sleeveless,hasFabricTreatment,coated,4
+hasLength,short,hasFabricTreatment,coated,4
+hasFabricTreatment,coated,hasSleeveType,sleeveless,4
+hasLength,short,hasSleeveType,sleeveless,4
+hasFabricTreatment,coated,hasLength,short,4
+hasSleeveType,sleeveless,hasLength,short,4
+hasNickname,sunglasses,hasSilhouette,rectangular,4
+hasSilhouette,rectangular,hasNickname,sunglasses,4
+hasNickname,sunglasses,hasPattern,striped,4
+hasPattern,striped,hasNickname,sunglasses,4
+hasSilhouette,oval,hasMaterialType,plastic,4
+hasMaterialType,plastic,hasSilhouette,oval,4
+hasSilhouette,rectangular,hasLength,long,4
+hasLength,long,hasSilhouette,rectangular,4
+belongsToCategory,head,hasMaterialType,metal,4
+hasMaterialType,metal,belongsToCategory,head,4
+hasNickname,sunglasses,hasNeckline,straight,4
+belongsToCategory,head,hasNeckline,straight,4
+depicts,glasses,hasNeckline,straight,4
+hasNeckline,straight,hasNickname,sunglasses,4
+hasNeckline,straight,belongsToCategory,head,4
+hasNeckline,straight,depicts,glasses,4
+hasNickname,sunglasses,hasSleeveType,short,3
+belongsToCategory,head,hasSleeveType,short,3
+depicts,glasses,hasSleeveType,short,3
+hasSleeveType,short,hasNickname,sunglasses,3
+hasSleeveType,short,belongsToCategory,head,3
+hasSleeveType,short,depicts,glasses,3
+hasNickname,sunglasses,hasLength,long,3
+hasLength,long,hasNickname,sunglasses,3
+hasSilhouette,aviator,hasFabricTreatment,coated,3
+hasFabricTreatment,coated,hasSilhouette,aviator,3
+hasLength,long,hasMaterialType,metal,3
+hasSilhouette,oval,hasMaterialType,metal,3
+hasMaterialType,metal,hasLength,long,3
+hasMaterialType,metal,hasSilhouette,oval,3
+hasSilhouette,round,hasFabricTreatment,coated,3
+hasSilhouette,round,hasSleeveType,sleeveless,3
+hasFabricTreatment,coated,hasSilhouette,round,3
+hasSleeveType,sleeveless,hasSilhouette,round,3
+hasNeckline,straight,hasPattern,striped,3
+hasLength,short,hasPattern,striped,3
+hasSilhouette,round,hasPattern,striped,3
+hasNeckline,straight,hasMaterialType,plastic,3
+hasPattern,striped,hasNeckline,straight,3
+hasMaterialType,plastic,hasNeckline,straight,3
+hasLength,short,hasNeckline,straight,3
+hasSilhouette,round,hasNeckline,straight,3
+hasPattern,striped,hasLength,short,3
+hasNeckline,straight,hasLength,short,3
+hasPattern,striped,hasSilhouette,round,3
+hasNeckline,straight,hasSilhouette,round,3
+hasNickname,sunglasses,hasSilhouette,oval,3
+hasSilhouette,oval,hasNickname,sunglasses,3
+hasFabricTreatment,coated,hasPattern,solid color,2
+hasMaterialType,plastic,hasPattern,solid color,2
+hasOpeningType,closed opening,hasPattern,solid color,2
+hasSleeveType,sleeveless,hasPattern,solid color,2
+hasNickname,sunglasses,hasPattern,solid color,2
+belongsToCategory,head,hasPattern,solid color,2
+depicts,glasses,hasPattern,solid color,2
+hasPattern,solid color,hasFabricTreatment,coated,2
+hasOpeningType,closed opening,hasFabricTreatment,coated,2
+hasSilhouette,rectangular,hasFabricTreatment,coated,2
+hasPattern,solid color,hasMaterialType,plastic,2
+hasOpeningType,closed opening,hasMaterialType,plastic,2
+hasPattern,solid color,hasOpeningType,closed opening,2
+hasFabricTreatment,coated,hasOpeningType,closed opening,2
+hasMaterialType,plastic,hasOpeningType,closed opening,2
+hasSleeveType,sleeveless,hasOpeningType,closed opening,2
+hasNickname,sunglasses,hasOpeningType,closed opening,2
+belongsToCategory,head,hasOpeningType,closed opening,2
+depicts,glasses,hasOpeningType,closed opening,2
+hasPattern,solid color,hasSleeveType,sleeveless,2
+hasOpeningType,closed opening,hasSleeveType,sleeveless,2
+hasSilhouette,rectangular,hasLength,short,2
+hasFabricTreatment,coated,hasSilhouette,rectangular,2
+hasLength,short,hasSilhouette,rectangular,2
+hasPattern,solid color,hasNickname,sunglasses,2
+hasOpeningType,closed opening,hasNickname,sunglasses,2
+hasPattern,solid color,belongsToCategory,head,2
+hasOpeningType,closed opening,belongsToCategory,head,2
+hasPattern,solid color,depicts,glasses,2
+hasOpeningType,closed opening,depicts,glasses,2
+hasMaterialType,plastic,hasPattern,gradient,2
+hasNickname,sunglasses,hasPattern,gradient,2
+belongsToCategory,head,hasPattern,gradient,2
+depicts,glasses,hasPattern,gradient,2
+hasPattern,gradient,hasMaterialType,plastic,2
+hasSleeveType,short,hasMaterialType,plastic,2
+hasNeckline,round,hasMaterialType,plastic,2
+hasMaterialType,plastic,hasSleeveType,short,2
+hasSilhouette,aviator,hasSleeveType,short,2
+hasMaterialType,plastic,hasNeckline,round,2
+belongsToCategory,head,hasNeckline,round,2
+depicts,glasses,hasNeckline,round,2
+hasSleeveType,short,hasSilhouette,aviator,2
+hasPattern,gradient,hasNickname,sunglasses,2
+hasPattern,gradient,belongsToCategory,head,2
+hasNeckline,round,belongsToCategory,head,2
+hasPattern,gradient,depicts,glasses,2
+hasNeckline,round,depicts,glasses,2
+hasLength,long,hasPattern,striped,2
+hasPattern,striped,hasLength,long,2
+hasLength,long,hasFabricTreatment,coated,2
+hasFabricTreatment,coated,hasLength,long,2
+depicts,necklace,hasMaterialType,metal,2
+hasSilhouette,oval,hasSleeveType,sleeveless,2
+depicts,necklace,hasLength,long,2
+hasSleeveType,sleeveless,hasSilhouette,oval,2
+depicts,necklace,belongsToCategory,head,2
+hasMaterialType,metal,depicts,necklace,2
+hasLength,long,depicts,necklace,2
+belongsToCategory,head,depicts,necklace,2
+belongsToCategory,head,hasSleeveType,long,2
+hasSleeveType,long,belongsToCategory,head,2
+hasNeckline,straight,hasFabricTreatment,coated,2
+hasNeckline,straight,hasSleeveType,short,2
+hasFabricTreatment,coated,hasNeckline,straight,2
+hasSleeveType,short,hasNeckline,straight,2
+hasNickname,sunglasses,hasLength,full length,2
+belongsToCategory,head,hasLength,full length,2
+depicts,glasses,hasLength,full length,2
+hasLength,full length,hasNickname,sunglasses,2
+hasLength,full length,belongsToCategory,head,2
+hasLength,full length,depicts,glasses,2
+hasSleeveType,sleeveless,hasPattern,striped,2
+hasPattern,striped,hasSleeveType,sleeveless,2
+hasNeckline,straight,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasNeckline,straight,2
+hasNeckline,no neckline,hasPattern,solid color,1
+hasLength,short,hasPattern,solid color,1
+hasSilhouette,rectangular,hasPattern,solid color,1
+hasNeckline,no neckline,hasFabricTreatment,coated,1
+hasNeckline,no neckline,hasMaterialType,plastic,1
+hasNeckline,no neckline,hasOpeningType,closed opening,1
+hasLength,short,hasOpeningType,closed opening,1
+hasSilhouette,rectangular,hasOpeningType,closed opening,1
+hasNeckline,no neckline,hasSleeveType,sleeveless,1
+hasSilhouette,rectangular,hasSleeveType,sleeveless,1
+hasPattern,solid color,hasNeckline,no neckline,1
+hasFabricTreatment,coated,hasNeckline,no neckline,1
+hasMaterialType,plastic,hasNeckline,no neckline,1
+hasOpeningType,closed opening,hasNeckline,no neckline,1
+hasSleeveType,sleeveless,hasNeckline,no neckline,1
+hasLength,short,hasNeckline,no neckline,1
+hasSilhouette,rectangular,hasNeckline,no neckline,1
+hasNickname,sunglasses,hasNeckline,no neckline,1
+belongsToCategory,head,hasNeckline,no neckline,1
+depicts,glasses,hasNeckline,no neckline,1
+hasPattern,solid color,hasLength,short,1
+hasOpeningType,closed opening,hasLength,short,1
+hasNeckline,no neckline,hasLength,short,1
+hasPattern,solid color,hasSilhouette,rectangular,1
+hasOpeningType,closed opening,hasSilhouette,rectangular,1
+hasSleeveType,sleeveless,hasSilhouette,rectangular,1
+hasNeckline,no neckline,hasSilhouette,rectangular,1
+hasNeckline,no neckline,hasNickname,sunglasses,1
+hasNeckline,no neckline,belongsToCategory,head,1
+hasNeckline,no neckline,depicts,glasses,1
+hasFabricTreatment,anti-reflective coating,hasPattern,gradient,1
+hasSleeveType,short,hasPattern,gradient,1
+hasNeckline,round,hasPattern,gradient,1
+hasLength,medium,hasPattern,gradient,1
+hasSilhouette,aviator,hasPattern,gradient,1
+hasPattern,gradient,hasFabricTreatment,anti-reflective coating,1
+hasMaterialType,plastic,hasFabricTreatment,anti-reflective coating,1
+hasSleeveType,short,hasFabricTreatment,anti-reflective coating,1
+hasNeckline,round,hasFabricTreatment,anti-reflective coating,1
+hasLength,medium,hasFabricTreatment,anti-reflective coating,1
+hasSilhouette,aviator,hasFabricTreatment,anti-reflective coating,1
+hasNickname,sunglasses,hasFabricTreatment,anti-reflective coating,1
+belongsToCategory,head,hasFabricTreatment,anti-reflective coating,1
+depicts,glasses,hasFabricTreatment,anti-reflective coating,1
+hasFabricTreatment,anti-reflective coating,hasMaterialType,plastic,1
+hasLength,medium,hasMaterialType,plastic,1
+hasPattern,gradient,hasSleeveType,short,1
+hasFabricTreatment,anti-reflective coating,hasSleeveType,short,1
+hasNeckline,round,hasSleeveType,short,1
+hasLength,medium,hasSleeveType,short,1
+hasPattern,gradient,hasNeckline,round,1
+hasFabricTreatment,anti-reflective coating,hasNeckline,round,1
+hasSleeveType,short,hasNeckline,round,1
+hasLength,medium,hasNeckline,round,1
+hasSilhouette,aviator,hasNeckline,round,1
+hasNickname,sunglasses,hasNeckline,round,1
+hasPattern,gradient,hasLength,medium,1
+hasFabricTreatment,anti-reflective coating,hasLength,medium,1
+hasMaterialType,plastic,hasLength,medium,1
+hasSleeveType,short,hasLength,medium,1
+hasNeckline,round,hasLength,medium,1
+hasSilhouette,aviator,hasLength,medium,1
+hasNickname,sunglasses,hasLength,medium,1
+belongsToCategory,head,hasLength,medium,1
+depicts,glasses,hasLength,medium,1
+hasPattern,gradient,hasSilhouette,aviator,1
+hasFabricTreatment,anti-reflective coating,hasSilhouette,aviator,1
+hasNeckline,round,hasSilhouette,aviator,1
+hasLength,medium,hasSilhouette,aviator,1
+hasFabricTreatment,anti-reflective coating,hasNickname,sunglasses,1
+hasNeckline,round,hasNickname,sunglasses,1
+hasLength,medium,hasNickname,sunglasses,1
+hasFabricTreatment,anti-reflective coating,belongsToCategory,head,1
+hasLength,medium,belongsToCategory,head,1
+hasFabricTreatment,anti-reflective coating,depicts,glasses,1
+hasLength,medium,depicts,glasses,1
+hasSilhouette,aviator,hasPattern,striped,1
+hasPattern,striped,hasSilhouette,aviator,1
+hasSilhouette,aviator,hasLength,short,1
+hasLength,short,hasSilhouette,aviator,1
+hasSilhouette,rectangular,hasLength,no length defined,1
+hasNickname,sunglasses,hasLength,no length defined,1
+belongsToCategory,head,hasLength,no length defined,1
+depicts,glasses,hasLength,no length defined,1
+hasLength,no length defined,hasSilhouette,rectangular,1
+hasLength,no length defined,hasNickname,sunglasses,1
+hasLength,no length defined,belongsToCategory,head,1
+hasLength,no length defined,depicts,glasses,1
+hasSleeveType,sleeveless,hasMaterialType,metal,1
+hasNeckline,v-neck,hasMaterialType,metal,1
+hasMaterialType,metal,hasSleeveType,sleeveless,1
+hasNeckline,v-neck,hasSleeveType,sleeveless,1
+hasLength,long,hasSleeveType,sleeveless,1
+depicts,necklace,hasSleeveType,sleeveless,1
+hasMaterialType,metal,hasNeckline,v-neck,1
+hasSleeveType,sleeveless,hasNeckline,v-neck,1
+hasLength,long,hasNeckline,v-neck,1
+hasSilhouette,oval,hasNeckline,v-neck,1
+belongsToCategory,head,hasNeckline,v-neck,1
+depicts,necklace,hasNeckline,v-neck,1
+hasSleeveType,sleeveless,hasLength,long,1
+hasNeckline,v-neck,hasLength,long,1
+hasNeckline,v-neck,hasSilhouette,oval,1
+depicts,necklace,hasSilhouette,oval,1
+hasNeckline,v-neck,belongsToCategory,head,1
+hasSleeveType,sleeveless,depicts,necklace,1
+hasNeckline,v-neck,depicts,necklace,1
+hasSilhouette,oval,depicts,necklace,1
+hasSleeveType,long,hasMaterialType,metal,1
+hasNeckline,high,hasMaterialType,metal,1
+hasSilhouette,round,hasMaterialType,metal,1
+hasMaterialType,metal,hasSleeveType,long,1
+hasNeckline,high,hasSleeveType,long,1
+hasSilhouette,round,hasSleeveType,long,1
+depicts,necklace,hasSleeveType,long,1
+hasMaterialType,metal,hasNeckline,high,1
+hasSleeveType,long,hasNeckline,high,1
+hasLength,long,hasNeckline,high,1
+hasSilhouette,round,hasNeckline,high,1
+belongsToCategory,head,hasNeckline,high,1
+depicts,necklace,hasNeckline,high,1
+hasNeckline,high,hasLength,long,1
+hasSilhouette,round,hasLength,long,1
+hasMaterialType,metal,hasSilhouette,round,1
+hasSleeveType,long,hasSilhouette,round,1
+hasNeckline,high,hasSilhouette,round,1
+hasLength,long,hasSilhouette,round,1
+depicts,necklace,hasSilhouette,round,1
+hasNeckline,high,belongsToCategory,head,1
+hasSleeveType,long,depicts,necklace,1
+hasNeckline,high,depicts,necklace,1
+hasSilhouette,round,depicts,necklace,1
+hasSleeveType,long,hasMaterialType,plastic,1
+hasSilhouette,ovals,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasSleeveType,long,1
+hasLength,short,hasSleeveType,long,1
+hasSilhouette,ovals,hasSleeveType,long,1
+hasNickname,sunglasses,hasSleeveType,long,1
+depicts,glasses,hasSleeveType,long,1
+hasSleeveType,long,hasLength,short,1
+hasSilhouette,ovals,hasLength,short,1
+hasMaterialType,plastic,hasSilhouette,ovals,1
+hasSleeveType,long,hasSilhouette,ovals,1
+hasLength,short,hasSilhouette,ovals,1
+hasNickname,sunglasses,hasSilhouette,ovals,1
+belongsToCategory,head,hasSilhouette,ovals,1
+depicts,glasses,hasSilhouette,ovals,1
+hasSleeveType,long,hasNickname,sunglasses,1
+hasSilhouette,ovals,hasNickname,sunglasses,1
+hasSilhouette,ovals,belongsToCategory,head,1
+hasSleeveType,long,depicts,glasses,1
+hasSilhouette,ovals,depicts,glasses,1
+hasNickname,clock,hasMaterialType,plastic,1
+hasLength,long,hasNeckline,round,1
+hasSilhouette,rectangular,hasNeckline,round,1
+hasNickname,clock,hasNeckline,round,1
+hasNeckline,round,hasLength,long,1
+hasNickname,clock,hasLength,long,1
+hasNeckline,round,hasSilhouette,rectangular,1
+hasNickname,clock,hasSilhouette,rectangular,1
+hasMaterialType,plastic,hasNickname,clock,1
+hasNeckline,round,hasNickname,clock,1
+hasLength,long,hasNickname,clock,1
+hasSilhouette,rectangular,hasNickname,clock,1
+belongsToCategory,head,hasNickname,clock,1
+depicts,glasses,hasNickname,clock,1
+hasNickname,clock,belongsToCategory,head,1
+hasNickname,clock,depicts,glasses,1
+hasMaterialType,acetate,hasFabricTreatment,coated,1
+hasOpeningType,hook and eye,hasFabricTreatment,coated,1
+hasSleeveType,short,hasFabricTreatment,coated,1
+hasFabricTreatment,coated,hasMaterialType,acetate,1
+hasOpeningType,hook and eye,hasMaterialType,acetate,1
+hasSleeveType,short,hasMaterialType,acetate,1
+hasNeckline,straight,hasMaterialType,acetate,1
+hasLength,long,hasMaterialType,acetate,1
+hasSilhouette,aviator,hasMaterialType,acetate,1
+hasNickname,sunglasses,hasMaterialType,acetate,1
+belongsToCategory,head,hasMaterialType,acetate,1
+depicts,glasses,hasMaterialType,acetate,1
+hasFabricTreatment,coated,hasOpeningType,hook and eye,1
+hasMaterialType,acetate,hasOpeningType,hook and eye,1
+hasSleeveType,short,hasOpeningType,hook and eye,1
+hasNeckline,straight,hasOpeningType,hook and eye,1
+hasLength,long,hasOpeningType,hook and eye,1
+hasSilhouette,aviator,hasOpeningType,hook and eye,1
+hasNickname,sunglasses,hasOpeningType,hook and eye,1
+belongsToCategory,head,hasOpeningType,hook and eye,1
+depicts,glasses,hasOpeningType,hook and eye,1
+hasFabricTreatment,coated,hasSleeveType,short,1
+hasMaterialType,acetate,hasSleeveType,short,1
+hasOpeningType,hook and eye,hasSleeveType,short,1
+hasLength,long,hasSleeveType,short,1
+hasMaterialType,acetate,hasNeckline,straight,1
+hasOpeningType,hook and eye,hasNeckline,straight,1
+hasLength,long,hasNeckline,straight,1
+hasSilhouette,aviator,hasNeckline,straight,1
+hasMaterialType,acetate,hasLength,long,1
+hasOpeningType,hook and eye,hasLength,long,1
+hasSleeveType,short,hasLength,long,1
+hasNeckline,straight,hasLength,long,1
+hasMaterialType,acetate,hasSilhouette,aviator,1
+hasOpeningType,hook and eye,hasSilhouette,aviator,1
+hasNeckline,straight,hasSilhouette,aviator,1
+hasMaterialType,acetate,hasNickname,sunglasses,1
+hasOpeningType,hook and eye,hasNickname,sunglasses,1
+hasMaterialType,acetate,belongsToCategory,head,1
+hasOpeningType,hook and eye,belongsToCategory,head,1
+hasMaterialType,acetate,depicts,glasses,1
+hasOpeningType,hook and eye,depicts,glasses,1
+hasLength,sunglasses,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasLength,sunglasses,1
+hasSilhouette,rectangular,hasLength,sunglasses,1
+belongsToCategory,head,hasLength,sunglasses,1
+depicts,glasses,hasLength,sunglasses,1
+hasLength,sunglasses,hasSilhouette,rectangular,1
+hasLength,sunglasses,belongsToCategory,head,1
+hasLength,sunglasses,depicts,glasses,1
+hasFabricTreatment,coated,hasPattern,gradient,1
+hasSleeveType,sleeveless,hasPattern,gradient,1
+hasLength,short,hasPattern,gradient,1
+hasSilhouette,round,hasPattern,gradient,1
+hasPattern,gradient,hasFabricTreatment,coated,1
+hasPattern,gradient,hasSleeveType,sleeveless,1
+hasPattern,gradient,hasLength,short,1
+hasPattern,gradient,hasSilhouette,round,1
+hasLength,variable,hasFabricTreatment,coated,1
+hasLength,variable,hasMaterialType,plastic,1
+hasFabricTreatment,coated,hasLength,variable,1
+hasMaterialType,plastic,hasLength,variable,1
+hasSilhouette,round,hasLength,variable,1
+hasNickname,sunglasses,hasLength,variable,1
+belongsToCategory,head,hasLength,variable,1
+depicts,glasses,hasLength,variable,1
+hasLength,variable,hasSilhouette,round,1
+hasLength,variable,hasNickname,sunglasses,1
+hasLength,variable,belongsToCategory,head,1
+hasLength,variable,depicts,glasses,1
+hasSilhouette,rectangular,hasPattern,striped,1
+hasPattern,striped,hasSilhouette,rectangular,1
+hasSleeveType,short,hasPattern,striped,1
+hasPattern,striped,hasSleeveType,short,1
+hasSilhouette,round,hasSleeveType,short,1
+hasSleeveType,short,hasSilhouette,round,1
+hasOpeningType,unbuttoned,hasMaterialType,synthetic,1
+hasSleeveType,sleeveless,hasMaterialType,synthetic,1
+hasNeckline,round neck,hasMaterialType,synthetic,1
+hasLength,full length,hasMaterialType,synthetic,1
+hasSilhouette,oval,hasMaterialType,synthetic,1
+hasNickname,sunglasses,hasMaterialType,synthetic,1
+belongsToCategory,head,hasMaterialType,synthetic,1
+depicts,glasses,hasMaterialType,synthetic,1
+hasMaterialType,synthetic,hasOpeningType,unbuttoned,1
+hasSleeveType,sleeveless,hasOpeningType,unbuttoned,1
+hasNeckline,round neck,hasOpeningType,unbuttoned,1
+hasLength,full length,hasOpeningType,unbuttoned,1
+hasSilhouette,oval,hasOpeningType,unbuttoned,1
+hasNickname,sunglasses,hasOpeningType,unbuttoned,1
+belongsToCategory,head,hasOpeningType,unbuttoned,1
+depicts,glasses,hasOpeningType,unbuttoned,1
+hasMaterialType,synthetic,hasSleeveType,sleeveless,1
+hasOpeningType,unbuttoned,hasSleeveType,sleeveless,1
+hasNeckline,round neck,hasSleeveType,sleeveless,1
+hasLength,full length,hasSleeveType,sleeveless,1
+hasMaterialType,synthetic,hasNeckline,round neck,1
+hasOpeningType,unbuttoned,hasNeckline,round neck,1
+hasSleeveType,sleeveless,hasNeckline,round neck,1
+hasLength,full length,hasNeckline,round neck,1
+hasSilhouette,oval,hasNeckline,round neck,1
+hasNickname,sunglasses,hasNeckline,round neck,1
+belongsToCategory,head,hasNeckline,round neck,1
+depicts,glasses,hasNeckline,round neck,1
+hasMaterialType,synthetic,hasLength,full length,1
+hasOpeningType,unbuttoned,hasLength,full length,1
+hasSleeveType,sleeveless,hasLength,full length,1
+hasNeckline,round neck,hasLength,full length,1
+hasSilhouette,oval,hasLength,full length,1
+hasMaterialType,synthetic,hasSilhouette,oval,1
+hasOpeningType,unbuttoned,hasSilhouette,oval,1
+hasNeckline,round neck,hasSilhouette,oval,1
+hasLength,full length,hasSilhouette,oval,1
+hasMaterialType,synthetic,hasNickname,sunglasses,1
+hasOpeningType,unbuttoned,hasNickname,sunglasses,1
+hasNeckline,round neck,hasNickname,sunglasses,1
+hasMaterialType,synthetic,belongsToCategory,head,1
+hasOpeningType,unbuttoned,belongsToCategory,head,1
+hasNeckline,round neck,belongsToCategory,head,1
+hasMaterialType,synthetic,depicts,glasses,1
+hasOpeningType,unbuttoned,depicts,glasses,1
+hasNeckline,round neck,depicts,glasses,1
+depicts,glasses,hasMaterialType,metal,1
+hasMaterialType,metal,depicts,glasses,1
+hasOpeningType,button,hasPattern,striped,1
+hasOpeningType,button,hasMaterialType,plastic,1
+hasPattern,striped,hasOpeningType,button,1
+hasMaterialType,plastic,hasOpeningType,button,1
+hasSleeveType,sleeveless,hasOpeningType,button,1
+hasNeckline,straight,hasOpeningType,button,1
+hasLength,short,hasOpeningType,button,1
+hasSilhouette,round,hasOpeningType,button,1
+hasNickname,sunglasses,hasOpeningType,button,1
+belongsToCategory,head,hasOpeningType,button,1
+depicts,glasses,hasOpeningType,button,1
+hasOpeningType,button,hasSleeveType,sleeveless,1
+hasOpeningType,button,hasNeckline,straight,1
+hasOpeningType,button,hasLength,short,1
+hasOpeningType,button,hasSilhouette,round,1
+hasOpeningType,button,hasNickname,sunglasses,1
+hasOpeningType,button,belongsToCategory,head,1
+hasOpeningType,button,depicts,glasses,1
+depicts,watch,hasMaterialType,metal,1
+depicts,watch,hasLength,long,1
+depicts,watch,hasSilhouette,oval,1
+depicts,watch,belongsToCategory,head,1
+hasMaterialType,metal,depicts,watch,1
+hasLength,long,depicts,watch,1
+hasSilhouette,oval,depicts,watch,1
+belongsToCategory,head,depicts,watch,1
+hasSleeveType,short-sleeve,hasMaterialType,plastic,1
+hasLength,full length,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasSleeveType,short-sleeve,1
+hasLength,full length,hasSleeveType,short-sleeve,1
+hasSilhouette,rectangular,hasSleeveType,short-sleeve,1
+hasNickname,sunglasses,hasSleeveType,short-sleeve,1
+belongsToCategory,head,hasSleeveType,short-sleeve,1
+depicts,glasses,hasSleeveType,short-sleeve,1
+hasMaterialType,plastic,hasLength,full length,1
+hasSleeveType,short-sleeve,hasLength,full length,1
+hasSilhouette,rectangular,hasLength,full length,1
+hasSleeveType,short-sleeve,hasSilhouette,rectangular,1
+hasLength,full length,hasSilhouette,rectangular,1
+hasSleeveType,short-sleeve,hasNickname,sunglasses,1
+hasSleeveType,short-sleeve,belongsToCategory,head,1
+hasSleeveType,short-sleeve,depicts,glasses,1
+hasPocketType,pocket-less,hasPattern,solid color,1
+hasNeckline,round neckline,hasPattern,solid color,1
+hasLapelType,no-lapel,hasPattern,solid color,1
+hasLength,full-length,hasPattern,solid color,1
+hasSilhouette,aviator,hasPattern,solid color,1
+hasPocketType,pocket-less,hasFabricTreatment,coated,1
+hasNeckline,round neckline,hasFabricTreatment,coated,1
+hasLapelType,no-lapel,hasFabricTreatment,coated,1
+hasLength,full-length,hasFabricTreatment,coated,1
+hasPocketType,pocket-less,hasMaterialType,plastic,1
+hasNeckline,round neckline,hasMaterialType,plastic,1
+hasLapelType,no-lapel,hasMaterialType,plastic,1
+hasLength,full-length,hasMaterialType,plastic,1
+hasPocketType,pocket-less,hasOpeningType,closed opening,1
+hasNeckline,round neckline,hasOpeningType,closed opening,1
+hasLapelType,no-lapel,hasOpeningType,closed opening,1
+hasLength,full-length,hasOpeningType,closed opening,1
+hasSilhouette,aviator,hasOpeningType,closed opening,1
+hasPattern,solid color,hasPocketType,pocket-less,1
+hasFabricTreatment,coated,hasPocketType,pocket-less,1
+hasMaterialType,plastic,hasPocketType,pocket-less,1
+hasOpeningType,closed opening,hasPocketType,pocket-less,1
+hasSleeveType,sleeveless,hasPocketType,pocket-less,1
+hasNeckline,round neckline,hasPocketType,pocket-less,1
+hasLapelType,no-lapel,hasPocketType,pocket-less,1
+hasLength,full-length,hasPocketType,pocket-less,1
+hasSilhouette,aviator,hasPocketType,pocket-less,1
+hasNickname,sunglasses,hasPocketType,pocket-less,1
+belongsToCategory,head,hasPocketType,pocket-less,1
+depicts,glasses,hasPocketType,pocket-less,1
+hasPocketType,pocket-less,hasSleeveType,sleeveless,1
+hasNeckline,round neckline,hasSleeveType,sleeveless,1
+hasLapelType,no-lapel,hasSleeveType,sleeveless,1
+hasLength,full-length,hasSleeveType,sleeveless,1
+hasSilhouette,aviator,hasSleeveType,sleeveless,1
+hasPattern,solid color,hasNeckline,round neckline,1
+hasFabricTreatment,coated,hasNeckline,round neckline,1
+hasMaterialType,plastic,hasNeckline,round neckline,1
+hasOpeningType,closed opening,hasNeckline,round neckline,1
+hasPocketType,pocket-less,hasNeckline,round neckline,1
+hasSleeveType,sleeveless,hasNeckline,round neckline,1
+hasLapelType,no-lapel,hasNeckline,round neckline,1
+hasLength,full-length,hasNeckline,round neckline,1
+hasSilhouette,aviator,hasNeckline,round neckline,1
+hasNickname,sunglasses,hasNeckline,round neckline,1
+belongsToCategory,head,hasNeckline,round neckline,1
+depicts,glasses,hasNeckline,round neckline,1
+hasPattern,solid color,hasLapelType,no-lapel,1
+hasFabricTreatment,coated,hasLapelType,no-lapel,1
+hasMaterialType,plastic,hasLapelType,no-lapel,1
+hasOpeningType,closed opening,hasLapelType,no-lapel,1
+hasPocketType,pocket-less,hasLapelType,no-lapel,1
+hasSleeveType,sleeveless,hasLapelType,no-lapel,1
+hasNeckline,round neckline,hasLapelType,no-lapel,1
+hasLength,full-length,hasLapelType,no-lapel,1
+hasSilhouette,aviator,hasLapelType,no-lapel,1
+hasNickname,sunglasses,hasLapelType,no-lapel,1
+belongsToCategory,head,hasLapelType,no-lapel,1
+depicts,glasses,hasLapelType,no-lapel,1
+hasPattern,solid color,hasLength,full-length,1
+hasFabricTreatment,coated,hasLength,full-length,1
+hasMaterialType,plastic,hasLength,full-length,1
+hasOpeningType,closed opening,hasLength,full-length,1
+hasPocketType,pocket-less,hasLength,full-length,1
+hasSleeveType,sleeveless,hasLength,full-length,1
+hasNeckline,round neckline,hasLength,full-length,1
+hasLapelType,no-lapel,hasLength,full-length,1
+hasSilhouette,aviator,hasLength,full-length,1
+hasNickname,sunglasses,hasLength,full-length,1
+belongsToCategory,head,hasLength,full-length,1
+depicts,glasses,hasLength,full-length,1
+hasPattern,solid color,hasSilhouette,aviator,1
+hasOpeningType,closed opening,hasSilhouette,aviator,1
+hasPocketType,pocket-less,hasSilhouette,aviator,1
+hasSleeveType,sleeveless,hasSilhouette,aviator,1
+hasNeckline,round neckline,hasSilhouette,aviator,1
+hasLapelType,no-lapel,hasSilhouette,aviator,1
+hasLength,full-length,hasSilhouette,aviator,1
+hasPocketType,pocket-less,hasNickname,sunglasses,1
+hasNeckline,round neckline,hasNickname,sunglasses,1
+hasLapelType,no-lapel,hasNickname,sunglasses,1
+hasLength,full-length,hasNickname,sunglasses,1
+hasPocketType,pocket-less,belongsToCategory,head,1
+hasNeckline,round neckline,belongsToCategory,head,1
+hasLapelType,no-lapel,belongsToCategory,head,1
+hasLength,full-length,belongsToCategory,head,1
+hasPocketType,pocket-less,depicts,glasses,1
+hasNeckline,round neckline,depicts,glasses,1
+hasLapelType,no-lapel,depicts,glasses,1
+hasLength,full-length,depicts,glasses,1
+hasFabricTreatment,coated,hasPattern,striped,1
+hasOpeningType,button front,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,coated,1
+hasOpeningType,button front,hasFabricTreatment,coated,1
+hasOpeningType,button front,hasMaterialType,plastic,1
+hasPattern,striped,hasOpeningType,button front,1
+hasFabricTreatment,coated,hasOpeningType,button front,1
+hasMaterialType,plastic,hasOpeningType,button front,1
+hasSleeveType,sleeveless,hasOpeningType,button front,1
+hasNeckline,straight,hasOpeningType,button front,1
+hasLength,short,hasOpeningType,button front,1
+hasSilhouette,round,hasOpeningType,button front,1
+hasNickname,sunglasses,hasOpeningType,button front,1
+belongsToCategory,head,hasOpeningType,button front,1
+depicts,glasses,hasOpeningType,button front,1
+hasOpeningType,button front,hasSleeveType,sleeveless,1
+hasOpeningType,button front,hasNeckline,straight,1
+hasOpeningType,button front,hasLength,short,1
+hasOpeningType,button front,hasSilhouette,round,1
+hasOpeningType,button front,hasNickname,sunglasses,1
+hasOpeningType,button front,belongsToCategory,head,1
+hasOpeningType,button front,depicts,glasses,1
+hasSilhouette,oval,hasLength,full,1
+hasNickname,sunglasses,hasLength,full,1
+belongsToCategory,head,hasLength,full,1
+depicts,glasses,hasLength,full,1
+hasLength,full,hasSilhouette,oval,1
+hasLength,full,hasNickname,sunglasses,1
+hasLength,full,belongsToCategory,head,1
+hasLength,full,depicts,glasses,1

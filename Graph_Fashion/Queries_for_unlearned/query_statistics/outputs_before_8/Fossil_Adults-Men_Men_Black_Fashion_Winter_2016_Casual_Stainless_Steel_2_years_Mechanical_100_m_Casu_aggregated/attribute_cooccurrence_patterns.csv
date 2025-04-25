@@ -1,0 +1,821 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,watch,hasLength,short,35
+hasLength,short,depicts,watch,35
+depicts,watch,belongsToCategory,upperbody,32
+belongsToCategory,upperbody,depicts,watch,32
+depicts,watch,hasSilhouette,round,29
+hasSilhouette,round,depicts,watch,29
+belongsToCategory,upperbody,hasLength,short,28
+hasLength,short,belongsToCategory,upperbody,28
+hasSilhouette,round,hasLength,short,25
+hasLength,short,hasSilhouette,round,25
+depicts,watch,hasNeckline,round,24
+hasNeckline,round,depicts,watch,24
+belongsToCategory,upperbody,hasSilhouette,round,23
+hasSilhouette,round,belongsToCategory,upperbody,23
+hasLength,short,hasNeckline,round,22
+hasNeckline,round,hasLength,short,22
+depicts,watch,hasMaterialType,metal,21
+hasMaterialType,metal,depicts,watch,21
+belongsToCategory,upperbody,hasNeckline,round,20
+hasNeckline,round,belongsToCategory,upperbody,20
+hasMaterialType,metal,hasLength,short,19
+hasLength,short,hasMaterialType,metal,19
+hasLength,short,hasFabricTreatment,polished,18
+depicts,watch,hasFabricTreatment,polished,18
+hasFabricTreatment,polished,hasLength,short,18
+hasFabricTreatment,polished,depicts,watch,18
+belongsToCategory,upperbody,hasMaterialType,metal,15
+hasMaterialType,metal,belongsToCategory,upperbody,15
+hasMaterialType,metal,hasFabricTreatment,polished,15
+hasFabricTreatment,polished,hasMaterialType,metal,15
+hasMaterialType,metal,hasSilhouette,round,13
+hasSilhouette,round,hasMaterialType,metal,13
+depicts,watch,hasSleeveType,short,13
+hasSleeveType,short,depicts,watch,13
+belongsToCategory,upperbody,hasFabricTreatment,polished,12
+hasFabricTreatment,polished,belongsToCategory,upperbody,12
+hasSilhouette,round,hasSleeveType,short,11
+hasSleeveType,short,hasSilhouette,round,11
+hasNeckline,round,hasMaterialType,metal,11
+hasMaterialType,metal,hasNeckline,round,11
+depicts,watch,hasOpeningType,buckle,11
+hasOpeningType,buckle,depicts,watch,11
+hasSilhouette,round,hasFabricTreatment,polished,11
+hasFabricTreatment,polished,hasSilhouette,round,11
+hasNeckline,round,hasFabricTreatment,polished,10
+hasFabricTreatment,polished,hasNeckline,round,10
+hasLength,short,hasOpeningType,buckle,10
+hasSilhouette,round,hasOpeningType,buckle,10
+belongsToCategory,upperbody,hasOpeningType,buckle,10
+hasOpeningType,buckle,hasLength,short,10
+hasOpeningType,buckle,hasSilhouette,round,10
+hasOpeningType,buckle,belongsToCategory,upperbody,10
+depicts,watch,hasOpeningType,button,9
+hasOpeningType,button,depicts,watch,9
+belongsToCategory,upperbody,hasSleeveType,short,9
+hasSleeveType,short,belongsToCategory,upperbody,9
+depicts,watch,hasSilhouette,circular,9
+hasSilhouette,circular,depicts,watch,9
+hasNeckline,round,hasOpeningType,buckle,9
+hasOpeningType,buckle,hasNeckline,round,9
+hasLength,short,hasOpeningType,button,8
+hasOpeningType,button,hasLength,short,8
+hasSilhouette,circular,hasLength,short,8
+hasLength,short,hasSilhouette,circular,8
+hasSilhouette,circular,hasMaterialType,metal,8
+hasMaterialType,metal,hasSilhouette,circular,8
+hasSilhouette,round,hasOpeningType,button,7
+hasLength,short,hasSleeveType,long,7
+depicts,watch,hasSleeveType,long,7
+hasSleeveType,long,hasLength,short,7
+hasOpeningType,button,hasSilhouette,round,7
+hasSleeveType,long,depicts,watch,7
+hasSilhouette,circular,hasFabricTreatment,polished,7
+hasFabricTreatment,polished,hasSilhouette,circular,7
+belongsToCategory,upperbody,hasSilhouette,circular,7
+hasSilhouette,circular,belongsToCategory,upperbody,7
+hasNeckline,round,hasOpeningType,button,7
+hasOpeningType,button,hasNeckline,round,7
+hasMaterialType,metal,hasOpeningType,button,6
+belongsToCategory,upperbody,hasOpeningType,button,6
+hasOpeningType,button,hasMaterialType,metal,6
+hasOpeningType,button,belongsToCategory,upperbody,6
+hasNeckline,round,hasSleeveType,long,6
+hasSleeveType,long,hasNeckline,round,6
+hasSleeveType,short,hasMaterialType,metal,6
+hasMaterialType,metal,hasSleeveType,short,6
+hasNeckline,round,hasSleeveType,short,6
+hasSleeveType,short,hasNeckline,round,6
+hasMaterialType,leather,depicts,watch,6
+hasMaterialType,leather,belongsToCategory,upperbody,6
+hasMaterialType,leather,hasLength,short,6
+hasMaterialType,leather,hasNeckline,round,6
+depicts,watch,hasMaterialType,leather,6
+belongsToCategory,upperbody,hasMaterialType,leather,6
+hasLength,short,hasMaterialType,leather,6
+hasNeckline,round,hasMaterialType,leather,6
+hasSilhouette,round,hasSleeveType,long,5
+belongsToCategory,upperbody,hasSleeveType,long,5
+hasSleeveType,long,hasSilhouette,round,5
+hasSleeveType,long,belongsToCategory,upperbody,5
+hasSilhouette,round,hasMaterialType,fabric,5
+belongsToCategory,upperbody,hasMaterialType,fabric,5
+depicts,watch,hasMaterialType,fabric,5
+hasMaterialType,fabric,hasSilhouette,round,5
+hasMaterialType,fabric,belongsToCategory,upperbody,5
+hasMaterialType,fabric,depicts,watch,5
+hasOpeningType,buckle,hasMaterialType,metal,5
+hasMaterialType,metal,hasOpeningType,buckle,5
+hasOpeningType,button,hasFabricTreatment,polished,5
+hasFabricTreatment,polished,hasOpeningType,button,5
+hasSilhouette,round,hasMaterialType,leather,5
+hasMaterialType,leather,hasSilhouette,round,5
+depicts,watch,hasMaterialType,stainless steel,4
+hasMaterialType,metal,hasSleeveType,long,4
+hasSleeveType,long,hasMaterialType,metal,4
+hasMaterialType,stainless steel,depicts,watch,4
+hasSilhouette,circular,hasNeckline,round,4
+hasNeckline,round,hasSilhouette,circular,4
+hasLength,short,hasMaterialType,fabric,4
+hasMaterialType,fabric,hasLength,short,4
+hasOpeningType,buckle,hasFabricTreatment,polished,4
+hasFabricTreatment,polished,hasOpeningType,buckle,4
+hasFabricTreatment,smooth,depicts,watch,4
+hasFabricTreatment,smooth,belongsToCategory,upperbody,4
+hasFabricTreatment,smooth,hasLength,short,4
+hasFabricTreatment,smooth,hasNeckline,round,4
+hasFabricTreatment,smooth,hasMaterialType,leather,4
+depicts,watch,hasFabricTreatment,smooth,4
+belongsToCategory,upperbody,hasFabricTreatment,smooth,4
+hasLength,short,hasFabricTreatment,smooth,4
+hasNeckline,round,hasFabricTreatment,smooth,4
+hasMaterialType,leather,hasFabricTreatment,smooth,4
+hasLength,short,hasMaterialType,stainless steel,3
+hasSleeveType,long,hasOpeningType,button,3
+hasOpeningType,button,hasSleeveType,long,3
+hasMaterialType,stainless steel,hasLength,short,3
+hasLength,long,hasSleeveType,short,3
+hasSleeveType,short,hasLength,long,3
+hasSilhouette,round,hasLength,long,3
+belongsToCategory,upperbody,hasLength,long,3
+depicts,watch,hasLength,long,3
+hasLength,long,hasSilhouette,round,3
+hasLength,long,belongsToCategory,upperbody,3
+hasLength,long,depicts,watch,3
+belongsToCategory,head,hasFabricTreatment,polished,3
+belongsToCategory,head,hasLength,short,3
+hasFabricTreatment,polished,belongsToCategory,head,3
+hasLength,short,belongsToCategory,head,3
+depicts,watch,belongsToCategory,head,3
+belongsToCategory,head,depicts,watch,3
+belongsToCategory,headwear,hasMaterialType,metal,3
+belongsToCategory,headwear,hasLength,short,3
+hasMaterialType,metal,belongsToCategory,headwear,3
+hasLength,short,belongsToCategory,headwear,3
+depicts,watch,belongsToCategory,headwear,3
+belongsToCategory,headwear,depicts,watch,3
+hasSleeveType,short,hasMaterialType,fabric,3
+hasMaterialType,fabric,hasSleeveType,short,3
+hasLength,short,hasPattern,solid color,3
+belongsToCategory,upperbody,hasPattern,solid color,3
+depicts,watch,hasPattern,solid color,3
+hasPattern,solid color,hasLength,short,3
+hasPattern,solid color,belongsToCategory,upperbody,3
+hasPattern,solid color,depicts,watch,3
+hasSleeveType,short,hasFabricTreatment,polished,3
+hasFabricTreatment,polished,hasSleeveType,short,3
+hasSilhouette,round,hasFabricTreatment,smooth,3
+hasFabricTreatment,smooth,hasSilhouette,round,3
+hasNeckline,round,hasMaterialType,fabric,3
+hasSleeveType,long,hasOpeningType,buckle,3
+hasOpeningType,buckle,hasSleeveType,long,3
+hasMaterialType,fabric,hasNeckline,round,3
+hasSleeveType,sleeveless,hasFabricTreatment,polished,3
+hasSleeveType,sleeveless,hasMaterialType,metal,3
+hasFabricTreatment,polished,hasSleeveType,sleeveless,3
+hasMaterialType,metal,hasSleeveType,sleeveless,3
+hasLength,short,hasSleeveType,sleeveless,3
+belongsToCategory,upperbody,hasSleeveType,sleeveless,3
+depicts,watch,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasLength,short,3
+hasSleeveType,sleeveless,belongsToCategory,upperbody,3
+hasSleeveType,sleeveless,depicts,watch,3
+hasSilhouette,round,hasMaterialType,stainless steel,2
+belongsToCategory,upperbody,hasMaterialType,stainless steel,2
+hasMaterialType,stainless steel,hasSilhouette,round,2
+hasMaterialType,stainless steel,belongsToCategory,upperbody,2
+hasSilhouette,round,hasMaterialType,rubber,2
+belongsToCategory,upperbody,hasMaterialType,rubber,2
+depicts,watch,hasMaterialType,rubber,2
+hasMaterialType,rubber,hasSilhouette,round,2
+hasMaterialType,rubber,belongsToCategory,upperbody,2
+hasMaterialType,rubber,depicts,watch,2
+hasSleeveType,long,hasFabricTreatment,polished,2
+belongsToCategory,headwear,hasFabricTreatment,polished,2
+hasFabricTreatment,polished,hasSleeveType,long,2
+hasSilhouette,circular,hasSleeveType,long,2
+belongsToCategory,headwear,hasSleeveType,long,2
+belongsToCategory,headwear,hasNeckline,round,2
+hasSleeveType,long,hasSilhouette,circular,2
+hasFabricTreatment,polished,belongsToCategory,headwear,2
+hasSleeveType,long,belongsToCategory,headwear,2
+hasNeckline,round,belongsToCategory,headwear,2
+hasFabricTreatment,polished,hasPattern,solid color,2
+hasMaterialType,metal,hasPattern,solid color,2
+hasSleeveType,long-sleeve,hasPattern,solid color,2
+hasPattern,solid color,hasFabricTreatment,polished,2
+hasPattern,solid color,hasMaterialType,metal,2
+hasSleeveType,long-sleeve,hasMaterialType,metal,2
+hasPattern,solid color,hasSleeveType,long-sleeve,2
+hasMaterialType,metal,hasSleeveType,long-sleeve,2
+hasLength,short,hasSleeveType,long-sleeve,2
+belongsToCategory,upperbody,hasSleeveType,long-sleeve,2
+depicts,watch,hasSleeveType,long-sleeve,2
+hasSleeveType,long-sleeve,hasLength,short,2
+hasSleeveType,long-sleeve,belongsToCategory,upperbody,2
+hasSleeveType,long-sleeve,depicts,watch,2
+belongsToCategory,headwear,hasSilhouette,round,2
+hasSilhouette,round,belongsToCategory,headwear,2
+belongsToCategory,head,hasMaterialType,metal,2
+hasSleeveType,short,hasOpeningType,button,2
+hasOpeningType,button,hasSleeveType,short,2
+belongsToCategory,head,hasSleeveType,short,2
+belongsToCategory,head,hasSilhouette,round,2
+hasMaterialType,metal,belongsToCategory,head,2
+hasSleeveType,short,belongsToCategory,head,2
+hasSilhouette,round,belongsToCategory,head,2
+hasSilhouette,circular,hasOpeningType,button,2
+hasOpeningType,button,hasSilhouette,circular,2
+hasMaterialType,leather,hasSleeveType,short,2
+hasFabricTreatment,smooth,hasSleeveType,short,2
+hasLeatherType,calfskin,depicts,watch,2
+hasLeatherType,calfskin,belongsToCategory,upperbody,2
+hasLeatherType,calfskin,hasLength,short,2
+hasLeatherType,calfskin,hasNeckline,round,2
+hasSleeveType,short,hasMaterialType,leather,2
+hasLeatherType,calfskin,hasMaterialType,leather,2
+depicts,watch,hasLeatherType,calfskin,2
+belongsToCategory,upperbody,hasLeatherType,calfskin,2
+hasLength,short,hasLeatherType,calfskin,2
+hasNeckline,round,hasLeatherType,calfskin,2
+hasMaterialType,leather,hasLeatherType,calfskin,2
+hasSleeveType,short,hasFabricTreatment,smooth,2
+hasOpeningType,buckle,hasMaterialType,leather,2
+hasMaterialType,leather,hasOpeningType,buckle,2
+hasSleeveType,short,hasOpeningType,buckle,2
+hasOpeningType,buckle,hasSleeveType,short,2
+hasLength,medium,hasSleeveType,short,2
+hasSleeveType,short,hasLength,medium,2
+depicts,watch,hasLength,medium,2
+hasLength,medium,depicts,watch,2
+hasNeckline,round,hasMaterialType,plastic,2
+hasLength,short,hasMaterialType,plastic,2
+hasSilhouette,round,hasMaterialType,plastic,2
+belongsToCategory,upperbody,hasMaterialType,plastic,2
+depicts,watch,hasMaterialType,plastic,2
+hasMaterialType,plastic,hasNeckline,round,2
+hasMaterialType,plastic,hasLength,short,2
+hasMaterialType,plastic,hasSilhouette,round,2
+hasMaterialType,plastic,belongsToCategory,upperbody,2
+hasMaterialType,plastic,depicts,watch,2
+hasMaterialType,fabric,hasFabricTreatment,plain weave,2
+hasNeckline,round,hasFabricTreatment,plain weave,2
+hasSilhouette,round,hasFabricTreatment,plain weave,2
+belongsToCategory,upperbody,hasFabricTreatment,plain weave,2
+depicts,watch,hasFabricTreatment,plain weave,2
+hasFabricTreatment,plain weave,hasMaterialType,fabric,2
+hasFabricTreatment,plain weave,hasNeckline,round,2
+hasFabricTreatment,plain weave,hasSilhouette,round,2
+hasFabricTreatment,plain weave,belongsToCategory,upperbody,2
+hasFabricTreatment,plain weave,depicts,watch,2
+hasSilhouette,circular,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasSilhouette,circular,2
+hasNeckline,round,hasPattern,solid color,2
+hasSilhouette,round,hasPattern,solid color,2
+hasPattern,solid color,hasNeckline,round,2
+hasPattern,solid color,hasSilhouette,round,2
+hasSilhouette,round,hasPattern,striped,2
+belongsToCategory,upperbody,hasPattern,striped,2
+depicts,watch,hasPattern,striped,2
+hasOpeningType,button,hasMaterialType,fabric,2
+hasMaterialType,fabric,hasOpeningType,button,2
+hasPattern,striped,hasSilhouette,round,2
+hasPattern,striped,belongsToCategory,upperbody,2
+hasPattern,striped,depicts,watch,2
+hasNeckline,no neckline,hasFabricTreatment,polished,2
+hasNeckline,no neckline,hasMaterialType,metal,2
+hasFabricTreatment,polished,hasNeckline,no neckline,2
+hasMaterialType,metal,hasNeckline,no neckline,2
+hasLength,short,hasNeckline,no neckline,2
+belongsToCategory,upperbody,hasNeckline,no neckline,2
+depicts,watch,hasNeckline,no neckline,2
+hasNeckline,no neckline,hasLength,short,2
+hasNeckline,no neckline,belongsToCategory,upperbody,2
+hasNeckline,no neckline,depicts,watch,2
+hasOpeningType,button,hasMaterialType,stainless steel,1
+hasSleeveType,long,hasMaterialType,stainless steel,1
+hasMaterialType,metal,hasMaterialType,stainless steel,1
+hasMaterialType,stainless steel,hasOpeningType,button,1
+hasMaterialType,stainless steel,hasSleeveType,long,1
+hasMaterialType,stainless steel,hasMaterialType,metal,1
+hasOpeningType,zipper,hasMaterialType,rubber,1
+hasSleeveType,short,hasMaterialType,rubber,1
+hasLength,long,hasMaterialType,rubber,1
+hasMaterialType,rubber,hasOpeningType,zipper,1
+hasSleeveType,short,hasOpeningType,zipper,1
+hasLength,long,hasOpeningType,zipper,1
+hasSilhouette,round,hasOpeningType,zipper,1
+belongsToCategory,upperbody,hasOpeningType,zipper,1
+depicts,watch,hasOpeningType,zipper,1
+hasMaterialType,rubber,hasSleeveType,short,1
+hasOpeningType,zipper,hasSleeveType,short,1
+hasMaterialType,rubber,hasLength,long,1
+hasOpeningType,zipper,hasLength,long,1
+hasOpeningType,zipper,hasSilhouette,round,1
+hasOpeningType,zipper,belongsToCategory,upperbody,1
+hasOpeningType,zipper,depicts,watch,1
+hasMaterialType,stainless steel,hasFabricTreatment,polished,1
+hasFabricTreatment,polished,hasMaterialType,stainless steel,1
+hasSilhouette,circular,hasMaterialType,stainless steel,1
+belongsToCategory,head,hasMaterialType,stainless steel,1
+hasMaterialType,stainless steel,hasSilhouette,circular,1
+belongsToCategory,head,hasSilhouette,circular,1
+hasMaterialType,stainless steel,belongsToCategory,head,1
+hasSilhouette,circular,belongsToCategory,head,1
+belongsToCategory,headwear,hasSilhouette,circular,1
+hasSilhouette,circular,belongsToCategory,headwear,1
+hasOpeningType,buckle,hasMaterialType,rubber,1
+hasNeckline,round,hasMaterialType,rubber,1
+hasLength,short,hasMaterialType,rubber,1
+hasMaterialType,rubber,hasOpeningType,buckle,1
+hasMaterialType,rubber,hasNeckline,round,1
+hasMaterialType,rubber,hasLength,short,1
+hasSilhouette,square,hasLength,short,1
+hasSilhouette,square,hasMaterialType,stainless steel,1
+hasLength,short,hasSilhouette,square,1
+hasMaterialType,stainless steel,hasSilhouette,square,1
+belongsToCategory,upperbody,hasSilhouette,square,1
+depicts,watch,hasSilhouette,square,1
+hasSilhouette,square,belongsToCategory,upperbody,1
+hasSilhouette,square,depicts,watch,1
+hasSilhouette,circular,hasOpeningType,buckle,1
+hasOpeningType,buckle,hasSilhouette,circular,1
+hasSilhouette,circular,hasPattern,solid color,1
+hasSleeveType,long-sleeve,hasFabricTreatment,polished,1
+hasFabricTreatment,polished,hasSleeveType,long-sleeve,1
+hasSilhouette,circular,hasSleeveType,long-sleeve,1
+hasPattern,solid color,hasSilhouette,circular,1
+hasSleeveType,long-sleeve,hasSilhouette,circular,1
+belongsToCategory,headwear,hasOpeningType,button,1
+hasOpeningType,button,belongsToCategory,headwear,1
+belongsToCategory,head,hasOpeningType,button,1
+belongsToCategory,head,hasNeckline,round,1
+hasOpeningType,button,belongsToCategory,head,1
+hasNeckline,round,belongsToCategory,head,1
+hasSleeveType,short,hasSilhouette,straight,1
+depicts,watch,hasSilhouette,straight,1
+belongsToCategory,upperbody,hasSilhouette,straight,1
+hasWaistline,natural,hasSilhouette,straight,1
+hasLength,short,hasSilhouette,straight,1
+hasNeckline,round,hasSilhouette,straight,1
+hasOpeningType,buttonhole,hasSilhouette,straight,1
+hasMaterialType,leather,hasSilhouette,straight,1
+hasLeatherType,calfskin,hasSilhouette,straight,1
+hasFabricTreatment,smooth,hasSilhouette,straight,1
+hasSilhouette,straight,hasSleeveType,short,1
+hasWaistline,natural,hasSleeveType,short,1
+hasOpeningType,buttonhole,hasSleeveType,short,1
+hasLeatherType,calfskin,hasSleeveType,short,1
+hasSilhouette,straight,depicts,watch,1
+hasWaistline,natural,depicts,watch,1
+hasOpeningType,buttonhole,depicts,watch,1
+hasSilhouette,straight,belongsToCategory,upperbody,1
+hasWaistline,natural,belongsToCategory,upperbody,1
+hasOpeningType,buttonhole,belongsToCategory,upperbody,1
+hasSilhouette,straight,hasWaistline,natural,1
+hasSleeveType,short,hasWaistline,natural,1
+depicts,watch,hasWaistline,natural,1
+belongsToCategory,upperbody,hasWaistline,natural,1
+hasLength,short,hasWaistline,natural,1
+hasNeckline,round,hasWaistline,natural,1
+hasOpeningType,buttonhole,hasWaistline,natural,1
+hasMaterialType,leather,hasWaistline,natural,1
+hasLeatherType,calfskin,hasWaistline,natural,1
+hasFabricTreatment,smooth,hasWaistline,natural,1
+hasSilhouette,straight,hasLength,short,1
+hasWaistline,natural,hasLength,short,1
+hasOpeningType,buttonhole,hasLength,short,1
+hasSilhouette,straight,hasNeckline,round,1
+hasWaistline,natural,hasNeckline,round,1
+hasOpeningType,buttonhole,hasNeckline,round,1
+hasSilhouette,straight,hasOpeningType,buttonhole,1
+hasSleeveType,short,hasOpeningType,buttonhole,1
+depicts,watch,hasOpeningType,buttonhole,1
+belongsToCategory,upperbody,hasOpeningType,buttonhole,1
+hasWaistline,natural,hasOpeningType,buttonhole,1
+hasLength,short,hasOpeningType,buttonhole,1
+hasNeckline,round,hasOpeningType,buttonhole,1
+hasMaterialType,leather,hasOpeningType,buttonhole,1
+hasLeatherType,calfskin,hasOpeningType,buttonhole,1
+hasFabricTreatment,smooth,hasOpeningType,buttonhole,1
+hasSilhouette,straight,hasMaterialType,leather,1
+hasWaistline,natural,hasMaterialType,leather,1
+hasOpeningType,buttonhole,hasMaterialType,leather,1
+hasSilhouette,straight,hasLeatherType,calfskin,1
+hasSleeveType,short,hasLeatherType,calfskin,1
+hasWaistline,natural,hasLeatherType,calfskin,1
+hasOpeningType,buttonhole,hasLeatherType,calfskin,1
+hasFabricTreatment,smooth,hasLeatherType,calfskin,1
+hasSilhouette,straight,hasFabricTreatment,smooth,1
+hasWaistline,natural,hasFabricTreatment,smooth,1
+hasOpeningType,buttonhole,hasFabricTreatment,smooth,1
+hasLeatherType,calfskin,hasFabricTreatment,smooth,1
+hasOpeningType,closed,hasMaterialType,fabric,1
+hasMaterialType,fabric,hasOpeningType,closed,1
+hasSleeveType,short,hasOpeningType,closed,1
+hasLength,short,hasOpeningType,closed,1
+hasSilhouette,round,hasOpeningType,closed,1
+belongsToCategory,upperbody,hasOpeningType,closed,1
+depicts,watch,hasOpeningType,closed,1
+hasOpeningType,closed,hasSleeveType,short,1
+hasOpeningType,closed,hasLength,short,1
+hasOpeningType,closed,hasSilhouette,round,1
+hasOpeningType,closed,belongsToCategory,upperbody,1
+hasOpeningType,closed,depicts,watch,1
+hasOpeningType,buckle,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasOpeningType,buckle,1
+hasLength,medium,hasOpeningType,buckle,1
+hasMaterialType,stainless steel,hasOpeningType,buckle,1
+belongsToCategory,watch,hasOpeningType,buckle,1
+hasMaterialType,stainless steel,hasSleeveType,short,1
+belongsToCategory,watch,hasSleeveType,short,1
+hasOpeningType,buckle,hasLength,medium,1
+hasSilhouette,round,hasLength,medium,1
+hasMaterialType,stainless steel,hasLength,medium,1
+belongsToCategory,watch,hasLength,medium,1
+hasLength,medium,hasSilhouette,round,1
+belongsToCategory,watch,hasSilhouette,round,1
+hasOpeningType,buckle,hasMaterialType,stainless steel,1
+hasSleeveType,short,hasMaterialType,stainless steel,1
+hasLength,medium,hasMaterialType,stainless steel,1
+belongsToCategory,watch,hasMaterialType,stainless steel,1
+hasOpeningType,buckle,belongsToCategory,watch,1
+hasSleeveType,short,belongsToCategory,watch,1
+hasLength,medium,belongsToCategory,watch,1
+hasSilhouette,round,belongsToCategory,watch,1
+hasMaterialType,stainless steel,belongsToCategory,watch,1
+hasOpeningType,buckle,hasFabricTreatment,plain weave,1
+hasSleeveType,long,hasFabricTreatment,plain weave,1
+hasLength,short,hasFabricTreatment,plain weave,1
+hasOpeningType,buckle,hasMaterialType,fabric,1
+hasSleeveType,long,hasMaterialType,fabric,1
+hasFabricTreatment,plain weave,hasOpeningType,buckle,1
+hasMaterialType,fabric,hasOpeningType,buckle,1
+hasFabricTreatment,plain weave,hasSleeveType,long,1
+hasMaterialType,fabric,hasSleeveType,long,1
+hasFabricTreatment,plain weave,hasLength,short,1
+hasPocketType,no pocket,hasFabricTreatment,polished,1
+hasNeckline,round neckline,hasFabricTreatment,polished,1
+hasPocketType,no pocket,hasMaterialType,metal,1
+hasNeckline,round neckline,hasMaterialType,metal,1
+hasPocketType,no pocket,hasOpeningType,button,1
+hasSleeveType,sleeveless,hasOpeningType,button,1
+hasNeckline,round neckline,hasOpeningType,button,1
+hasFabricTreatment,polished,hasPocketType,no pocket,1
+hasMaterialType,metal,hasPocketType,no pocket,1
+hasOpeningType,button,hasPocketType,no pocket,1
+hasSleeveType,sleeveless,hasPocketType,no pocket,1
+hasNeckline,round neckline,hasPocketType,no pocket,1
+hasLength,short,hasPocketType,no pocket,1
+hasSilhouette,circular,hasPocketType,no pocket,1
+belongsToCategory,upperbody,hasPocketType,no pocket,1
+depicts,watch,hasPocketType,no pocket,1
+hasOpeningType,button,hasSleeveType,sleeveless,1
+hasPocketType,no pocket,hasSleeveType,sleeveless,1
+hasNeckline,round neckline,hasSleeveType,sleeveless,1
+hasFabricTreatment,polished,hasNeckline,round neckline,1
+hasMaterialType,metal,hasNeckline,round neckline,1
+hasOpeningType,button,hasNeckline,round neckline,1
+hasPocketType,no pocket,hasNeckline,round neckline,1
+hasSleeveType,sleeveless,hasNeckline,round neckline,1
+hasLength,short,hasNeckline,round neckline,1
+hasSilhouette,circular,hasNeckline,round neckline,1
+belongsToCategory,upperbody,hasNeckline,round neckline,1
+depicts,watch,hasNeckline,round neckline,1
+hasPocketType,no pocket,hasLength,short,1
+hasNeckline,round neckline,hasLength,short,1
+hasPocketType,no pocket,hasSilhouette,circular,1
+hasNeckline,round neckline,hasSilhouette,circular,1
+hasPocketType,no pocket,belongsToCategory,upperbody,1
+hasNeckline,round neckline,belongsToCategory,upperbody,1
+hasPocketType,no pocket,depicts,watch,1
+hasNeckline,round neckline,depicts,watch,1
+hasLeatherType,calfskin,hasFabricTreatment,polished,1
+hasMaterialType,leather,hasFabricTreatment,polished,1
+hasFabricTreatment,polished,hasLeatherType,calfskin,1
+hasOpeningType,button,hasLeatherType,calfskin,1
+hasSilhouette,round,hasLeatherType,calfskin,1
+hasFabricTreatment,polished,hasMaterialType,leather,1
+hasOpeningType,button,hasMaterialType,leather,1
+hasLeatherType,calfskin,hasOpeningType,button,1
+hasMaterialType,leather,hasOpeningType,button,1
+hasLeatherType,calfskin,hasSilhouette,round,1
+hasLeatherType,full-grain leather,hasFabricTreatment,treated with a water-repellent coating,1
+hasMaterialType,leather,hasFabricTreatment,treated with a water-repellent coating,1
+hasOpeningType,buckle,hasFabricTreatment,treated with a water-repellent coating,1
+hasSleeveType,long,hasFabricTreatment,treated with a water-repellent coating,1
+hasNeckline,round,hasFabricTreatment,treated with a water-repellent coating,1
+hasLength,short,hasFabricTreatment,treated with a water-repellent coating,1
+hasSilhouette,round,hasFabricTreatment,treated with a water-repellent coating,1
+belongsToCategory,upperbody,hasFabricTreatment,treated with a water-repellent coating,1
+depicts,watch,hasFabricTreatment,treated with a water-repellent coating,1
+hasFabricTreatment,treated with a water-repellent coating,hasLeatherType,full-grain leather,1
+hasMaterialType,leather,hasLeatherType,full-grain leather,1
+hasOpeningType,buckle,hasLeatherType,full-grain leather,1
+hasSleeveType,long,hasLeatherType,full-grain leather,1
+hasNeckline,round,hasLeatherType,full-grain leather,1
+hasLength,short,hasLeatherType,full-grain leather,1
+hasSilhouette,round,hasLeatherType,full-grain leather,1
+belongsToCategory,upperbody,hasLeatherType,full-grain leather,1
+depicts,watch,hasLeatherType,full-grain leather,1
+hasFabricTreatment,treated with a water-repellent coating,hasMaterialType,leather,1
+hasLeatherType,full-grain leather,hasMaterialType,leather,1
+hasSleeveType,long,hasMaterialType,leather,1
+hasFabricTreatment,treated with a water-repellent coating,hasOpeningType,buckle,1
+hasLeatherType,full-grain leather,hasOpeningType,buckle,1
+hasFabricTreatment,treated with a water-repellent coating,hasSleeveType,long,1
+hasLeatherType,full-grain leather,hasSleeveType,long,1
+hasMaterialType,leather,hasSleeveType,long,1
+hasFabricTreatment,treated with a water-repellent coating,hasNeckline,round,1
+hasLeatherType,full-grain leather,hasNeckline,round,1
+hasFabricTreatment,treated with a water-repellent coating,hasLength,short,1
+hasLeatherType,full-grain leather,hasLength,short,1
+hasFabricTreatment,treated with a water-repellent coating,hasSilhouette,round,1
+hasLeatherType,full-grain leather,hasSilhouette,round,1
+hasFabricTreatment,treated with a water-repellent coating,belongsToCategory,upperbody,1
+hasLeatherType,full-grain leather,belongsToCategory,upperbody,1
+hasFabricTreatment,treated with a water-repellent coating,depicts,watch,1
+hasLeatherType,full-grain leather,depicts,watch,1
+hasFabricTreatment,polished,hasPattern,geometric,1
+hasMaterialType,metal,hasPattern,geometric,1
+hasSleeveType,sleeveless,hasPattern,geometric,1
+hasNeckline,round-necked,hasPattern,geometric,1
+hasLapelType,lapel-less,hasPattern,geometric,1
+hasLength,short,hasPattern,geometric,1
+hasSilhouette,circular,hasPattern,geometric,1
+belongsToCategory,upperbody,hasPattern,geometric,1
+depicts,watch,hasPattern,geometric,1
+hasPattern,geometric,hasFabricTreatment,polished,1
+hasNeckline,round-necked,hasFabricTreatment,polished,1
+hasLapelType,lapel-less,hasFabricTreatment,polished,1
+hasPattern,geometric,hasMaterialType,metal,1
+hasNeckline,round-necked,hasMaterialType,metal,1
+hasLapelType,lapel-less,hasMaterialType,metal,1
+hasPattern,geometric,hasSleeveType,sleeveless,1
+hasNeckline,round-necked,hasSleeveType,sleeveless,1
+hasLapelType,lapel-less,hasSleeveType,sleeveless,1
+hasPattern,geometric,hasNeckline,round-necked,1
+hasFabricTreatment,polished,hasNeckline,round-necked,1
+hasMaterialType,metal,hasNeckline,round-necked,1
+hasSleeveType,sleeveless,hasNeckline,round-necked,1
+hasLapelType,lapel-less,hasNeckline,round-necked,1
+hasLength,short,hasNeckline,round-necked,1
+hasSilhouette,circular,hasNeckline,round-necked,1
+belongsToCategory,upperbody,hasNeckline,round-necked,1
+depicts,watch,hasNeckline,round-necked,1
+hasPattern,geometric,hasLapelType,lapel-less,1
+hasFabricTreatment,polished,hasLapelType,lapel-less,1
+hasMaterialType,metal,hasLapelType,lapel-less,1
+hasSleeveType,sleeveless,hasLapelType,lapel-less,1
+hasNeckline,round-necked,hasLapelType,lapel-less,1
+hasLength,short,hasLapelType,lapel-less,1
+hasSilhouette,circular,hasLapelType,lapel-less,1
+belongsToCategory,upperbody,hasLapelType,lapel-less,1
+depicts,watch,hasLapelType,lapel-less,1
+hasPattern,geometric,hasLength,short,1
+hasNeckline,round-necked,hasLength,short,1
+hasLapelType,lapel-less,hasLength,short,1
+hasPattern,geometric,hasSilhouette,circular,1
+hasNeckline,round-necked,hasSilhouette,circular,1
+hasLapelType,lapel-less,hasSilhouette,circular,1
+hasPattern,geometric,belongsToCategory,upperbody,1
+hasNeckline,round-necked,belongsToCategory,upperbody,1
+hasLapelType,lapel-less,belongsToCategory,upperbody,1
+hasPattern,geometric,depicts,watch,1
+hasNeckline,round-necked,depicts,watch,1
+hasLapelType,lapel-less,depicts,watch,1
+hasOpeningType,buckle,hasMaterialType,plastic,1
+hasSleeveType,long,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasOpeningType,buckle,1
+hasMaterialType,plastic,hasSleeveType,long,1
+hasOpeningType,open,hasMaterialType,metal,1
+hasLength,long,hasMaterialType,metal,1
+hasWaistline,no waist,hasMaterialType,metal,1
+hasMaterialType,metal,hasOpeningType,open,1
+hasSleeveType,short,hasOpeningType,open,1
+hasLength,long,hasOpeningType,open,1
+hasWaistline,no waist,hasOpeningType,open,1
+hasSilhouette,round,hasOpeningType,open,1
+belongsToCategory,upperbody,hasOpeningType,open,1
+depicts,watch,hasOpeningType,open,1
+hasOpeningType,open,hasSleeveType,short,1
+hasWaistline,no waist,hasSleeveType,short,1
+hasMaterialType,metal,hasLength,long,1
+hasOpeningType,open,hasLength,long,1
+hasWaistline,no waist,hasLength,long,1
+hasMaterialType,metal,hasWaistline,no waist,1
+hasOpeningType,open,hasWaistline,no waist,1
+hasSleeveType,short,hasWaistline,no waist,1
+hasLength,long,hasWaistline,no waist,1
+hasSilhouette,round,hasWaistline,no waist,1
+belongsToCategory,upperbody,hasWaistline,no waist,1
+depicts,watch,hasWaistline,no waist,1
+hasOpeningType,open,hasSilhouette,round,1
+hasWaistline,no waist,hasSilhouette,round,1
+hasOpeningType,open,belongsToCategory,upperbody,1
+hasWaistline,no waist,belongsToCategory,upperbody,1
+hasOpeningType,open,depicts,watch,1
+hasWaistline,no waist,depicts,watch,1
+hasOpeningType,buckle,hasPattern,solid color,1
+hasPattern,solid color,hasOpeningType,buckle,1
+hasSleeveType,long-sleeve,hasOpeningType,buckle,1
+hasOpeningType,buckle,hasSleeveType,long-sleeve,1
+hasNeckline,round,hasSleeveType,long-sleeve,1
+hasSilhouette,round,hasSleeveType,long-sleeve,1
+hasSleeveType,long-sleeve,hasNeckline,round,1
+hasSleeveType,long-sleeve,hasSilhouette,round,1
+hasOpeningType,round,hasFabricTreatment,coated,1
+hasSleeveType,short,hasFabricTreatment,coated,1
+hasLength,short,hasFabricTreatment,coated,1
+hasMaterialType,metal,hasFabricTreatment,coated,1
+hasSilhouette,round,hasFabricTreatment,coated,1
+belongsToCategory,headwear,hasFabricTreatment,coated,1
+depicts,watch,hasFabricTreatment,coated,1
+hasFabricTreatment,coated,hasOpeningType,round,1
+hasSleeveType,short,hasOpeningType,round,1
+hasLength,short,hasOpeningType,round,1
+hasMaterialType,metal,hasOpeningType,round,1
+belongsToCategory,headwear,hasOpeningType,round,1
+depicts,watch,hasOpeningType,round,1
+hasFabricTreatment,coated,hasSleeveType,short,1
+hasOpeningType,round,hasSleeveType,short,1
+belongsToCategory,headwear,hasSleeveType,short,1
+hasFabricTreatment,coated,hasLength,short,1
+hasOpeningType,round,hasLength,short,1
+hasFabricTreatment,coated,hasMaterialType,metal,1
+hasOpeningType,round,hasMaterialType,metal,1
+hasFabricTreatment,coated,hasSilhouette,round,1
+hasFabricTreatment,coated,belongsToCategory,headwear,1
+hasOpeningType,round,belongsToCategory,headwear,1
+hasSleeveType,short,belongsToCategory,headwear,1
+hasFabricTreatment,coated,depicts,watch,1
+hasOpeningType,round,depicts,watch,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasMaterialType,fabric,hasPattern,striped,1
+hasOpeningType,button,hasPattern,striped,1
+hasSleeveType,short,hasPattern,striped,1
+hasNeckline,round,hasPattern,striped,1
+hasLength,long,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1
+hasOpeningType,button,hasFabricTreatment,plain weave,1
+hasSleeveType,short,hasFabricTreatment,plain weave,1
+hasLength,long,hasFabricTreatment,plain weave,1
+hasPattern,striped,hasMaterialType,fabric,1
+hasLength,long,hasMaterialType,fabric,1
+hasPattern,striped,hasOpeningType,button,1
+hasFabricTreatment,plain weave,hasOpeningType,button,1
+hasLength,long,hasOpeningType,button,1
+hasPattern,striped,hasSleeveType,short,1
+hasFabricTreatment,plain weave,hasSleeveType,short,1
+hasPattern,striped,hasNeckline,round,1
+hasLength,long,hasNeckline,round,1
+hasPattern,striped,hasLength,long,1
+hasFabricTreatment,plain weave,hasLength,long,1
+hasMaterialType,fabric,hasLength,long,1
+hasOpeningType,button,hasLength,long,1
+hasNeckline,round,hasLength,long,1
+hasNickname,timepiece,hasFabricTreatment,polished,1
+hasNickname,timepiece,hasMaterialType,metal,1
+hasNickname,timepiece,hasOpeningType,buckle,1
+hasNickname,timepiece,hasNeckline,round,1
+hasNickname,timepiece,hasLength,short,1
+hasNickname,timepiece,hasSilhouette,round,1
+hasFabricTreatment,polished,hasNickname,timepiece,1
+hasMaterialType,metal,hasNickname,timepiece,1
+hasOpeningType,buckle,hasNickname,timepiece,1
+hasNeckline,round,hasNickname,timepiece,1
+hasLength,short,hasNickname,timepiece,1
+hasSilhouette,round,hasNickname,timepiece,1
+belongsToCategory,upperbody,hasNickname,timepiece,1
+depicts,watch,hasNickname,timepiece,1
+hasNickname,timepiece,belongsToCategory,upperbody,1
+hasNickname,timepiece,depicts,watch,1
+hasNeckline,circular,hasFabricTreatment,polished,1
+hasNeckline,circular,hasMaterialType,metal,1
+hasNeckline,circular,hasSleeveType,short,1
+hasFabricTreatment,polished,hasNeckline,circular,1
+hasMaterialType,metal,hasNeckline,circular,1
+hasSleeveType,short,hasNeckline,circular,1
+hasLength,short,hasNeckline,circular,1
+hasSilhouette,round,hasNeckline,circular,1
+belongsToCategory,head,hasNeckline,circular,1
+depicts,watch,hasNeckline,circular,1
+hasNeckline,circular,hasLength,short,1
+hasNeckline,circular,hasSilhouette,round,1
+hasNeckline,circular,belongsToCategory,head,1
+hasNeckline,circular,depicts,watch,1
+hasMaterialType,metal,hasFabricTreatment,stamped,1
+hasOpeningType,button or zipper,hasFabricTreatment,stamped,1
+hasSleeveType,short,hasFabricTreatment,stamped,1
+hasNeckline,round,hasFabricTreatment,stamped,1
+hasLength,medium,hasFabricTreatment,stamped,1
+hasSilhouette,circular,hasFabricTreatment,stamped,1
+belongsToCategory,upperbody,hasFabricTreatment,stamped,1
+depicts,watch,hasFabricTreatment,stamped,1
+hasFabricTreatment,stamped,hasMaterialType,metal,1
+hasOpeningType,button or zipper,hasMaterialType,metal,1
+hasLength,medium,hasMaterialType,metal,1
+hasFabricTreatment,stamped,hasOpeningType,button or zipper,1
+hasMaterialType,metal,hasOpeningType,button or zipper,1
+hasSleeveType,short,hasOpeningType,button or zipper,1
+hasNeckline,round,hasOpeningType,button or zipper,1
+hasLength,medium,hasOpeningType,button or zipper,1
+hasSilhouette,circular,hasOpeningType,button or zipper,1
+belongsToCategory,upperbody,hasOpeningType,button or zipper,1
+depicts,watch,hasOpeningType,button or zipper,1
+hasFabricTreatment,stamped,hasSleeveType,short,1
+hasOpeningType,button or zipper,hasSleeveType,short,1
+hasSilhouette,circular,hasSleeveType,short,1
+hasFabricTreatment,stamped,hasNeckline,round,1
+hasOpeningType,button or zipper,hasNeckline,round,1
+hasLength,medium,hasNeckline,round,1
+hasFabricTreatment,stamped,hasLength,medium,1
+hasMaterialType,metal,hasLength,medium,1
+hasOpeningType,button or zipper,hasLength,medium,1
+hasNeckline,round,hasLength,medium,1
+hasSilhouette,circular,hasLength,medium,1
+belongsToCategory,upperbody,hasLength,medium,1
+hasFabricTreatment,stamped,hasSilhouette,circular,1
+hasOpeningType,button or zipper,hasSilhouette,circular,1
+hasSleeveType,short,hasSilhouette,circular,1
+hasLength,medium,hasSilhouette,circular,1
+hasFabricTreatment,stamped,belongsToCategory,upperbody,1
+hasOpeningType,button or zipper,belongsToCategory,upperbody,1
+hasLength,medium,belongsToCategory,upperbody,1
+hasFabricTreatment,stamped,depicts,watch,1
+hasOpeningType,button or zipper,depicts,watch,1
+hasOpeningType,closed opening,hasFabricTreatment,polished,1
+hasOpeningType,closed opening,hasMaterialType,metal,1
+hasFabricTreatment,polished,hasOpeningType,closed opening,1
+hasMaterialType,metal,hasOpeningType,closed opening,1
+hasSleeveType,sleeveless,hasOpeningType,closed opening,1
+hasNeckline,no neckline,hasOpeningType,closed opening,1
+hasLength,short,hasOpeningType,closed opening,1
+hasSilhouette,round,hasOpeningType,closed opening,1
+belongsToCategory,upperbody,hasOpeningType,closed opening,1
+depicts,watch,hasOpeningType,closed opening,1
+hasOpeningType,closed opening,hasSleeveType,sleeveless,1
+hasNeckline,no neckline,hasSleeveType,sleeveless,1
+hasSilhouette,round,hasSleeveType,sleeveless,1
+hasOpeningType,closed opening,hasNeckline,no neckline,1
+hasSleeveType,sleeveless,hasNeckline,no neckline,1
+hasSilhouette,round,hasNeckline,no neckline,1
+hasOpeningType,closed opening,hasLength,short,1
+hasOpeningType,closed opening,hasSilhouette,round,1
+hasSleeveType,sleeveless,hasSilhouette,round,1
+hasNeckline,no neckline,hasSilhouette,round,1
+hasOpeningType,closed opening,belongsToCategory,upperbody,1
+hasOpeningType,closed opening,depicts,watch,1
+hasSleeveType,short-sleeve,hasFabricTreatment,polished,1
+hasSleeveType,short-sleeve,hasMaterialType,metal,1
+hasFabricTreatment,polished,hasSleeveType,short-sleeve,1
+hasMaterialType,metal,hasSleeveType,short-sleeve,1
+hasNeckline,no neckline,hasSleeveType,short-sleeve,1
+hasLength,short,hasSleeveType,short-sleeve,1
+hasSilhouette,circular,hasSleeveType,short-sleeve,1
+belongsToCategory,upperbody,hasSleeveType,short-sleeve,1
+depicts,watch,hasSleeveType,short-sleeve,1
+hasSleeveType,short-sleeve,hasNeckline,no neckline,1
+hasSilhouette,circular,hasNeckline,no neckline,1
+hasSleeveType,short-sleeve,hasLength,short,1
+hasSleeveType,short-sleeve,hasSilhouette,circular,1
+hasNeckline,no neckline,hasSilhouette,circular,1
+hasSleeveType,short-sleeve,belongsToCategory,upperbody,1
+hasSleeveType,short-sleeve,depicts,watch,1
+hasNickname,wristwatch,hasPattern,solid color,1
+hasNickname,wristwatch,hasFabricTreatment,polished,1
+hasNickname,wristwatch,hasNeckline,round,1
+hasNickname,wristwatch,hasLength,short,1
+hasNickname,wristwatch,hasSilhouette,round,1
+hasPattern,solid color,hasNickname,wristwatch,1
+hasFabricTreatment,polished,hasNickname,wristwatch,1
+hasNeckline,round,hasNickname,wristwatch,1
+hasLength,short,hasNickname,wristwatch,1
+hasSilhouette,round,hasNickname,wristwatch,1
+belongsToCategory,upperbody,hasNickname,wristwatch,1
+depicts,watch,hasNickname,wristwatch,1
+hasNickname,wristwatch,belongsToCategory,upperbody,1
+hasNickname,wristwatch,depicts,watch,1
+hasFabricTreatment,polished,hasPattern,striped,1
+hasMaterialType,metal,hasPattern,striped,1
+hasOpeningType,buckle,hasPattern,striped,1
+hasLength,short,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,polished,1
+hasPattern,striped,hasMaterialType,metal,1
+hasPattern,striped,hasOpeningType,buckle,1
+hasPattern,striped,hasLength,short,1
+belongsToCategory,lowerbody,hasFabricTreatment,polished,1
+belongsToCategory,lowerbody,hasMaterialType,metal,1
+belongsToCategory,lowerbody,hasOpeningType,button,1
+belongsToCategory,lowerbody,hasNeckline,round,1
+belongsToCategory,lowerbody,hasLength,short,1
+belongsToCategory,lowerbody,hasSilhouette,round,1
+hasFabricTreatment,polished,belongsToCategory,lowerbody,1
+hasMaterialType,metal,belongsToCategory,lowerbody,1
+hasOpeningType,button,belongsToCategory,lowerbody,1
+hasNeckline,round,belongsToCategory,lowerbody,1
+hasLength,short,belongsToCategory,lowerbody,1
+hasSilhouette,round,belongsToCategory,lowerbody,1
+depicts,watch,belongsToCategory,lowerbody,1
+belongsToCategory,lowerbody,depicts,watch,1

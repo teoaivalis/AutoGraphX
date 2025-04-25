@@ -1,0 +1,1817 @@
+relation1,attribute1,relation2,attribute2,frequency
+belongsToCategory,upperbody,hasLength,short,27
+hasLength,short,belongsToCategory,upperbody,27
+depicts,shirt,hasLength,short,17
+depicts,shirt,belongsToCategory,upperbody,17
+hasLength,short,depicts,shirt,17
+belongsToCategory,upperbody,depicts,shirt,17
+belongsToCategory,upperbody,hasSleeveType,short,16
+depicts,shirt,hasSleeveType,short,16
+hasSleeveType,short,belongsToCategory,upperbody,16
+hasSleeveType,short,depicts,shirt,16
+hasSleeveType,short,hasMaterialType,cotton,15
+hasLength,short,hasMaterialType,cotton,15
+belongsToCategory,upperbody,hasMaterialType,cotton,15
+depicts,shirt,hasMaterialType,cotton,15
+hasMaterialType,cotton,hasSleeveType,short,15
+hasMaterialType,cotton,hasLength,short,15
+hasMaterialType,cotton,belongsToCategory,upperbody,15
+hasMaterialType,cotton,depicts,shirt,15
+depicts,perfume bottle,hasMaterialType,glass,13
+depicts,perfume bottle,hasLength,short,13
+hasMaterialType,glass,depicts,perfume bottle,13
+hasLength,short,depicts,perfume bottle,13
+hasLength,short,hasMaterialType,glass,12
+hasMaterialType,glass,hasLength,short,12
+depicts,perfume bottle,belongsToCategory,upperbody,12
+belongsToCategory,upperbody,depicts,perfume bottle,12
+hasWaistline,natural,hasSleeveType,short,12
+hasWaistline,natural,hasLength,short,12
+hasSleeveType,short,hasWaistline,natural,12
+hasLength,short,hasWaistline,natural,12
+belongsToCategory,upperbody,hasWaistline,natural,12
+depicts,shirt,hasWaistline,natural,12
+hasWaistline,natural,belongsToCategory,upperbody,12
+hasWaistline,natural,depicts,shirt,12
+hasSilhouette,straight,hasLength,short,12
+hasLength,short,hasSilhouette,straight,12
+belongsToCategory,upperbody,hasSilhouette,straight,12
+hasSilhouette,straight,belongsToCategory,upperbody,12
+hasWaistline,natural,hasMaterialType,cotton,11
+hasMaterialType,cotton,hasWaistline,natural,11
+belongsToCategory,upperbody,hasMaterialType,glass,9
+hasMaterialType,glass,belongsToCategory,upperbody,9
+hasOpeningType,button,hasMaterialType,cotton,8
+hasMaterialType,cotton,hasOpeningType,button,8
+hasSleeveType,short,hasOpeningType,button,8
+hasLength,short,hasOpeningType,button,8
+belongsToCategory,upperbody,hasOpeningType,button,8
+depicts,shirt,hasOpeningType,button,8
+hasOpeningType,button,hasSleeveType,short,8
+hasOpeningType,button,hasLength,short,8
+hasOpeningType,button,belongsToCategory,upperbody,8
+hasOpeningType,button,depicts,shirt,8
+hasSilhouette,straight,hasSleeveType,short,7
+hasSilhouette,straight,hasWaistline,natural,7
+hasSleeveType,short,hasSilhouette,straight,7
+hasWaistline,natural,hasSilhouette,straight,7
+depicts,shirt,hasSilhouette,straight,7
+hasSilhouette,straight,depicts,shirt,7
+hasMaterialType,cotton,hasFabricTreatment,plain weave,6
+hasSleeveType,short,hasFabricTreatment,plain weave,6
+hasLength,short,hasFabricTreatment,plain weave,6
+belongsToCategory,upperbody,hasFabricTreatment,plain weave,6
+depicts,shirt,hasFabricTreatment,plain weave,6
+hasFabricTreatment,plain weave,hasMaterialType,cotton,6
+hasWaistline,natural,hasOpeningType,button,6
+hasFabricTreatment,plain weave,hasSleeveType,short,6
+hasFabricTreatment,plain weave,hasLength,short,6
+hasOpeningType,button,hasWaistline,natural,6
+hasFabricTreatment,plain weave,belongsToCategory,upperbody,6
+hasFabricTreatment,plain weave,depicts,shirt,6
+depicts,perfume bottle,hasSilhouette,straight,6
+hasSilhouette,straight,depicts,perfume bottle,6
+hasSilhouette,straight,hasMaterialType,cotton,6
+hasMaterialType,cotton,hasSilhouette,straight,6
+hasNeckline,classic,hasSleeveType,short,6
+hasSleeveType,short,hasNeckline,classic,6
+hasLength,short,hasNeckline,classic,6
+belongsToCategory,upperbody,hasNeckline,classic,6
+depicts,shirt,hasNeckline,classic,6
+hasNeckline,classic,hasLength,short,6
+hasNeckline,classic,belongsToCategory,upperbody,6
+hasNeckline,classic,depicts,shirt,6
+hasLength,short,hasOpeningType,screw cap,5
+hasOpeningType,screw cap,hasLength,short,5
+hasSilhouette,regular,hasMaterialType,cotton,5
+hasSilhouette,regular,hasSleeveType,short,5
+hasSilhouette,regular,hasLength,short,5
+hasMaterialType,cotton,hasSilhouette,regular,5
+hasSleeveType,short,hasSilhouette,regular,5
+hasLength,short,hasSilhouette,regular,5
+belongsToCategory,upperbody,hasSilhouette,regular,5
+depicts,shirt,hasSilhouette,regular,5
+hasSilhouette,regular,belongsToCategory,upperbody,5
+hasSilhouette,regular,depicts,shirt,5
+hasLength,short,hasPattern,solid color,5
+hasPattern,solid color,hasLength,short,5
+hasNeckline,classic,hasMaterialType,cotton,5
+hasMaterialType,cotton,hasNeckline,classic,5
+belongsToCategory,upperbody,hasOpeningType,screw cap,4
+hasOpeningType,screw cap,belongsToCategory,upperbody,4
+hasMaterialType,cotton,hasPattern,striped,4
+hasSleeveType,short,hasPattern,striped,4
+hasLength,short,hasPattern,striped,4
+belongsToCategory,upperbody,hasPattern,striped,4
+depicts,shirt,hasPattern,striped,4
+hasOpeningType,button,hasFabricTreatment,plain weave,4
+hasWaistline,natural,hasFabricTreatment,plain weave,4
+hasPattern,striped,hasMaterialType,cotton,4
+hasFabricTreatment,plain weave,hasOpeningType,button,4
+hasPattern,striped,hasSleeveType,short,4
+hasPattern,striped,hasLength,short,4
+hasFabricTreatment,plain weave,hasWaistline,natural,4
+hasSilhouette,regular,hasWaistline,natural,4
+hasWaistline,natural,hasSilhouette,regular,4
+hasPattern,striped,belongsToCategory,upperbody,4
+hasPattern,striped,depicts,shirt,4
+hasCollarType,collared,hasMaterialType,cotton,4
+hasCollarType,collared,hasSleeveType,short,4
+hasMaterialType,cotton,hasCollarType,collared,4
+hasSleeveType,short,hasCollarType,collared,4
+hasLength,short,hasCollarType,collared,4
+belongsToCategory,upperbody,hasCollarType,collared,4
+depicts,shirt,hasCollarType,collared,4
+hasCollarType,collared,hasLength,short,4
+hasCollarType,collared,belongsToCategory,upperbody,4
+hasCollarType,collared,depicts,shirt,4
+depicts,perfume bottle,hasPattern,solid color,4
+hasPattern,solid color,depicts,perfume bottle,4
+hasCollarType,pointed,hasLength,short,4
+hasCollarType,pointed,hasSleeveType,short,4
+hasWaistline,natural,hasNeckline,classic,4
+hasSilhouette,straight,hasNeckline,classic,4
+hasLength,short,hasCollarType,pointed,4
+hasSleeveType,short,hasCollarType,pointed,4
+hasWaistline,natural,hasCollarType,pointed,4
+belongsToCategory,upperbody,hasCollarType,pointed,4
+depicts,shirt,hasCollarType,pointed,4
+hasNeckline,classic,hasWaistline,natural,4
+hasCollarType,pointed,hasWaistline,natural,4
+hasNeckline,classic,hasSilhouette,straight,4
+hasCollarType,pointed,belongsToCategory,upperbody,4
+hasCollarType,pointed,depicts,shirt,4
+depicts,nail polish,hasLength,short,3
+hasLength,short,depicts,nail polish,3
+hasOpeningType,screw cap,hasMaterialType,glass,3
+hasMaterialType,glass,hasOpeningType,screw cap,3
+depicts,perfume bottle,hasOpeningType,screw cap,3
+hasOpeningType,screw cap,depicts,perfume bottle,3
+hasOpeningType,button,hasPattern,striped,3
+hasWaistline,natural,hasPattern,striped,3
+hasSilhouette,regular,hasFabricTreatment,plain weave,3
+hasNeckline,spread,hasMaterialType,cotton,3
+hasCollarType,button-down,hasMaterialType,cotton,3
+hasPattern,striped,hasOpeningType,button,3
+hasSilhouette,regular,hasOpeningType,button,3
+hasNeckline,spread,hasSleeveType,short,3
+hasCollarType,button-down,hasSleeveType,short,3
+hasMaterialType,cotton,hasNeckline,spread,3
+hasSleeveType,short,hasNeckline,spread,3
+hasLength,short,hasNeckline,spread,3
+hasWaistline,natural,hasNeckline,spread,3
+belongsToCategory,upperbody,hasNeckline,spread,3
+depicts,shirt,hasNeckline,spread,3
+hasMaterialType,cotton,hasCollarType,button-down,3
+hasSleeveType,short,hasCollarType,button-down,3
+hasLength,short,hasCollarType,button-down,3
+hasWaistline,natural,hasCollarType,button-down,3
+belongsToCategory,upperbody,hasCollarType,button-down,3
+depicts,shirt,hasCollarType,button-down,3
+hasNeckline,spread,hasLength,short,3
+hasCollarType,button-down,hasLength,short,3
+hasPattern,striped,hasWaistline,natural,3
+hasNeckline,spread,hasWaistline,natural,3
+hasCollarType,button-down,hasWaistline,natural,3
+hasFabricTreatment,plain weave,hasSilhouette,regular,3
+hasOpeningType,button,hasSilhouette,regular,3
+hasNeckline,spread,belongsToCategory,upperbody,3
+hasCollarType,button-down,belongsToCategory,upperbody,3
+hasNeckline,spread,depicts,shirt,3
+hasCollarType,button-down,depicts,shirt,3
+belongsToCategory,upperbody,hasNickname,perfume bottle,3
+hasNickname,perfume bottle,belongsToCategory,upperbody,3
+hasNickname,perfume bottle,hasPattern,solid color,3
+belongsToCategory,upperbody,hasPattern,solid color,3
+hasPattern,solid color,hasNickname,perfume bottle,3
+hasPattern,solid color,belongsToCategory,upperbody,3
+belongsToCategory,head,hasMaterialType,glass,3
+hasSilhouette,cylindrical,hasLength,short,3
+belongsToCategory,head,hasLength,short,3
+hasLength,short,hasSilhouette,cylindrical,3
+hasMaterialType,glass,belongsToCategory,head,3
+hasLength,short,belongsToCategory,head,3
+depicts,perfume bottle,belongsToCategory,head,3
+belongsToCategory,head,depicts,perfume bottle,3
+hasSilhouette,straight,hasMaterialType,glass,3
+hasMaterialType,glass,hasSilhouette,straight,3
+hasCollarType,spread-collar,hasMaterialType,cotton,3
+hasSilhouette,fitted,hasMaterialType,cotton,3
+hasCollarType,spread-collar,hasSleeveType,short,3
+hasSilhouette,fitted,hasSleeveType,short,3
+hasMaterialType,cotton,hasCollarType,spread-collar,3
+hasSleeveType,short,hasCollarType,spread-collar,3
+hasLength,short,hasCollarType,spread-collar,3
+belongsToCategory,upperbody,hasCollarType,spread-collar,3
+depicts,shirt,hasCollarType,spread-collar,3
+hasCollarType,spread-collar,hasLength,short,3
+hasSilhouette,fitted,hasLength,short,3
+hasMaterialType,cotton,hasSilhouette,fitted,3
+hasSleeveType,short,hasSilhouette,fitted,3
+hasLength,short,hasSilhouette,fitted,3
+belongsToCategory,upperbody,hasSilhouette,fitted,3
+depicts,shirt,hasSilhouette,fitted,3
+hasCollarType,spread-collar,belongsToCategory,upperbody,3
+hasSilhouette,fitted,belongsToCategory,upperbody,3
+hasCollarType,spread-collar,depicts,shirt,3
+hasSilhouette,fitted,depicts,shirt,3
+hasSilhouette,straight,hasOpeningType,button,3
+hasOpeningType,button,hasSilhouette,straight,3
+hasPattern,plaid,hasLength,short,3
+hasLength,short,hasPattern,plaid,3
+hasMaterialType,cotton,hasPattern,plaid,3
+hasSleeveType,short,hasPattern,plaid,3
+belongsToCategory,upperbody,hasPattern,plaid,3
+depicts,shirt,hasPattern,plaid,3
+hasPattern,plaid,hasMaterialType,cotton,3
+hasCollarType,pointed,hasMaterialType,cotton,3
+hasNeckline,classic,hasOpeningType,button,3
+hasPattern,plaid,hasSleeveType,short,3
+hasOpeningType,button,hasNeckline,classic,3
+hasCollarType,pointed,hasNeckline,classic,3
+hasMaterialType,cotton,hasCollarType,pointed,3
+hasNeckline,classic,hasCollarType,pointed,3
+hasSilhouette,straight,hasCollarType,pointed,3
+hasCollarType,pointed,hasSilhouette,straight,3
+hasPattern,plaid,belongsToCategory,upperbody,3
+hasPattern,plaid,depicts,shirt,3
+hasSilhouette,square,hasLength,short,2
+hasLength,short,hasSilhouette,square,2
+belongsToCategory,upperbody,hasSilhouette,square,2
+hasSilhouette,square,belongsToCategory,upperbody,2
+hasCollarType,button-down,hasPattern,striped,2
+hasCollarType,button-down,hasOpeningType,button,2
+hasCollarType,button-down,hasNeckline,spread,2
+hasPattern,striped,hasCollarType,button-down,2
+hasOpeningType,button,hasCollarType,button-down,2
+hasNeckline,spread,hasCollarType,button-down,2
+hasMaterialType,glass and plastic,hasPattern,solid color,2
+hasPattern,solid color,hasMaterialType,glass and plastic,2
+hasMaterialType,fabric,hasPattern,solid color,2
+hasSleeveType,sleeveless,hasPattern,solid color,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasSilhouette,straight,hasPattern,solid color,2
+hasPattern,solid color,hasMaterialType,fabric,2
+hasSilhouette,straight,hasMaterialType,fabric,2
+depicts,perfume bottle,hasMaterialType,fabric,2
+hasPattern,solid color,hasSleeveType,sleeveless,2
+hasNeckline,round neckline,hasSleeveType,sleeveless,2
+hasLength,short,hasSleeveType,sleeveless,2
+depicts,perfume bottle,hasSleeveType,sleeveless,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasSleeveType,sleeveless,hasNeckline,round neckline,2
+hasLength,short,hasNeckline,round neckline,2
+depicts,perfume bottle,hasNeckline,round neckline,2
+hasSleeveType,sleeveless,hasLength,short,2
+hasNeckline,round neckline,hasLength,short,2
+hasPattern,solid color,hasSilhouette,straight,2
+hasMaterialType,fabric,hasSilhouette,straight,2
+hasMaterialType,fabric,depicts,perfume bottle,2
+hasSleeveType,sleeveless,depicts,perfume bottle,2
+hasNeckline,round neckline,depicts,perfume bottle,2
+hasMaterialType,glass,hasPattern,solid color,2
+hasSilhouette,cylindrical,hasPattern,solid color,2
+hasPattern,solid color,hasMaterialType,glass,2
+hasSilhouette,cylindrical,hasMaterialType,glass,2
+hasPattern,solid color,hasSilhouette,cylindrical,2
+hasMaterialType,glass,hasSilhouette,cylindrical,2
+depicts,perfume bottle,hasSilhouette,cylindrical,2
+hasSilhouette,cylindrical,depicts,perfume bottle,2
+hasCollarType,spread-collar,hasFabricTreatment,plain weave,2
+hasSilhouette,fitted,hasFabricTreatment,plain weave,2
+hasFabricTreatment,plain weave,hasCollarType,spread-collar,2
+hasFabricTreatment,plain weave,hasSilhouette,fitted,2
+hasCollarType,collared,hasNeckline,classic,2
+hasNeckline,classic,hasCollarType,collared,2
+hasOpeningType,screw cap,hasPattern,solid color,2
+depicts,nail polish,hasPattern,solid color,2
+hasOpeningType,screw cap,hasMaterialType,glass and plastic,2
+hasLength,short,hasMaterialType,glass and plastic,2
+hasSilhouette,cylindrical,hasMaterialType,glass and plastic,2
+hasPattern,solid color,hasOpeningType,screw cap,2
+hasMaterialType,glass and plastic,hasOpeningType,screw cap,2
+hasSilhouette,cylindrical,hasOpeningType,screw cap,2
+hasMaterialType,glass and plastic,hasLength,short,2
+hasMaterialType,glass and plastic,hasSilhouette,cylindrical,2
+hasOpeningType,screw cap,hasSilhouette,cylindrical,2
+hasPattern,solid color,depicts,nail polish,2
+belongsToCategory,lowerbody,hasPattern,solid color,2
+depicts,perfume bottle,hasNeckline,round neck,2
+hasPattern,solid color,belongsToCategory,lowerbody,2
+hasNeckline,round neck,depicts,perfume bottle,2
+belongsToCategory,fragrance,hasSilhouette,cylindrical,2
+hasSilhouette,cylindrical,belongsToCategory,fragrance,2
+hasPocketType,chest pocket,hasLength,short,2
+hasFabricTreatment,plain weave,hasPattern,plaid,2
+hasOpeningType,button,hasPattern,plaid,2
+hasNeckline,classic,hasPattern,plaid,2
+hasWaistline,natural,hasPattern,plaid,2
+hasSilhouette,straight,hasPattern,plaid,2
+hasPattern,plaid,hasFabricTreatment,plain weave,2
+hasPocketType,chest pocket,hasFabricTreatment,plain weave,2
+hasNeckline,classic,hasFabricTreatment,plain weave,2
+hasPocketType,chest pocket,hasMaterialType,cotton,2
+hasPattern,plaid,hasOpeningType,button,2
+hasCollarType,pointed,hasOpeningType,button,2
+hasLength,short,hasPocketType,chest pocket,2
+hasFabricTreatment,plain weave,hasPocketType,chest pocket,2
+hasMaterialType,cotton,hasPocketType,chest pocket,2
+hasSleeveType,short,hasPocketType,chest pocket,2
+hasWaistline,natural,hasPocketType,chest pocket,2
+belongsToCategory,upperbody,hasPocketType,chest pocket,2
+depicts,shirt,hasPocketType,chest pocket,2
+hasPocketType,chest pocket,hasSleeveType,short,2
+hasPattern,plaid,hasNeckline,classic,2
+hasFabricTreatment,plain weave,hasNeckline,classic,2
+hasOpeningType,button,hasCollarType,pointed,2
+hasPattern,plaid,hasWaistline,natural,2
+hasPocketType,chest pocket,hasWaistline,natural,2
+hasPattern,plaid,hasSilhouette,straight,2
+hasPocketType,chest pocket,belongsToCategory,upperbody,2
+hasPocketType,chest pocket,depicts,shirt,2
+hasNeckline,classic,hasPattern,striped,2
+hasSilhouette,straight,hasPattern,striped,2
+hasPattern,striped,hasNeckline,classic,2
+hasSilhouette,straight,hasCollarType,button-down,2
+hasPattern,striped,hasSilhouette,straight,2
+hasCollarType,button-down,hasSilhouette,straight,2
+hasNeckline,v-neck,hasMaterialType,cotton,2
+hasNeckline,v-neck,hasOpeningType,button,2
+hasNeckline,v-neck,hasSleeveType,short,2
+hasMaterialType,cotton,hasNeckline,v-neck,2
+hasOpeningType,button,hasNeckline,v-neck,2
+hasSleeveType,short,hasNeckline,v-neck,2
+hasLength,short,hasNeckline,v-neck,2
+hasWaistline,natural,hasNeckline,v-neck,2
+belongsToCategory,upperbody,hasNeckline,v-neck,2
+depicts,shirt,hasNeckline,v-neck,2
+hasNeckline,v-neck,hasLength,short,2
+hasNeckline,v-neck,hasWaistline,natural,2
+hasNeckline,v-neck,belongsToCategory,upperbody,2
+hasNeckline,v-neck,depicts,shirt,2
+hasOpeningType,cap,hasMaterialType,glass,2
+hasMaterialType,glass,hasOpeningType,cap,2
+hasLength,short,hasOpeningType,cap,2
+belongsToCategory,upperbody,hasOpeningType,cap,2
+depicts,perfume bottle,hasOpeningType,cap,2
+hasOpeningType,cap,hasLength,short,2
+hasOpeningType,cap,belongsToCategory,upperbody,2
+hasOpeningType,cap,depicts,perfume bottle,2
+hasMaterialType,cotton,hasFabricTreatment,non-treated,2
+hasOpeningType,button,hasFabricTreatment,non-treated,2
+hasSleeveType,short,hasFabricTreatment,non-treated,2
+hasLength,short,hasFabricTreatment,non-treated,2
+belongsToCategory,upperbody,hasFabricTreatment,non-treated,2
+depicts,shirt,hasFabricTreatment,non-treated,2
+hasFabricTreatment,non-treated,hasMaterialType,cotton,2
+hasFabricTreatment,non-treated,hasOpeningType,button,2
+hasFabricTreatment,non-treated,hasSleeveType,short,2
+hasFabricTreatment,non-treated,hasLength,short,2
+hasFabricTreatment,non-treated,belongsToCategory,upperbody,2
+hasFabricTreatment,non-treated,depicts,shirt,2
+hasSilhouette,straight,hasNeckline,spread,2
+hasWaistline,natural,hasCollarType,spread-collar,2
+hasCollarType,spread-collar,hasWaistline,natural,2
+hasNeckline,spread,hasSilhouette,straight,2
+hasNeckline,crewneck,hasMaterialType,cotton,2
+hasCollarType,collared,hasOpeningType,button,2
+hasSilhouette,fitted,hasOpeningType,button,2
+hasNeckline,crewneck,hasSleeveType,short,2
+hasMaterialType,cotton,hasNeckline,crewneck,2
+hasSleeveType,short,hasNeckline,crewneck,2
+hasLength,short,hasNeckline,crewneck,2
+belongsToCategory,upperbody,hasNeckline,crewneck,2
+depicts,shirt,hasNeckline,crewneck,2
+hasOpeningType,button,hasCollarType,collared,2
+hasSilhouette,fitted,hasCollarType,collared,2
+hasNeckline,crewneck,hasLength,short,2
+hasOpeningType,button,hasSilhouette,fitted,2
+hasCollarType,collared,hasSilhouette,fitted,2
+hasNeckline,crewneck,belongsToCategory,upperbody,2
+hasNeckline,crewneck,depicts,shirt,2
+hasFabricTreatment,plain weave,hasPattern,stripe,2
+hasMaterialType,cotton,hasPattern,stripe,2
+hasSleeveType,short,hasPattern,stripe,2
+hasLength,short,hasPattern,stripe,2
+hasWaistline,natural,hasPattern,stripe,2
+hasSilhouette,regular,hasPattern,stripe,2
+belongsToCategory,upperbody,hasPattern,stripe,2
+depicts,shirt,hasPattern,stripe,2
+hasPattern,stripe,hasFabricTreatment,plain weave,2
+hasPattern,stripe,hasMaterialType,cotton,2
+hasPattern,stripe,hasSleeveType,short,2
+hasPattern,stripe,hasLength,short,2
+hasPattern,stripe,hasWaistline,natural,2
+hasPattern,stripe,hasSilhouette,regular,2
+hasPattern,stripe,belongsToCategory,upperbody,2
+hasPattern,stripe,depicts,shirt,2
+hasLength,short,hasMaterialType,nail polish,1
+hasSilhouette,square,hasMaterialType,nail polish,1
+belongsToCategory,upperbody,hasMaterialType,nail polish,1
+hasMaterialType,nail polish,hasLength,short,1
+hasMaterialType,nail polish,hasSilhouette,square,1
+depicts,nail polish,hasSilhouette,square,1
+hasMaterialType,nail polish,belongsToCategory,upperbody,1
+depicts,nail polish,belongsToCategory,upperbody,1
+hasSilhouette,square,depicts,nail polish,1
+belongsToCategory,upperbody,depicts,nail polish,1
+hasNickname,eau de toilette,hasMaterialType,glass,1
+hasNickname,eau de toilette,hasOpeningType,screw cap,1
+hasNickname,eau de toilette,hasLength,short,1
+hasMaterialType,glass,hasNickname,eau de toilette,1
+hasOpeningType,screw cap,hasNickname,eau de toilette,1
+hasLength,short,hasNickname,eau de toilette,1
+belongsToCategory,upperbody,hasNickname,eau de toilette,1
+depicts,perfume bottle,hasNickname,eau de toilette,1
+hasNickname,eau de toilette,belongsToCategory,upperbody,1
+hasNickname,eau de toilette,depicts,perfume bottle,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasNeckline,spread,hasPattern,striped,1
+hasSilhouette,regular,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1
+hasNeckline,spread,hasFabricTreatment,plain weave,1
+hasCollarType,button-down,hasFabricTreatment,plain weave,1
+hasNeckline,spread,hasOpeningType,button,1
+hasPattern,striped,hasNeckline,spread,1
+hasFabricTreatment,plain weave,hasNeckline,spread,1
+hasOpeningType,button,hasNeckline,spread,1
+hasSilhouette,regular,hasNeckline,spread,1
+hasFabricTreatment,plain weave,hasCollarType,button-down,1
+hasSilhouette,regular,hasCollarType,button-down,1
+hasPattern,striped,hasSilhouette,regular,1
+hasNeckline,spread,hasSilhouette,regular,1
+hasCollarType,button-down,hasSilhouette,regular,1
+hasSilhouette,straight,hasOpeningType,screw cap,1
+hasOpeningType,screw cap,hasSilhouette,straight,1
+hasNeckline,notch,hasMaterialType,cotton,1
+hasNeckline,notch,hasSleeveType,short,1
+hasMaterialType,cotton,hasNeckline,notch,1
+hasSleeveType,short,hasNeckline,notch,1
+hasCollarType,collared,hasNeckline,notch,1
+hasLength,short,hasNeckline,notch,1
+hasWaistline,natural,hasNeckline,notch,1
+hasSilhouette,straight,hasNeckline,notch,1
+belongsToCategory,upperbody,hasNeckline,notch,1
+depicts,shirt,hasNeckline,notch,1
+hasNeckline,notch,hasCollarType,collared,1
+hasWaistline,natural,hasCollarType,collared,1
+hasSilhouette,straight,hasCollarType,collared,1
+hasNeckline,notch,hasLength,short,1
+hasNeckline,notch,hasWaistline,natural,1
+hasCollarType,collared,hasWaistline,natural,1
+hasNeckline,notch,hasSilhouette,straight,1
+hasCollarType,collared,hasSilhouette,straight,1
+hasNeckline,notch,belongsToCategory,upperbody,1
+hasNeckline,notch,depicts,shirt,1
+hasMaterialType,no material type,hasLeatherType,no leather type,1
+hasOpeningType,no opening type,hasLeatherType,no leather type,1
+hasPocketType,no pocket type,hasLeatherType,no leather type,1
+hasSleeveType,no sleeve type,hasLeatherType,no leather type,1
+hasNeckline,no neckline,hasLeatherType,no leather type,1
+hasLapelType,no lapel type,hasLeatherType,no leather type,1
+hasCollarType,no collar type,hasLeatherType,no leather type,1
+hasLength,no length,hasLeatherType,no leather type,1
+hasNickname,perfume bottle,hasLeatherType,no leather type,1
+belongsToCategory,upperbody,hasLeatherType,no leather type,1
+depicts,perfume bottle,hasLeatherType,no leather type,1
+hasLeatherType,no leather type,hasMaterialType,no material type,1
+hasOpeningType,no opening type,hasMaterialType,no material type,1
+hasPocketType,no pocket type,hasMaterialType,no material type,1
+hasSleeveType,no sleeve type,hasMaterialType,no material type,1
+hasNeckline,no neckline,hasMaterialType,no material type,1
+hasLapelType,no lapel type,hasMaterialType,no material type,1
+hasCollarType,no collar type,hasMaterialType,no material type,1
+hasLength,no length,hasMaterialType,no material type,1
+hasNickname,perfume bottle,hasMaterialType,no material type,1
+belongsToCategory,upperbody,hasMaterialType,no material type,1
+depicts,perfume bottle,hasMaterialType,no material type,1
+hasLeatherType,no leather type,hasOpeningType,no opening type,1
+hasMaterialType,no material type,hasOpeningType,no opening type,1
+hasPocketType,no pocket type,hasOpeningType,no opening type,1
+hasSleeveType,no sleeve type,hasOpeningType,no opening type,1
+hasNeckline,no neckline,hasOpeningType,no opening type,1
+hasLapelType,no lapel type,hasOpeningType,no opening type,1
+hasCollarType,no collar type,hasOpeningType,no opening type,1
+hasLength,no length,hasOpeningType,no opening type,1
+hasNickname,perfume bottle,hasOpeningType,no opening type,1
+belongsToCategory,upperbody,hasOpeningType,no opening type,1
+depicts,perfume bottle,hasOpeningType,no opening type,1
+hasLeatherType,no leather type,hasPocketType,no pocket type,1
+hasMaterialType,no material type,hasPocketType,no pocket type,1
+hasOpeningType,no opening type,hasPocketType,no pocket type,1
+hasSleeveType,no sleeve type,hasPocketType,no pocket type,1
+hasNeckline,no neckline,hasPocketType,no pocket type,1
+hasLapelType,no lapel type,hasPocketType,no pocket type,1
+hasCollarType,no collar type,hasPocketType,no pocket type,1
+hasLength,no length,hasPocketType,no pocket type,1
+hasNickname,perfume bottle,hasPocketType,no pocket type,1
+belongsToCategory,upperbody,hasPocketType,no pocket type,1
+depicts,perfume bottle,hasPocketType,no pocket type,1
+hasLeatherType,no leather type,hasSleeveType,no sleeve type,1
+hasMaterialType,no material type,hasSleeveType,no sleeve type,1
+hasOpeningType,no opening type,hasSleeveType,no sleeve type,1
+hasPocketType,no pocket type,hasSleeveType,no sleeve type,1
+hasNeckline,no neckline,hasSleeveType,no sleeve type,1
+hasLapelType,no lapel type,hasSleeveType,no sleeve type,1
+hasCollarType,no collar type,hasSleeveType,no sleeve type,1
+hasLength,no length,hasSleeveType,no sleeve type,1
+hasNickname,perfume bottle,hasSleeveType,no sleeve type,1
+belongsToCategory,upperbody,hasSleeveType,no sleeve type,1
+depicts,perfume bottle,hasSleeveType,no sleeve type,1
+hasLeatherType,no leather type,hasNeckline,no neckline,1
+hasMaterialType,no material type,hasNeckline,no neckline,1
+hasOpeningType,no opening type,hasNeckline,no neckline,1
+hasPocketType,no pocket type,hasNeckline,no neckline,1
+hasSleeveType,no sleeve type,hasNeckline,no neckline,1
+hasLapelType,no lapel type,hasNeckline,no neckline,1
+hasCollarType,no collar type,hasNeckline,no neckline,1
+hasLength,no length,hasNeckline,no neckline,1
+hasNickname,perfume bottle,hasNeckline,no neckline,1
+belongsToCategory,upperbody,hasNeckline,no neckline,1
+depicts,perfume bottle,hasNeckline,no neckline,1
+hasLeatherType,no leather type,hasLapelType,no lapel type,1
+hasMaterialType,no material type,hasLapelType,no lapel type,1
+hasOpeningType,no opening type,hasLapelType,no lapel type,1
+hasPocketType,no pocket type,hasLapelType,no lapel type,1
+hasSleeveType,no sleeve type,hasLapelType,no lapel type,1
+hasNeckline,no neckline,hasLapelType,no lapel type,1
+hasCollarType,no collar type,hasLapelType,no lapel type,1
+hasLength,no length,hasLapelType,no lapel type,1
+hasNickname,perfume bottle,hasLapelType,no lapel type,1
+belongsToCategory,upperbody,hasLapelType,no lapel type,1
+depicts,perfume bottle,hasLapelType,no lapel type,1
+hasLeatherType,no leather type,hasCollarType,no collar type,1
+hasMaterialType,no material type,hasCollarType,no collar type,1
+hasOpeningType,no opening type,hasCollarType,no collar type,1
+hasPocketType,no pocket type,hasCollarType,no collar type,1
+hasSleeveType,no sleeve type,hasCollarType,no collar type,1
+hasNeckline,no neckline,hasCollarType,no collar type,1
+hasLapelType,no lapel type,hasCollarType,no collar type,1
+hasLength,no length,hasCollarType,no collar type,1
+hasNickname,perfume bottle,hasCollarType,no collar type,1
+belongsToCategory,upperbody,hasCollarType,no collar type,1
+depicts,perfume bottle,hasCollarType,no collar type,1
+hasLeatherType,no leather type,hasLength,no length,1
+hasMaterialType,no material type,hasLength,no length,1
+hasOpeningType,no opening type,hasLength,no length,1
+hasPocketType,no pocket type,hasLength,no length,1
+hasSleeveType,no sleeve type,hasLength,no length,1
+hasNeckline,no neckline,hasLength,no length,1
+hasLapelType,no lapel type,hasLength,no length,1
+hasCollarType,no collar type,hasLength,no length,1
+hasNickname,perfume bottle,hasLength,no length,1
+belongsToCategory,upperbody,hasLength,no length,1
+depicts,perfume bottle,hasLength,no length,1
+hasLeatherType,no leather type,hasNickname,perfume bottle,1
+hasMaterialType,no material type,hasNickname,perfume bottle,1
+hasOpeningType,no opening type,hasNickname,perfume bottle,1
+hasPocketType,no pocket type,hasNickname,perfume bottle,1
+hasSleeveType,no sleeve type,hasNickname,perfume bottle,1
+hasNeckline,no neckline,hasNickname,perfume bottle,1
+hasLapelType,no lapel type,hasNickname,perfume bottle,1
+hasCollarType,no collar type,hasNickname,perfume bottle,1
+hasLength,no length,hasNickname,perfume bottle,1
+hasLeatherType,no leather type,belongsToCategory,upperbody,1
+hasMaterialType,no material type,belongsToCategory,upperbody,1
+hasOpeningType,no opening type,belongsToCategory,upperbody,1
+hasPocketType,no pocket type,belongsToCategory,upperbody,1
+hasSleeveType,no sleeve type,belongsToCategory,upperbody,1
+hasNeckline,no neckline,belongsToCategory,upperbody,1
+hasLapelType,no lapel type,belongsToCategory,upperbody,1
+hasCollarType,no collar type,belongsToCategory,upperbody,1
+hasLength,no length,belongsToCategory,upperbody,1
+hasLeatherType,no leather type,depicts,perfume bottle,1
+hasMaterialType,no material type,depicts,perfume bottle,1
+hasOpeningType,no opening type,depicts,perfume bottle,1
+hasPocketType,no pocket type,depicts,perfume bottle,1
+hasSleeveType,no sleeve type,depicts,perfume bottle,1
+hasNeckline,no neckline,depicts,perfume bottle,1
+hasLapelType,no lapel type,depicts,perfume bottle,1
+hasCollarType,no collar type,depicts,perfume bottle,1
+hasLength,no length,depicts,perfume bottle,1
+hasOpeningType,screw cap closure,hasPattern,solid color,1
+hasLength,17-20 inches,hasPattern,solid color,1
+hasSilhouette,long and slender bottle shape,hasPattern,solid color,1
+hasOpeningType,screw cap closure,hasMaterialType,glass and plastic,1
+hasLength,17-20 inches,hasMaterialType,glass and plastic,1
+hasSilhouette,long and slender bottle shape,hasMaterialType,glass and plastic,1
+hasNickname,perfume bottle,hasMaterialType,glass and plastic,1
+belongsToCategory,upperbody,hasMaterialType,glass and plastic,1
+depicts,perfume bottle,hasMaterialType,glass and plastic,1
+hasPattern,solid color,hasOpeningType,screw cap closure,1
+hasMaterialType,glass and plastic,hasOpeningType,screw cap closure,1
+hasLength,17-20 inches,hasOpeningType,screw cap closure,1
+hasSilhouette,long and slender bottle shape,hasOpeningType,screw cap closure,1
+hasNickname,perfume bottle,hasOpeningType,screw cap closure,1
+belongsToCategory,upperbody,hasOpeningType,screw cap closure,1
+depicts,perfume bottle,hasOpeningType,screw cap closure,1
+hasPattern,solid color,hasLength,17-20 inches,1
+hasMaterialType,glass and plastic,hasLength,17-20 inches,1
+hasOpeningType,screw cap closure,hasLength,17-20 inches,1
+hasSilhouette,long and slender bottle shape,hasLength,17-20 inches,1
+hasNickname,perfume bottle,hasLength,17-20 inches,1
+belongsToCategory,upperbody,hasLength,17-20 inches,1
+depicts,perfume bottle,hasLength,17-20 inches,1
+hasPattern,solid color,hasSilhouette,long and slender bottle shape,1
+hasMaterialType,glass and plastic,hasSilhouette,long and slender bottle shape,1
+hasOpeningType,screw cap closure,hasSilhouette,long and slender bottle shape,1
+hasLength,17-20 inches,hasSilhouette,long and slender bottle shape,1
+hasNickname,perfume bottle,hasSilhouette,long and slender bottle shape,1
+belongsToCategory,upperbody,hasSilhouette,long and slender bottle shape,1
+depicts,perfume bottle,hasSilhouette,long and slender bottle shape,1
+hasMaterialType,glass and plastic,hasNickname,perfume bottle,1
+hasOpeningType,screw cap closure,hasNickname,perfume bottle,1
+hasLength,17-20 inches,hasNickname,perfume bottle,1
+hasSilhouette,long and slender bottle shape,hasNickname,perfume bottle,1
+hasMaterialType,glass and plastic,belongsToCategory,upperbody,1
+hasOpeningType,screw cap closure,belongsToCategory,upperbody,1
+hasLength,17-20 inches,belongsToCategory,upperbody,1
+hasSilhouette,long and slender bottle shape,belongsToCategory,upperbody,1
+hasMaterialType,glass and plastic,depicts,perfume bottle,1
+hasOpeningType,screw cap closure,depicts,perfume bottle,1
+hasLength,17-20 inches,depicts,perfume bottle,1
+hasSilhouette,long and slender bottle shape,depicts,perfume bottle,1
+hasFabricTreatment,textured,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,textured,1
+hasMaterialType,fabric,hasFabricTreatment,textured,1
+hasSleeveType,sleeveless,hasFabricTreatment,textured,1
+hasNeckline,round neckline,hasFabricTreatment,textured,1
+hasLength,short,hasFabricTreatment,textured,1
+hasSilhouette,straight,hasFabricTreatment,textured,1
+belongsToCategory,upperbody,hasFabricTreatment,textured,1
+depicts,perfume bottle,hasFabricTreatment,textured,1
+hasFabricTreatment,textured,hasMaterialType,fabric,1
+hasSleeveType,sleeveless,hasMaterialType,fabric,1
+hasNeckline,round neckline,hasMaterialType,fabric,1
+hasLength,short,hasMaterialType,fabric,1
+belongsToCategory,upperbody,hasMaterialType,fabric,1
+hasFabricTreatment,textured,hasSleeveType,sleeveless,1
+hasMaterialType,fabric,hasSleeveType,sleeveless,1
+hasSilhouette,straight,hasSleeveType,sleeveless,1
+belongsToCategory,upperbody,hasSleeveType,sleeveless,1
+hasFabricTreatment,textured,hasNeckline,round neckline,1
+hasMaterialType,fabric,hasNeckline,round neckline,1
+hasSilhouette,straight,hasNeckline,round neckline,1
+belongsToCategory,upperbody,hasNeckline,round neckline,1
+hasFabricTreatment,textured,hasLength,short,1
+hasMaterialType,fabric,hasLength,short,1
+hasFabricTreatment,textured,hasSilhouette,straight,1
+hasSleeveType,sleeveless,hasSilhouette,straight,1
+hasNeckline,round neckline,hasSilhouette,straight,1
+hasFabricTreatment,textured,belongsToCategory,upperbody,1
+hasMaterialType,fabric,belongsToCategory,upperbody,1
+hasSleeveType,sleeveless,belongsToCategory,upperbody,1
+hasNeckline,round neckline,belongsToCategory,upperbody,1
+hasFabricTreatment,textured,depicts,perfume bottle,1
+hasLeatherType,no leather,hasPattern,solid color,1
+hasOpeningType,screw cap opening,hasPattern,solid color,1
+hasNickname,perfume,hasPattern,solid color,1
+belongsToCategory,head,hasPattern,solid color,1
+hasPattern,solid color,hasLeatherType,no leather,1
+hasMaterialType,glass,hasLeatherType,no leather,1
+hasOpeningType,screw cap opening,hasLeatherType,no leather,1
+hasSleeveType,sleeveless,hasLeatherType,no leather,1
+hasNeckline,round neckline,hasLeatherType,no leather,1
+hasLength,short,hasLeatherType,no leather,1
+hasSilhouette,cylindrical,hasLeatherType,no leather,1
+hasNickname,perfume,hasLeatherType,no leather,1
+belongsToCategory,head,hasLeatherType,no leather,1
+depicts,perfume bottle,hasLeatherType,no leather,1
+hasLeatherType,no leather,hasMaterialType,glass,1
+hasOpeningType,screw cap opening,hasMaterialType,glass,1
+hasSleeveType,sleeveless,hasMaterialType,glass,1
+hasNeckline,round neckline,hasMaterialType,glass,1
+hasNickname,perfume,hasMaterialType,glass,1
+hasPattern,solid color,hasOpeningType,screw cap opening,1
+hasLeatherType,no leather,hasOpeningType,screw cap opening,1
+hasMaterialType,glass,hasOpeningType,screw cap opening,1
+hasSleeveType,sleeveless,hasOpeningType,screw cap opening,1
+hasNeckline,round neckline,hasOpeningType,screw cap opening,1
+hasLength,short,hasOpeningType,screw cap opening,1
+hasSilhouette,cylindrical,hasOpeningType,screw cap opening,1
+hasNickname,perfume,hasOpeningType,screw cap opening,1
+belongsToCategory,head,hasOpeningType,screw cap opening,1
+depicts,perfume bottle,hasOpeningType,screw cap opening,1
+hasLeatherType,no leather,hasSleeveType,sleeveless,1
+hasMaterialType,glass,hasSleeveType,sleeveless,1
+hasOpeningType,screw cap opening,hasSleeveType,sleeveless,1
+hasSilhouette,cylindrical,hasSleeveType,sleeveless,1
+hasNickname,perfume,hasSleeveType,sleeveless,1
+belongsToCategory,head,hasSleeveType,sleeveless,1
+hasLeatherType,no leather,hasNeckline,round neckline,1
+hasMaterialType,glass,hasNeckline,round neckline,1
+hasOpeningType,screw cap opening,hasNeckline,round neckline,1
+hasSilhouette,cylindrical,hasNeckline,round neckline,1
+hasNickname,perfume,hasNeckline,round neckline,1
+belongsToCategory,head,hasNeckline,round neckline,1
+hasLeatherType,no leather,hasLength,short,1
+hasOpeningType,screw cap opening,hasLength,short,1
+hasNickname,perfume,hasLength,short,1
+hasLeatherType,no leather,hasSilhouette,cylindrical,1
+hasOpeningType,screw cap opening,hasSilhouette,cylindrical,1
+hasSleeveType,sleeveless,hasSilhouette,cylindrical,1
+hasNeckline,round neckline,hasSilhouette,cylindrical,1
+hasNickname,perfume,hasSilhouette,cylindrical,1
+belongsToCategory,head,hasSilhouette,cylindrical,1
+hasPattern,solid color,hasNickname,perfume,1
+hasLeatherType,no leather,hasNickname,perfume,1
+hasMaterialType,glass,hasNickname,perfume,1
+hasOpeningType,screw cap opening,hasNickname,perfume,1
+hasSleeveType,sleeveless,hasNickname,perfume,1
+hasNeckline,round neckline,hasNickname,perfume,1
+hasLength,short,hasNickname,perfume,1
+hasSilhouette,cylindrical,hasNickname,perfume,1
+belongsToCategory,head,hasNickname,perfume,1
+depicts,perfume bottle,hasNickname,perfume,1
+hasPattern,solid color,belongsToCategory,head,1
+hasLeatherType,no leather,belongsToCategory,head,1
+hasOpeningType,screw cap opening,belongsToCategory,head,1
+hasSleeveType,sleeveless,belongsToCategory,head,1
+hasNeckline,round neckline,belongsToCategory,head,1
+hasSilhouette,cylindrical,belongsToCategory,head,1
+hasNickname,perfume,belongsToCategory,head,1
+hasLeatherType,no leather,depicts,perfume bottle,1
+hasOpeningType,screw cap opening,depicts,perfume bottle,1
+hasNickname,perfume,depicts,perfume bottle,1
+hasOpeningType,button front,hasFabricTreatment,plain weave,1
+hasNeckline,crew neck,hasFabricTreatment,plain weave,1
+hasWaistline,high-waisted,hasFabricTreatment,plain weave,1
+hasOpeningType,button front,hasMaterialType,cotton,1
+hasNeckline,crew neck,hasMaterialType,cotton,1
+hasWaistline,high-waisted,hasMaterialType,cotton,1
+hasFabricTreatment,plain weave,hasOpeningType,button front,1
+hasMaterialType,cotton,hasOpeningType,button front,1
+hasSleeveType,short,hasOpeningType,button front,1
+hasNeckline,crew neck,hasOpeningType,button front,1
+hasCollarType,spread-collar,hasOpeningType,button front,1
+hasLength,short,hasOpeningType,button front,1
+hasWaistline,high-waisted,hasOpeningType,button front,1
+hasSilhouette,fitted,hasOpeningType,button front,1
+belongsToCategory,upperbody,hasOpeningType,button front,1
+depicts,shirt,hasOpeningType,button front,1
+hasOpeningType,button front,hasSleeveType,short,1
+hasNeckline,crew neck,hasSleeveType,short,1
+hasWaistline,high-waisted,hasSleeveType,short,1
+hasFabricTreatment,plain weave,hasNeckline,crew neck,1
+hasMaterialType,cotton,hasNeckline,crew neck,1
+hasOpeningType,button front,hasNeckline,crew neck,1
+hasSleeveType,short,hasNeckline,crew neck,1
+hasCollarType,spread-collar,hasNeckline,crew neck,1
+hasLength,short,hasNeckline,crew neck,1
+hasWaistline,high-waisted,hasNeckline,crew neck,1
+hasSilhouette,fitted,hasNeckline,crew neck,1
+belongsToCategory,upperbody,hasNeckline,crew neck,1
+depicts,shirt,hasNeckline,crew neck,1
+hasOpeningType,button front,hasCollarType,spread-collar,1
+hasNeckline,crew neck,hasCollarType,spread-collar,1
+hasWaistline,high-waisted,hasCollarType,spread-collar,1
+hasSilhouette,fitted,hasCollarType,spread-collar,1
+hasOpeningType,button front,hasLength,short,1
+hasNeckline,crew neck,hasLength,short,1
+hasWaistline,high-waisted,hasLength,short,1
+hasFabricTreatment,plain weave,hasWaistline,high-waisted,1
+hasMaterialType,cotton,hasWaistline,high-waisted,1
+hasOpeningType,button front,hasWaistline,high-waisted,1
+hasSleeveType,short,hasWaistline,high-waisted,1
+hasNeckline,crew neck,hasWaistline,high-waisted,1
+hasCollarType,spread-collar,hasWaistline,high-waisted,1
+hasLength,short,hasWaistline,high-waisted,1
+hasSilhouette,fitted,hasWaistline,high-waisted,1
+belongsToCategory,upperbody,hasWaistline,high-waisted,1
+depicts,shirt,hasWaistline,high-waisted,1
+hasOpeningType,button front,hasSilhouette,fitted,1
+hasNeckline,crew neck,hasSilhouette,fitted,1
+hasCollarType,spread-collar,hasSilhouette,fitted,1
+hasWaistline,high-waisted,hasSilhouette,fitted,1
+hasOpeningType,button front,belongsToCategory,upperbody,1
+hasNeckline,crew neck,belongsToCategory,upperbody,1
+hasWaistline,high-waisted,belongsToCategory,upperbody,1
+hasOpeningType,button front,depicts,shirt,1
+hasNeckline,crew neck,depicts,shirt,1
+hasWaistline,high-waisted,depicts,shirt,1
+hasSilhouette,regular,hasNeckline,classic,1
+hasSilhouette,regular,hasCollarType,collared,1
+hasNeckline,classic,hasSilhouette,regular,1
+hasCollarType,collared,hasSilhouette,regular,1
+belongsToCategory,upperbody,hasMaterialType,perfume bottle,1
+depicts,perfume,hasMaterialType,perfume bottle,1
+hasMaterialType,perfume bottle,belongsToCategory,upperbody,1
+depicts,perfume,belongsToCategory,upperbody,1
+hasMaterialType,perfume bottle,depicts,perfume,1
+belongsToCategory,upperbody,depicts,perfume,1
+hasFabricTreatment,matte finish,hasPattern,solid color,1
+hasNickname,dark gray nail polish,hasPattern,solid color,1
+belongsToCategory,upper body,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,matte finish,1
+hasMaterialType,glass and plastic,hasFabricTreatment,matte finish,1
+hasOpeningType,screw cap,hasFabricTreatment,matte finish,1
+hasLength,short,hasFabricTreatment,matte finish,1
+hasSilhouette,cylindrical,hasFabricTreatment,matte finish,1
+hasNickname,dark gray nail polish,hasFabricTreatment,matte finish,1
+belongsToCategory,upper body,hasFabricTreatment,matte finish,1
+depicts,nail polish,hasFabricTreatment,matte finish,1
+hasFabricTreatment,matte finish,hasMaterialType,glass and plastic,1
+hasNickname,dark gray nail polish,hasMaterialType,glass and plastic,1
+belongsToCategory,upper body,hasMaterialType,glass and plastic,1
+depicts,nail polish,hasMaterialType,glass and plastic,1
+hasFabricTreatment,matte finish,hasOpeningType,screw cap,1
+hasNickname,dark gray nail polish,hasOpeningType,screw cap,1
+belongsToCategory,upper body,hasOpeningType,screw cap,1
+depicts,nail polish,hasOpeningType,screw cap,1
+hasFabricTreatment,matte finish,hasLength,short,1
+hasNickname,dark gray nail polish,hasLength,short,1
+belongsToCategory,upper body,hasLength,short,1
+hasFabricTreatment,matte finish,hasSilhouette,cylindrical,1
+hasNickname,dark gray nail polish,hasSilhouette,cylindrical,1
+belongsToCategory,upper body,hasSilhouette,cylindrical,1
+depicts,nail polish,hasSilhouette,cylindrical,1
+hasPattern,solid color,hasNickname,dark gray nail polish,1
+hasFabricTreatment,matte finish,hasNickname,dark gray nail polish,1
+hasMaterialType,glass and plastic,hasNickname,dark gray nail polish,1
+hasOpeningType,screw cap,hasNickname,dark gray nail polish,1
+hasLength,short,hasNickname,dark gray nail polish,1
+hasSilhouette,cylindrical,hasNickname,dark gray nail polish,1
+belongsToCategory,upper body,hasNickname,dark gray nail polish,1
+depicts,nail polish,hasNickname,dark gray nail polish,1
+hasPattern,solid color,belongsToCategory,upper body,1
+hasFabricTreatment,matte finish,belongsToCategory,upper body,1
+hasMaterialType,glass and plastic,belongsToCategory,upper body,1
+hasOpeningType,screw cap,belongsToCategory,upper body,1
+hasLength,short,belongsToCategory,upper body,1
+hasSilhouette,cylindrical,belongsToCategory,upper body,1
+hasNickname,dark gray nail polish,belongsToCategory,upper body,1
+depicts,nail polish,belongsToCategory,upper body,1
+hasFabricTreatment,matte finish,depicts,nail polish,1
+hasMaterialType,glass and plastic,depicts,nail polish,1
+hasOpeningType,screw cap,depicts,nail polish,1
+hasSilhouette,cylindrical,depicts,nail polish,1
+hasNickname,dark gray nail polish,depicts,nail polish,1
+belongsToCategory,upper body,depicts,nail polish,1
+hasFabricTreatment,polished,hasPattern,solid color,1
+hasSilhouette,square,hasPattern,solid color,1
+depicts,shirt,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,polished,1
+hasMaterialType,glass,hasFabricTreatment,polished,1
+hasOpeningType,screw cap,hasFabricTreatment,polished,1
+hasLength,short,hasFabricTreatment,polished,1
+hasSilhouette,square,hasFabricTreatment,polished,1
+hasNickname,perfume bottle,hasFabricTreatment,polished,1
+belongsToCategory,upperbody,hasFabricTreatment,polished,1
+depicts,shirt,hasFabricTreatment,polished,1
+hasFabricTreatment,polished,hasMaterialType,glass,1
+hasSilhouette,square,hasMaterialType,glass,1
+hasNickname,perfume bottle,hasMaterialType,glass,1
+depicts,shirt,hasMaterialType,glass,1
+hasFabricTreatment,polished,hasOpeningType,screw cap,1
+hasSilhouette,square,hasOpeningType,screw cap,1
+hasNickname,perfume bottle,hasOpeningType,screw cap,1
+depicts,shirt,hasOpeningType,screw cap,1
+hasFabricTreatment,polished,hasLength,short,1
+hasNickname,perfume bottle,hasLength,short,1
+hasPattern,solid color,hasSilhouette,square,1
+hasFabricTreatment,polished,hasSilhouette,square,1
+hasMaterialType,glass,hasSilhouette,square,1
+hasOpeningType,screw cap,hasSilhouette,square,1
+hasNickname,perfume bottle,hasSilhouette,square,1
+depicts,shirt,hasSilhouette,square,1
+hasFabricTreatment,polished,hasNickname,perfume bottle,1
+hasMaterialType,glass,hasNickname,perfume bottle,1
+hasOpeningType,screw cap,hasNickname,perfume bottle,1
+hasLength,short,hasNickname,perfume bottle,1
+hasSilhouette,square,hasNickname,perfume bottle,1
+depicts,shirt,hasNickname,perfume bottle,1
+hasFabricTreatment,polished,belongsToCategory,upperbody,1
+hasPattern,solid color,depicts,shirt,1
+hasFabricTreatment,polished,depicts,shirt,1
+hasMaterialType,glass,depicts,shirt,1
+hasOpeningType,screw cap,depicts,shirt,1
+hasSilhouette,square,depicts,shirt,1
+hasNickname,perfume bottle,depicts,shirt,1
+hasOpeningType,button,hasPattern,solid color,1
+hasSleeveType,short-sleeve,hasPattern,solid color,1
+hasNeckline,round neck,hasPattern,solid color,1
+hasLength,ankle length,hasPattern,solid color,1
+hasWaistline,high-waisted,hasPattern,solid color,1
+hasOpeningType,button,hasMaterialType,fabric,1
+hasSleeveType,short-sleeve,hasMaterialType,fabric,1
+hasNeckline,round neck,hasMaterialType,fabric,1
+hasLength,ankle length,hasMaterialType,fabric,1
+hasWaistline,high-waisted,hasMaterialType,fabric,1
+hasNickname,perfume bottle,hasMaterialType,fabric,1
+belongsToCategory,lowerbody,hasMaterialType,fabric,1
+hasPattern,solid color,hasOpeningType,button,1
+hasMaterialType,fabric,hasOpeningType,button,1
+hasSleeveType,short-sleeve,hasOpeningType,button,1
+hasNeckline,round neck,hasOpeningType,button,1
+hasLength,ankle length,hasOpeningType,button,1
+hasWaistline,high-waisted,hasOpeningType,button,1
+hasNickname,perfume bottle,hasOpeningType,button,1
+belongsToCategory,lowerbody,hasOpeningType,button,1
+depicts,perfume bottle,hasOpeningType,button,1
+hasPattern,solid color,hasSleeveType,short-sleeve,1
+hasMaterialType,fabric,hasSleeveType,short-sleeve,1
+hasOpeningType,button,hasSleeveType,short-sleeve,1
+hasNeckline,round neck,hasSleeveType,short-sleeve,1
+hasLength,ankle length,hasSleeveType,short-sleeve,1
+hasWaistline,high-waisted,hasSleeveType,short-sleeve,1
+hasSilhouette,straight,hasSleeveType,short-sleeve,1
+hasNickname,perfume bottle,hasSleeveType,short-sleeve,1
+belongsToCategory,lowerbody,hasSleeveType,short-sleeve,1
+depicts,perfume bottle,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,round neck,1
+hasMaterialType,fabric,hasNeckline,round neck,1
+hasOpeningType,button,hasNeckline,round neck,1
+hasSleeveType,short-sleeve,hasNeckline,round neck,1
+hasLength,ankle length,hasNeckline,round neck,1
+hasWaistline,high-waisted,hasNeckline,round neck,1
+hasSilhouette,straight,hasNeckline,round neck,1
+hasNickname,perfume bottle,hasNeckline,round neck,1
+belongsToCategory,lowerbody,hasNeckline,round neck,1
+hasPattern,solid color,hasLength,ankle length,1
+hasMaterialType,fabric,hasLength,ankle length,1
+hasOpeningType,button,hasLength,ankle length,1
+hasSleeveType,short-sleeve,hasLength,ankle length,1
+hasNeckline,round neck,hasLength,ankle length,1
+hasWaistline,high-waisted,hasLength,ankle length,1
+hasSilhouette,straight,hasLength,ankle length,1
+hasNickname,perfume bottle,hasLength,ankle length,1
+belongsToCategory,lowerbody,hasLength,ankle length,1
+depicts,perfume bottle,hasLength,ankle length,1
+hasPattern,solid color,hasWaistline,high-waisted,1
+hasMaterialType,fabric,hasWaistline,high-waisted,1
+hasOpeningType,button,hasWaistline,high-waisted,1
+hasSleeveType,short-sleeve,hasWaistline,high-waisted,1
+hasNeckline,round neck,hasWaistline,high-waisted,1
+hasLength,ankle length,hasWaistline,high-waisted,1
+hasSilhouette,straight,hasWaistline,high-waisted,1
+hasNickname,perfume bottle,hasWaistline,high-waisted,1
+belongsToCategory,lowerbody,hasWaistline,high-waisted,1
+depicts,perfume bottle,hasWaistline,high-waisted,1
+hasSleeveType,short-sleeve,hasSilhouette,straight,1
+hasNeckline,round neck,hasSilhouette,straight,1
+hasLength,ankle length,hasSilhouette,straight,1
+hasWaistline,high-waisted,hasSilhouette,straight,1
+hasNickname,perfume bottle,hasSilhouette,straight,1
+belongsToCategory,lowerbody,hasSilhouette,straight,1
+hasMaterialType,fabric,hasNickname,perfume bottle,1
+hasOpeningType,button,hasNickname,perfume bottle,1
+hasSleeveType,short-sleeve,hasNickname,perfume bottle,1
+hasNeckline,round neck,hasNickname,perfume bottle,1
+hasLength,ankle length,hasNickname,perfume bottle,1
+hasWaistline,high-waisted,hasNickname,perfume bottle,1
+hasSilhouette,straight,hasNickname,perfume bottle,1
+belongsToCategory,lowerbody,hasNickname,perfume bottle,1
+hasMaterialType,fabric,belongsToCategory,lowerbody,1
+hasOpeningType,button,belongsToCategory,lowerbody,1
+hasSleeveType,short-sleeve,belongsToCategory,lowerbody,1
+hasNeckline,round neck,belongsToCategory,lowerbody,1
+hasLength,ankle length,belongsToCategory,lowerbody,1
+hasWaistline,high-waisted,belongsToCategory,lowerbody,1
+hasSilhouette,straight,belongsToCategory,lowerbody,1
+hasNickname,perfume bottle,belongsToCategory,lowerbody,1
+depicts,perfume bottle,belongsToCategory,lowerbody,1
+hasOpeningType,button,depicts,perfume bottle,1
+hasSleeveType,short-sleeve,depicts,perfume bottle,1
+hasLength,ankle length,depicts,perfume bottle,1
+hasWaistline,high-waisted,depicts,perfume bottle,1
+belongsToCategory,lowerbody,depicts,perfume bottle,1
+hasMaterialType,glass,hasPattern,gradient,1
+hasOpeningType,zipper,hasPattern,gradient,1
+hasSleeveType,long-sleeve,hasPattern,gradient,1
+hasNeckline,round neck,hasPattern,gradient,1
+hasLength,short,hasPattern,gradient,1
+hasSilhouette,curved,hasPattern,gradient,1
+belongsToCategory,upperbody,hasPattern,gradient,1
+depicts,perfume bottle,hasPattern,gradient,1
+hasPattern,gradient,hasMaterialType,glass,1
+hasOpeningType,zipper,hasMaterialType,glass,1
+hasSleeveType,long-sleeve,hasMaterialType,glass,1
+hasNeckline,round neck,hasMaterialType,glass,1
+hasSilhouette,curved,hasMaterialType,glass,1
+hasPattern,gradient,hasOpeningType,zipper,1
+hasMaterialType,glass,hasOpeningType,zipper,1
+hasSleeveType,long-sleeve,hasOpeningType,zipper,1
+hasNeckline,round neck,hasOpeningType,zipper,1
+hasLength,short,hasOpeningType,zipper,1
+hasSilhouette,curved,hasOpeningType,zipper,1
+belongsToCategory,upperbody,hasOpeningType,zipper,1
+depicts,perfume bottle,hasOpeningType,zipper,1
+hasPattern,gradient,hasSleeveType,long-sleeve,1
+hasMaterialType,glass,hasSleeveType,long-sleeve,1
+hasOpeningType,zipper,hasSleeveType,long-sleeve,1
+hasNeckline,round neck,hasSleeveType,long-sleeve,1
+hasLength,short,hasSleeveType,long-sleeve,1
+hasSilhouette,curved,hasSleeveType,long-sleeve,1
+belongsToCategory,upperbody,hasSleeveType,long-sleeve,1
+depicts,perfume bottle,hasSleeveType,long-sleeve,1
+hasPattern,gradient,hasNeckline,round neck,1
+hasMaterialType,glass,hasNeckline,round neck,1
+hasOpeningType,zipper,hasNeckline,round neck,1
+hasSleeveType,long-sleeve,hasNeckline,round neck,1
+hasLength,short,hasNeckline,round neck,1
+hasSilhouette,curved,hasNeckline,round neck,1
+belongsToCategory,upperbody,hasNeckline,round neck,1
+hasPattern,gradient,hasLength,short,1
+hasOpeningType,zipper,hasLength,short,1
+hasSleeveType,long-sleeve,hasLength,short,1
+hasNeckline,round neck,hasLength,short,1
+hasSilhouette,curved,hasLength,short,1
+hasPattern,gradient,hasSilhouette,curved,1
+hasMaterialType,glass,hasSilhouette,curved,1
+hasOpeningType,zipper,hasSilhouette,curved,1
+hasSleeveType,long-sleeve,hasSilhouette,curved,1
+hasNeckline,round neck,hasSilhouette,curved,1
+hasLength,short,hasSilhouette,curved,1
+belongsToCategory,upperbody,hasSilhouette,curved,1
+depicts,perfume bottle,hasSilhouette,curved,1
+hasPattern,gradient,belongsToCategory,upperbody,1
+hasOpeningType,zipper,belongsToCategory,upperbody,1
+hasSleeveType,long-sleeve,belongsToCategory,upperbody,1
+hasNeckline,round neck,belongsToCategory,upperbody,1
+hasSilhouette,curved,belongsToCategory,upperbody,1
+hasPattern,gradient,depicts,perfume bottle,1
+hasOpeningType,zipper,depicts,perfume bottle,1
+hasSleeveType,long-sleeve,depicts,perfume bottle,1
+hasSilhouette,curved,depicts,perfume bottle,1
+hasSilhouette,cylinder,hasMaterialType,glass,1
+belongsToCategory,perfume bottle,hasMaterialType,glass,1
+hasSilhouette,cylinder,hasLength,short,1
+belongsToCategory,perfume bottle,hasLength,short,1
+hasMaterialType,glass,hasSilhouette,cylinder,1
+hasLength,short,hasSilhouette,cylinder,1
+belongsToCategory,perfume bottle,hasSilhouette,cylinder,1
+depicts,perfume bottle,hasSilhouette,cylinder,1
+hasMaterialType,glass,belongsToCategory,perfume bottle,1
+hasLength,short,belongsToCategory,perfume bottle,1
+hasSilhouette,cylinder,belongsToCategory,perfume bottle,1
+hasSilhouette,cylinder,depicts,perfume bottle,1
+hasMaterialType,glass and plastic,hasFabricTreatment,spray perfume,1
+hasOpeningType,screw cap,hasFabricTreatment,spray perfume,1
+hasLength,short,hasFabricTreatment,spray perfume,1
+hasSilhouette,cylindrical,hasFabricTreatment,spray perfume,1
+hasNickname,nike perfume,hasFabricTreatment,spray perfume,1
+belongsToCategory,fragrance,hasFabricTreatment,spray perfume,1
+depicts,perfume,hasFabricTreatment,spray perfume,1
+hasFabricTreatment,spray perfume,hasMaterialType,glass and plastic,1
+hasNickname,nike perfume,hasMaterialType,glass and plastic,1
+belongsToCategory,fragrance,hasMaterialType,glass and plastic,1
+depicts,perfume,hasMaterialType,glass and plastic,1
+hasFabricTreatment,spray perfume,hasOpeningType,screw cap,1
+hasNickname,nike perfume,hasOpeningType,screw cap,1
+belongsToCategory,fragrance,hasOpeningType,screw cap,1
+depicts,perfume,hasOpeningType,screw cap,1
+hasFabricTreatment,spray perfume,hasLength,short,1
+hasNickname,nike perfume,hasLength,short,1
+belongsToCategory,fragrance,hasLength,short,1
+depicts,perfume,hasLength,short,1
+hasFabricTreatment,spray perfume,hasSilhouette,cylindrical,1
+hasNickname,nike perfume,hasSilhouette,cylindrical,1
+depicts,perfume,hasSilhouette,cylindrical,1
+hasFabricTreatment,spray perfume,hasNickname,nike perfume,1
+hasMaterialType,glass and plastic,hasNickname,nike perfume,1
+hasOpeningType,screw cap,hasNickname,nike perfume,1
+hasLength,short,hasNickname,nike perfume,1
+hasSilhouette,cylindrical,hasNickname,nike perfume,1
+belongsToCategory,fragrance,hasNickname,nike perfume,1
+depicts,perfume,hasNickname,nike perfume,1
+hasFabricTreatment,spray perfume,belongsToCategory,fragrance,1
+hasMaterialType,glass and plastic,belongsToCategory,fragrance,1
+hasOpeningType,screw cap,belongsToCategory,fragrance,1
+hasLength,short,belongsToCategory,fragrance,1
+hasNickname,nike perfume,belongsToCategory,fragrance,1
+depicts,perfume,belongsToCategory,fragrance,1
+hasFabricTreatment,spray perfume,depicts,perfume,1
+hasMaterialType,glass and plastic,depicts,perfume,1
+hasOpeningType,screw cap,depicts,perfume,1
+hasLength,short,depicts,perfume,1
+hasSilhouette,cylindrical,depicts,perfume,1
+hasNickname,nike perfume,depicts,perfume,1
+belongsToCategory,fragrance,depicts,perfume,1
+hasMaterialType,synthetic fabric,hasFabricTreatment,stretchy,1
+hasLength,short,hasFabricTreatment,stretchy,1
+hasSilhouette,fitted silhouette,hasFabricTreatment,stretchy,1
+depicts,sports bra,hasFabricTreatment,stretchy,1
+hasPattern,plaid,hasFabricTreatment,stretchy,1
+hasFabricTreatment,plain weave,hasFabricTreatment,stretchy,1
+hasMaterialType,cotton,hasFabricTreatment,stretchy,1
+hasOpeningType,button,hasFabricTreatment,stretchy,1
+hasPocketType,chest pocket,hasFabricTreatment,stretchy,1
+hasSleeveType,short,hasFabricTreatment,stretchy,1
+hasNeckline,classic,hasFabricTreatment,stretchy,1
+hasCollarType,pointed,hasFabricTreatment,stretchy,1
+hasLength,regular,hasFabricTreatment,stretchy,1
+hasWaistline,natural,hasFabricTreatment,stretchy,1
+hasSilhouette,straight,hasFabricTreatment,stretchy,1
+belongsToCategory,upperbody,hasFabricTreatment,stretchy,1
+depicts,shirt,hasFabricTreatment,stretchy,1
+hasFabricTreatment,stretchy,hasMaterialType,synthetic fabric,1
+hasLength,short,hasMaterialType,synthetic fabric,1
+hasSilhouette,fitted silhouette,hasMaterialType,synthetic fabric,1
+depicts,sports bra,hasMaterialType,synthetic fabric,1
+hasPattern,plaid,hasMaterialType,synthetic fabric,1
+hasFabricTreatment,plain weave,hasMaterialType,synthetic fabric,1
+hasMaterialType,cotton,hasMaterialType,synthetic fabric,1
+hasOpeningType,button,hasMaterialType,synthetic fabric,1
+hasPocketType,chest pocket,hasMaterialType,synthetic fabric,1
+hasSleeveType,short,hasMaterialType,synthetic fabric,1
+hasNeckline,classic,hasMaterialType,synthetic fabric,1
+hasCollarType,pointed,hasMaterialType,synthetic fabric,1
+hasLength,regular,hasMaterialType,synthetic fabric,1
+hasWaistline,natural,hasMaterialType,synthetic fabric,1
+hasSilhouette,straight,hasMaterialType,synthetic fabric,1
+belongsToCategory,upperbody,hasMaterialType,synthetic fabric,1
+depicts,shirt,hasMaterialType,synthetic fabric,1
+hasFabricTreatment,stretchy,hasLength,short,1
+hasMaterialType,synthetic fabric,hasLength,short,1
+hasSilhouette,fitted silhouette,hasLength,short,1
+depicts,sports bra,hasLength,short,1
+hasLength,regular,hasLength,short,1
+hasFabricTreatment,stretchy,hasSilhouette,fitted silhouette,1
+hasMaterialType,synthetic fabric,hasSilhouette,fitted silhouette,1
+hasLength,short,hasSilhouette,fitted silhouette,1
+depicts,sports bra,hasSilhouette,fitted silhouette,1
+hasPattern,plaid,hasSilhouette,fitted silhouette,1
+hasFabricTreatment,plain weave,hasSilhouette,fitted silhouette,1
+hasMaterialType,cotton,hasSilhouette,fitted silhouette,1
+hasOpeningType,button,hasSilhouette,fitted silhouette,1
+hasPocketType,chest pocket,hasSilhouette,fitted silhouette,1
+hasSleeveType,short,hasSilhouette,fitted silhouette,1
+hasNeckline,classic,hasSilhouette,fitted silhouette,1
+hasCollarType,pointed,hasSilhouette,fitted silhouette,1
+hasLength,regular,hasSilhouette,fitted silhouette,1
+hasWaistline,natural,hasSilhouette,fitted silhouette,1
+hasSilhouette,straight,hasSilhouette,fitted silhouette,1
+belongsToCategory,upperbody,hasSilhouette,fitted silhouette,1
+depicts,shirt,hasSilhouette,fitted silhouette,1
+hasFabricTreatment,stretchy,depicts,sports bra,1
+hasMaterialType,synthetic fabric,depicts,sports bra,1
+hasLength,short,depicts,sports bra,1
+hasSilhouette,fitted silhouette,depicts,sports bra,1
+hasPattern,plaid,depicts,sports bra,1
+hasFabricTreatment,plain weave,depicts,sports bra,1
+hasMaterialType,cotton,depicts,sports bra,1
+hasOpeningType,button,depicts,sports bra,1
+hasPocketType,chest pocket,depicts,sports bra,1
+hasSleeveType,short,depicts,sports bra,1
+hasNeckline,classic,depicts,sports bra,1
+hasCollarType,pointed,depicts,sports bra,1
+hasLength,regular,depicts,sports bra,1
+hasWaistline,natural,depicts,sports bra,1
+hasSilhouette,straight,depicts,sports bra,1
+belongsToCategory,upperbody,depicts,sports bra,1
+depicts,shirt,depicts,sports bra,1
+hasFabricTreatment,stretchy,hasPattern,plaid,1
+hasMaterialType,synthetic fabric,hasPattern,plaid,1
+hasSilhouette,fitted silhouette,hasPattern,plaid,1
+depicts,sports bra,hasPattern,plaid,1
+hasPocketType,chest pocket,hasPattern,plaid,1
+hasCollarType,pointed,hasPattern,plaid,1
+hasLength,regular,hasPattern,plaid,1
+hasFabricTreatment,stretchy,hasFabricTreatment,plain weave,1
+hasMaterialType,synthetic fabric,hasFabricTreatment,plain weave,1
+hasSilhouette,fitted silhouette,hasFabricTreatment,plain weave,1
+depicts,sports bra,hasFabricTreatment,plain weave,1
+hasCollarType,pointed,hasFabricTreatment,plain weave,1
+hasLength,regular,hasFabricTreatment,plain weave,1
+hasSilhouette,straight,hasFabricTreatment,plain weave,1
+hasFabricTreatment,stretchy,hasMaterialType,cotton,1
+hasMaterialType,synthetic fabric,hasMaterialType,cotton,1
+hasSilhouette,fitted silhouette,hasMaterialType,cotton,1
+depicts,sports bra,hasMaterialType,cotton,1
+hasLength,regular,hasMaterialType,cotton,1
+hasFabricTreatment,stretchy,hasOpeningType,button,1
+hasMaterialType,synthetic fabric,hasOpeningType,button,1
+hasSilhouette,fitted silhouette,hasOpeningType,button,1
+depicts,sports bra,hasOpeningType,button,1
+hasPocketType,chest pocket,hasOpeningType,button,1
+hasLength,regular,hasOpeningType,button,1
+hasFabricTreatment,stretchy,hasPocketType,chest pocket,1
+hasMaterialType,synthetic fabric,hasPocketType,chest pocket,1
+hasSilhouette,fitted silhouette,hasPocketType,chest pocket,1
+depicts,sports bra,hasPocketType,chest pocket,1
+hasPattern,plaid,hasPocketType,chest pocket,1
+hasOpeningType,button,hasPocketType,chest pocket,1
+hasNeckline,classic,hasPocketType,chest pocket,1
+hasCollarType,pointed,hasPocketType,chest pocket,1
+hasLength,regular,hasPocketType,chest pocket,1
+hasSilhouette,straight,hasPocketType,chest pocket,1
+hasFabricTreatment,stretchy,hasSleeveType,short,1
+hasMaterialType,synthetic fabric,hasSleeveType,short,1
+hasSilhouette,fitted silhouette,hasSleeveType,short,1
+depicts,sports bra,hasSleeveType,short,1
+hasLength,regular,hasSleeveType,short,1
+hasFabricTreatment,stretchy,hasNeckline,classic,1
+hasMaterialType,synthetic fabric,hasNeckline,classic,1
+hasSilhouette,fitted silhouette,hasNeckline,classic,1
+depicts,sports bra,hasNeckline,classic,1
+hasPocketType,chest pocket,hasNeckline,classic,1
+hasLength,regular,hasNeckline,classic,1
+hasFabricTreatment,stretchy,hasCollarType,pointed,1
+hasMaterialType,synthetic fabric,hasCollarType,pointed,1
+hasSilhouette,fitted silhouette,hasCollarType,pointed,1
+depicts,sports bra,hasCollarType,pointed,1
+hasPattern,plaid,hasCollarType,pointed,1
+hasFabricTreatment,plain weave,hasCollarType,pointed,1
+hasPocketType,chest pocket,hasCollarType,pointed,1
+hasLength,regular,hasCollarType,pointed,1
+hasFabricTreatment,stretchy,hasLength,regular,1
+hasMaterialType,synthetic fabric,hasLength,regular,1
+hasLength,short,hasLength,regular,1
+hasSilhouette,fitted silhouette,hasLength,regular,1
+depicts,sports bra,hasLength,regular,1
+hasPattern,plaid,hasLength,regular,1
+hasFabricTreatment,plain weave,hasLength,regular,1
+hasMaterialType,cotton,hasLength,regular,1
+hasOpeningType,button,hasLength,regular,1
+hasPocketType,chest pocket,hasLength,regular,1
+hasSleeveType,short,hasLength,regular,1
+hasNeckline,classic,hasLength,regular,1
+hasCollarType,pointed,hasLength,regular,1
+hasWaistline,natural,hasLength,regular,1
+hasSilhouette,straight,hasLength,regular,1
+belongsToCategory,upperbody,hasLength,regular,1
+depicts,shirt,hasLength,regular,1
+hasFabricTreatment,stretchy,hasWaistline,natural,1
+hasMaterialType,synthetic fabric,hasWaistline,natural,1
+hasSilhouette,fitted silhouette,hasWaistline,natural,1
+depicts,sports bra,hasWaistline,natural,1
+hasLength,regular,hasWaistline,natural,1
+hasFabricTreatment,stretchy,hasSilhouette,straight,1
+hasMaterialType,synthetic fabric,hasSilhouette,straight,1
+hasSilhouette,fitted silhouette,hasSilhouette,straight,1
+depicts,sports bra,hasSilhouette,straight,1
+hasFabricTreatment,plain weave,hasSilhouette,straight,1
+hasPocketType,chest pocket,hasSilhouette,straight,1
+hasLength,regular,hasSilhouette,straight,1
+hasFabricTreatment,stretchy,belongsToCategory,upperbody,1
+hasMaterialType,synthetic fabric,belongsToCategory,upperbody,1
+hasSilhouette,fitted silhouette,belongsToCategory,upperbody,1
+depicts,sports bra,belongsToCategory,upperbody,1
+hasLength,regular,belongsToCategory,upperbody,1
+hasFabricTreatment,stretchy,depicts,shirt,1
+hasMaterialType,synthetic fabric,depicts,shirt,1
+hasSilhouette,fitted silhouette,depicts,shirt,1
+depicts,sports bra,depicts,shirt,1
+hasLength,regular,depicts,shirt,1
+hasPocketType,patch,hasPattern,striped,1
+hasPocketType,patch,hasMaterialType,cotton,1
+hasPocketType,patch,hasOpeningType,button,1
+hasPattern,striped,hasPocketType,patch,1
+hasMaterialType,cotton,hasPocketType,patch,1
+hasOpeningType,button,hasPocketType,patch,1
+hasSleeveType,short,hasPocketType,patch,1
+hasNeckline,classic,hasPocketType,patch,1
+hasCollarType,button-down,hasPocketType,patch,1
+hasLength,short,hasPocketType,patch,1
+hasWaistline,natural,hasPocketType,patch,1
+hasSilhouette,straight,hasPocketType,patch,1
+belongsToCategory,upperbody,hasPocketType,patch,1
+depicts,shirt,hasPocketType,patch,1
+hasPocketType,patch,hasSleeveType,short,1
+hasPocketType,patch,hasNeckline,classic,1
+hasCollarType,button-down,hasNeckline,classic,1
+hasPocketType,patch,hasCollarType,button-down,1
+hasNeckline,classic,hasCollarType,button-down,1
+hasPocketType,patch,hasLength,short,1
+hasPocketType,patch,hasWaistline,natural,1
+hasPocketType,patch,hasSilhouette,straight,1
+hasPocketType,patch,belongsToCategory,upperbody,1
+hasPocketType,patch,depicts,shirt,1
+hasFabricTreatment,solid,hasPattern,striped,1
+hasCollarType,pointed,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,solid,1
+hasMaterialType,cotton,hasFabricTreatment,solid,1
+hasSleeveType,short,hasFabricTreatment,solid,1
+hasNeckline,classic,hasFabricTreatment,solid,1
+hasCollarType,pointed,hasFabricTreatment,solid,1
+hasLength,short,hasFabricTreatment,solid,1
+hasWaistline,natural,hasFabricTreatment,solid,1
+hasSilhouette,straight,hasFabricTreatment,solid,1
+belongsToCategory,upperbody,hasFabricTreatment,solid,1
+depicts,shirt,hasFabricTreatment,solid,1
+hasFabricTreatment,solid,hasMaterialType,cotton,1
+hasFabricTreatment,solid,hasSleeveType,short,1
+hasFabricTreatment,solid,hasNeckline,classic,1
+hasPattern,striped,hasCollarType,pointed,1
+hasFabricTreatment,solid,hasCollarType,pointed,1
+hasFabricTreatment,solid,hasLength,short,1
+hasFabricTreatment,solid,hasWaistline,natural,1
+hasFabricTreatment,solid,hasSilhouette,straight,1
+hasFabricTreatment,solid,belongsToCategory,upperbody,1
+hasFabricTreatment,solid,depicts,shirt,1
+belongsToCategory,fragrance,hasMaterialType,glass,1
+hasMaterialType,glass,belongsToCategory,fragrance,1
+depicts,perfume bottle,belongsToCategory,fragrance,1
+belongsToCategory,fragrance,depicts,perfume bottle,1
+hasMaterialType,cotton,hasFabricTreatment,unbleached,1
+hasOpeningType,button,hasFabricTreatment,unbleached,1
+hasSleeveType,short,hasFabricTreatment,unbleached,1
+hasNeckline,v-neck,hasFabricTreatment,unbleached,1
+hasCollarType,pointed,hasFabricTreatment,unbleached,1
+hasLength,short,hasFabricTreatment,unbleached,1
+hasWaistline,natural,hasFabricTreatment,unbleached,1
+hasSilhouette,classic,hasFabricTreatment,unbleached,1
+belongsToCategory,upperbody,hasFabricTreatment,unbleached,1
+depicts,shirt,hasFabricTreatment,unbleached,1
+hasFabricTreatment,unbleached,hasMaterialType,cotton,1
+hasSilhouette,classic,hasMaterialType,cotton,1
+hasFabricTreatment,unbleached,hasOpeningType,button,1
+hasSilhouette,classic,hasOpeningType,button,1
+hasFabricTreatment,unbleached,hasSleeveType,short,1
+hasSilhouette,classic,hasSleeveType,short,1
+hasFabricTreatment,unbleached,hasNeckline,v-neck,1
+hasCollarType,pointed,hasNeckline,v-neck,1
+hasSilhouette,classic,hasNeckline,v-neck,1
+hasFabricTreatment,unbleached,hasCollarType,pointed,1
+hasNeckline,v-neck,hasCollarType,pointed,1
+hasSilhouette,classic,hasCollarType,pointed,1
+hasFabricTreatment,unbleached,hasLength,short,1
+hasSilhouette,classic,hasLength,short,1
+hasFabricTreatment,unbleached,hasWaistline,natural,1
+hasSilhouette,classic,hasWaistline,natural,1
+hasFabricTreatment,unbleached,hasSilhouette,classic,1
+hasMaterialType,cotton,hasSilhouette,classic,1
+hasOpeningType,button,hasSilhouette,classic,1
+hasSleeveType,short,hasSilhouette,classic,1
+hasNeckline,v-neck,hasSilhouette,classic,1
+hasCollarType,pointed,hasSilhouette,classic,1
+hasLength,short,hasSilhouette,classic,1
+hasWaistline,natural,hasSilhouette,classic,1
+belongsToCategory,upperbody,hasSilhouette,classic,1
+depicts,shirt,hasSilhouette,classic,1
+hasFabricTreatment,unbleached,belongsToCategory,upperbody,1
+hasSilhouette,classic,belongsToCategory,upperbody,1
+hasFabricTreatment,unbleached,depicts,shirt,1
+hasSilhouette,classic,depicts,shirt,1
+hasSleeveType,short,hasMaterialType,cotton or linen,1
+hasNeckline,classic,hasMaterialType,cotton or linen,1
+hasCollarType,pointed,hasMaterialType,cotton or linen,1
+hasLength,short,hasMaterialType,cotton or linen,1
+hasWaistline,natural,hasMaterialType,cotton or linen,1
+hasSilhouette,straight,hasMaterialType,cotton or linen,1
+belongsToCategory,upperbody,hasMaterialType,cotton or linen,1
+depicts,shirt,hasMaterialType,cotton or linen,1
+hasMaterialType,cotton or linen,hasSleeveType,short,1
+hasMaterialType,cotton or linen,hasNeckline,classic,1
+hasMaterialType,cotton or linen,hasCollarType,pointed,1
+hasMaterialType,cotton or linen,hasLength,short,1
+hasMaterialType,cotton or linen,hasWaistline,natural,1
+hasMaterialType,cotton or linen,hasSilhouette,straight,1
+hasMaterialType,cotton or linen,belongsToCategory,upperbody,1
+hasMaterialType,cotton or linen,depicts,shirt,1
+hasPattern,floral,hasAnimalPattern,pink flowers,1
+hasMaterialType,glass,hasAnimalPattern,pink flowers,1
+hasOpeningType,cap,hasAnimalPattern,pink flowers,1
+hasLength,short,hasAnimalPattern,pink flowers,1
+hasSilhouette,oval,hasAnimalPattern,pink flowers,1
+hasNickname,pink perfume bottle,hasAnimalPattern,pink flowers,1
+belongsToCategory,upperbody,hasAnimalPattern,pink flowers,1
+depicts,perfume bottle,hasAnimalPattern,pink flowers,1
+hasAnimalPattern,pink flowers,hasPattern,floral,1
+hasMaterialType,glass,hasPattern,floral,1
+hasOpeningType,cap,hasPattern,floral,1
+hasLength,short,hasPattern,floral,1
+hasSilhouette,oval,hasPattern,floral,1
+hasNickname,pink perfume bottle,hasPattern,floral,1
+belongsToCategory,upperbody,hasPattern,floral,1
+depicts,perfume bottle,hasPattern,floral,1
+hasAnimalPattern,pink flowers,hasMaterialType,glass,1
+hasPattern,floral,hasMaterialType,glass,1
+hasSilhouette,oval,hasMaterialType,glass,1
+hasNickname,pink perfume bottle,hasMaterialType,glass,1
+hasAnimalPattern,pink flowers,hasOpeningType,cap,1
+hasPattern,floral,hasOpeningType,cap,1
+hasSilhouette,oval,hasOpeningType,cap,1
+hasNickname,pink perfume bottle,hasOpeningType,cap,1
+hasAnimalPattern,pink flowers,hasLength,short,1
+hasPattern,floral,hasLength,short,1
+hasSilhouette,oval,hasLength,short,1
+hasNickname,pink perfume bottle,hasLength,short,1
+hasAnimalPattern,pink flowers,hasSilhouette,oval,1
+hasPattern,floral,hasSilhouette,oval,1
+hasMaterialType,glass,hasSilhouette,oval,1
+hasOpeningType,cap,hasSilhouette,oval,1
+hasLength,short,hasSilhouette,oval,1
+hasNickname,pink perfume bottle,hasSilhouette,oval,1
+belongsToCategory,upperbody,hasSilhouette,oval,1
+depicts,perfume bottle,hasSilhouette,oval,1
+hasAnimalPattern,pink flowers,hasNickname,pink perfume bottle,1
+hasPattern,floral,hasNickname,pink perfume bottle,1
+hasMaterialType,glass,hasNickname,pink perfume bottle,1
+hasOpeningType,cap,hasNickname,pink perfume bottle,1
+hasLength,short,hasNickname,pink perfume bottle,1
+hasSilhouette,oval,hasNickname,pink perfume bottle,1
+belongsToCategory,upperbody,hasNickname,pink perfume bottle,1
+depicts,perfume bottle,hasNickname,pink perfume bottle,1
+hasAnimalPattern,pink flowers,belongsToCategory,upperbody,1
+hasPattern,floral,belongsToCategory,upperbody,1
+hasSilhouette,oval,belongsToCategory,upperbody,1
+hasNickname,pink perfume bottle,belongsToCategory,upperbody,1
+hasAnimalPattern,pink flowers,depicts,perfume bottle,1
+hasPattern,floral,depicts,perfume bottle,1
+hasSilhouette,oval,depicts,perfume bottle,1
+hasNickname,pink perfume bottle,depicts,perfume bottle,1
+hasMaterialType,glass,hasAnimalPattern,nonexistent,1
+hasLength,short,hasAnimalPattern,nonexistent,1
+hasSilhouette,round,hasAnimalPattern,nonexistent,1
+belongsToCategory,head,hasAnimalPattern,nonexistent,1
+depicts,perfume bottle,hasAnimalPattern,nonexistent,1
+hasMaterialType,glass,hasPattern,nonexistent,1
+hasLength,short,hasPattern,nonexistent,1
+hasSilhouette,round,hasPattern,nonexistent,1
+belongsToCategory,head,hasPattern,nonexistent,1
+depicts,perfume bottle,hasPattern,nonexistent,1
+hasMaterialType,glass,hasFabricTreatment,nonexistent,1
+hasLength,short,hasFabricTreatment,nonexistent,1
+hasSilhouette,round,hasFabricTreatment,nonexistent,1
+belongsToCategory,head,hasFabricTreatment,nonexistent,1
+depicts,perfume bottle,hasFabricTreatment,nonexistent,1
+hasAnimalPattern,nonexistent,hasMaterialType,glass,1
+hasPattern,nonexistent,hasMaterialType,glass,1
+hasFabricTreatment,nonexistent,hasMaterialType,glass,1
+hasOpeningType,nonexistent,hasMaterialType,glass,1
+hasPocketType,nonexistent,hasMaterialType,glass,1
+hasSleeveType,nonexistent,hasMaterialType,glass,1
+hasNeckline,nonexistent,hasMaterialType,glass,1
+hasLapelType,nonexistent,hasMaterialType,glass,1
+hasCollarType,nonexistent,hasMaterialType,glass,1
+hasSilhouette,round,hasMaterialType,glass,1
+hasMaterialType,glass,hasOpeningType,nonexistent,1
+hasLength,short,hasOpeningType,nonexistent,1
+hasSilhouette,round,hasOpeningType,nonexistent,1
+belongsToCategory,head,hasOpeningType,nonexistent,1
+depicts,perfume bottle,hasOpeningType,nonexistent,1
+hasMaterialType,glass,hasPocketType,nonexistent,1
+hasLength,short,hasPocketType,nonexistent,1
+hasSilhouette,round,hasPocketType,nonexistent,1
+belongsToCategory,head,hasPocketType,nonexistent,1
+depicts,perfume bottle,hasPocketType,nonexistent,1
+hasMaterialType,glass,hasSleeveType,nonexistent,1
+hasLength,short,hasSleeveType,nonexistent,1
+hasSilhouette,round,hasSleeveType,nonexistent,1
+belongsToCategory,head,hasSleeveType,nonexistent,1
+depicts,perfume bottle,hasSleeveType,nonexistent,1
+hasMaterialType,glass,hasNeckline,nonexistent,1
+hasLength,short,hasNeckline,nonexistent,1
+hasSilhouette,round,hasNeckline,nonexistent,1
+belongsToCategory,head,hasNeckline,nonexistent,1
+depicts,perfume bottle,hasNeckline,nonexistent,1
+hasMaterialType,glass,hasLapelType,nonexistent,1
+hasLength,short,hasLapelType,nonexistent,1
+hasSilhouette,round,hasLapelType,nonexistent,1
+belongsToCategory,head,hasLapelType,nonexistent,1
+depicts,perfume bottle,hasLapelType,nonexistent,1
+hasMaterialType,glass,hasCollarType,nonexistent,1
+hasLength,short,hasCollarType,nonexistent,1
+hasSilhouette,round,hasCollarType,nonexistent,1
+belongsToCategory,head,hasCollarType,nonexistent,1
+depicts,perfume bottle,hasCollarType,nonexistent,1
+hasAnimalPattern,nonexistent,hasLength,short,1
+hasPattern,nonexistent,hasLength,short,1
+hasFabricTreatment,nonexistent,hasLength,short,1
+hasOpeningType,nonexistent,hasLength,short,1
+hasPocketType,nonexistent,hasLength,short,1
+hasSleeveType,nonexistent,hasLength,short,1
+hasNeckline,nonexistent,hasLength,short,1
+hasLapelType,nonexistent,hasLength,short,1
+hasCollarType,nonexistent,hasLength,short,1
+hasSilhouette,round,hasLength,short,1
+hasAnimalPattern,nonexistent,hasSilhouette,round,1
+hasPattern,nonexistent,hasSilhouette,round,1
+hasFabricTreatment,nonexistent,hasSilhouette,round,1
+hasMaterialType,glass,hasSilhouette,round,1
+hasOpeningType,nonexistent,hasSilhouette,round,1
+hasPocketType,nonexistent,hasSilhouette,round,1
+hasSleeveType,nonexistent,hasSilhouette,round,1
+hasNeckline,nonexistent,hasSilhouette,round,1
+hasLapelType,nonexistent,hasSilhouette,round,1
+hasCollarType,nonexistent,hasSilhouette,round,1
+hasLength,short,hasSilhouette,round,1
+belongsToCategory,head,hasSilhouette,round,1
+depicts,perfume bottle,hasSilhouette,round,1
+hasAnimalPattern,nonexistent,belongsToCategory,head,1
+hasPattern,nonexistent,belongsToCategory,head,1
+hasFabricTreatment,nonexistent,belongsToCategory,head,1
+hasOpeningType,nonexistent,belongsToCategory,head,1
+hasPocketType,nonexistent,belongsToCategory,head,1
+hasSleeveType,nonexistent,belongsToCategory,head,1
+hasNeckline,nonexistent,belongsToCategory,head,1
+hasLapelType,nonexistent,belongsToCategory,head,1
+hasCollarType,nonexistent,belongsToCategory,head,1
+hasSilhouette,round,belongsToCategory,head,1
+hasAnimalPattern,nonexistent,depicts,perfume bottle,1
+hasPattern,nonexistent,depicts,perfume bottle,1
+hasFabricTreatment,nonexistent,depicts,perfume bottle,1
+hasOpeningType,nonexistent,depicts,perfume bottle,1
+hasPocketType,nonexistent,depicts,perfume bottle,1
+hasSleeveType,nonexistent,depicts,perfume bottle,1
+hasNeckline,nonexistent,depicts,perfume bottle,1
+hasLapelType,nonexistent,depicts,perfume bottle,1
+hasCollarType,nonexistent,depicts,perfume bottle,1
+hasSilhouette,round,depicts,perfume bottle,1
+hasNeckline,mandarin,hasFabricTreatment,non-treated,1
+hasCollarType,mandarin-collar,hasFabricTreatment,non-treated,1
+hasWaistline,natural,hasFabricTreatment,non-treated,1
+hasSilhouette,regular,hasFabricTreatment,non-treated,1
+hasNeckline,mandarin,hasMaterialType,cotton,1
+hasCollarType,mandarin-collar,hasMaterialType,cotton,1
+hasNeckline,mandarin,hasOpeningType,button,1
+hasCollarType,mandarin-collar,hasOpeningType,button,1
+hasNeckline,mandarin,hasSleeveType,short,1
+hasCollarType,mandarin-collar,hasSleeveType,short,1
+hasFabricTreatment,non-treated,hasNeckline,mandarin,1
+hasMaterialType,cotton,hasNeckline,mandarin,1
+hasOpeningType,button,hasNeckline,mandarin,1
+hasSleeveType,short,hasNeckline,mandarin,1
+hasCollarType,mandarin-collar,hasNeckline,mandarin,1
+hasLength,short,hasNeckline,mandarin,1
+hasWaistline,natural,hasNeckline,mandarin,1
+hasSilhouette,regular,hasNeckline,mandarin,1
+belongsToCategory,upperbody,hasNeckline,mandarin,1
+depicts,shirt,hasNeckline,mandarin,1
+hasFabricTreatment,non-treated,hasCollarType,mandarin-collar,1
+hasMaterialType,cotton,hasCollarType,mandarin-collar,1
+hasOpeningType,button,hasCollarType,mandarin-collar,1
+hasSleeveType,short,hasCollarType,mandarin-collar,1
+hasNeckline,mandarin,hasCollarType,mandarin-collar,1
+hasLength,short,hasCollarType,mandarin-collar,1
+hasWaistline,natural,hasCollarType,mandarin-collar,1
+hasSilhouette,regular,hasCollarType,mandarin-collar,1
+belongsToCategory,upperbody,hasCollarType,mandarin-collar,1
+depicts,shirt,hasCollarType,mandarin-collar,1
+hasNeckline,mandarin,hasLength,short,1
+hasCollarType,mandarin-collar,hasLength,short,1
+hasFabricTreatment,non-treated,hasWaistline,natural,1
+hasNeckline,mandarin,hasWaistline,natural,1
+hasCollarType,mandarin-collar,hasWaistline,natural,1
+hasFabricTreatment,non-treated,hasSilhouette,regular,1
+hasNeckline,mandarin,hasSilhouette,regular,1
+hasCollarType,mandarin-collar,hasSilhouette,regular,1
+hasNeckline,mandarin,belongsToCategory,upperbody,1
+hasCollarType,mandarin-collar,belongsToCategory,upperbody,1
+hasNeckline,mandarin,depicts,shirt,1
+hasCollarType,mandarin-collar,depicts,shirt,1
+hasNeckline,spread,hasPattern,plaid,1
+hasCollarType,spread-collar,hasPattern,plaid,1
+hasPattern,plaid,hasNeckline,spread,1
+hasCollarType,spread-collar,hasNeckline,spread,1
+hasPattern,plaid,hasCollarType,spread-collar,1
+hasNeckline,spread,hasCollarType,spread-collar,1
+hasSilhouette,straight,hasCollarType,spread-collar,1
+hasCollarType,spread-collar,hasSilhouette,straight,1
+hasSilhouette,rectangular,hasMaterialType,glass,1
+hasSilhouette,rectangular,hasLength,short,1
+hasMaterialType,glass,hasSilhouette,rectangular,1
+hasLength,short,hasSilhouette,rectangular,1
+belongsToCategory,head,hasSilhouette,rectangular,1
+depicts,perfume bottle,hasSilhouette,rectangular,1
+hasSilhouette,rectangular,belongsToCategory,head,1
+hasSilhouette,rectangular,depicts,perfume bottle,1
+hasFabricTreatment,non-treated,hasPattern,striped,1
+hasNeckline,crewneck,hasPattern,striped,1
+hasCollarType,collared,hasPattern,striped,1
+hasWaistline,defined,hasPattern,striped,1
+hasSilhouette,fitted,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,non-treated,1
+hasNeckline,crewneck,hasFabricTreatment,non-treated,1
+hasCollarType,collared,hasFabricTreatment,non-treated,1
+hasWaistline,defined,hasFabricTreatment,non-treated,1
+hasSilhouette,fitted,hasFabricTreatment,non-treated,1
+hasWaistline,defined,hasMaterialType,cotton,1
+hasNeckline,crewneck,hasOpeningType,button,1
+hasWaistline,defined,hasOpeningType,button,1
+hasWaistline,defined,hasSleeveType,short,1
+hasPattern,striped,hasNeckline,crewneck,1
+hasFabricTreatment,non-treated,hasNeckline,crewneck,1
+hasOpeningType,button,hasNeckline,crewneck,1
+hasCollarType,collared,hasNeckline,crewneck,1
+hasWaistline,defined,hasNeckline,crewneck,1
+hasSilhouette,fitted,hasNeckline,crewneck,1
+hasPattern,striped,hasCollarType,collared,1
+hasFabricTreatment,non-treated,hasCollarType,collared,1
+hasNeckline,crewneck,hasCollarType,collared,1
+hasWaistline,defined,hasCollarType,collared,1
+hasWaistline,defined,hasLength,short,1
+hasPattern,striped,hasWaistline,defined,1
+hasFabricTreatment,non-treated,hasWaistline,defined,1
+hasMaterialType,cotton,hasWaistline,defined,1
+hasOpeningType,button,hasWaistline,defined,1
+hasSleeveType,short,hasWaistline,defined,1
+hasNeckline,crewneck,hasWaistline,defined,1
+hasCollarType,collared,hasWaistline,defined,1
+hasLength,short,hasWaistline,defined,1
+hasSilhouette,fitted,hasWaistline,defined,1
+belongsToCategory,upperbody,hasWaistline,defined,1
+depicts,shirt,hasWaistline,defined,1
+hasPattern,striped,hasSilhouette,fitted,1
+hasFabricTreatment,non-treated,hasSilhouette,fitted,1
+hasNeckline,crewneck,hasSilhouette,fitted,1
+hasWaistline,defined,hasSilhouette,fitted,1
+hasWaistline,defined,belongsToCategory,upperbody,1
+hasWaistline,defined,depicts,shirt,1
+hasCollarType,collared,hasPattern,plaid,1
+hasWaistline,high,hasPattern,plaid,1
+hasSilhouette,fitted,hasPattern,plaid,1
+hasCollarType,collared,hasFabricTreatment,plain weave,1
+hasWaistline,high,hasFabricTreatment,plain weave,1
+hasWaistline,high,hasMaterialType,cotton,1
+hasWaistline,high,hasOpeningType,button,1
+hasWaistline,high,hasSleeveType,short,1
+hasWaistline,high,hasNeckline,classic,1
+hasSilhouette,fitted,hasNeckline,classic,1
+hasPattern,plaid,hasCollarType,collared,1
+hasFabricTreatment,plain weave,hasCollarType,collared,1
+hasWaistline,high,hasCollarType,collared,1
+hasWaistline,high,hasLength,short,1
+hasPattern,plaid,hasWaistline,high,1
+hasFabricTreatment,plain weave,hasWaistline,high,1
+hasMaterialType,cotton,hasWaistline,high,1
+hasOpeningType,button,hasWaistline,high,1
+hasSleeveType,short,hasWaistline,high,1
+hasNeckline,classic,hasWaistline,high,1
+hasCollarType,collared,hasWaistline,high,1
+hasLength,short,hasWaistline,high,1
+hasSilhouette,fitted,hasWaistline,high,1
+belongsToCategory,upperbody,hasWaistline,high,1
+depicts,shirt,hasWaistline,high,1
+hasPattern,plaid,hasSilhouette,fitted,1
+hasNeckline,classic,hasSilhouette,fitted,1
+hasWaistline,high,hasSilhouette,fitted,1
+hasWaistline,high,belongsToCategory,upperbody,1
+hasWaistline,high,depicts,shirt,1
+hasSilhouette,straight,hasOpeningType,cap,1
+hasOpeningType,cap,hasSilhouette,straight,1
+hasMaterialType,plastic,hasPattern,solid color,1
+hasNickname,nail polish,hasPattern,solid color,1
+hasPattern,solid color,hasMaterialType,plastic,1
+hasLength,short,hasMaterialType,plastic,1
+hasNickname,nail polish,hasMaterialType,plastic,1
+belongsToCategory,lowerbody,hasMaterialType,plastic,1
+depicts,nail polish,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasLength,short,1
+hasNickname,nail polish,hasLength,short,1
+belongsToCategory,lowerbody,hasLength,short,1
+hasPattern,solid color,hasNickname,nail polish,1
+hasMaterialType,plastic,hasNickname,nail polish,1
+hasLength,short,hasNickname,nail polish,1
+belongsToCategory,lowerbody,hasNickname,nail polish,1
+hasMaterialType,plastic,belongsToCategory,lowerbody,1
+hasLength,short,belongsToCategory,lowerbody,1
+hasNickname,nail polish,belongsToCategory,lowerbody,1
+depicts,nail polish,belongsToCategory,lowerbody,1
+hasMaterialType,plastic,depicts,nail polish,1
+belongsToCategory,lowerbody,depicts,nail polish,1
+hasOpeningType,button,hasPattern,stripe,1
+hasNeckline,v-neck,hasPattern,stripe,1
+hasCollarType,open,hasPattern,stripe,1
+hasNeckline,v-neck,hasFabricTreatment,plain weave,1
+hasCollarType,open,hasFabricTreatment,plain weave,1
+hasCollarType,open,hasMaterialType,cotton,1
+hasPattern,stripe,hasOpeningType,button,1
+hasCollarType,open,hasOpeningType,button,1
+hasCollarType,open,hasSleeveType,short,1
+hasPattern,stripe,hasNeckline,v-neck,1
+hasFabricTreatment,plain weave,hasNeckline,v-neck,1
+hasCollarType,open,hasNeckline,v-neck,1
+hasSilhouette,regular,hasNeckline,v-neck,1
+hasPattern,stripe,hasCollarType,open,1
+hasFabricTreatment,plain weave,hasCollarType,open,1
+hasMaterialType,cotton,hasCollarType,open,1
+hasOpeningType,button,hasCollarType,open,1
+hasSleeveType,short,hasCollarType,open,1
+hasNeckline,v-neck,hasCollarType,open,1
+hasLength,short,hasCollarType,open,1
+hasWaistline,natural,hasCollarType,open,1
+hasSilhouette,regular,hasCollarType,open,1
+belongsToCategory,upperbody,hasCollarType,open,1
+depicts,shirt,hasCollarType,open,1
+hasCollarType,open,hasLength,short,1
+hasCollarType,open,hasWaistline,natural,1
+hasNeckline,v-neck,hasSilhouette,regular,1
+hasCollarType,open,hasSilhouette,regular,1
+hasCollarType,open,belongsToCategory,upperbody,1
+hasCollarType,open,depicts,shirt,1
+hasPattern,stripe,hasAnimalPattern,absent,1
+hasFabricTreatment,plain weave,hasAnimalPattern,absent,1
+hasMaterialType,cotton,hasAnimalPattern,absent,1
+hasOpeningType,buttons,hasAnimalPattern,absent,1
+hasPocketType,chest pocket,hasAnimalPattern,absent,1
+hasSleeveType,short,hasAnimalPattern,absent,1
+hasNeckline,crewneck,hasAnimalPattern,absent,1
+hasCollarType,spread-collar,hasAnimalPattern,absent,1
+hasLength,short,hasAnimalPattern,absent,1
+hasWaistline,natural,hasAnimalPattern,absent,1
+hasSilhouette,regular,hasAnimalPattern,absent,1
+belongsToCategory,upperbody,hasAnimalPattern,absent,1
+depicts,shirt,hasAnimalPattern,absent,1
+hasAnimalPattern,absent,hasPattern,stripe,1
+hasLeatherType,absent,hasPattern,stripe,1
+hasOpeningType,buttons,hasPattern,stripe,1
+hasPocketType,chest pocket,hasPattern,stripe,1
+hasNeckline,crewneck,hasPattern,stripe,1
+hasLapelType,absent,hasPattern,stripe,1
+hasCollarType,spread-collar,hasPattern,stripe,1
+hasAnimalPattern,absent,hasFabricTreatment,plain weave,1
+hasLeatherType,absent,hasFabricTreatment,plain weave,1
+hasOpeningType,buttons,hasFabricTreatment,plain weave,1
+hasNeckline,crewneck,hasFabricTreatment,plain weave,1
+hasLapelType,absent,hasFabricTreatment,plain weave,1
+hasPattern,stripe,hasLeatherType,absent,1
+hasFabricTreatment,plain weave,hasLeatherType,absent,1
+hasMaterialType,cotton,hasLeatherType,absent,1
+hasOpeningType,buttons,hasLeatherType,absent,1
+hasPocketType,chest pocket,hasLeatherType,absent,1
+hasSleeveType,short,hasLeatherType,absent,1
+hasNeckline,crewneck,hasLeatherType,absent,1
+hasCollarType,spread-collar,hasLeatherType,absent,1
+hasLength,short,hasLeatherType,absent,1
+hasWaistline,natural,hasLeatherType,absent,1
+hasSilhouette,regular,hasLeatherType,absent,1
+belongsToCategory,upperbody,hasLeatherType,absent,1
+depicts,shirt,hasLeatherType,absent,1
+hasAnimalPattern,absent,hasMaterialType,cotton,1
+hasLeatherType,absent,hasMaterialType,cotton,1
+hasOpeningType,buttons,hasMaterialType,cotton,1
+hasLapelType,absent,hasMaterialType,cotton,1
+hasAnimalPattern,absent,hasOpeningType,buttons,1
+hasPattern,stripe,hasOpeningType,buttons,1
+hasFabricTreatment,plain weave,hasOpeningType,buttons,1
+hasLeatherType,absent,hasOpeningType,buttons,1
+hasMaterialType,cotton,hasOpeningType,buttons,1
+hasPocketType,chest pocket,hasOpeningType,buttons,1
+hasSleeveType,short,hasOpeningType,buttons,1
+hasNeckline,crewneck,hasOpeningType,buttons,1
+hasLapelType,absent,hasOpeningType,buttons,1
+hasCollarType,spread-collar,hasOpeningType,buttons,1
+hasLength,short,hasOpeningType,buttons,1
+hasWaistline,natural,hasOpeningType,buttons,1
+hasSilhouette,regular,hasOpeningType,buttons,1
+belongsToCategory,upperbody,hasOpeningType,buttons,1
+depicts,shirt,hasOpeningType,buttons,1
+hasAnimalPattern,absent,hasPocketType,chest pocket,1
+hasPattern,stripe,hasPocketType,chest pocket,1
+hasLeatherType,absent,hasPocketType,chest pocket,1
+hasOpeningType,buttons,hasPocketType,chest pocket,1
+hasNeckline,crewneck,hasPocketType,chest pocket,1
+hasLapelType,absent,hasPocketType,chest pocket,1
+hasCollarType,spread-collar,hasPocketType,chest pocket,1
+hasSilhouette,regular,hasPocketType,chest pocket,1
+hasAnimalPattern,absent,hasSleeveType,short,1
+hasLeatherType,absent,hasSleeveType,short,1
+hasOpeningType,buttons,hasSleeveType,short,1
+hasLapelType,absent,hasSleeveType,short,1
+hasAnimalPattern,absent,hasNeckline,crewneck,1
+hasPattern,stripe,hasNeckline,crewneck,1
+hasFabricTreatment,plain weave,hasNeckline,crewneck,1
+hasLeatherType,absent,hasNeckline,crewneck,1
+hasOpeningType,buttons,hasNeckline,crewneck,1
+hasPocketType,chest pocket,hasNeckline,crewneck,1
+hasLapelType,absent,hasNeckline,crewneck,1
+hasCollarType,spread-collar,hasNeckline,crewneck,1
+hasWaistline,natural,hasNeckline,crewneck,1
+hasSilhouette,regular,hasNeckline,crewneck,1
+hasPattern,stripe,hasLapelType,absent,1
+hasFabricTreatment,plain weave,hasLapelType,absent,1
+hasMaterialType,cotton,hasLapelType,absent,1
+hasOpeningType,buttons,hasLapelType,absent,1
+hasPocketType,chest pocket,hasLapelType,absent,1
+hasSleeveType,short,hasLapelType,absent,1
+hasNeckline,crewneck,hasLapelType,absent,1
+hasCollarType,spread-collar,hasLapelType,absent,1
+hasLength,short,hasLapelType,absent,1
+hasWaistline,natural,hasLapelType,absent,1
+hasSilhouette,regular,hasLapelType,absent,1
+belongsToCategory,upperbody,hasLapelType,absent,1
+depicts,shirt,hasLapelType,absent,1
+hasAnimalPattern,absent,hasCollarType,spread-collar,1
+hasPattern,stripe,hasCollarType,spread-collar,1
+hasLeatherType,absent,hasCollarType,spread-collar,1
+hasOpeningType,buttons,hasCollarType,spread-collar,1
+hasPocketType,chest pocket,hasCollarType,spread-collar,1
+hasNeckline,crewneck,hasCollarType,spread-collar,1
+hasLapelType,absent,hasCollarType,spread-collar,1
+hasSilhouette,regular,hasCollarType,spread-collar,1
+hasAnimalPattern,absent,hasLength,short,1
+hasLeatherType,absent,hasLength,short,1
+hasOpeningType,buttons,hasLength,short,1
+hasLapelType,absent,hasLength,short,1
+hasAnimalPattern,absent,hasWaistline,natural,1
+hasLeatherType,absent,hasWaistline,natural,1
+hasOpeningType,buttons,hasWaistline,natural,1
+hasNeckline,crewneck,hasWaistline,natural,1
+hasLapelType,absent,hasWaistline,natural,1
+hasAnimalPattern,absent,hasSilhouette,regular,1
+hasLeatherType,absent,hasSilhouette,regular,1
+hasOpeningType,buttons,hasSilhouette,regular,1
+hasPocketType,chest pocket,hasSilhouette,regular,1
+hasNeckline,crewneck,hasSilhouette,regular,1
+hasLapelType,absent,hasSilhouette,regular,1
+hasCollarType,spread-collar,hasSilhouette,regular,1
+hasAnimalPattern,absent,belongsToCategory,upperbody,1
+hasLeatherType,absent,belongsToCategory,upperbody,1
+hasOpeningType,buttons,belongsToCategory,upperbody,1
+hasLapelType,absent,belongsToCategory,upperbody,1
+hasAnimalPattern,absent,depicts,shirt,1
+hasLeatherType,absent,depicts,shirt,1
+hasOpeningType,buttons,depicts,shirt,1
+hasLapelType,absent,depicts,shirt,1

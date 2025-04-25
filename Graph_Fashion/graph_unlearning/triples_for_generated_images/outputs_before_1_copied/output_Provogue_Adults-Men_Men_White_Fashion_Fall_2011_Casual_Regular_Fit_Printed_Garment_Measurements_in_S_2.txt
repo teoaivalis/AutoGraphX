@@ -1,0 +1,39 @@
+**Relationship 1: Depicts**
+(image_name, depicts, T-shirt)
+
+This relationship indicates that the image depicts a t-shirt.
+
+**Relationship 2: Belongs_to_category**
+(image_name, belongs_to_category, upperbody)
+
+This relationship categorizes the fashion item as belonging to the upperbody category.
+
+**Relationship 3: Has_silhouette**
+(image_name, has_silhouette, straight)
+
+This relationship defines the silhouette of the t-shirt as straight.
+
+**Relationship 4: Has_waistline**
+(image_name, has_waistline, no-waistline)
+
+Since this is a t-shirt, it does not have a defined waistline.
+
+**Relationship 5: Has_length**
+(image_name, has_length, regular-length)
+
+The length of the t-shirt is described as regular-length.
+
+**Relationship 6: Has_sleeve_type**
+(image_name, has_sleeve_type, short-sleeves)
+
+This relationship specifies that the t-shirt has short sleeves.
+
+**Relationship 7: Has_material_type**
+(image_name, has_material_type, cotton)
+
+The material type of the t-shirt is defined as cotton.
+
+**Relationship 8: Has_pattern**
+(image_name, has_pattern, printed-pattern)
+
+The t-shirt features a printed pattern.

@@ -1,0 +1,977 @@
+relation1,attribute1,relation2,attribute2,frequency
+hasSilhouette,straight,hasMaterialType,cotton,40
+belongsToCategory,lowerbody,hasMaterialType,cotton,40
+depicts,pants,hasMaterialType,cotton,40
+hasMaterialType,cotton,hasSilhouette,straight,40
+belongsToCategory,lowerbody,hasSilhouette,straight,40
+depicts,pants,hasSilhouette,straight,40
+hasMaterialType,cotton,belongsToCategory,lowerbody,40
+hasSilhouette,straight,belongsToCategory,lowerbody,40
+depicts,pants,belongsToCategory,lowerbody,40
+hasMaterialType,cotton,depicts,pants,40
+hasSilhouette,straight,depicts,pants,40
+belongsToCategory,lowerbody,depicts,pants,40
+hasPocketType,side pockets,hasMaterialType,cotton,31
+hasLength,full length,hasMaterialType,cotton,31
+hasMaterialType,cotton,hasPocketType,side pockets,31
+hasSilhouette,straight,hasPocketType,side pockets,31
+belongsToCategory,lowerbody,hasPocketType,side pockets,31
+depicts,pants,hasPocketType,side pockets,31
+hasMaterialType,cotton,hasLength,full length,31
+hasSilhouette,straight,hasLength,full length,31
+belongsToCategory,lowerbody,hasLength,full length,31
+depicts,pants,hasLength,full length,31
+hasPocketType,side pockets,hasSilhouette,straight,31
+hasLength,full length,hasSilhouette,straight,31
+hasPocketType,side pockets,belongsToCategory,lowerbody,31
+hasLength,full length,belongsToCategory,lowerbody,31
+hasPocketType,side pockets,depicts,pants,31
+hasLength,full length,depicts,pants,31
+hasLength,full length,hasPocketType,side pockets,23
+hasPocketType,side pockets,hasLength,full length,23
+hasSleeveType,long-sleeve,hasMaterialType,cotton,19
+hasMaterialType,cotton,hasSleeveType,long-sleeve,19
+hasSilhouette,straight,hasSleeveType,long-sleeve,19
+belongsToCategory,lowerbody,hasSleeveType,long-sleeve,19
+depicts,pants,hasSleeveType,long-sleeve,19
+hasSleeveType,long-sleeve,hasSilhouette,straight,19
+hasSleeveType,long-sleeve,belongsToCategory,lowerbody,19
+hasSleeveType,long-sleeve,depicts,pants,19
+hasLength,full length,hasSleeveType,long-sleeve,18
+hasSleeveType,long-sleeve,hasLength,full length,18
+hasSleeveType,long-sleeve,hasPocketType,side pockets,17
+hasPocketType,side pockets,hasSleeveType,long-sleeve,17
+hasWaistline,high-waisted,hasMaterialType,cotton,16
+hasWaistline,high-waisted,hasLength,full length,16
+hasMaterialType,cotton,hasWaistline,high-waisted,16
+hasLength,full length,hasWaistline,high-waisted,16
+hasSilhouette,straight,hasWaistline,high-waisted,16
+belongsToCategory,lowerbody,hasWaistline,high-waisted,16
+depicts,pants,hasWaistline,high-waisted,16
+hasWaistline,high-waisted,hasSilhouette,straight,16
+hasWaistline,high-waisted,belongsToCategory,lowerbody,16
+hasWaistline,high-waisted,depicts,pants,16
+hasOpeningType,zipper,hasMaterialType,cotton,14
+hasMaterialType,cotton,hasOpeningType,zipper,14
+hasSilhouette,straight,hasOpeningType,zipper,14
+belongsToCategory,lowerbody,hasOpeningType,zipper,14
+depicts,pants,hasOpeningType,zipper,14
+hasOpeningType,zipper,hasSilhouette,straight,14
+hasOpeningType,zipper,belongsToCategory,lowerbody,14
+hasOpeningType,zipper,depicts,pants,14
+hasWaistline,high-waisted,hasPocketType,side pockets,13
+hasPocketType,side pockets,hasWaistline,high-waisted,13
+hasPocketType,side pockets,hasOpeningType,zipper,12
+hasOpeningType,zipper,hasPocketType,side pockets,12
+hasWaistline,natural,hasMaterialType,cotton,12
+hasMaterialType,cotton,hasWaistline,natural,12
+hasSilhouette,straight,hasWaistline,natural,12
+belongsToCategory,lowerbody,hasWaistline,natural,12
+depicts,pants,hasWaistline,natural,12
+hasWaistline,natural,hasSilhouette,straight,12
+hasWaistline,natural,belongsToCategory,lowerbody,12
+hasWaistline,natural,depicts,pants,12
+hasLength,full length,hasOpeningType,zipper,11
+hasWaistline,high-waisted,hasSleeveType,long-sleeve,11
+hasOpeningType,zipper,hasLength,full length,11
+hasSleeveType,long-sleeve,hasWaistline,high-waisted,11
+hasWaistline,high,hasMaterialType,cotton,11
+hasMaterialType,cotton,hasWaistline,high,11
+hasSilhouette,straight,hasWaistline,high,11
+belongsToCategory,lowerbody,hasWaistline,high,11
+depicts,pants,hasWaistline,high,11
+hasWaistline,high,hasSilhouette,straight,11
+hasWaistline,high,belongsToCategory,lowerbody,11
+hasWaistline,high,depicts,pants,11
+hasMaterialType,cotton,hasPattern,solid color,10
+hasLength,full length,hasPattern,solid color,10
+hasSilhouette,straight,hasPattern,solid color,10
+belongsToCategory,lowerbody,hasPattern,solid color,10
+depicts,pants,hasPattern,solid color,10
+hasPattern,solid color,hasMaterialType,cotton,10
+hasPattern,solid color,hasLength,full length,10
+hasPattern,solid color,hasSilhouette,straight,10
+hasPattern,solid color,belongsToCategory,lowerbody,10
+hasPattern,solid color,depicts,pants,10
+hasWaistline,high,hasPocketType,side pockets,10
+hasPocketType,side pockets,hasWaistline,high,10
+hasSleeveType,long-sleeve,hasPattern,solid color,9
+hasPattern,solid color,hasSleeveType,long-sleeve,9
+hasPocketType,side pockets,hasPattern,solid color,8
+hasSleeveType,long-sleeve,hasOpeningType,zipper,8
+hasPattern,solid color,hasPocketType,side pockets,8
+hasOpeningType,zipper,hasSleeveType,long-sleeve,8
+hasWaistline,high-waisted,hasPattern,solid color,7
+hasPattern,solid color,hasWaistline,high-waisted,7
+hasOpeningType,zip fly,hasMaterialType,cotton,7
+hasMaterialType,cotton,hasOpeningType,zip fly,7
+hasSilhouette,straight,hasOpeningType,zip fly,7
+belongsToCategory,lowerbody,hasOpeningType,zip fly,7
+depicts,pants,hasOpeningType,zip fly,7
+hasOpeningType,zip fly,hasSilhouette,straight,7
+hasOpeningType,zip fly,belongsToCategory,lowerbody,7
+hasOpeningType,zip fly,depicts,pants,7
+hasWaistline,high,hasLength,full length,7
+hasLength,full length,hasWaistline,high,7
+hasWaistline,natural,hasPocketType,side pockets,7
+hasPocketType,side pockets,hasWaistline,natural,7
+hasWaistline,natural,hasLength,full length,7
+hasLength,full length,hasWaistline,natural,7
+hasMaterialType,cotton,hasPattern,striped,6
+hasSilhouette,straight,hasPattern,striped,6
+belongsToCategory,lowerbody,hasPattern,striped,6
+depicts,pants,hasPattern,striped,6
+hasPattern,striped,hasMaterialType,cotton,6
+hasPattern,striped,hasSilhouette,straight,6
+hasPattern,striped,belongsToCategory,lowerbody,6
+hasPattern,striped,depicts,pants,6
+hasWaistline,high,hasOpeningType,zipper,6
+hasOpeningType,zipper,hasWaistline,high,6
+hasWaistline,high-waisted,hasOpeningType,zipper,5
+hasOpeningType,zipper,hasWaistline,high-waisted,5
+hasLength,full length,hasOpeningType,zip fly,5
+hasOpeningType,zip fly,hasLength,full length,5
+hasPocketType,side pockets,hasPattern,striped,5
+hasLength,full,hasMaterialType,cotton,5
+hasPocketType,side pockets,hasOpeningType,zip fly,5
+hasPattern,striped,hasPocketType,side pockets,5
+hasOpeningType,zip fly,hasPocketType,side pockets,5
+hasMaterialType,cotton,hasLength,full,5
+hasSilhouette,straight,hasLength,full,5
+belongsToCategory,lowerbody,hasLength,full,5
+depicts,pants,hasLength,full,5
+hasLength,full,hasSilhouette,straight,5
+hasLength,full,belongsToCategory,lowerbody,5
+hasLength,full,depicts,pants,5
+hasOpeningType,button fly,hasMaterialType,cotton,5
+hasMaterialType,cotton,hasOpeningType,button fly,5
+hasPocketType,side pockets,hasOpeningType,button fly,5
+hasSilhouette,straight,hasOpeningType,button fly,5
+belongsToCategory,lowerbody,hasOpeningType,button fly,5
+depicts,pants,hasOpeningType,button fly,5
+hasOpeningType,button fly,hasPocketType,side pockets,5
+hasOpeningType,button fly,hasSilhouette,straight,5
+hasOpeningType,button fly,belongsToCategory,lowerbody,5
+hasOpeningType,button fly,depicts,pants,5
+hasSleeveType,sleeveless,hasMaterialType,cotton,5
+hasSleeveType,sleeveless,hasPocketType,side pockets,5
+hasMaterialType,cotton,hasSleeveType,sleeveless,5
+hasPocketType,side pockets,hasSleeveType,sleeveless,5
+hasSilhouette,straight,hasSleeveType,sleeveless,5
+belongsToCategory,lowerbody,hasSleeveType,sleeveless,5
+depicts,pants,hasSleeveType,sleeveless,5
+hasSleeveType,sleeveless,hasSilhouette,straight,5
+hasSleeveType,sleeveless,belongsToCategory,lowerbody,5
+hasSleeveType,sleeveless,depicts,pants,5
+hasWaistline,high,hasOpeningType,zip fly,4
+hasLength,full,hasPocketType,side pockets,4
+hasPocketType,side pockets,hasLength,full,4
+hasOpeningType,zip fly,hasWaistline,high,4
+hasWaistline,high,hasSleeveType,long-sleeve,4
+hasSleeveType,long-sleeve,hasWaistline,high,4
+hasLength,full length,hasPattern,striped,4
+hasPattern,striped,hasLength,full length,4
+hasLength,full length,hasOpeningType,button fly,4
+hasOpeningType,button fly,hasLength,full length,4
+hasLength,long,hasMaterialType,cotton,4
+hasLength,long,hasPocketType,side pockets,4
+hasMaterialType,cotton,hasLength,long,4
+hasPocketType,side pockets,hasLength,long,4
+hasSilhouette,straight,hasLength,long,4
+belongsToCategory,lowerbody,hasLength,long,4
+depicts,pants,hasLength,long,4
+hasLength,long,hasSilhouette,straight,4
+hasLength,long,belongsToCategory,lowerbody,4
+hasLength,long,depicts,pants,4
+hasSleeveType,no sleeve,hasMaterialType,cotton,4
+hasMaterialType,cotton,hasSleeveType,no sleeve,4
+hasSilhouette,straight,hasSleeveType,no sleeve,4
+belongsToCategory,lowerbody,hasSleeveType,no sleeve,4
+depicts,pants,hasSleeveType,no sleeve,4
+hasSleeveType,no sleeve,hasSilhouette,straight,4
+hasSleeveType,no sleeve,belongsToCategory,lowerbody,4
+hasSleeveType,no sleeve,depicts,pants,4
+hasMaterialType,cotton,hasFabricTreatment,plain weave,4
+hasLength,full length,hasFabricTreatment,plain weave,4
+hasSilhouette,straight,hasFabricTreatment,plain weave,4
+belongsToCategory,lowerbody,hasFabricTreatment,plain weave,4
+depicts,pants,hasFabricTreatment,plain weave,4
+hasFabricTreatment,plain weave,hasMaterialType,cotton,4
+hasFabricTreatment,plain weave,hasLength,full length,4
+hasFabricTreatment,plain weave,hasSilhouette,straight,4
+hasFabricTreatment,plain weave,belongsToCategory,lowerbody,4
+hasFabricTreatment,plain weave,depicts,pants,4
+hasLength,full length,hasSleeveType,sleeveless,4
+hasSleeveType,sleeveless,hasLength,full length,4
+hasOpeningType,zipper,hasPattern,solid color,3
+hasPattern,solid color,hasOpeningType,zipper,3
+hasNeckline,no neckline,hasMaterialType,cotton,3
+hasSleeveType,long-sleeve,hasOpeningType,zip fly,3
+hasWaistline,high-waisted,hasOpeningType,zip fly,3
+hasOpeningType,zip fly,hasSleeveType,long-sleeve,3
+hasMaterialType,cotton,hasNeckline,no neckline,3
+hasSilhouette,straight,hasNeckline,no neckline,3
+belongsToCategory,lowerbody,hasNeckline,no neckline,3
+depicts,pants,hasNeckline,no neckline,3
+hasOpeningType,zip fly,hasWaistline,high-waisted,3
+hasNeckline,no neckline,hasSilhouette,straight,3
+hasNeckline,no neckline,belongsToCategory,lowerbody,3
+hasNeckline,no neckline,depicts,pants,3
+hasMaterialType,cotton,hasLeatherType,no leather,3
+hasSilhouette,straight,hasLeatherType,no leather,3
+belongsToCategory,lowerbody,hasLeatherType,no leather,3
+depicts,pants,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasMaterialType,cotton,3
+hasLeatherType,no leather,hasSilhouette,straight,3
+hasLeatherType,no leather,belongsToCategory,lowerbody,3
+hasLeatherType,no leather,depicts,pants,3
+hasWaistline,high,hasPattern,striped,3
+hasWaistline,high,hasLength,full,3
+hasPattern,striped,hasWaistline,high,3
+hasLength,full,hasWaistline,high,3
+hasSleeveType,long-sleeve,hasOpeningType,button fly,3
+hasWaistline,high-waisted,hasOpeningType,button fly,3
+hasOpeningType,button fly,hasSleeveType,long-sleeve,3
+hasOpeningType,button fly,hasWaistline,high-waisted,3
+hasWaistline,natural,hasPattern,striped,3
+hasWaistline,natural,hasOpeningType,zipper,3
+hasWaistline,natural,hasLength,long,3
+hasPattern,striped,hasWaistline,natural,3
+hasOpeningType,zipper,hasWaistline,natural,3
+hasLength,long,hasWaistline,natural,3
+hasLength,full length,hasSleeveType,no sleeve,3
+hasSleeveType,no sleeve,hasLength,full length,3
+hasFabricTreatment,plain weave,hasPattern,solid color,3
+hasPattern,solid color,hasFabricTreatment,plain weave,3
+hasSleeveType,long-sleeve,hasFabricTreatment,plain weave,3
+hasFabricTreatment,plain weave,hasSleeveType,long-sleeve,3
+hasSleeveType,straight,hasMaterialType,cotton,3
+hasMaterialType,cotton,hasSleeveType,straight,3
+belongsToCategory,lowerbody,hasSleeveType,straight,3
+depicts,pants,hasSleeveType,straight,3
+hasSleeveType,straight,belongsToCategory,lowerbody,3
+hasSleeveType,straight,depicts,pants,3
+hasOpeningType,zipper closure,hasMaterialType,cotton,3
+hasMaterialType,cotton,hasOpeningType,zipper closure,3
+hasPocketType,side pockets,hasOpeningType,zipper closure,3
+hasSleeveType,long-sleeve,hasOpeningType,zipper closure,3
+hasLength,full length,hasOpeningType,zipper closure,3
+hasWaistline,high-waisted,hasOpeningType,zipper closure,3
+hasSilhouette,straight,hasOpeningType,zipper closure,3
+belongsToCategory,lowerbody,hasOpeningType,zipper closure,3
+depicts,pants,hasOpeningType,zipper closure,3
+hasOpeningType,zipper closure,hasPocketType,side pockets,3
+hasOpeningType,zipper closure,hasSleeveType,long-sleeve,3
+hasOpeningType,zipper closure,hasLength,full length,3
+hasOpeningType,zipper closure,hasWaistline,high-waisted,3
+hasOpeningType,zipper closure,hasSilhouette,straight,3
+hasOpeningType,zipper closure,belongsToCategory,lowerbody,3
+hasOpeningType,zipper closure,depicts,pants,3
+hasWaistline,natural,hasSleeveType,long-sleeve,3
+hasSleeveType,long-sleeve,hasWaistline,natural,3
+hasPocketType,side pockets,hasFabricTreatment,plain weave,3
+hasFabricTreatment,plain weave,hasPocketType,side pockets,3
+hasMaterialType,cotton,hasFabricTreatment,no treatment,2
+hasPocketType,side pockets,hasFabricTreatment,no treatment,2
+hasSleeveType,long-sleeve,hasFabricTreatment,no treatment,2
+hasLength,full length,hasFabricTreatment,no treatment,2
+hasWaistline,high-waisted,hasFabricTreatment,no treatment,2
+hasSilhouette,straight,hasFabricTreatment,no treatment,2
+belongsToCategory,lowerbody,hasFabricTreatment,no treatment,2
+depicts,pants,hasFabricTreatment,no treatment,2
+hasFabricTreatment,no treatment,hasMaterialType,cotton,2
+hasFabricTreatment,no treatment,hasPocketType,side pockets,2
+hasFabricTreatment,no treatment,hasSleeveType,long-sleeve,2
+hasFabricTreatment,no treatment,hasLength,full length,2
+hasFabricTreatment,no treatment,hasWaistline,high-waisted,2
+hasFabricTreatment,no treatment,hasSilhouette,straight,2
+hasFabricTreatment,no treatment,belongsToCategory,lowerbody,2
+hasFabricTreatment,no treatment,depicts,pants,2
+hasFabricTreatment,no special treatment,hasPattern,solid color,2
+hasOpeningType,zip fly,hasPattern,solid color,2
+hasNeckline,no neckline,hasPattern,solid color,2
+hasPattern,solid color,hasFabricTreatment,no special treatment,2
+hasMaterialType,cotton,hasFabricTreatment,no special treatment,2
+hasSleeveType,long-sleeve,hasFabricTreatment,no special treatment,2
+hasLength,full length,hasFabricTreatment,no special treatment,2
+hasWaistline,high-waisted,hasFabricTreatment,no special treatment,2
+hasSilhouette,straight,hasFabricTreatment,no special treatment,2
+belongsToCategory,lowerbody,hasFabricTreatment,no special treatment,2
+depicts,pants,hasFabricTreatment,no special treatment,2
+hasFabricTreatment,no special treatment,hasMaterialType,cotton,2
+hasPattern,solid color,hasOpeningType,zip fly,2
+hasNeckline,no neckline,hasOpeningType,zip fly,2
+hasFabricTreatment,no special treatment,hasSleeveType,long-sleeve,2
+hasNeckline,no neckline,hasSleeveType,long-sleeve,2
+hasPattern,solid color,hasNeckline,no neckline,2
+hasOpeningType,zip fly,hasNeckline,no neckline,2
+hasSleeveType,long-sleeve,hasNeckline,no neckline,2
+hasLength,full length,hasNeckline,no neckline,2
+hasFabricTreatment,no special treatment,hasLength,full length,2
+hasNeckline,no neckline,hasLength,full length,2
+hasFabricTreatment,no special treatment,hasWaistline,high-waisted,2
+hasFabricTreatment,no special treatment,hasSilhouette,straight,2
+hasFabricTreatment,no special treatment,belongsToCategory,lowerbody,2
+hasFabricTreatment,no special treatment,depicts,pants,2
+hasLeatherType,no leather,hasPattern,solid color,2
+hasPattern,solid color,hasLeatherType,no leather,2
+hasPocketType,side pockets,hasLeatherType,no leather,2
+hasSleeveType,long-sleeve,hasLeatherType,no leather,2
+hasLength,full length,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasPocketType,side pockets,2
+hasLeatherType,no leather,hasSleeveType,long-sleeve,2
+hasLeatherType,no leather,hasLength,full length,2
+hasOpeningType,zip fly,hasPattern,striped,2
+hasPattern,striped,hasOpeningType,zip fly,2
+hasLength,full,hasOpeningType,zip fly,2
+hasOpeningType,zip fly,hasLength,full,2
+hasMaterialType,cotton,hasFabricTreatment,washed,2
+hasSilhouette,straight,hasFabricTreatment,washed,2
+belongsToCategory,lowerbody,hasFabricTreatment,washed,2
+depicts,pants,hasFabricTreatment,washed,2
+hasFabricTreatment,washed,hasMaterialType,cotton,2
+hasFabricTreatment,washed,hasSilhouette,straight,2
+hasFabricTreatment,washed,belongsToCategory,lowerbody,2
+hasFabricTreatment,washed,depicts,pants,2
+hasOpeningType,zipper,hasPattern,striped,2
+hasPattern,striped,hasOpeningType,zipper,2
+hasLength,long,hasOpeningType,zipper,2
+hasOpeningType,zipper,hasLength,long,2
+hasSleeveType,no sleeve,hasOpeningType,zipper,2
+hasSleeveType,no sleeve,hasPocketType,side pockets,2
+hasOpeningType,zipper,hasSleeveType,no sleeve,2
+hasPocketType,side pockets,hasSleeveType,no sleeve,2
+hasWaistline,high,hasSleeveType,no sleeve,2
+hasSleeveType,no sleeve,hasWaistline,high,2
+hasOpeningType,zip fly,hasFabricTreatment,plain weave,2
+hasWaistline,high,hasFabricTreatment,plain weave,2
+hasNeckline,no neckline,hasLeatherType,no leather,2
+hasWaistline,high,hasLeatherType,no leather,2
+hasPocketType,front pocket,hasMaterialType,cotton,2
+hasFabricTreatment,plain weave,hasOpeningType,zip fly,2
+hasMaterialType,cotton,hasPocketType,front pocket,2
+hasLength,full length,hasPocketType,front pocket,2
+hasSilhouette,straight,hasPocketType,front pocket,2
+belongsToCategory,lowerbody,hasPocketType,front pocket,2
+depicts,pants,hasPocketType,front pocket,2
+hasLeatherType,no leather,hasNeckline,no neckline,2
+hasWaistline,high,hasNeckline,no neckline,2
+hasPocketType,front pocket,hasLength,full length,2
+hasFabricTreatment,plain weave,hasWaistline,high,2
+hasLeatherType,no leather,hasWaistline,high,2
+hasNeckline,no neckline,hasWaistline,high,2
+hasPocketType,front pocket,hasSilhouette,straight,2
+hasPocketType,front pocket,belongsToCategory,lowerbody,2
+hasPocketType,front pocket,depicts,pants,2
+hasSleeveType,straight,hasOpeningType,zipper,2
+hasSleeveType,straight,hasPocketType,side pockets,2
+hasOpeningType,zipper,hasSleeveType,straight,2
+hasPocketType,side pockets,hasSleeveType,straight,2
+hasLength,long,hasSleeveType,straight,2
+hasSleeveType,straight,hasLength,long,2
+hasWaistline,natural,hasLength,full,2
+hasLength,full,hasWaistline,natural,2
+hasNeckline,round neckline,hasMaterialType,cotton,2
+hasNeckline,round neckline,hasPocketType,side pockets,2
+hasNeckline,round neckline,hasSleeveType,long-sleeve,2
+hasMaterialType,cotton,hasNeckline,round neckline,2
+hasPocketType,side pockets,hasNeckline,round neckline,2
+hasSleeveType,long-sleeve,hasNeckline,round neckline,2
+hasLength,full length,hasNeckline,round neckline,2
+hasWaistline,high-waisted,hasNeckline,round neckline,2
+hasSilhouette,straight,hasNeckline,round neckline,2
+belongsToCategory,lowerbody,hasNeckline,round neckline,2
+depicts,pants,hasNeckline,round neckline,2
+hasNeckline,round neckline,hasLength,full length,2
+hasNeckline,round neckline,hasWaistline,high-waisted,2
+hasNeckline,round neckline,hasSilhouette,straight,2
+hasNeckline,round neckline,belongsToCategory,lowerbody,2
+hasNeckline,round neckline,depicts,pants,2
+hasWaistline,high-waisted,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasWaistline,high-waisted,2
+hasWaistline,high,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasWaistline,high,2
+hasOpeningType,front opening,hasPattern,solid color,2
+hasOpeningType,front opening,hasMaterialType,cotton,2
+hasPattern,solid color,hasOpeningType,front opening,2
+hasMaterialType,cotton,hasOpeningType,front opening,2
+hasPocketType,side pockets,hasOpeningType,front opening,2
+hasLength,full length,hasOpeningType,front opening,2
+hasSilhouette,straight,hasOpeningType,front opening,2
+belongsToCategory,lowerbody,hasOpeningType,front opening,2
+depicts,pants,hasOpeningType,front opening,2
+hasOpeningType,front opening,hasPocketType,side pockets,2
+hasOpeningType,front opening,hasLength,full length,2
+hasOpeningType,front opening,hasSilhouette,straight,2
+hasOpeningType,front opening,belongsToCategory,lowerbody,2
+hasOpeningType,front opening,depicts,pants,2
+hasFabricTreatment,no treatment,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,no treatment,1
+hasOpeningType,zipper,hasFabricTreatment,no treatment,1
+hasFabricTreatment,no treatment,hasOpeningType,zipper,1
+hasOpeningType,zip fly,hasFabricTreatment,no special treatment,1
+hasNeckline,no neckline,hasFabricTreatment,no special treatment,1
+hasFabricTreatment,no special treatment,hasOpeningType,zip fly,1
+hasFabricTreatment,no special treatment,hasNeckline,no neckline,1
+hasWaistline,high-waisted,hasNeckline,no neckline,1
+hasNeckline,no neckline,hasWaistline,high-waisted,1
+hasOpeningType,zipper front,hasPattern,solid color,1
+hasOpeningType,zipper front,hasLeatherType,no leather,1
+hasWaistline,high-waisted,hasLeatherType,no leather,1
+hasOpeningType,zipper front,hasMaterialType,cotton,1
+hasPattern,solid color,hasOpeningType,zipper front,1
+hasLeatherType,no leather,hasOpeningType,zipper front,1
+hasMaterialType,cotton,hasOpeningType,zipper front,1
+hasPocketType,side pockets,hasOpeningType,zipper front,1
+hasSleeveType,long-sleeve,hasOpeningType,zipper front,1
+hasLength,full length,hasOpeningType,zipper front,1
+hasWaistline,high-waisted,hasOpeningType,zipper front,1
+hasSilhouette,straight,hasOpeningType,zipper front,1
+belongsToCategory,lowerbody,hasOpeningType,zipper front,1
+depicts,pants,hasOpeningType,zipper front,1
+hasOpeningType,zipper front,hasPocketType,side pockets,1
+hasOpeningType,zipper front,hasSleeveType,long-sleeve,1
+hasOpeningType,zipper front,hasLength,full length,1
+hasLeatherType,no leather,hasWaistline,high-waisted,1
+hasOpeningType,zipper front,hasWaistline,high-waisted,1
+hasOpeningType,zipper front,hasSilhouette,straight,1
+hasOpeningType,zipper front,belongsToCategory,lowerbody,1
+hasOpeningType,zipper front,depicts,pants,1
+hasLength,full,hasPattern,striped,1
+hasPattern,striped,hasLength,full,1
+hasOpeningType,zipper,hasFabricTreatment,washed,1
+hasPocketType,side pockets,hasFabricTreatment,washed,1
+hasSleeveType,long-sleeve,hasFabricTreatment,washed,1
+hasLength,full length,hasFabricTreatment,washed,1
+hasWaistline,high-waisted,hasFabricTreatment,washed,1
+hasFabricTreatment,washed,hasOpeningType,zipper,1
+hasFabricTreatment,washed,hasPocketType,side pockets,1
+hasFabricTreatment,washed,hasSleeveType,long-sleeve,1
+hasFabricTreatment,washed,hasLength,full length,1
+hasFabricTreatment,washed,hasWaistline,high-waisted,1
+hasSleeveType,long-sleeve,hasPattern,striped,1
+hasPattern,striped,hasSleeveType,long-sleeve,1
+hasFabricTreatment,unfinished seams,hasPattern,striped,1
+hasSleeveType,full length,hasPattern,striped,1
+hasLength,long,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,unfinished seams,1
+hasMaterialType,cotton,hasFabricTreatment,unfinished seams,1
+hasOpeningType,zipper,hasFabricTreatment,unfinished seams,1
+hasPocketType,side pockets,hasFabricTreatment,unfinished seams,1
+hasSleeveType,full length,hasFabricTreatment,unfinished seams,1
+hasLength,long,hasFabricTreatment,unfinished seams,1
+hasWaistline,natural,hasFabricTreatment,unfinished seams,1
+hasSilhouette,straight,hasFabricTreatment,unfinished seams,1
+belongsToCategory,lowerbody,hasFabricTreatment,unfinished seams,1
+depicts,pants,hasFabricTreatment,unfinished seams,1
+hasFabricTreatment,unfinished seams,hasMaterialType,cotton,1
+hasSleeveType,full length,hasMaterialType,cotton,1
+hasFabricTreatment,unfinished seams,hasOpeningType,zipper,1
+hasSleeveType,full length,hasOpeningType,zipper,1
+hasFabricTreatment,unfinished seams,hasPocketType,side pockets,1
+hasSleeveType,full length,hasPocketType,side pockets,1
+hasPattern,striped,hasSleeveType,full length,1
+hasFabricTreatment,unfinished seams,hasSleeveType,full length,1
+hasMaterialType,cotton,hasSleeveType,full length,1
+hasOpeningType,zipper,hasSleeveType,full length,1
+hasPocketType,side pockets,hasSleeveType,full length,1
+hasLength,long,hasSleeveType,full length,1
+hasWaistline,natural,hasSleeveType,full length,1
+hasSilhouette,straight,hasSleeveType,full length,1
+belongsToCategory,lowerbody,hasSleeveType,full length,1
+depicts,pants,hasSleeveType,full length,1
+hasPattern,striped,hasLength,long,1
+hasFabricTreatment,unfinished seams,hasLength,long,1
+hasSleeveType,full length,hasLength,long,1
+hasFabricTreatment,unfinished seams,hasWaistline,natural,1
+hasSleeveType,full length,hasWaistline,natural,1
+hasFabricTreatment,unfinished seams,hasSilhouette,straight,1
+hasSleeveType,full length,hasSilhouette,straight,1
+hasFabricTreatment,unfinished seams,belongsToCategory,lowerbody,1
+hasSleeveType,full length,belongsToCategory,lowerbody,1
+hasFabricTreatment,unfinished seams,depicts,pants,1
+hasSleeveType,full length,depicts,pants,1
+hasMaterialType,cotton,hasFabricTreatment,solid,1
+hasOpeningType,zipper,hasFabricTreatment,solid,1
+hasPocketType,side pockets,hasFabricTreatment,solid,1
+hasSleeveType,no sleeve,hasFabricTreatment,solid,1
+hasLength,full,hasFabricTreatment,solid,1
+hasWaistline,high,hasFabricTreatment,solid,1
+hasSilhouette,straight,hasFabricTreatment,solid,1
+belongsToCategory,lowerbody,hasFabricTreatment,solid,1
+depicts,pants,hasFabricTreatment,solid,1
+hasFabricTreatment,solid,hasMaterialType,cotton,1
+hasFabricTreatment,solid,hasOpeningType,zipper,1
+hasLength,full,hasOpeningType,zipper,1
+hasFabricTreatment,solid,hasPocketType,side pockets,1
+hasFabricTreatment,solid,hasSleeveType,no sleeve,1
+hasLength,full,hasSleeveType,no sleeve,1
+hasFabricTreatment,solid,hasLength,full,1
+hasOpeningType,zipper,hasLength,full,1
+hasSleeveType,no sleeve,hasLength,full,1
+hasFabricTreatment,solid,hasWaistline,high,1
+hasFabricTreatment,solid,hasSilhouette,straight,1
+hasFabricTreatment,solid,belongsToCategory,lowerbody,1
+hasFabricTreatment,solid,depicts,pants,1
+hasPocketType,no pocket,hasMaterialType,cotton,1
+hasPocketType,no pocket,hasOpeningType,zipper,1
+hasMaterialType,cotton,hasPocketType,no pocket,1
+hasOpeningType,zipper,hasPocketType,no pocket,1
+hasSleeveType,no sleeve,hasPocketType,no pocket,1
+hasLength,full length,hasPocketType,no pocket,1
+hasWaistline,high-waisted,hasPocketType,no pocket,1
+hasSilhouette,straight,hasPocketType,no pocket,1
+belongsToCategory,lowerbody,hasPocketType,no pocket,1
+depicts,pants,hasPocketType,no pocket,1
+hasPocketType,no pocket,hasSleeveType,no sleeve,1
+hasWaistline,high-waisted,hasSleeveType,no sleeve,1
+hasPocketType,no pocket,hasLength,full length,1
+hasPocketType,no pocket,hasWaistline,high-waisted,1
+hasSleeveType,no sleeve,hasWaistline,high-waisted,1
+hasPocketType,no pocket,hasSilhouette,straight,1
+hasPocketType,no pocket,belongsToCategory,lowerbody,1
+hasPocketType,no pocket,depicts,pants,1
+hasPocketType,front pocket,hasPattern,solid color,1
+hasWaistline,high,hasPattern,solid color,1
+hasLeatherType,no leather,hasFabricTreatment,plain weave,1
+hasPocketType,front pocket,hasFabricTreatment,plain weave,1
+hasNeckline,no neckline,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasLeatherType,no leather,1
+hasOpeningType,zip fly,hasLeatherType,no leather,1
+hasPocketType,front pocket,hasLeatherType,no leather,1
+hasLeatherType,no leather,hasOpeningType,zip fly,1
+hasPocketType,front pocket,hasOpeningType,zip fly,1
+hasPattern,solid color,hasPocketType,front pocket,1
+hasFabricTreatment,plain weave,hasPocketType,front pocket,1
+hasLeatherType,no leather,hasPocketType,front pocket,1
+hasOpeningType,zip fly,hasPocketType,front pocket,1
+hasSleeveType,long-sleeve,hasPocketType,front pocket,1
+hasNeckline,no neckline,hasPocketType,front pocket,1
+hasWaistline,high,hasPocketType,front pocket,1
+hasPocketType,front pocket,hasSleeveType,long-sleeve,1
+hasFabricTreatment,plain weave,hasNeckline,no neckline,1
+hasPocketType,front pocket,hasNeckline,no neckline,1
+hasPattern,solid color,hasWaistline,high,1
+hasPocketType,front pocket,hasWaistline,high,1
+hasLeatherType,no leather,hasFabricTreatment,non-textured,1
+hasMaterialType,cotton,hasFabricTreatment,non-textured,1
+hasOpeningType,zipper,hasFabricTreatment,non-textured,1
+hasPocketType,side pockets,hasFabricTreatment,non-textured,1
+hasSleeveType,straight,hasFabricTreatment,non-textured,1
+hasNeckline,no neckline,hasFabricTreatment,non-textured,1
+hasLength,long,hasFabricTreatment,non-textured,1
+hasWaistline,high,hasFabricTreatment,non-textured,1
+hasSilhouette,straight,hasFabricTreatment,non-textured,1
+belongsToCategory,lowerbody,hasFabricTreatment,non-textured,1
+depicts,pants,hasFabricTreatment,non-textured,1
+hasFabricTreatment,non-textured,hasLeatherType,no leather,1
+hasOpeningType,zipper,hasLeatherType,no leather,1
+hasSleeveType,straight,hasLeatherType,no leather,1
+hasLength,long,hasLeatherType,no leather,1
+hasFabricTreatment,non-textured,hasMaterialType,cotton,1
+hasFabricTreatment,non-textured,hasOpeningType,zipper,1
+hasLeatherType,no leather,hasOpeningType,zipper,1
+hasNeckline,no neckline,hasOpeningType,zipper,1
+hasFabricTreatment,non-textured,hasPocketType,side pockets,1
+hasNeckline,no neckline,hasPocketType,side pockets,1
+hasFabricTreatment,non-textured,hasSleeveType,straight,1
+hasLeatherType,no leather,hasSleeveType,straight,1
+hasNeckline,no neckline,hasSleeveType,straight,1
+hasWaistline,high,hasSleeveType,straight,1
+hasFabricTreatment,non-textured,hasNeckline,no neckline,1
+hasOpeningType,zipper,hasNeckline,no neckline,1
+hasPocketType,side pockets,hasNeckline,no neckline,1
+hasSleeveType,straight,hasNeckline,no neckline,1
+hasLength,long,hasNeckline,no neckline,1
+hasFabricTreatment,non-textured,hasLength,long,1
+hasLeatherType,no leather,hasLength,long,1
+hasNeckline,no neckline,hasLength,long,1
+hasWaistline,high,hasLength,long,1
+hasFabricTreatment,non-textured,hasWaistline,high,1
+hasSleeveType,straight,hasWaistline,high,1
+hasLength,long,hasWaistline,high,1
+hasFabricTreatment,non-textured,hasSilhouette,straight,1
+hasFabricTreatment,non-textured,belongsToCategory,lowerbody,1
+hasFabricTreatment,non-textured,depicts,pants,1
+hasMaterialType,cotton,hasPattern,floral,1
+hasOpeningType,zipper closure,hasPattern,floral,1
+hasPocketType,side pockets,hasPattern,floral,1
+hasSleeveType,long-sleeve,hasPattern,floral,1
+hasLength,full length,hasPattern,floral,1
+hasWaistline,high-waisted,hasPattern,floral,1
+hasSilhouette,straight,hasPattern,floral,1
+belongsToCategory,lowerbody,hasPattern,floral,1
+depicts,pants,hasPattern,floral,1
+hasPattern,floral,hasMaterialType,cotton,1
+hasPattern,floral,hasOpeningType,zipper closure,1
+hasPattern,floral,hasPocketType,side pockets,1
+hasPattern,floral,hasSleeveType,long-sleeve,1
+hasPattern,floral,hasLength,full length,1
+hasPattern,floral,hasWaistline,high-waisted,1
+hasPattern,floral,hasSilhouette,straight,1
+hasPattern,floral,belongsToCategory,lowerbody,1
+hasPattern,floral,depicts,pants,1
+hasLength,full,hasFabricTreatment,washed,1
+hasWaistline,natural,hasFabricTreatment,washed,1
+hasFabricTreatment,washed,hasLength,full,1
+hasFabricTreatment,washed,hasWaistline,natural,1
+hasOpeningType,fly,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,fly,1
+hasPocketType,side pockets,hasOpeningType,fly,1
+hasSleeveType,straight,hasOpeningType,fly,1
+hasLength,long,hasOpeningType,fly,1
+hasWaistline,natural,hasOpeningType,fly,1
+hasSilhouette,straight,hasOpeningType,fly,1
+belongsToCategory,lowerbody,hasOpeningType,fly,1
+depicts,pants,hasOpeningType,fly,1
+hasOpeningType,fly,hasPocketType,side pockets,1
+hasOpeningType,fly,hasSleeveType,straight,1
+hasWaistline,natural,hasSleeveType,straight,1
+hasOpeningType,fly,hasLength,long,1
+hasOpeningType,fly,hasWaistline,natural,1
+hasSleeveType,straight,hasWaistline,natural,1
+hasOpeningType,fly,hasSilhouette,straight,1
+hasOpeningType,fly,belongsToCategory,lowerbody,1
+hasOpeningType,fly,depicts,pants,1
+hasFabricTreatment,no treatment,hasPattern,plain pattern,1
+hasMaterialType,cotton,hasPattern,plain pattern,1
+hasOpeningType,zip fly,hasPattern,plain pattern,1
+hasPocketType,side pockets,hasPattern,plain pattern,1
+hasSleeveType,long-sleeve,hasPattern,plain pattern,1
+hasNeckline,round neckline,hasPattern,plain pattern,1
+hasLength,full length,hasPattern,plain pattern,1
+hasWaistline,high-waisted,hasPattern,plain pattern,1
+hasSilhouette,straight,hasPattern,plain pattern,1
+belongsToCategory,lowerbody,hasPattern,plain pattern,1
+depicts,pants,hasPattern,plain pattern,1
+hasPattern,plain pattern,hasFabricTreatment,no treatment,1
+hasOpeningType,zip fly,hasFabricTreatment,no treatment,1
+hasNeckline,round neckline,hasFabricTreatment,no treatment,1
+hasPattern,plain pattern,hasMaterialType,cotton,1
+hasPattern,plain pattern,hasOpeningType,zip fly,1
+hasFabricTreatment,no treatment,hasOpeningType,zip fly,1
+hasNeckline,round neckline,hasOpeningType,zip fly,1
+hasPattern,plain pattern,hasPocketType,side pockets,1
+hasPattern,plain pattern,hasSleeveType,long-sleeve,1
+hasPattern,plain pattern,hasNeckline,round neckline,1
+hasFabricTreatment,no treatment,hasNeckline,round neckline,1
+hasOpeningType,zip fly,hasNeckline,round neckline,1
+hasPattern,plain pattern,hasLength,full length,1
+hasPattern,plain pattern,hasWaistline,high-waisted,1
+hasPattern,plain pattern,hasSilhouette,straight,1
+hasPattern,plain pattern,belongsToCategory,lowerbody,1
+hasPattern,plain pattern,depicts,pants,1
+hasOpeningType,zipper closure,hasPattern,solid color,1
+hasNeckline,round neckline,hasPattern,solid color,1
+hasPattern,solid color,hasOpeningType,zipper closure,1
+hasNeckline,round neckline,hasOpeningType,zipper closure,1
+hasPattern,solid color,hasNeckline,round neckline,1
+hasOpeningType,zipper closure,hasNeckline,round neckline,1
+hasNickname,blue jeans,hasMaterialType,cotton,1
+hasPocketType,front pocket,hasOpeningType,zipper,1
+hasNickname,blue jeans,hasOpeningType,zipper,1
+hasOpeningType,zipper,hasPocketType,front pocket,1
+hasSleeveType,straight,hasPocketType,front pocket,1
+hasWaistline,high-waisted,hasPocketType,front pocket,1
+hasNickname,blue jeans,hasPocketType,front pocket,1
+hasPocketType,front pocket,hasSleeveType,straight,1
+hasLength,full length,hasSleeveType,straight,1
+hasWaistline,high-waisted,hasSleeveType,straight,1
+hasNickname,blue jeans,hasSleeveType,straight,1
+hasSleeveType,straight,hasLength,full length,1
+hasNickname,blue jeans,hasLength,full length,1
+hasPocketType,front pocket,hasWaistline,high-waisted,1
+hasSleeveType,straight,hasWaistline,high-waisted,1
+hasNickname,blue jeans,hasWaistline,high-waisted,1
+hasNickname,blue jeans,hasSilhouette,straight,1
+hasMaterialType,cotton,hasNickname,blue jeans,1
+hasOpeningType,zipper,hasNickname,blue jeans,1
+hasPocketType,front pocket,hasNickname,blue jeans,1
+hasSleeveType,straight,hasNickname,blue jeans,1
+hasLength,full length,hasNickname,blue jeans,1
+hasWaistline,high-waisted,hasNickname,blue jeans,1
+hasSilhouette,straight,hasNickname,blue jeans,1
+belongsToCategory,lowerbody,hasNickname,blue jeans,1
+depicts,pants,hasNickname,blue jeans,1
+hasNickname,blue jeans,belongsToCategory,lowerbody,1
+hasNickname,blue jeans,depicts,pants,1
+hasOpeningType,zipper fly,hasMaterialType,cotton,1
+hasPocketType,slant pockets,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,zipper fly,1
+hasPocketType,slant pockets,hasOpeningType,zipper fly,1
+hasSleeveType,no sleeve,hasOpeningType,zipper fly,1
+hasLength,full length,hasOpeningType,zipper fly,1
+hasWaistline,natural,hasOpeningType,zipper fly,1
+hasSilhouette,straight,hasOpeningType,zipper fly,1
+belongsToCategory,lowerbody,hasOpeningType,zipper fly,1
+depicts,pants,hasOpeningType,zipper fly,1
+hasMaterialType,cotton,hasPocketType,slant pockets,1
+hasOpeningType,zipper fly,hasPocketType,slant pockets,1
+hasSleeveType,no sleeve,hasPocketType,slant pockets,1
+hasLength,full length,hasPocketType,slant pockets,1
+hasWaistline,natural,hasPocketType,slant pockets,1
+hasSilhouette,straight,hasPocketType,slant pockets,1
+belongsToCategory,lowerbody,hasPocketType,slant pockets,1
+depicts,pants,hasPocketType,slant pockets,1
+hasOpeningType,zipper fly,hasSleeveType,no sleeve,1
+hasPocketType,slant pockets,hasSleeveType,no sleeve,1
+hasWaistline,natural,hasSleeveType,no sleeve,1
+hasOpeningType,zipper fly,hasLength,full length,1
+hasPocketType,slant pockets,hasLength,full length,1
+hasOpeningType,zipper fly,hasWaistline,natural,1
+hasPocketType,slant pockets,hasWaistline,natural,1
+hasSleeveType,no sleeve,hasWaistline,natural,1
+hasOpeningType,zipper fly,hasSilhouette,straight,1
+hasPocketType,slant pockets,hasSilhouette,straight,1
+hasOpeningType,zipper fly,belongsToCategory,lowerbody,1
+hasPocketType,slant pockets,belongsToCategory,lowerbody,1
+hasOpeningType,zipper fly,depicts,pants,1
+hasPocketType,slant pockets,depicts,pants,1
+hasLength,full,hasOpeningType,button fly,1
+hasWaistline,natural,hasOpeningType,button fly,1
+hasLength,full,hasSleeveType,long-sleeve,1
+hasOpeningType,button fly,hasLength,full,1
+hasSleeveType,long-sleeve,hasLength,full,1
+hasOpeningType,button fly,hasWaistline,natural,1
+hasMaterialType,cotton,hasFabricTreatment,stretchable,1
+hasOpeningType,button fly,hasFabricTreatment,stretchable,1
+hasPocketType,side pockets,hasFabricTreatment,stretchable,1
+hasSleeveType,sleeveless,hasFabricTreatment,stretchable,1
+hasLength,full length,hasFabricTreatment,stretchable,1
+hasWaistline,high-waisted,hasFabricTreatment,stretchable,1
+hasSilhouette,straight,hasFabricTreatment,stretchable,1
+belongsToCategory,lowerbody,hasFabricTreatment,stretchable,1
+depicts,pants,hasFabricTreatment,stretchable,1
+hasFabricTreatment,stretchable,hasMaterialType,cotton,1
+hasFabricTreatment,stretchable,hasOpeningType,button fly,1
+hasSleeveType,sleeveless,hasOpeningType,button fly,1
+hasFabricTreatment,stretchable,hasPocketType,side pockets,1
+hasFabricTreatment,stretchable,hasSleeveType,sleeveless,1
+hasOpeningType,button fly,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretchable,hasLength,full length,1
+hasFabricTreatment,stretchable,hasWaistline,high-waisted,1
+hasFabricTreatment,stretchable,hasSilhouette,straight,1
+hasFabricTreatment,stretchable,belongsToCategory,lowerbody,1
+hasFabricTreatment,stretchable,depicts,pants,1
+hasFabricTreatment,dobby weave,hasPattern,houndstooth,1
+hasMaterialType,cotton,hasPattern,houndstooth,1
+hasOpeningType,zipper closure,hasPattern,houndstooth,1
+hasPocketType,side pockets,hasPattern,houndstooth,1
+hasSleeveType,long-sleeve,hasPattern,houndstooth,1
+hasLength,full length,hasPattern,houndstooth,1
+hasWaistline,high-waisted,hasPattern,houndstooth,1
+hasSilhouette,straight,hasPattern,houndstooth,1
+belongsToCategory,lowerbody,hasPattern,houndstooth,1
+depicts,pants,hasPattern,houndstooth,1
+hasPattern,houndstooth,hasFabricTreatment,dobby weave,1
+hasMaterialType,cotton,hasFabricTreatment,dobby weave,1
+hasOpeningType,zipper closure,hasFabricTreatment,dobby weave,1
+hasPocketType,side pockets,hasFabricTreatment,dobby weave,1
+hasSleeveType,long-sleeve,hasFabricTreatment,dobby weave,1
+hasLength,full length,hasFabricTreatment,dobby weave,1
+hasWaistline,high-waisted,hasFabricTreatment,dobby weave,1
+hasSilhouette,straight,hasFabricTreatment,dobby weave,1
+belongsToCategory,lowerbody,hasFabricTreatment,dobby weave,1
+depicts,pants,hasFabricTreatment,dobby weave,1
+hasPattern,houndstooth,hasMaterialType,cotton,1
+hasFabricTreatment,dobby weave,hasMaterialType,cotton,1
+hasPattern,houndstooth,hasOpeningType,zipper closure,1
+hasFabricTreatment,dobby weave,hasOpeningType,zipper closure,1
+hasPattern,houndstooth,hasPocketType,side pockets,1
+hasFabricTreatment,dobby weave,hasPocketType,side pockets,1
+hasPattern,houndstooth,hasSleeveType,long-sleeve,1
+hasFabricTreatment,dobby weave,hasSleeveType,long-sleeve,1
+hasPattern,houndstooth,hasLength,full length,1
+hasFabricTreatment,dobby weave,hasLength,full length,1
+hasPattern,houndstooth,hasWaistline,high-waisted,1
+hasFabricTreatment,dobby weave,hasWaistline,high-waisted,1
+hasPattern,houndstooth,hasSilhouette,straight,1
+hasFabricTreatment,dobby weave,hasSilhouette,straight,1
+hasPattern,houndstooth,belongsToCategory,lowerbody,1
+hasFabricTreatment,dobby weave,belongsToCategory,lowerbody,1
+hasPattern,houndstooth,depicts,pants,1
+hasFabricTreatment,dobby weave,depicts,pants,1
+hasFabricTreatment,unfinished,hasPattern,plaid,1
+hasMaterialType,cotton,hasPattern,plaid,1
+hasOpeningType,zipper,hasPattern,plaid,1
+hasPocketType,side pockets,hasPattern,plaid,1
+hasSleeveType,sleeveless,hasPattern,plaid,1
+hasNeckline,round neck,hasPattern,plaid,1
+hasLength,full length,hasPattern,plaid,1
+hasWaistline,high,hasPattern,plaid,1
+hasSilhouette,straight,hasPattern,plaid,1
+belongsToCategory,lowerbody,hasPattern,plaid,1
+depicts,pants,hasPattern,plaid,1
+hasPattern,plaid,hasFabricTreatment,unfinished,1
+hasMaterialType,cotton,hasFabricTreatment,unfinished,1
+hasOpeningType,zipper,hasFabricTreatment,unfinished,1
+hasPocketType,side pockets,hasFabricTreatment,unfinished,1
+hasSleeveType,sleeveless,hasFabricTreatment,unfinished,1
+hasNeckline,round neck,hasFabricTreatment,unfinished,1
+hasLength,full length,hasFabricTreatment,unfinished,1
+hasWaistline,high,hasFabricTreatment,unfinished,1
+hasSilhouette,straight,hasFabricTreatment,unfinished,1
+belongsToCategory,lowerbody,hasFabricTreatment,unfinished,1
+depicts,pants,hasFabricTreatment,unfinished,1
+hasPattern,plaid,hasMaterialType,cotton,1
+hasFabricTreatment,unfinished,hasMaterialType,cotton,1
+hasNeckline,round neck,hasMaterialType,cotton,1
+hasPattern,plaid,hasOpeningType,zipper,1
+hasFabricTreatment,unfinished,hasOpeningType,zipper,1
+hasSleeveType,sleeveless,hasOpeningType,zipper,1
+hasNeckline,round neck,hasOpeningType,zipper,1
+hasPattern,plaid,hasPocketType,side pockets,1
+hasFabricTreatment,unfinished,hasPocketType,side pockets,1
+hasNeckline,round neck,hasPocketType,side pockets,1
+hasPattern,plaid,hasSleeveType,sleeveless,1
+hasFabricTreatment,unfinished,hasSleeveType,sleeveless,1
+hasOpeningType,zipper,hasSleeveType,sleeveless,1
+hasNeckline,round neck,hasSleeveType,sleeveless,1
+hasPattern,plaid,hasNeckline,round neck,1
+hasFabricTreatment,unfinished,hasNeckline,round neck,1
+hasMaterialType,cotton,hasNeckline,round neck,1
+hasOpeningType,zipper,hasNeckline,round neck,1
+hasPocketType,side pockets,hasNeckline,round neck,1
+hasSleeveType,sleeveless,hasNeckline,round neck,1
+hasLength,full length,hasNeckline,round neck,1
+hasWaistline,high,hasNeckline,round neck,1
+hasSilhouette,straight,hasNeckline,round neck,1
+belongsToCategory,lowerbody,hasNeckline,round neck,1
+depicts,pants,hasNeckline,round neck,1
+hasPattern,plaid,hasLength,full length,1
+hasFabricTreatment,unfinished,hasLength,full length,1
+hasNeckline,round neck,hasLength,full length,1
+hasPattern,plaid,hasWaistline,high,1
+hasFabricTreatment,unfinished,hasWaistline,high,1
+hasNeckline,round neck,hasWaistline,high,1
+hasPattern,plaid,hasSilhouette,straight,1
+hasFabricTreatment,unfinished,hasSilhouette,straight,1
+hasNeckline,round neck,hasSilhouette,straight,1
+hasPattern,plaid,belongsToCategory,lowerbody,1
+hasFabricTreatment,unfinished,belongsToCategory,lowerbody,1
+hasNeckline,round neck,belongsToCategory,lowerbody,1
+hasPattern,plaid,depicts,pants,1
+hasFabricTreatment,unfinished,depicts,pants,1
+hasNeckline,round neck,depicts,pants,1
+hasSleeveType,no sleeve,hasOpeningType,button fly,1
+hasWaistline,high,hasOpeningType,button fly,1
+hasOpeningType,button fly,hasSleeveType,no sleeve,1
+hasOpeningType,button fly,hasWaistline,high,1
+hasMaterialType,cotton,hasFabricTreatment,soft touch,1
+hasOpeningType,zip fly,hasFabricTreatment,soft touch,1
+hasPocketType,side pockets,hasFabricTreatment,soft touch,1
+hasSleeveType,sleeveless,hasFabricTreatment,soft touch,1
+hasLength,full,hasFabricTreatment,soft touch,1
+hasWaistline,high,hasFabricTreatment,soft touch,1
+hasSilhouette,straight,hasFabricTreatment,soft touch,1
+belongsToCategory,lowerbody,hasFabricTreatment,soft touch,1
+depicts,pants,hasFabricTreatment,soft touch,1
+hasFabricTreatment,soft touch,hasMaterialType,cotton,1
+hasFabricTreatment,soft touch,hasOpeningType,zip fly,1
+hasSleeveType,sleeveless,hasOpeningType,zip fly,1
+hasFabricTreatment,soft touch,hasPocketType,side pockets,1
+hasFabricTreatment,soft touch,hasSleeveType,sleeveless,1
+hasOpeningType,zip fly,hasSleeveType,sleeveless,1
+hasLength,full,hasSleeveType,sleeveless,1
+hasFabricTreatment,soft touch,hasLength,full,1
+hasSleeveType,sleeveless,hasLength,full,1
+hasFabricTreatment,soft touch,hasWaistline,high,1
+hasFabricTreatment,soft touch,hasSilhouette,straight,1
+hasFabricTreatment,soft touch,belongsToCategory,lowerbody,1
+hasFabricTreatment,soft touch,depicts,pants,1
+hasWaistline,natural-waist,hasPattern,solid color,1
+hasWaistline,natural-waist,hasMaterialType,cotton,1
+hasSleeveType,long-sleeve,hasOpeningType,front opening,1
+hasWaistline,natural-waist,hasOpeningType,front opening,1
+hasWaistline,natural-waist,hasPocketType,side pockets,1
+hasOpeningType,front opening,hasSleeveType,long-sleeve,1
+hasWaistline,natural-waist,hasSleeveType,long-sleeve,1
+hasWaistline,natural-waist,hasLength,full length,1
+hasPattern,solid color,hasWaistline,natural-waist,1
+hasMaterialType,cotton,hasWaistline,natural-waist,1
+hasOpeningType,front opening,hasWaistline,natural-waist,1
+hasPocketType,side pockets,hasWaistline,natural-waist,1
+hasSleeveType,long-sleeve,hasWaistline,natural-waist,1
+hasLength,full length,hasWaistline,natural-waist,1
+hasSilhouette,straight,hasWaistline,natural-waist,1
+belongsToCategory,lowerbody,hasWaistline,natural-waist,1
+depicts,pants,hasWaistline,natural-waist,1
+hasWaistline,natural-waist,hasSilhouette,straight,1
+hasWaistline,natural-waist,belongsToCategory,lowerbody,1
+hasWaistline,natural-waist,depicts,pants,1
+hasSleeveType,sleeveless,hasPattern,solid color,1
+hasSleeveType,sleeveless,hasOpeningType,front opening,1
+hasWaistline,high-waisted,hasOpeningType,front opening,1
+hasPattern,solid color,hasSleeveType,sleeveless,1
+hasOpeningType,front opening,hasSleeveType,sleeveless,1
+hasOpeningType,front opening,hasWaistline,high-waisted,1
+hasOpeningType,zipper opening,hasPattern,striped,1
+hasSleeveType,sleeveless,hasPattern,striped,1
+hasOpeningType,zipper opening,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,zipper opening,1
+hasMaterialType,cotton,hasOpeningType,zipper opening,1
+hasPocketType,side pockets,hasOpeningType,zipper opening,1
+hasSleeveType,sleeveless,hasOpeningType,zipper opening,1
+hasLength,full length,hasOpeningType,zipper opening,1
+hasWaistline,natural,hasOpeningType,zipper opening,1
+hasSilhouette,straight,hasOpeningType,zipper opening,1
+belongsToCategory,lowerbody,hasOpeningType,zipper opening,1
+depicts,pants,hasOpeningType,zipper opening,1
+hasOpeningType,zipper opening,hasPocketType,side pockets,1
+hasPattern,striped,hasSleeveType,sleeveless,1
+hasOpeningType,zipper opening,hasSleeveType,sleeveless,1
+hasWaistline,natural,hasSleeveType,sleeveless,1
+hasOpeningType,zipper opening,hasLength,full length,1
+hasOpeningType,zipper opening,hasWaistline,natural,1
+hasSleeveType,sleeveless,hasWaistline,natural,1
+hasOpeningType,zipper opening,hasSilhouette,straight,1
+hasOpeningType,zipper opening,belongsToCategory,lowerbody,1
+hasOpeningType,zipper opening,depicts,pants,1
+hasOpeningType,button fly,hasPattern,solid color,1
+hasOpeningType,button fly,hasFabricTreatment,plain weave,1
+hasWaistline,high-waisted,hasFabricTreatment,plain weave,1
+hasPattern,solid color,hasOpeningType,button fly,1
+hasFabricTreatment,plain weave,hasOpeningType,button fly,1
+hasFabricTreatment,plain weave,hasWaistline,high-waisted,1
+hasWaistline,natural,hasPattern,solid color,1
+hasOpeningType,zipper,hasFabricTreatment,plain weave,1
+hasWaistline,natural,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasOpeningType,zipper,1
+hasPattern,solid color,hasWaistline,natural,1
+hasFabricTreatment,plain weave,hasWaistline,natural,1
+hasOpeningType,zipper,hasFabricTreatment,no special treatment,1
+hasPocketType,side pockets,hasFabricTreatment,no special treatment,1
+hasFabricTreatment,no special treatment,hasOpeningType,zipper,1
+hasFabricTreatment,no special treatment,hasPocketType,side pockets,1
+hasOpeningType,front zipper,hasMaterialType,cotton,1
+hasSleeveType,full,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,front zipper,1
+hasPocketType,side pockets,hasOpeningType,front zipper,1
+hasSleeveType,full,hasOpeningType,front zipper,1
+hasLength,long,hasOpeningType,front zipper,1
+hasWaistline,natural,hasOpeningType,front zipper,1
+hasSilhouette,straight,hasOpeningType,front zipper,1
+belongsToCategory,lowerbody,hasOpeningType,front zipper,1
+depicts,pants,hasOpeningType,front zipper,1
+hasOpeningType,front zipper,hasPocketType,side pockets,1
+hasSleeveType,full,hasPocketType,side pockets,1
+hasMaterialType,cotton,hasSleeveType,full,1
+hasOpeningType,front zipper,hasSleeveType,full,1
+hasPocketType,side pockets,hasSleeveType,full,1
+hasLength,long,hasSleeveType,full,1
+hasWaistline,natural,hasSleeveType,full,1
+hasSilhouette,straight,hasSleeveType,full,1
+belongsToCategory,lowerbody,hasSleeveType,full,1
+depicts,pants,hasSleeveType,full,1
+hasOpeningType,front zipper,hasLength,long,1
+hasSleeveType,full,hasLength,long,1
+hasOpeningType,front zipper,hasWaistline,natural,1
+hasSleeveType,full,hasWaistline,natural,1
+hasOpeningType,front zipper,hasSilhouette,straight,1
+hasSleeveType,full,hasSilhouette,straight,1
+hasOpeningType,front zipper,belongsToCategory,lowerbody,1
+hasSleeveType,full,belongsToCategory,lowerbody,1
+hasOpeningType,front zipper,depicts,pants,1
+hasSleeveType,full,depicts,pants,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1

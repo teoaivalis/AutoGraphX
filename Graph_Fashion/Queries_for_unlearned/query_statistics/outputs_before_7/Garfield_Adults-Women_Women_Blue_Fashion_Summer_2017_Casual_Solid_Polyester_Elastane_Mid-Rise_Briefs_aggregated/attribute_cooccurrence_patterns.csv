@@ -1,0 +1,1801 @@
+relation1,attribute1,relation2,attribute2,frequency
+belongsToCategory,lowerbody,hasSleeveType,sleeveless,32
+hasSleeveType,sleeveless,belongsToCategory,lowerbody,32
+belongsToCategory,lowerbody,hasMaterialType,cotton,30
+hasMaterialType,cotton,belongsToCategory,lowerbody,30
+depicts,underwear,belongsToCategory,lowerbody,26
+belongsToCategory,lowerbody,depicts,underwear,26
+hasSleeveType,sleeveless,hasMaterialType,cotton,24
+hasMaterialType,cotton,hasSleeveType,sleeveless,24
+belongsToCategory,lowerbody,hasLength,short,23
+hasLength,short,belongsToCategory,lowerbody,23
+depicts,underwear,hasMaterialType,cotton,21
+hasMaterialType,cotton,depicts,underwear,21
+hasLength,short,hasSleeveType,sleeveless,19
+hasSleeveType,sleeveless,hasLength,short,19
+belongsToCategory,lowerbody,hasPattern,solid color,18
+depicts,underwear,hasSleeveType,sleeveless,18
+hasPattern,solid color,belongsToCategory,lowerbody,18
+hasSleeveType,sleeveless,depicts,underwear,18
+hasLength,short,hasMaterialType,cotton,17
+hasMaterialType,cotton,hasLength,short,17
+belongsToCategory,lowerbody,hasSilhouette,briefs,17
+hasSilhouette,briefs,belongsToCategory,lowerbody,17
+belongsToCategory,lowerbody,hasFabricTreatment,stretchy,16
+hasFabricTreatment,stretchy,belongsToCategory,lowerbody,16
+hasMaterialType,cotton,hasPattern,solid color,15
+hasSleeveType,sleeveless,hasPattern,solid color,15
+hasPattern,solid color,hasMaterialType,cotton,15
+hasPattern,solid color,hasSleeveType,sleeveless,15
+belongsToCategory,lowerbody,hasLength,briefs,15
+hasLength,briefs,belongsToCategory,lowerbody,15
+hasSilhouette,briefs,hasLength,short,15
+hasLength,short,hasSilhouette,briefs,15
+depicts,underwear,hasSilhouette,briefs,15
+hasSilhouette,briefs,depicts,underwear,15
+hasSilhouette,briefs,hasMaterialType,cotton,14
+hasSilhouette,briefs,hasSleeveType,sleeveless,14
+depicts,underwear,hasLength,short,14
+hasMaterialType,cotton,hasSilhouette,briefs,14
+hasSleeveType,sleeveless,hasSilhouette,briefs,14
+hasLength,short,depicts,underwear,14
+belongsToCategory,lowerbody,hasWaistline,low-rise,14
+hasWaistline,low-rise,belongsToCategory,lowerbody,14
+depicts,underwear,hasPattern,solid color,12
+hasPattern,solid color,depicts,underwear,12
+hasSleeveType,sleeveless,hasFabricTreatment,stretchy,12
+hasFabricTreatment,stretchy,hasSleeveType,sleeveless,12
+hasLength,briefs,hasMaterialType,cotton,11
+hasLength,briefs,hasSleeveType,sleeveless,11
+hasMaterialType,cotton,hasLength,briefs,11
+hasSleeveType,sleeveless,hasLength,briefs,11
+belongsToCategory,lowerbody,hasWaistline,high-waisted,11
+hasWaistline,high-waisted,belongsToCategory,lowerbody,11
+hasOpeningType,open front,hasMaterialType,cotton,11
+hasMaterialType,cotton,hasOpeningType,open front,11
+belongsToCategory,lowerbody,hasOpeningType,open front,11
+hasOpeningType,open front,belongsToCategory,lowerbody,11
+hasMaterialType,cotton,hasFabricTreatment,stretchy,11
+hasFabricTreatment,stretchy,hasMaterialType,cotton,11
+hasWaistline,low-rise,hasMaterialType,cotton,11
+hasMaterialType,cotton,hasWaistline,low-rise,11
+hasLength,briefs,hasPattern,solid color,10
+hasWaistline,high-waisted,hasSleeveType,sleeveless,10
+hasPattern,solid color,hasLength,briefs,10
+depicts,underwear,hasLength,briefs,10
+hasSleeveType,sleeveless,hasWaistline,high-waisted,10
+hasLength,briefs,depicts,underwear,10
+hasSleeveType,sleeveless,hasOpeningType,open front,10
+hasOpeningType,open front,hasSleeveType,sleeveless,10
+hasWaistline,high-waisted,hasMaterialType,cotton,9
+hasMaterialType,cotton,hasWaistline,high-waisted,9
+hasNeckline,no neckline,hasSleeveType,sleeveless,9
+hasSleeveType,sleeveless,hasNeckline,no neckline,9
+belongsToCategory,lowerbody,hasNeckline,no neckline,9
+hasNeckline,no neckline,belongsToCategory,lowerbody,9
+depicts,underwear,hasWaistline,low-rise,9
+hasWaistline,low-rise,depicts,underwear,9
+hasWaistline,low-rise,hasSleeveType,sleeveless,9
+hasSleeveType,sleeveless,hasWaistline,low-rise,9
+hasMaterialType,cotton,hasPattern,striped,9
+belongsToCategory,lowerbody,hasPattern,striped,9
+hasPattern,striped,hasMaterialType,cotton,9
+hasPattern,striped,belongsToCategory,lowerbody,9
+hasNeckline,no neckline,hasMaterialType,cotton,8
+hasMaterialType,cotton,hasNeckline,no neckline,8
+belongsToCategory,lowerbody,hasWaistline,natural-waist,8
+hasWaistline,natural-waist,belongsToCategory,lowerbody,8
+hasLength,briefs,hasFabricTreatment,stretchy,8
+hasWaistline,low-rise,hasFabricTreatment,stretchy,8
+depicts,underwear,hasFabricTreatment,stretchy,8
+hasFabricTreatment,stretchy,hasLength,briefs,8
+hasFabricTreatment,stretchy,hasWaistline,low-rise,8
+hasFabricTreatment,stretchy,depicts,underwear,8
+hasLength,short,hasFabricTreatment,stretchy,8
+hasFabricTreatment,stretchy,hasLength,short,8
+hasWaistline,high-waisted,hasPattern,solid color,7
+hasPattern,solid color,hasWaistline,high-waisted,7
+depicts,underwear,hasWaistline,high-waisted,7
+hasWaistline,high-waisted,depicts,underwear,7
+hasLength,short,hasPattern,solid color,7
+hasLength,short,hasOpeningType,open front,7
+depicts,underwear,hasOpeningType,open front,7
+hasPattern,solid color,hasLength,short,7
+hasOpeningType,open front,hasLength,short,7
+hasOpeningType,open front,depicts,underwear,7
+hasFabricTreatment,stretchy,hasPattern,solid color,7
+hasPattern,solid color,hasFabricTreatment,stretchy,7
+hasWaistline,low-rise,hasLength,briefs,7
+hasLength,briefs,hasWaistline,low-rise,7
+hasWaistline,natural-waist,hasLength,short,7
+hasLength,short,hasWaistline,natural-waist,7
+belongsToCategory,lowerbody,hasSilhouette,form-fitting,6
+hasSilhouette,form-fitting,belongsToCategory,lowerbody,6
+hasOpeningType,open front,hasPattern,solid color,6
+hasSilhouette,briefs,hasPattern,solid color,6
+hasPattern,solid color,hasOpeningType,open front,6
+hasSilhouette,briefs,hasOpeningType,open front,6
+depicts,underwear,hasNeckline,no neckline,6
+hasWaistline,high-waisted,hasLength,short,6
+hasLength,short,hasWaistline,high-waisted,6
+hasPattern,solid color,hasSilhouette,briefs,6
+hasOpeningType,open front,hasSilhouette,briefs,6
+hasNeckline,no neckline,depicts,underwear,6
+hasWaistline,natural-waist,hasSleeveType,sleeveless,6
+hasSleeveType,sleeveless,hasWaistline,natural-waist,6
+belongsToCategory,lowerbody,hasOpeningType,zipper,6
+hasOpeningType,zipper,belongsToCategory,lowerbody,6
+hasWaistline,low-rise,hasLength,short,6
+hasLength,short,hasWaistline,low-rise,6
+hasFabricTreatment,stretchy,hasPattern,striped,6
+hasSleeveType,sleeveless,hasPattern,striped,6
+hasLength,short,hasPattern,striped,6
+hasPattern,striped,hasFabricTreatment,stretchy,6
+hasPattern,striped,hasSleeveType,sleeveless,6
+hasPattern,striped,hasLength,short,6
+hasSilhouette,form-fitting,hasPattern,solid color,5
+hasSilhouette,form-fitting,hasSleeveType,sleeveless,5
+hasWaistline,high-waisted,hasLength,briefs,5
+hasSilhouette,form-fitting,hasLength,briefs,5
+hasLength,briefs,hasWaistline,high-waisted,5
+hasPattern,solid color,hasSilhouette,form-fitting,5
+hasSleeveType,sleeveless,hasSilhouette,form-fitting,5
+hasLength,briefs,hasSilhouette,form-fitting,5
+hasNeckline,no neckline,hasPattern,solid color,5
+hasNeckline,no neckline,hasOpeningType,open front,5
+hasPattern,solid color,hasNeckline,no neckline,5
+hasOpeningType,open front,hasNeckline,no neckline,5
+hasWaistline,high-waisted,hasNeckline,no neckline,5
+hasSilhouette,briefs,hasNeckline,no neckline,5
+hasNeckline,no neckline,hasWaistline,high-waisted,5
+hasSilhouette,briefs,hasWaistline,high-waisted,5
+hasNeckline,no neckline,hasSilhouette,briefs,5
+hasWaistline,high-waisted,hasSilhouette,briefs,5
+hasWaistline,natural-waist,hasMaterialType,cotton,5
+hasMaterialType,cotton,hasWaistline,natural-waist,5
+hasOpeningType,zipper,hasFabricTreatment,stretchy,5
+hasOpeningType,zipper,hasMaterialType,cotton,5
+hasFabricTreatment,stretchy,hasOpeningType,zipper,5
+hasMaterialType,cotton,hasOpeningType,zipper,5
+depicts,briefs,hasSleeveType,sleeveless,5
+depicts,briefs,hasLength,short,5
+belongsToCategory,lowerbody,hasSilhouette,slim-fit,5
+hasSilhouette,slim-fit,belongsToCategory,lowerbody,5
+depicts,briefs,belongsToCategory,lowerbody,5
+hasSleeveType,sleeveless,depicts,briefs,5
+hasLength,short,depicts,briefs,5
+belongsToCategory,lowerbody,depicts,briefs,5
+hasSilhouette,briefs,hasWaistline,low-rise,5
+hasWaistline,low-rise,hasSilhouette,briefs,5
+hasWaistline,low-rise,hasPattern,striped,5
+hasWaistline,low-rise,hasOpeningType,open front,5
+hasPattern,striped,hasWaistline,low-rise,5
+hasOpeningType,open front,hasWaistline,low-rise,5
+depicts,underwear,hasPattern,striped,5
+hasPattern,striped,depicts,underwear,5
+hasOpeningType,open-front,hasMaterialType,cotton,4
+hasMaterialType,cotton,hasOpeningType,open-front,4
+hasSleeveType,sleeveless,hasOpeningType,open-front,4
+belongsToCategory,lowerbody,hasOpeningType,open-front,4
+hasOpeningType,open-front,hasSleeveType,sleeveless,4
+hasSilhouette,form-fitting,hasWaistline,high-waisted,4
+hasWaistline,high-waisted,hasSilhouette,form-fitting,4
+hasOpeningType,open-front,belongsToCategory,lowerbody,4
+depicts,underwear,hasWaistline,natural-waist,4
+hasWaistline,natural-waist,depicts,underwear,4
+hasWaistline,low-rise,hasPattern,solid color,4
+hasSleeveType,short-sleeve,hasFabricTreatment,stretchy,4
+hasFabricTreatment,stretchy,hasSleeveType,short-sleeve,4
+belongsToCategory,lowerbody,hasSleeveType,short-sleeve,4
+depicts,underwear,hasSleeveType,short-sleeve,4
+hasPattern,solid color,hasWaistline,low-rise,4
+hasSleeveType,short-sleeve,belongsToCategory,lowerbody,4
+hasSleeveType,short-sleeve,depicts,underwear,4
+hasOpeningType,open front,hasFabricTreatment,stretchy,4
+hasSilhouette,slim-fit,hasFabricTreatment,stretchy,4
+hasSilhouette,slim-fit,hasMaterialType,cotton,4
+hasFabricTreatment,stretchy,hasOpeningType,open front,4
+hasSilhouette,slim-fit,hasSleeveType,sleeveless,4
+hasFabricTreatment,stretchy,hasSilhouette,slim-fit,4
+hasMaterialType,cotton,hasSilhouette,slim-fit,4
+hasSleeveType,sleeveless,hasSilhouette,slim-fit,4
+hasLength,briefs,hasNeckline,no neckline,4
+hasNeckline,no neckline,hasLength,briefs,4
+hasWaistline,low-waisted,hasSleeveType,sleeveless,4
+hasSleeveType,sleeveless,hasWaistline,low-waisted,4
+belongsToCategory,lowerbody,hasWaistline,low-waisted,4
+depicts,underwear,hasWaistline,low-waisted,4
+hasWaistline,low-waisted,belongsToCategory,lowerbody,4
+hasWaistline,low-waisted,depicts,underwear,4
+hasSilhouette,briefs,hasPattern,striped,4
+hasPattern,striped,hasSilhouette,briefs,4
+hasWaistline,high-waisted,hasFabricTreatment,stretchy,4
+hasFabricTreatment,stretchy,hasWaistline,high-waisted,4
+hasNeckline,v-neck,hasFabricTreatment,stretchy,4
+hasNeckline,v-neck,hasMaterialType,cotton,4
+hasNeckline,v-neck,hasOpeningType,zipper,4
+hasFabricTreatment,stretchy,hasNeckline,v-neck,4
+hasMaterialType,cotton,hasNeckline,v-neck,4
+hasOpeningType,zipper,hasNeckline,v-neck,4
+belongsToCategory,lowerbody,hasNeckline,v-neck,4
+hasNeckline,v-neck,belongsToCategory,lowerbody,4
+hasSleeveType,sleeveless,hasOpeningType,zipper,4
+hasOpeningType,zipper,hasSleeveType,sleeveless,4
+hasSilhouette,form-fitting,hasMaterialType,cotton,3
+hasLength,briefs,hasOpeningType,open-front,3
+hasWaistline,high-waisted,hasOpeningType,open-front,3
+depicts,underwear,hasOpeningType,open-front,3
+hasNeckline,straight,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasNeckline,straight,3
+belongsToCategory,lowerbody,hasNeckline,straight,3
+hasOpeningType,open-front,hasLength,briefs,3
+hasOpeningType,open-front,hasWaistline,high-waisted,3
+hasMaterialType,cotton,hasSilhouette,form-fitting,3
+depicts,underwear,hasSilhouette,form-fitting,3
+hasNeckline,straight,belongsToCategory,lowerbody,3
+hasOpeningType,open-front,depicts,underwear,3
+hasSilhouette,form-fitting,depicts,underwear,3
+hasFabricTreatment,plain weave,hasPattern,solid color,3
+hasPattern,solid color,hasFabricTreatment,plain weave,3
+hasMaterialType,cotton,hasFabricTreatment,plain weave,3
+hasSleeveType,sleeveless,hasFabricTreatment,plain weave,3
+hasLength,short,hasFabricTreatment,plain weave,3
+hasSilhouette,briefs,hasFabricTreatment,plain weave,3
+belongsToCategory,lowerbody,hasFabricTreatment,plain weave,3
+depicts,underwear,hasFabricTreatment,plain weave,3
+hasFabricTreatment,plain weave,hasMaterialType,cotton,3
+hasFabricTreatment,plain weave,hasSleeveType,sleeveless,3
+hasLength,short,hasNeckline,no neckline,3
+hasFabricTreatment,plain weave,hasLength,short,3
+hasNeckline,no neckline,hasLength,short,3
+hasFabricTreatment,plain weave,hasSilhouette,briefs,3
+hasFabricTreatment,plain weave,belongsToCategory,lowerbody,3
+hasFabricTreatment,plain weave,depicts,underwear,3
+hasSleeveType,short-sleeve,hasMaterialType,cotton,3
+hasLength,briefs,hasOpeningType,zipper,3
+hasWaistline,low-rise,hasOpeningType,zipper,3
+depicts,underwear,hasOpeningType,zipper,3
+hasMaterialType,cotton,hasSleeveType,short-sleeve,3
+hasLength,briefs,hasSleeveType,short-sleeve,3
+hasWaistline,low-rise,hasSleeveType,short-sleeve,3
+hasOpeningType,zipper,hasLength,briefs,3
+hasSleeveType,short-sleeve,hasLength,briefs,3
+hasOpeningType,zipper,hasWaistline,low-rise,3
+hasSleeveType,short-sleeve,hasWaistline,low-rise,3
+hasOpeningType,zipper,depicts,underwear,3
+depicts,briefs,hasMaterialType,cotton,3
+hasSilhouette,slim-fit,hasLength,short,3
+depicts,briefs,hasWaistline,natural-waist,3
+hasLength,short,hasSilhouette,slim-fit,3
+hasMaterialType,cotton,depicts,briefs,3
+hasWaistline,natural-waist,depicts,briefs,3
+hasWaistline,low-waisted,hasPattern,solid color,3
+hasWaistline,low-waisted,hasMaterialType,cotton,3
+hasPattern,solid color,hasWaistline,low-waisted,3
+hasMaterialType,cotton,hasWaistline,low-waisted,3
+hasSilhouette,briefs,hasWaistline,low-waisted,3
+hasWaistline,low-waisted,hasSilhouette,briefs,3
+hasOpeningType,open front,hasPattern,striped,3
+hasSilhouette,briefs,hasFabricTreatment,stretchy,3
+hasPattern,striped,hasOpeningType,open front,3
+hasFabricTreatment,stretchy,hasSilhouette,briefs,3
+hasWaistline,high-waisted,hasPattern,striped,3
+hasPattern,striped,hasWaistline,high-waisted,3
+hasSilhouette,form-fitting,hasFabricTreatment,stretchy,3
+hasFabricTreatment,stretchy,hasSilhouette,form-fitting,3
+hasSilhouette,briefs,hasWaistline,natural-waist,3
+hasWaistline,natural-waist,hasSilhouette,briefs,3
+hasLength,briefs,hasPattern,striped,3
+hasMaterialType,cotton,hasLeatherType,no leather,3
+hasSleeveType,sleeveless,hasLeatherType,no leather,3
+hasWaistline,high-waisted,hasLeatherType,no leather,3
+belongsToCategory,lowerbody,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasMaterialType,cotton,3
+hasLeatherType,no leather,hasSleeveType,sleeveless,3
+hasPattern,striped,hasLength,briefs,3
+hasLeatherType,no leather,hasWaistline,high-waisted,3
+hasLeatherType,no leather,belongsToCategory,lowerbody,3
+hasOpeningType,zipper,hasPattern,striped,3
+hasNeckline,v-neck,hasPattern,striped,3
+hasPattern,striped,hasOpeningType,zipper,3
+hasPattern,striped,hasNeckline,v-neck,3
+hasLength,short,hasOpeningType,zipper,3
+hasNeckline,v-neck,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasNeckline,v-neck,3
+hasOpeningType,zipper,hasLength,short,3
+hasOpeningType,open back,hasFabricTreatment,stretchy,3
+hasFabricTreatment,stretchy,hasOpeningType,open back,3
+hasSleeveType,sleeveless,hasOpeningType,open back,3
+belongsToCategory,lowerbody,hasOpeningType,open back,3
+hasOpeningType,open back,hasSleeveType,sleeveless,3
+hasOpeningType,open back,belongsToCategory,lowerbody,3
+hasOpeningType,open-front,hasPattern,solid color,2
+hasNeckline,straight,hasMaterialType,cotton,2
+hasPattern,solid color,hasOpeningType,open-front,2
+hasSilhouette,form-fitting,hasOpeningType,open-front,2
+hasMaterialType,cotton,hasNeckline,straight,2
+hasSilhouette,form-fitting,hasNeckline,straight,2
+hasOpeningType,open-front,hasSilhouette,form-fitting,2
+hasNeckline,straight,hasSilhouette,form-fitting,2
+hasWaistline,high-waisted,hasOpeningType,open front,2
+hasOpeningType,open front,hasWaistline,high-waisted,2
+hasWaistline,natural-waist,hasPattern,solid color,2
+hasLength,briefs,hasOpeningType,open front,2
+hasWaistline,natural-waist,hasOpeningType,open front,2
+hasOpeningType,open front,hasLength,briefs,2
+hasPattern,solid color,hasWaistline,natural-waist,2
+hasOpeningType,open front,hasWaistline,natural-waist,2
+hasOpeningType,zipper,hasPattern,solid color,2
+hasSleeveType,short-sleeve,hasPattern,solid color,2
+hasPattern,solid color,hasOpeningType,zipper,2
+hasSleeveType,short-sleeve,hasOpeningType,zipper,2
+hasPattern,solid color,hasSleeveType,short-sleeve,2
+hasOpeningType,zipper,hasSleeveType,short-sleeve,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasSilhouette,slim-fit,hasPattern,solid color,2
+hasWaistline,natural-waist,hasFabricTreatment,stretchy,2
+depicts,briefs,hasFabricTreatment,stretchy,2
+hasNeckline,round neckline,hasMaterialType,cotton,2
+hasNeckline,round neckline,hasOpeningType,open front,2
+depicts,briefs,hasOpeningType,open front,2
+hasNeckline,round neckline,hasSleeveType,sleeveless,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasMaterialType,cotton,hasNeckline,round neckline,2
+hasOpeningType,open front,hasNeckline,round neckline,2
+hasSleeveType,sleeveless,hasNeckline,round neckline,2
+hasLength,short,hasNeckline,round neckline,2
+belongsToCategory,lowerbody,hasNeckline,round neckline,2
+hasNeckline,round neckline,hasLength,short,2
+hasFabricTreatment,stretchy,hasWaistline,natural-waist,2
+hasSilhouette,slim-fit,hasWaistline,natural-waist,2
+hasPattern,solid color,hasSilhouette,slim-fit,2
+hasWaistline,natural-waist,hasSilhouette,slim-fit,2
+hasNeckline,round neckline,belongsToCategory,lowerbody,2
+hasFabricTreatment,stretchy,depicts,briefs,2
+hasOpeningType,open front,depicts,briefs,2
+hasWaistline,low-rise,hasNeckline,no neckline,2
+hasNeckline,no neckline,hasWaistline,low-rise,2
+hasSilhouette,form-fitting,hasNeckline,no neckline,2
+hasNeckline,no neckline,hasSilhouette,form-fitting,2
+hasPocketType,pocketless,hasMaterialType,cotton,2
+hasMaterialType,cotton,hasPocketType,pocketless,2
+hasSleeveType,sleeveless,hasPocketType,pocketless,2
+hasLength,short,hasPocketType,pocketless,2
+hasSilhouette,briefs,hasPocketType,pocketless,2
+belongsToCategory,lowerbody,hasPocketType,pocketless,2
+depicts,underwear,hasPocketType,pocketless,2
+hasPocketType,pocketless,hasSleeveType,sleeveless,2
+hasPocketType,pocketless,hasLength,short,2
+hasPocketType,pocketless,hasSilhouette,briefs,2
+hasPocketType,pocketless,belongsToCategory,lowerbody,2
+hasPocketType,pocketless,depicts,underwear,2
+hasWaistline,low-waisted,hasLength,short,2
+hasLength,short,hasWaistline,low-waisted,2
+hasOpeningType,front opening,hasPattern,solid color,2
+hasWaistline,low-waisted,hasFabricTreatment,stretchy,2
+hasOpeningType,front opening,hasMaterialType,cotton,2
+hasPattern,solid color,hasOpeningType,front opening,2
+hasMaterialType,cotton,hasOpeningType,front opening,2
+hasSleeveType,sleeveless,hasOpeningType,front opening,2
+belongsToCategory,lowerbody,hasOpeningType,front opening,2
+depicts,underwear,hasOpeningType,front opening,2
+hasOpeningType,front opening,hasSleeveType,sleeveless,2
+hasFabricTreatment,stretchy,hasWaistline,low-waisted,2
+hasOpeningType,front opening,belongsToCategory,lowerbody,2
+hasOpeningType,front opening,depicts,underwear,2
+hasSilhouette,slim-fit,hasLength,briefs,2
+hasSilhouette,slim-fit,hasWaistline,low-rise,2
+hasLength,briefs,hasSilhouette,slim-fit,2
+hasWaistline,low-rise,hasSilhouette,slim-fit,2
+depicts,underwear,hasSilhouette,slim-fit,2
+hasSilhouette,slim-fit,depicts,underwear,2
+hasMaterialType,cotton or polyester blend,hasFabricTreatment,stretchy,2
+hasFabricTreatment,stretchy,hasMaterialType,cotton or polyester blend,2
+hasSleeveType,sleeveless,hasMaterialType,cotton or polyester blend,2
+belongsToCategory,lowerbody,hasMaterialType,cotton or polyester blend,2
+depicts,underwear,hasMaterialType,cotton or polyester blend,2
+hasMaterialType,cotton or polyester blend,hasSleeveType,sleeveless,2
+hasMaterialType,cotton or polyester blend,belongsToCategory,lowerbody,2
+hasMaterialType,cotton or polyester blend,depicts,underwear,2
+hasNeckline,no neckline,hasLeatherType,no leather,2
+hasLength,briefs,hasLeatherType,no leather,2
+hasSilhouette,bodycon,hasSleeveType,sleeveless,2
+hasLeatherType,no leather,hasNeckline,no neckline,2
+hasLeatherType,no leather,hasLength,briefs,2
+hasSilhouette,bodycon,hasLength,briefs,2
+hasSleeveType,sleeveless,hasSilhouette,bodycon,2
+hasLength,briefs,hasSilhouette,bodycon,2
+belongsToCategory,lowerbody,hasSilhouette,bodycon,2
+hasSilhouette,bodycon,belongsToCategory,lowerbody,2
+hasNeckline,non-existent,hasFabricTreatment,stretchy,2
+hasSilhouette,form-fitting,hasMaterialType,cotton blend,2
+belongsToCategory,lowerbody,hasMaterialType,cotton blend,2
+hasFabricTreatment,stretchy,hasNeckline,non-existent,2
+belongsToCategory,lowerbody,hasNeckline,non-existent,2
+hasMaterialType,cotton blend,hasSilhouette,form-fitting,2
+hasMaterialType,cotton blend,belongsToCategory,lowerbody,2
+hasNeckline,non-existent,belongsToCategory,lowerbody,2
+belongsToCategory,lowerbody,hasFabricTreatment,stretch,2
+hasFabricTreatment,stretch,belongsToCategory,lowerbody,2
+hasSleeveType,short-sleeve,hasPattern,striped,2
+hasSilhouette,slim-fit,hasOpeningType,zipper,2
+hasPattern,striped,hasSleeveType,short-sleeve,2
+hasLength,briefs,hasNeckline,v-neck,2
+hasWaistline,low-rise,hasNeckline,v-neck,2
+hasSilhouette,slim-fit,hasNeckline,v-neck,2
+depicts,underwear,hasNeckline,v-neck,2
+hasNeckline,v-neck,hasLength,briefs,2
+hasNeckline,v-neck,hasWaistline,low-rise,2
+hasOpeningType,zipper,hasSilhouette,slim-fit,2
+hasNeckline,v-neck,hasSilhouette,slim-fit,2
+hasNeckline,v-neck,depicts,underwear,2
+hasNickname,jockstrap,hasFabricTreatment,stretchy,2
+hasNickname,jockstrap,hasMaterialType,cotton,2
+hasWaistline,high-waisted,hasOpeningType,zipper,2
+hasNickname,jockstrap,hasOpeningType,zipper,2
+hasNickname,jockstrap,hasSleeveType,sleeveless,2
+hasLength,short,hasNeckline,v-neck,2
+hasWaistline,high-waisted,hasNeckline,v-neck,2
+hasNickname,jockstrap,hasNeckline,v-neck,2
+hasNeckline,v-neck,hasLength,short,2
+hasNickname,jockstrap,hasLength,short,2
+hasOpeningType,zipper,hasWaistline,high-waisted,2
+hasNeckline,v-neck,hasWaistline,high-waisted,2
+hasNickname,jockstrap,hasWaistline,high-waisted,2
+hasFabricTreatment,stretchy,hasNickname,jockstrap,2
+hasMaterialType,cotton,hasNickname,jockstrap,2
+hasOpeningType,zipper,hasNickname,jockstrap,2
+hasSleeveType,sleeveless,hasNickname,jockstrap,2
+hasNeckline,v-neck,hasNickname,jockstrap,2
+hasLength,short,hasNickname,jockstrap,2
+hasWaistline,high-waisted,hasNickname,jockstrap,2
+belongsToCategory,lowerbody,hasNickname,jockstrap,2
+hasNickname,jockstrap,belongsToCategory,lowerbody,2
+depicts,lowerbody,hasPattern,solid color,2
+depicts,lowerbody,hasMaterialType,cotton,2
+depicts,lowerbody,hasSleeveType,sleeveless,2
+depicts,lowerbody,hasLength,short,2
+hasPattern,solid color,depicts,lowerbody,2
+hasMaterialType,cotton,depicts,lowerbody,2
+hasSleeveType,sleeveless,depicts,lowerbody,2
+hasLength,short,depicts,lowerbody,2
+hasLength,briefs,hasOpeningType,open back,2
+hasWaistline,low-rise,hasOpeningType,open back,2
+hasOpeningType,open back,hasLength,briefs,2
+hasOpeningType,open back,hasWaistline,low-rise,2
+hasLeatherType,no leather,hasPattern,solid color,2
+hasPattern,solid color,hasLeatherType,no leather,2
+hasLength,short,hasNeckline,straight,2
+hasWaistline,natural-waist,hasNeckline,straight,2
+depicts,briefs,hasNeckline,straight,2
+hasNeckline,straight,hasLength,short,2
+hasNeckline,straight,hasWaistline,natural-waist,2
+hasNeckline,straight,depicts,briefs,2
+hasNickname,briefs,hasFabricTreatment,stretchy,2
+hasNickname,briefs,hasLength,short,2
+hasFabricTreatment,stretchy,hasNickname,briefs,2
+hasLength,short,hasNickname,briefs,2
+belongsToCategory,lowerbody,hasNickname,briefs,2
+hasNickname,briefs,belongsToCategory,lowerbody,2
+hasFabricTreatment,non-treated,hasPattern,solid color,1
+hasNeckline,straight,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,non-treated,1
+hasMaterialType,cotton,hasFabricTreatment,non-treated,1
+hasOpeningType,open-front,hasFabricTreatment,non-treated,1
+hasSleeveType,sleeveless,hasFabricTreatment,non-treated,1
+hasNeckline,straight,hasFabricTreatment,non-treated,1
+hasLength,briefs,hasFabricTreatment,non-treated,1
+hasWaistline,high-waisted,hasFabricTreatment,non-treated,1
+hasSilhouette,form-fitting,hasFabricTreatment,non-treated,1
+belongsToCategory,lowerbody,hasFabricTreatment,non-treated,1
+depicts,underwear,hasFabricTreatment,non-treated,1
+hasFabricTreatment,non-treated,hasMaterialType,cotton,1
+hasFabricTreatment,non-treated,hasOpeningType,open-front,1
+hasNeckline,straight,hasOpeningType,open-front,1
+hasFabricTreatment,non-treated,hasSleeveType,sleeveless,1
+hasPattern,solid color,hasNeckline,straight,1
+hasFabricTreatment,non-treated,hasNeckline,straight,1
+hasOpeningType,open-front,hasNeckline,straight,1
+hasLength,briefs,hasNeckline,straight,1
+hasWaistline,high-waisted,hasNeckline,straight,1
+depicts,underwear,hasNeckline,straight,1
+hasFabricTreatment,non-treated,hasLength,briefs,1
+hasNeckline,straight,hasLength,briefs,1
+hasFabricTreatment,non-treated,hasWaistline,high-waisted,1
+hasNeckline,straight,hasWaistline,high-waisted,1
+hasFabricTreatment,non-treated,hasSilhouette,form-fitting,1
+hasFabricTreatment,non-treated,belongsToCategory,lowerbody,1
+hasFabricTreatment,non-treated,depicts,underwear,1
+hasNeckline,straight,depicts,underwear,1
+hasOpeningType,open front,hasFabricTreatment,plain weave,1
+hasNeckline,no neckline,hasFabricTreatment,plain weave,1
+hasWaistline,high-waisted,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasOpeningType,open front,1
+hasFabricTreatment,plain weave,hasNeckline,no neckline,1
+hasFabricTreatment,plain weave,hasWaistline,high-waisted,1
+hasFabricTreatment,soft fabric,hasPattern,solid color,1
+hasSilhouette,fitted,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,soft fabric,1
+hasMaterialType,cotton,hasFabricTreatment,soft fabric,1
+hasOpeningType,open front,hasFabricTreatment,soft fabric,1
+hasSleeveType,sleeveless,hasFabricTreatment,soft fabric,1
+hasLength,briefs,hasFabricTreatment,soft fabric,1
+hasWaistline,natural-waist,hasFabricTreatment,soft fabric,1
+hasSilhouette,fitted,hasFabricTreatment,soft fabric,1
+belongsToCategory,lowerbody,hasFabricTreatment,soft fabric,1
+depicts,underwear,hasFabricTreatment,soft fabric,1
+hasFabricTreatment,soft fabric,hasMaterialType,cotton,1
+hasSilhouette,fitted,hasMaterialType,cotton,1
+hasFabricTreatment,soft fabric,hasOpeningType,open front,1
+hasSilhouette,fitted,hasOpeningType,open front,1
+hasFabricTreatment,soft fabric,hasSleeveType,sleeveless,1
+hasSilhouette,fitted,hasSleeveType,sleeveless,1
+hasFabricTreatment,soft fabric,hasLength,briefs,1
+hasWaistline,natural-waist,hasLength,briefs,1
+hasSilhouette,fitted,hasLength,briefs,1
+hasFabricTreatment,soft fabric,hasWaistline,natural-waist,1
+hasLength,briefs,hasWaistline,natural-waist,1
+hasSilhouette,fitted,hasWaistline,natural-waist,1
+hasPattern,solid color,hasSilhouette,fitted,1
+hasFabricTreatment,soft fabric,hasSilhouette,fitted,1
+hasMaterialType,cotton,hasSilhouette,fitted,1
+hasOpeningType,open front,hasSilhouette,fitted,1
+hasSleeveType,sleeveless,hasSilhouette,fitted,1
+hasLength,briefs,hasSilhouette,fitted,1
+hasWaistline,natural-waist,hasSilhouette,fitted,1
+belongsToCategory,lowerbody,hasSilhouette,fitted,1
+depicts,underwear,hasSilhouette,fitted,1
+hasFabricTreatment,soft fabric,belongsToCategory,lowerbody,1
+hasSilhouette,fitted,belongsToCategory,lowerbody,1
+hasFabricTreatment,soft fabric,depicts,underwear,1
+hasSilhouette,fitted,depicts,underwear,1
+hasNeckline,crew neck,hasPattern,solid color,1
+hasSilhouette,slimfit,hasPattern,solid color,1
+hasNeckline,crew neck,hasFabricTreatment,stretchy,1
+hasSilhouette,slimfit,hasFabricTreatment,stretchy,1
+hasNeckline,crew neck,hasMaterialType,cotton,1
+hasSilhouette,slimfit,hasMaterialType,cotton,1
+hasNeckline,crew neck,hasOpeningType,zipper,1
+hasSilhouette,slimfit,hasOpeningType,zipper,1
+hasNeckline,crew neck,hasSleeveType,short-sleeve,1
+hasSilhouette,slimfit,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,crew neck,1
+hasFabricTreatment,stretchy,hasNeckline,crew neck,1
+hasMaterialType,cotton,hasNeckline,crew neck,1
+hasOpeningType,zipper,hasNeckline,crew neck,1
+hasSleeveType,short-sleeve,hasNeckline,crew neck,1
+hasLength,briefs,hasNeckline,crew neck,1
+hasWaistline,low-rise,hasNeckline,crew neck,1
+hasSilhouette,slimfit,hasNeckline,crew neck,1
+belongsToCategory,lowerbody,hasNeckline,crew neck,1
+depicts,underwear,hasNeckline,crew neck,1
+hasNeckline,crew neck,hasLength,briefs,1
+hasSilhouette,slimfit,hasLength,briefs,1
+hasNeckline,crew neck,hasWaistline,low-rise,1
+hasSilhouette,slimfit,hasWaistline,low-rise,1
+hasPattern,solid color,hasSilhouette,slimfit,1
+hasFabricTreatment,stretchy,hasSilhouette,slimfit,1
+hasMaterialType,cotton,hasSilhouette,slimfit,1
+hasOpeningType,zipper,hasSilhouette,slimfit,1
+hasSleeveType,short-sleeve,hasSilhouette,slimfit,1
+hasNeckline,crew neck,hasSilhouette,slimfit,1
+hasLength,briefs,hasSilhouette,slimfit,1
+hasWaistline,low-rise,hasSilhouette,slimfit,1
+belongsToCategory,lowerbody,hasSilhouette,slimfit,1
+depicts,underwear,hasSilhouette,slimfit,1
+hasNeckline,crew neck,belongsToCategory,lowerbody,1
+hasSilhouette,slimfit,belongsToCategory,lowerbody,1
+hasNeckline,crew neck,depicts,underwear,1
+hasSilhouette,slimfit,depicts,underwear,1
+depicts,briefs,hasPattern,solid color,1
+hasNeckline,round neckline,hasFabricTreatment,stretchy,1
+hasSilhouette,slim-fit,hasOpeningType,open front,1
+hasFabricTreatment,stretchy,hasNeckline,round neckline,1
+hasWaistline,natural-waist,hasNeckline,round neckline,1
+hasSilhouette,slim-fit,hasNeckline,round neckline,1
+depicts,briefs,hasNeckline,round neckline,1
+hasNeckline,round neckline,hasWaistline,natural-waist,1
+hasOpeningType,open front,hasSilhouette,slim-fit,1
+hasNeckline,round neckline,hasSilhouette,slim-fit,1
+depicts,briefs,hasSilhouette,slim-fit,1
+hasPattern,solid color,depicts,briefs,1
+hasNeckline,round neckline,depicts,briefs,1
+hasSilhouette,slim-fit,depicts,briefs,1
+hasOpeningType,button fly,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,button fly,1
+hasSleeveType,sleeveless,hasOpeningType,button fly,1
+hasNeckline,no neckline,hasOpeningType,button fly,1
+hasLength,short,hasOpeningType,button fly,1
+hasWaistline,low-rise,hasOpeningType,button fly,1
+hasSilhouette,briefs,hasOpeningType,button fly,1
+belongsToCategory,lowerbody,hasOpeningType,button fly,1
+depicts,underwear,hasOpeningType,button fly,1
+hasOpeningType,button fly,hasSleeveType,sleeveless,1
+hasOpeningType,button fly,hasNeckline,no neckline,1
+hasOpeningType,button fly,hasLength,short,1
+hasOpeningType,button fly,hasWaistline,low-rise,1
+hasOpeningType,button fly,hasSilhouette,briefs,1
+hasOpeningType,button fly,belongsToCategory,lowerbody,1
+hasOpeningType,button fly,depicts,underwear,1
+hasFabricTreatment,stretchable,hasPattern,solid color,1
+hasLeatherType,no leather type,hasPattern,solid color,1
+hasPocketType,no pocket,hasPattern,solid color,1
+hasWaistline,low-rise waist,hasPattern,solid color,1
+hasSilhouette,bikini silhouette,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,stretchable,1
+hasLeatherType,no leather type,hasFabricTreatment,stretchable,1
+hasMaterialType,cotton,hasFabricTreatment,stretchable,1
+hasOpeningType,open front,hasFabricTreatment,stretchable,1
+hasPocketType,no pocket,hasFabricTreatment,stretchable,1
+hasSleeveType,sleeveless,hasFabricTreatment,stretchable,1
+hasNeckline,no neckline,hasFabricTreatment,stretchable,1
+hasLength,briefs,hasFabricTreatment,stretchable,1
+hasWaistline,low-rise waist,hasFabricTreatment,stretchable,1
+hasSilhouette,bikini silhouette,hasFabricTreatment,stretchable,1
+belongsToCategory,lowerbody,hasFabricTreatment,stretchable,1
+depicts,underwear,hasFabricTreatment,stretchable,1
+hasPattern,solid color,hasLeatherType,no leather type,1
+hasFabricTreatment,stretchable,hasLeatherType,no leather type,1
+hasMaterialType,cotton,hasLeatherType,no leather type,1
+hasOpeningType,open front,hasLeatherType,no leather type,1
+hasPocketType,no pocket,hasLeatherType,no leather type,1
+hasSleeveType,sleeveless,hasLeatherType,no leather type,1
+hasNeckline,no neckline,hasLeatherType,no leather type,1
+hasLength,briefs,hasLeatherType,no leather type,1
+hasWaistline,low-rise waist,hasLeatherType,no leather type,1
+hasSilhouette,bikini silhouette,hasLeatherType,no leather type,1
+belongsToCategory,lowerbody,hasLeatherType,no leather type,1
+depicts,underwear,hasLeatherType,no leather type,1
+hasFabricTreatment,stretchable,hasMaterialType,cotton,1
+hasLeatherType,no leather type,hasMaterialType,cotton,1
+hasPocketType,no pocket,hasMaterialType,cotton,1
+hasWaistline,low-rise waist,hasMaterialType,cotton,1
+hasSilhouette,bikini silhouette,hasMaterialType,cotton,1
+hasFabricTreatment,stretchable,hasOpeningType,open front,1
+hasLeatherType,no leather type,hasOpeningType,open front,1
+hasPocketType,no pocket,hasOpeningType,open front,1
+hasWaistline,low-rise waist,hasOpeningType,open front,1
+hasSilhouette,bikini silhouette,hasOpeningType,open front,1
+hasPattern,solid color,hasPocketType,no pocket,1
+hasFabricTreatment,stretchable,hasPocketType,no pocket,1
+hasLeatherType,no leather type,hasPocketType,no pocket,1
+hasMaterialType,cotton,hasPocketType,no pocket,1
+hasOpeningType,open front,hasPocketType,no pocket,1
+hasSleeveType,sleeveless,hasPocketType,no pocket,1
+hasNeckline,no neckline,hasPocketType,no pocket,1
+hasLength,briefs,hasPocketType,no pocket,1
+hasWaistline,low-rise waist,hasPocketType,no pocket,1
+hasSilhouette,bikini silhouette,hasPocketType,no pocket,1
+belongsToCategory,lowerbody,hasPocketType,no pocket,1
+depicts,underwear,hasPocketType,no pocket,1
+hasFabricTreatment,stretchable,hasSleeveType,sleeveless,1
+hasLeatherType,no leather type,hasSleeveType,sleeveless,1
+hasPocketType,no pocket,hasSleeveType,sleeveless,1
+hasWaistline,low-rise waist,hasSleeveType,sleeveless,1
+hasSilhouette,bikini silhouette,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretchable,hasNeckline,no neckline,1
+hasLeatherType,no leather type,hasNeckline,no neckline,1
+hasPocketType,no pocket,hasNeckline,no neckline,1
+hasWaistline,low-rise waist,hasNeckline,no neckline,1
+hasSilhouette,bikini silhouette,hasNeckline,no neckline,1
+hasFabricTreatment,stretchable,hasLength,briefs,1
+hasLeatherType,no leather type,hasLength,briefs,1
+hasPocketType,no pocket,hasLength,briefs,1
+hasWaistline,low-rise waist,hasLength,briefs,1
+hasSilhouette,bikini silhouette,hasLength,briefs,1
+hasPattern,solid color,hasWaistline,low-rise waist,1
+hasFabricTreatment,stretchable,hasWaistline,low-rise waist,1
+hasLeatherType,no leather type,hasWaistline,low-rise waist,1
+hasMaterialType,cotton,hasWaistline,low-rise waist,1
+hasOpeningType,open front,hasWaistline,low-rise waist,1
+hasPocketType,no pocket,hasWaistline,low-rise waist,1
+hasSleeveType,sleeveless,hasWaistline,low-rise waist,1
+hasNeckline,no neckline,hasWaistline,low-rise waist,1
+hasLength,briefs,hasWaistline,low-rise waist,1
+hasSilhouette,bikini silhouette,hasWaistline,low-rise waist,1
+belongsToCategory,lowerbody,hasWaistline,low-rise waist,1
+depicts,underwear,hasWaistline,low-rise waist,1
+hasPattern,solid color,hasSilhouette,bikini silhouette,1
+hasFabricTreatment,stretchable,hasSilhouette,bikini silhouette,1
+hasLeatherType,no leather type,hasSilhouette,bikini silhouette,1
+hasMaterialType,cotton,hasSilhouette,bikini silhouette,1
+hasOpeningType,open front,hasSilhouette,bikini silhouette,1
+hasPocketType,no pocket,hasSilhouette,bikini silhouette,1
+hasSleeveType,sleeveless,hasSilhouette,bikini silhouette,1
+hasNeckline,no neckline,hasSilhouette,bikini silhouette,1
+hasLength,briefs,hasSilhouette,bikini silhouette,1
+hasWaistline,low-rise waist,hasSilhouette,bikini silhouette,1
+belongsToCategory,lowerbody,hasSilhouette,bikini silhouette,1
+depicts,underwear,hasSilhouette,bikini silhouette,1
+hasFabricTreatment,stretchable,belongsToCategory,lowerbody,1
+hasLeatherType,no leather type,belongsToCategory,lowerbody,1
+hasPocketType,no pocket,belongsToCategory,lowerbody,1
+hasWaistline,low-rise waist,belongsToCategory,lowerbody,1
+hasSilhouette,bikini silhouette,belongsToCategory,lowerbody,1
+hasFabricTreatment,stretchable,depicts,underwear,1
+hasLeatherType,no leather type,depicts,underwear,1
+hasPocketType,no pocket,depicts,underwear,1
+hasWaistline,low-rise waist,depicts,underwear,1
+hasSilhouette,bikini silhouette,depicts,underwear,1
+hasLength,full-length,hasPattern,solid color,1
+hasLength,full-length,hasMaterialType,cotton,1
+hasLength,full-length,hasOpeningType,open front,1
+hasWaistline,low-waisted,hasOpeningType,open front,1
+hasLength,full-length,hasSleeveType,sleeveless,1
+hasLength,full-length,hasNeckline,no neckline,1
+hasWaistline,low-waisted,hasNeckline,no neckline,1
+hasPattern,solid color,hasLength,full-length,1
+hasMaterialType,cotton,hasLength,full-length,1
+hasOpeningType,open front,hasLength,full-length,1
+hasSleeveType,sleeveless,hasLength,full-length,1
+hasNeckline,no neckline,hasLength,full-length,1
+hasWaistline,low-waisted,hasLength,full-length,1
+hasSilhouette,briefs,hasLength,full-length,1
+belongsToCategory,lowerbody,hasLength,full-length,1
+depicts,underwear,hasLength,full-length,1
+hasOpeningType,open front,hasWaistline,low-waisted,1
+hasNeckline,no neckline,hasWaistline,low-waisted,1
+hasLength,full-length,hasWaistline,low-waisted,1
+hasLength,full-length,hasSilhouette,briefs,1
+hasLength,full-length,belongsToCategory,lowerbody,1
+hasLength,full-length,depicts,underwear,1
+hasFabricTreatment,no finishing or techniques,hasPattern,solid color,1
+hasMaterialType,synthetic fabrics,hasPattern,solid color,1
+hasOpeningType,zip closure,hasPattern,solid color,1
+depicts,undergarments,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,no finishing or techniques,1
+hasMaterialType,synthetic fabrics,hasFabricTreatment,no finishing or techniques,1
+hasOpeningType,zip closure,hasFabricTreatment,no finishing or techniques,1
+hasSleeveType,sleeveless,hasFabricTreatment,no finishing or techniques,1
+hasNeckline,no neckline,hasFabricTreatment,no finishing or techniques,1
+hasLength,briefs,hasFabricTreatment,no finishing or techniques,1
+hasWaistline,high-waisted,hasFabricTreatment,no finishing or techniques,1
+hasSilhouette,form-fitting,hasFabricTreatment,no finishing or techniques,1
+belongsToCategory,lowerbody,hasFabricTreatment,no finishing or techniques,1
+depicts,undergarments,hasFabricTreatment,no finishing or techniques,1
+hasPattern,solid color,hasMaterialType,synthetic fabrics,1
+hasFabricTreatment,no finishing or techniques,hasMaterialType,synthetic fabrics,1
+hasOpeningType,zip closure,hasMaterialType,synthetic fabrics,1
+hasSleeveType,sleeveless,hasMaterialType,synthetic fabrics,1
+hasNeckline,no neckline,hasMaterialType,synthetic fabrics,1
+hasLength,briefs,hasMaterialType,synthetic fabrics,1
+hasWaistline,high-waisted,hasMaterialType,synthetic fabrics,1
+hasSilhouette,form-fitting,hasMaterialType,synthetic fabrics,1
+belongsToCategory,lowerbody,hasMaterialType,synthetic fabrics,1
+depicts,undergarments,hasMaterialType,synthetic fabrics,1
+hasPattern,solid color,hasOpeningType,zip closure,1
+hasFabricTreatment,no finishing or techniques,hasOpeningType,zip closure,1
+hasMaterialType,synthetic fabrics,hasOpeningType,zip closure,1
+hasSleeveType,sleeveless,hasOpeningType,zip closure,1
+hasNeckline,no neckline,hasOpeningType,zip closure,1
+hasLength,briefs,hasOpeningType,zip closure,1
+hasWaistline,high-waisted,hasOpeningType,zip closure,1
+hasSilhouette,form-fitting,hasOpeningType,zip closure,1
+belongsToCategory,lowerbody,hasOpeningType,zip closure,1
+depicts,undergarments,hasOpeningType,zip closure,1
+hasFabricTreatment,no finishing or techniques,hasSleeveType,sleeveless,1
+hasMaterialType,synthetic fabrics,hasSleeveType,sleeveless,1
+hasOpeningType,zip closure,hasSleeveType,sleeveless,1
+depicts,undergarments,hasSleeveType,sleeveless,1
+hasFabricTreatment,no finishing or techniques,hasNeckline,no neckline,1
+hasMaterialType,synthetic fabrics,hasNeckline,no neckline,1
+hasOpeningType,zip closure,hasNeckline,no neckline,1
+depicts,undergarments,hasNeckline,no neckline,1
+hasFabricTreatment,no finishing or techniques,hasLength,briefs,1
+hasMaterialType,synthetic fabrics,hasLength,briefs,1
+hasOpeningType,zip closure,hasLength,briefs,1
+depicts,undergarments,hasLength,briefs,1
+hasFabricTreatment,no finishing or techniques,hasWaistline,high-waisted,1
+hasMaterialType,synthetic fabrics,hasWaistline,high-waisted,1
+hasOpeningType,zip closure,hasWaistline,high-waisted,1
+depicts,undergarments,hasWaistline,high-waisted,1
+hasFabricTreatment,no finishing or techniques,hasSilhouette,form-fitting,1
+hasMaterialType,synthetic fabrics,hasSilhouette,form-fitting,1
+hasOpeningType,zip closure,hasSilhouette,form-fitting,1
+depicts,undergarments,hasSilhouette,form-fitting,1
+hasFabricTreatment,no finishing or techniques,belongsToCategory,lowerbody,1
+hasMaterialType,synthetic fabrics,belongsToCategory,lowerbody,1
+hasOpeningType,zip closure,belongsToCategory,lowerbody,1
+depicts,undergarments,belongsToCategory,lowerbody,1
+hasPattern,solid color,depicts,undergarments,1
+hasFabricTreatment,no finishing or techniques,depicts,undergarments,1
+hasMaterialType,synthetic fabrics,depicts,undergarments,1
+hasOpeningType,zip closure,depicts,undergarments,1
+hasSleeveType,sleeveless,depicts,undergarments,1
+hasNeckline,no neckline,depicts,undergarments,1
+hasLength,briefs,depicts,undergarments,1
+hasWaistline,high-waisted,depicts,undergarments,1
+hasSilhouette,form-fitting,depicts,undergarments,1
+belongsToCategory,lowerbody,depicts,undergarments,1
+depicts,pants,hasPattern,striped,1
+depicts,pants,hasFabricTreatment,stretchy,1
+depicts,pants,hasMaterialType,cotton,1
+depicts,pants,hasOpeningType,open front,1
+depicts,pants,hasSleeveType,sleeveless,1
+depicts,pants,hasLength,short,1
+depicts,pants,hasWaistline,low-rise,1
+depicts,pants,hasSilhouette,briefs,1
+depicts,pants,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,pants,1
+hasFabricTreatment,stretchy,depicts,pants,1
+hasMaterialType,cotton,depicts,pants,1
+hasOpeningType,open front,depicts,pants,1
+hasSleeveType,sleeveless,depicts,pants,1
+hasLength,short,depicts,pants,1
+hasWaistline,low-rise,depicts,pants,1
+hasSilhouette,briefs,depicts,pants,1
+belongsToCategory,lowerbody,depicts,pants,1
+hasFabricTreatment,no treatment,hasPattern,striped,1
+hasOpeningType,open-front,hasPattern,striped,1
+hasPocketType,pocketless,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,no treatment,1
+hasMaterialType,cotton,hasFabricTreatment,no treatment,1
+hasOpeningType,open-front,hasFabricTreatment,no treatment,1
+hasPocketType,pocketless,hasFabricTreatment,no treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,no treatment,1
+hasLength,short,hasFabricTreatment,no treatment,1
+hasWaistline,high-waisted,hasFabricTreatment,no treatment,1
+hasSilhouette,briefs,hasFabricTreatment,no treatment,1
+belongsToCategory,lowerbody,hasFabricTreatment,no treatment,1
+depicts,underwear,hasFabricTreatment,no treatment,1
+hasFabricTreatment,no treatment,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,open-front,1
+hasFabricTreatment,no treatment,hasOpeningType,open-front,1
+hasPocketType,pocketless,hasOpeningType,open-front,1
+hasLength,short,hasOpeningType,open-front,1
+hasSilhouette,briefs,hasOpeningType,open-front,1
+hasPattern,striped,hasPocketType,pocketless,1
+hasFabricTreatment,no treatment,hasPocketType,pocketless,1
+hasOpeningType,open-front,hasPocketType,pocketless,1
+hasWaistline,high-waisted,hasPocketType,pocketless,1
+hasFabricTreatment,no treatment,hasSleeveType,sleeveless,1
+hasFabricTreatment,no treatment,hasLength,short,1
+hasOpeningType,open-front,hasLength,short,1
+hasFabricTreatment,no treatment,hasWaistline,high-waisted,1
+hasPocketType,pocketless,hasWaistline,high-waisted,1
+hasFabricTreatment,no treatment,hasSilhouette,briefs,1
+hasOpeningType,open-front,hasSilhouette,briefs,1
+hasFabricTreatment,no treatment,belongsToCategory,lowerbody,1
+hasFabricTreatment,no treatment,depicts,underwear,1
+hasOpeningType,open-fronted,hasPattern,solid color,1
+hasPocketType,pocketless,hasPattern,solid color,1
+hasOpeningType,open-fronted,hasFabricTreatment,plain weave,1
+hasPocketType,pocketless,hasFabricTreatment,plain weave,1
+hasWaistline,low-waisted,hasFabricTreatment,plain weave,1
+hasOpeningType,open-fronted,hasMaterialType,cotton,1
+hasPattern,solid color,hasOpeningType,open-fronted,1
+hasFabricTreatment,plain weave,hasOpeningType,open-fronted,1
+hasMaterialType,cotton,hasOpeningType,open-fronted,1
+hasPocketType,pocketless,hasOpeningType,open-fronted,1
+hasSleeveType,sleeveless,hasOpeningType,open-fronted,1
+hasLength,short,hasOpeningType,open-fronted,1
+hasWaistline,low-waisted,hasOpeningType,open-fronted,1
+hasSilhouette,briefs,hasOpeningType,open-fronted,1
+belongsToCategory,lowerbody,hasOpeningType,open-fronted,1
+depicts,underwear,hasOpeningType,open-fronted,1
+hasPattern,solid color,hasPocketType,pocketless,1
+hasFabricTreatment,plain weave,hasPocketType,pocketless,1
+hasOpeningType,open-fronted,hasPocketType,pocketless,1
+hasWaistline,low-waisted,hasPocketType,pocketless,1
+hasOpeningType,open-fronted,hasSleeveType,sleeveless,1
+hasOpeningType,open-fronted,hasLength,short,1
+hasFabricTreatment,plain weave,hasWaistline,low-waisted,1
+hasOpeningType,open-fronted,hasWaistline,low-waisted,1
+hasPocketType,pocketless,hasWaistline,low-waisted,1
+hasOpeningType,open-fronted,hasSilhouette,briefs,1
+hasOpeningType,open-fronted,belongsToCategory,lowerbody,1
+hasOpeningType,open-fronted,depicts,underwear,1
+hasOpeningType,front opening,hasFabricTreatment,stretchy,1
+hasFabricTreatment,stretchy,hasOpeningType,front opening,1
+hasLength,briefs,hasOpeningType,front opening,1
+hasWaistline,low-waisted,hasOpeningType,front opening,1
+hasSilhouette,form-fitting,hasOpeningType,front opening,1
+hasOpeningType,front opening,hasLength,briefs,1
+hasWaistline,low-waisted,hasLength,briefs,1
+hasOpeningType,front opening,hasWaistline,low-waisted,1
+hasLength,briefs,hasWaistline,low-waisted,1
+hasSilhouette,form-fitting,hasWaistline,low-waisted,1
+hasOpeningType,front opening,hasSilhouette,form-fitting,1
+hasWaistline,low-waisted,hasSilhouette,form-fitting,1
+hasFabricTreatment,unfinished seams,hasPattern,floral,1
+hasMaterialType,cotton,hasPattern,floral,1
+hasOpeningType,open-front,hasPattern,floral,1
+hasPocketType,pocket-less,hasPattern,floral,1
+hasSleeveType,sleeveless,hasPattern,floral,1
+hasNeckline,round-neck,hasPattern,floral,1
+hasLapelType,lapel-less,hasPattern,floral,1
+hasLength,briefs,hasPattern,floral,1
+hasWaistline,low-rise,hasPattern,floral,1
+hasSilhouette,slim-fit,hasPattern,floral,1
+belongsToCategory,lowerbody,hasPattern,floral,1
+depicts,underwear,hasPattern,floral,1
+hasPattern,floral,hasFabricTreatment,unfinished seams,1
+hasMaterialType,cotton,hasFabricTreatment,unfinished seams,1
+hasOpeningType,open-front,hasFabricTreatment,unfinished seams,1
+hasPocketType,pocket-less,hasFabricTreatment,unfinished seams,1
+hasSleeveType,sleeveless,hasFabricTreatment,unfinished seams,1
+hasNeckline,round-neck,hasFabricTreatment,unfinished seams,1
+hasLapelType,lapel-less,hasFabricTreatment,unfinished seams,1
+hasLength,briefs,hasFabricTreatment,unfinished seams,1
+hasWaistline,low-rise,hasFabricTreatment,unfinished seams,1
+hasSilhouette,slim-fit,hasFabricTreatment,unfinished seams,1
+belongsToCategory,lowerbody,hasFabricTreatment,unfinished seams,1
+depicts,underwear,hasFabricTreatment,unfinished seams,1
+hasPattern,floral,hasMaterialType,cotton,1
+hasFabricTreatment,unfinished seams,hasMaterialType,cotton,1
+hasPocketType,pocket-less,hasMaterialType,cotton,1
+hasNeckline,round-neck,hasMaterialType,cotton,1
+hasLapelType,lapel-less,hasMaterialType,cotton,1
+hasPattern,floral,hasOpeningType,open-front,1
+hasFabricTreatment,unfinished seams,hasOpeningType,open-front,1
+hasPocketType,pocket-less,hasOpeningType,open-front,1
+hasNeckline,round-neck,hasOpeningType,open-front,1
+hasLapelType,lapel-less,hasOpeningType,open-front,1
+hasWaistline,low-rise,hasOpeningType,open-front,1
+hasSilhouette,slim-fit,hasOpeningType,open-front,1
+hasPattern,floral,hasPocketType,pocket-less,1
+hasFabricTreatment,unfinished seams,hasPocketType,pocket-less,1
+hasMaterialType,cotton,hasPocketType,pocket-less,1
+hasOpeningType,open-front,hasPocketType,pocket-less,1
+hasSleeveType,sleeveless,hasPocketType,pocket-less,1
+hasNeckline,round-neck,hasPocketType,pocket-less,1
+hasLapelType,lapel-less,hasPocketType,pocket-less,1
+hasLength,briefs,hasPocketType,pocket-less,1
+hasWaistline,low-rise,hasPocketType,pocket-less,1
+hasSilhouette,slim-fit,hasPocketType,pocket-less,1
+belongsToCategory,lowerbody,hasPocketType,pocket-less,1
+depicts,underwear,hasPocketType,pocket-less,1
+hasPattern,floral,hasSleeveType,sleeveless,1
+hasFabricTreatment,unfinished seams,hasSleeveType,sleeveless,1
+hasPocketType,pocket-less,hasSleeveType,sleeveless,1
+hasNeckline,round-neck,hasSleeveType,sleeveless,1
+hasLapelType,lapel-less,hasSleeveType,sleeveless,1
+hasPattern,floral,hasNeckline,round-neck,1
+hasFabricTreatment,unfinished seams,hasNeckline,round-neck,1
+hasMaterialType,cotton,hasNeckline,round-neck,1
+hasOpeningType,open-front,hasNeckline,round-neck,1
+hasPocketType,pocket-less,hasNeckline,round-neck,1
+hasSleeveType,sleeveless,hasNeckline,round-neck,1
+hasLapelType,lapel-less,hasNeckline,round-neck,1
+hasLength,briefs,hasNeckline,round-neck,1
+hasWaistline,low-rise,hasNeckline,round-neck,1
+hasSilhouette,slim-fit,hasNeckline,round-neck,1
+belongsToCategory,lowerbody,hasNeckline,round-neck,1
+depicts,underwear,hasNeckline,round-neck,1
+hasPattern,floral,hasLapelType,lapel-less,1
+hasFabricTreatment,unfinished seams,hasLapelType,lapel-less,1
+hasMaterialType,cotton,hasLapelType,lapel-less,1
+hasOpeningType,open-front,hasLapelType,lapel-less,1
+hasPocketType,pocket-less,hasLapelType,lapel-less,1
+hasSleeveType,sleeveless,hasLapelType,lapel-less,1
+hasNeckline,round-neck,hasLapelType,lapel-less,1
+hasLength,briefs,hasLapelType,lapel-less,1
+hasWaistline,low-rise,hasLapelType,lapel-less,1
+hasSilhouette,slim-fit,hasLapelType,lapel-less,1
+belongsToCategory,lowerbody,hasLapelType,lapel-less,1
+depicts,underwear,hasLapelType,lapel-less,1
+hasPattern,floral,hasLength,briefs,1
+hasFabricTreatment,unfinished seams,hasLength,briefs,1
+hasPocketType,pocket-less,hasLength,briefs,1
+hasNeckline,round-neck,hasLength,briefs,1
+hasLapelType,lapel-less,hasLength,briefs,1
+hasPattern,floral,hasWaistline,low-rise,1
+hasFabricTreatment,unfinished seams,hasWaistline,low-rise,1
+hasOpeningType,open-front,hasWaistline,low-rise,1
+hasPocketType,pocket-less,hasWaistline,low-rise,1
+hasNeckline,round-neck,hasWaistline,low-rise,1
+hasLapelType,lapel-less,hasWaistline,low-rise,1
+hasPattern,floral,hasSilhouette,slim-fit,1
+hasFabricTreatment,unfinished seams,hasSilhouette,slim-fit,1
+hasOpeningType,open-front,hasSilhouette,slim-fit,1
+hasPocketType,pocket-less,hasSilhouette,slim-fit,1
+hasNeckline,round-neck,hasSilhouette,slim-fit,1
+hasLapelType,lapel-less,hasSilhouette,slim-fit,1
+hasPattern,floral,belongsToCategory,lowerbody,1
+hasFabricTreatment,unfinished seams,belongsToCategory,lowerbody,1
+hasPocketType,pocket-less,belongsToCategory,lowerbody,1
+hasNeckline,round-neck,belongsToCategory,lowerbody,1
+hasLapelType,lapel-less,belongsToCategory,lowerbody,1
+hasPattern,floral,depicts,underwear,1
+hasFabricTreatment,unfinished seams,depicts,underwear,1
+hasPocketType,pocket-less,depicts,underwear,1
+hasNeckline,round-neck,depicts,underwear,1
+hasLapelType,lapel-less,depicts,underwear,1
+hasWaistline,natural-waist,hasPattern,striped,1
+hasPattern,striped,hasWaistline,natural-waist,1
+hasSilhouette,bikini-cut,hasPattern,striped,1
+depicts,briefs,hasPattern,striped,1
+hasSilhouette,bikini-cut,hasFabricTreatment,stretchy,1
+hasSilhouette,bikini-cut,hasMaterialType,cotton,1
+hasSilhouette,bikini-cut,hasOpeningType,open front,1
+hasSilhouette,bikini-cut,hasSleeveType,sleeveless,1
+hasSilhouette,bikini-cut,hasLength,short,1
+hasSilhouette,bikini-cut,hasWaistline,low-rise,1
+depicts,briefs,hasWaistline,low-rise,1
+hasPattern,striped,hasSilhouette,bikini-cut,1
+hasFabricTreatment,stretchy,hasSilhouette,bikini-cut,1
+hasMaterialType,cotton,hasSilhouette,bikini-cut,1
+hasOpeningType,open front,hasSilhouette,bikini-cut,1
+hasSleeveType,sleeveless,hasSilhouette,bikini-cut,1
+hasLength,short,hasSilhouette,bikini-cut,1
+hasWaistline,low-rise,hasSilhouette,bikini-cut,1
+belongsToCategory,lowerbody,hasSilhouette,bikini-cut,1
+depicts,briefs,hasSilhouette,bikini-cut,1
+hasSilhouette,bikini-cut,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,briefs,1
+hasWaistline,low-rise,depicts,briefs,1
+hasSilhouette,bikini-cut,depicts,briefs,1
+hasOpeningType,crotch opening,hasFabricTreatment,stretchy,1
+hasOpeningType,crotch opening,hasMaterialType,cotton or polyester blend,1
+hasLength,short,hasMaterialType,cotton or polyester blend,1
+hasWaistline,low-waisted,hasMaterialType,cotton or polyester blend,1
+hasSilhouette,briefs,hasMaterialType,cotton or polyester blend,1
+hasFabricTreatment,stretchy,hasOpeningType,crotch opening,1
+hasMaterialType,cotton or polyester blend,hasOpeningType,crotch opening,1
+hasSleeveType,sleeveless,hasOpeningType,crotch opening,1
+hasLength,short,hasOpeningType,crotch opening,1
+hasWaistline,low-waisted,hasOpeningType,crotch opening,1
+hasSilhouette,briefs,hasOpeningType,crotch opening,1
+belongsToCategory,lowerbody,hasOpeningType,crotch opening,1
+depicts,underwear,hasOpeningType,crotch opening,1
+hasOpeningType,crotch opening,hasSleeveType,sleeveless,1
+hasMaterialType,cotton or polyester blend,hasLength,short,1
+hasOpeningType,crotch opening,hasLength,short,1
+hasMaterialType,cotton or polyester blend,hasWaistline,low-waisted,1
+hasOpeningType,crotch opening,hasWaistline,low-waisted,1
+hasMaterialType,cotton or polyester blend,hasSilhouette,briefs,1
+hasOpeningType,crotch opening,hasSilhouette,briefs,1
+hasOpeningType,crotch opening,belongsToCategory,lowerbody,1
+hasOpeningType,crotch opening,depicts,underwear,1
+hasFabricTreatment,dyed,hasPattern,striped,1
+hasLeatherType,no leather,hasPattern,striped,1
+hasOpeningType,single opening,hasPattern,striped,1
+hasNeckline,no neckline,hasPattern,striped,1
+hasSilhouette,bodycon,hasPattern,striped,1
+depicts,undergarment,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,dyed,1
+hasLeatherType,no leather,hasFabricTreatment,dyed,1
+hasMaterialType,cotton,hasFabricTreatment,dyed,1
+hasOpeningType,single opening,hasFabricTreatment,dyed,1
+hasSleeveType,sleeveless,hasFabricTreatment,dyed,1
+hasNeckline,no neckline,hasFabricTreatment,dyed,1
+hasLength,briefs,hasFabricTreatment,dyed,1
+hasWaistline,high-waisted,hasFabricTreatment,dyed,1
+hasSilhouette,bodycon,hasFabricTreatment,dyed,1
+belongsToCategory,lowerbody,hasFabricTreatment,dyed,1
+depicts,undergarment,hasFabricTreatment,dyed,1
+hasPattern,striped,hasLeatherType,no leather,1
+hasFabricTreatment,dyed,hasLeatherType,no leather,1
+hasOpeningType,single opening,hasLeatherType,no leather,1
+hasSilhouette,bodycon,hasLeatherType,no leather,1
+depicts,undergarment,hasLeatherType,no leather,1
+hasFabricTreatment,dyed,hasMaterialType,cotton,1
+hasOpeningType,single opening,hasMaterialType,cotton,1
+hasSilhouette,bodycon,hasMaterialType,cotton,1
+depicts,undergarment,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,single opening,1
+hasFabricTreatment,dyed,hasOpeningType,single opening,1
+hasLeatherType,no leather,hasOpeningType,single opening,1
+hasMaterialType,cotton,hasOpeningType,single opening,1
+hasSleeveType,sleeveless,hasOpeningType,single opening,1
+hasNeckline,no neckline,hasOpeningType,single opening,1
+hasLength,briefs,hasOpeningType,single opening,1
+hasWaistline,high-waisted,hasOpeningType,single opening,1
+hasSilhouette,bodycon,hasOpeningType,single opening,1
+belongsToCategory,lowerbody,hasOpeningType,single opening,1
+depicts,undergarment,hasOpeningType,single opening,1
+hasFabricTreatment,dyed,hasSleeveType,sleeveless,1
+hasOpeningType,single opening,hasSleeveType,sleeveless,1
+depicts,undergarment,hasSleeveType,sleeveless,1
+hasPattern,striped,hasNeckline,no neckline,1
+hasFabricTreatment,dyed,hasNeckline,no neckline,1
+hasOpeningType,single opening,hasNeckline,no neckline,1
+hasSilhouette,bodycon,hasNeckline,no neckline,1
+depicts,undergarment,hasNeckline,no neckline,1
+hasFabricTreatment,dyed,hasLength,briefs,1
+hasOpeningType,single opening,hasLength,briefs,1
+depicts,undergarment,hasLength,briefs,1
+hasFabricTreatment,dyed,hasWaistline,high-waisted,1
+hasOpeningType,single opening,hasWaistline,high-waisted,1
+hasSilhouette,bodycon,hasWaistline,high-waisted,1
+depicts,undergarment,hasWaistline,high-waisted,1
+hasPattern,striped,hasSilhouette,bodycon,1
+hasFabricTreatment,dyed,hasSilhouette,bodycon,1
+hasLeatherType,no leather,hasSilhouette,bodycon,1
+hasMaterialType,cotton,hasSilhouette,bodycon,1
+hasOpeningType,single opening,hasSilhouette,bodycon,1
+hasNeckline,no neckline,hasSilhouette,bodycon,1
+hasWaistline,high-waisted,hasSilhouette,bodycon,1
+depicts,undergarment,hasSilhouette,bodycon,1
+hasFabricTreatment,dyed,belongsToCategory,lowerbody,1
+hasOpeningType,single opening,belongsToCategory,lowerbody,1
+depicts,undergarment,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,undergarment,1
+hasFabricTreatment,dyed,depicts,undergarment,1
+hasLeatherType,no leather,depicts,undergarment,1
+hasMaterialType,cotton,depicts,undergarment,1
+hasOpeningType,single opening,depicts,undergarment,1
+hasSleeveType,sleeveless,depicts,undergarment,1
+hasNeckline,no neckline,depicts,undergarment,1
+hasLength,briefs,depicts,undergarment,1
+hasWaistline,high-waisted,depicts,undergarment,1
+hasSilhouette,bodycon,depicts,undergarment,1
+belongsToCategory,lowerbody,depicts,undergarment,1
+hasMaterialType,cotton blend,hasPattern,solid color,1
+hasOpeningType,fly front,hasPattern,solid color,1
+hasNeckline,non-existent,hasPattern,solid color,1
+hasMaterialType,cotton blend,hasFabricTreatment,stretchy,1
+hasOpeningType,fly front,hasFabricTreatment,stretchy,1
+hasPattern,solid color,hasMaterialType,cotton blend,1
+hasFabricTreatment,stretchy,hasMaterialType,cotton blend,1
+hasOpeningType,fly front,hasMaterialType,cotton blend,1
+hasSleeveType,short-sleeve,hasMaterialType,cotton blend,1
+hasNeckline,non-existent,hasMaterialType,cotton blend,1
+hasLength,briefs,hasMaterialType,cotton blend,1
+hasWaistline,high-waisted,hasMaterialType,cotton blend,1
+depicts,underwear,hasMaterialType,cotton blend,1
+hasPattern,solid color,hasOpeningType,fly front,1
+hasFabricTreatment,stretchy,hasOpeningType,fly front,1
+hasMaterialType,cotton blend,hasOpeningType,fly front,1
+hasSleeveType,short-sleeve,hasOpeningType,fly front,1
+hasNeckline,non-existent,hasOpeningType,fly front,1
+hasLength,briefs,hasOpeningType,fly front,1
+hasWaistline,high-waisted,hasOpeningType,fly front,1
+hasSilhouette,form-fitting,hasOpeningType,fly front,1
+belongsToCategory,lowerbody,hasOpeningType,fly front,1
+depicts,underwear,hasOpeningType,fly front,1
+hasMaterialType,cotton blend,hasSleeveType,short-sleeve,1
+hasOpeningType,fly front,hasSleeveType,short-sleeve,1
+hasNeckline,non-existent,hasSleeveType,short-sleeve,1
+hasWaistline,high-waisted,hasSleeveType,short-sleeve,1
+hasSilhouette,form-fitting,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,non-existent,1
+hasMaterialType,cotton blend,hasNeckline,non-existent,1
+hasOpeningType,fly front,hasNeckline,non-existent,1
+hasSleeveType,short-sleeve,hasNeckline,non-existent,1
+hasLength,briefs,hasNeckline,non-existent,1
+hasWaistline,high-waisted,hasNeckline,non-existent,1
+hasSilhouette,form-fitting,hasNeckline,non-existent,1
+depicts,underwear,hasNeckline,non-existent,1
+hasMaterialType,cotton blend,hasLength,briefs,1
+hasOpeningType,fly front,hasLength,briefs,1
+hasNeckline,non-existent,hasLength,briefs,1
+hasMaterialType,cotton blend,hasWaistline,high-waisted,1
+hasOpeningType,fly front,hasWaistline,high-waisted,1
+hasSleeveType,short-sleeve,hasWaistline,high-waisted,1
+hasNeckline,non-existent,hasWaistline,high-waisted,1
+hasOpeningType,fly front,hasSilhouette,form-fitting,1
+hasSleeveType,short-sleeve,hasSilhouette,form-fitting,1
+hasNeckline,non-existent,hasSilhouette,form-fitting,1
+hasOpeningType,fly front,belongsToCategory,lowerbody,1
+hasMaterialType,cotton blend,depicts,underwear,1
+hasOpeningType,fly front,depicts,underwear,1
+hasNeckline,non-existent,depicts,underwear,1
+hasFabricTreatment,stretch,hasPattern,solid color,1
+hasSilhouette,thong,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,stretch,1
+hasMaterialType,cotton,hasFabricTreatment,stretch,1
+hasLength,briefs,hasFabricTreatment,stretch,1
+hasWaistline,low-rise,hasFabricTreatment,stretch,1
+hasSilhouette,thong,hasFabricTreatment,stretch,1
+depicts,underwear,hasFabricTreatment,stretch,1
+hasFabricTreatment,stretch,hasMaterialType,cotton,1
+hasSilhouette,thong,hasMaterialType,cotton,1
+hasFabricTreatment,stretch,hasLength,briefs,1
+hasSilhouette,thong,hasLength,briefs,1
+hasFabricTreatment,stretch,hasWaistline,low-rise,1
+hasSilhouette,thong,hasWaistline,low-rise,1
+hasPattern,solid color,hasSilhouette,thong,1
+hasFabricTreatment,stretch,hasSilhouette,thong,1
+hasMaterialType,cotton,hasSilhouette,thong,1
+hasLength,briefs,hasSilhouette,thong,1
+hasWaistline,low-rise,hasSilhouette,thong,1
+belongsToCategory,lowerbody,hasSilhouette,thong,1
+depicts,underwear,hasSilhouette,thong,1
+hasSilhouette,thong,belongsToCategory,lowerbody,1
+hasFabricTreatment,stretch,depicts,underwear,1
+hasSilhouette,thong,depicts,underwear,1
+hasSilhouette,slim-fit,hasPattern,striped,1
+hasNeckline,v-neck,hasSleeveType,short-sleeve,1
+hasSilhouette,slim-fit,hasSleeveType,short-sleeve,1
+hasSleeveType,short-sleeve,hasNeckline,v-neck,1
+hasPattern,striped,hasSilhouette,slim-fit,1
+hasSleeveType,short-sleeve,hasSilhouette,slim-fit,1
+hasNickname,jockstrap,hasPattern,striped,1
+hasSilhouette,briefs,hasOpeningType,zipper,1
+hasSilhouette,briefs,hasNeckline,v-neck,1
+hasOpeningType,zipper,hasSilhouette,briefs,1
+hasNeckline,v-neck,hasSilhouette,briefs,1
+hasNickname,jockstrap,hasSilhouette,briefs,1
+hasPattern,striped,hasNickname,jockstrap,1
+hasSilhouette,briefs,hasNickname,jockstrap,1
+depicts,underwear,hasNickname,jockstrap,1
+hasNickname,jockstrap,depicts,underwear,1
+hasMaterialType,cotton,hasFabricTreatment,breathable fabric,1
+hasOpeningType,open front,hasFabricTreatment,breathable fabric,1
+hasSleeveType,sleeveless,hasFabricTreatment,breathable fabric,1
+hasNeckline,no neckline,hasFabricTreatment,breathable fabric,1
+hasLength,boyshorts length,hasFabricTreatment,breathable fabric,1
+hasWaistline,low-rise,hasFabricTreatment,breathable fabric,1
+hasSilhouette,briefs,hasFabricTreatment,breathable fabric,1
+hasNickname,jockeys,hasFabricTreatment,breathable fabric,1
+belongsToCategory,lowerbody,hasFabricTreatment,breathable fabric,1
+depicts,underwear,hasFabricTreatment,breathable fabric,1
+hasFabricTreatment,breathable fabric,hasMaterialType,cotton,1
+hasLength,boyshorts length,hasMaterialType,cotton,1
+hasNickname,jockeys,hasMaterialType,cotton,1
+hasFabricTreatment,breathable fabric,hasOpeningType,open front,1
+hasLength,boyshorts length,hasOpeningType,open front,1
+hasNickname,jockeys,hasOpeningType,open front,1
+hasFabricTreatment,breathable fabric,hasSleeveType,sleeveless,1
+hasLength,boyshorts length,hasSleeveType,sleeveless,1
+hasNickname,jockeys,hasSleeveType,sleeveless,1
+hasFabricTreatment,breathable fabric,hasNeckline,no neckline,1
+hasLength,boyshorts length,hasNeckline,no neckline,1
+hasNickname,jockeys,hasNeckline,no neckline,1
+hasFabricTreatment,breathable fabric,hasLength,boyshorts length,1
+hasMaterialType,cotton,hasLength,boyshorts length,1
+hasOpeningType,open front,hasLength,boyshorts length,1
+hasSleeveType,sleeveless,hasLength,boyshorts length,1
+hasNeckline,no neckline,hasLength,boyshorts length,1
+hasWaistline,low-rise,hasLength,boyshorts length,1
+hasSilhouette,briefs,hasLength,boyshorts length,1
+hasNickname,jockeys,hasLength,boyshorts length,1
+belongsToCategory,lowerbody,hasLength,boyshorts length,1
+depicts,underwear,hasLength,boyshorts length,1
+hasFabricTreatment,breathable fabric,hasWaistline,low-rise,1
+hasLength,boyshorts length,hasWaistline,low-rise,1
+hasNickname,jockeys,hasWaistline,low-rise,1
+hasFabricTreatment,breathable fabric,hasSilhouette,briefs,1
+hasLength,boyshorts length,hasSilhouette,briefs,1
+hasNickname,jockeys,hasSilhouette,briefs,1
+hasFabricTreatment,breathable fabric,hasNickname,jockeys,1
+hasMaterialType,cotton,hasNickname,jockeys,1
+hasOpeningType,open front,hasNickname,jockeys,1
+hasSleeveType,sleeveless,hasNickname,jockeys,1
+hasNeckline,no neckline,hasNickname,jockeys,1
+hasLength,boyshorts length,hasNickname,jockeys,1
+hasWaistline,low-rise,hasNickname,jockeys,1
+hasSilhouette,briefs,hasNickname,jockeys,1
+belongsToCategory,lowerbody,hasNickname,jockeys,1
+depicts,underwear,hasNickname,jockeys,1
+hasFabricTreatment,breathable fabric,belongsToCategory,lowerbody,1
+hasLength,boyshorts length,belongsToCategory,lowerbody,1
+hasNickname,jockeys,belongsToCategory,lowerbody,1
+hasFabricTreatment,breathable fabric,depicts,underwear,1
+hasLength,boyshorts length,depicts,underwear,1
+hasNickname,jockeys,depicts,underwear,1
+hasFabricTreatment,stretchable fabric,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,stretchable fabric,1
+hasMaterialType,cotton,hasFabricTreatment,stretchable fabric,1
+hasOpeningType,open front,hasFabricTreatment,stretchable fabric,1
+hasSleeveType,sleeveless,hasFabricTreatment,stretchable fabric,1
+hasNeckline,round neckline,hasFabricTreatment,stretchable fabric,1
+hasLength,short,hasFabricTreatment,stretchable fabric,1
+hasWaistline,low-rise,hasFabricTreatment,stretchable fabric,1
+hasSilhouette,briefs,hasFabricTreatment,stretchable fabric,1
+belongsToCategory,lowerbody,hasFabricTreatment,stretchable fabric,1
+depicts,lowerbody,hasFabricTreatment,stretchable fabric,1
+hasFabricTreatment,stretchable fabric,hasMaterialType,cotton,1
+hasFabricTreatment,stretchable fabric,hasOpeningType,open front,1
+depicts,lowerbody,hasOpeningType,open front,1
+hasFabricTreatment,stretchable fabric,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretchable fabric,hasNeckline,round neckline,1
+hasWaistline,low-rise,hasNeckline,round neckline,1
+hasSilhouette,briefs,hasNeckline,round neckline,1
+depicts,lowerbody,hasNeckline,round neckline,1
+hasFabricTreatment,stretchable fabric,hasLength,short,1
+hasFabricTreatment,stretchable fabric,hasWaistline,low-rise,1
+hasNeckline,round neckline,hasWaistline,low-rise,1
+depicts,lowerbody,hasWaistline,low-rise,1
+hasFabricTreatment,stretchable fabric,hasSilhouette,briefs,1
+hasNeckline,round neckline,hasSilhouette,briefs,1
+depicts,lowerbody,hasSilhouette,briefs,1
+hasFabricTreatment,stretchable fabric,belongsToCategory,lowerbody,1
+hasFabricTreatment,stretchable fabric,depicts,lowerbody,1
+hasOpeningType,open front,depicts,lowerbody,1
+hasNeckline,round neckline,depicts,lowerbody,1
+hasWaistline,low-rise,depicts,lowerbody,1
+hasSilhouette,briefs,depicts,lowerbody,1
+hasSilhouette,hipster,hasPattern,striped,1
+depicts,thong,hasPattern,striped,1
+hasSilhouette,hipster,hasFabricTreatment,stretchy,1
+depicts,thong,hasFabricTreatment,stretchy,1
+hasSilhouette,hipster,hasMaterialType,cotton,1
+depicts,thong,hasMaterialType,cotton,1
+hasSilhouette,hipster,hasOpeningType,zipper,1
+depicts,thong,hasOpeningType,zipper,1
+hasSilhouette,hipster,hasSleeveType,sleeveless,1
+depicts,thong,hasSleeveType,sleeveless,1
+hasSilhouette,hipster,hasNeckline,v-neck,1
+depicts,thong,hasNeckline,v-neck,1
+hasSilhouette,hipster,hasLength,briefs,1
+depicts,thong,hasLength,briefs,1
+hasSilhouette,hipster,hasWaistline,low-rise,1
+depicts,thong,hasWaistline,low-rise,1
+hasPattern,striped,hasSilhouette,hipster,1
+hasFabricTreatment,stretchy,hasSilhouette,hipster,1
+hasMaterialType,cotton,hasSilhouette,hipster,1
+hasOpeningType,zipper,hasSilhouette,hipster,1
+hasSleeveType,sleeveless,hasSilhouette,hipster,1
+hasNeckline,v-neck,hasSilhouette,hipster,1
+hasLength,briefs,hasSilhouette,hipster,1
+hasWaistline,low-rise,hasSilhouette,hipster,1
+belongsToCategory,lowerbody,hasSilhouette,hipster,1
+depicts,thong,hasSilhouette,hipster,1
+hasSilhouette,hipster,belongsToCategory,lowerbody,1
+depicts,thong,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,thong,1
+hasFabricTreatment,stretchy,depicts,thong,1
+hasMaterialType,cotton,depicts,thong,1
+hasOpeningType,zipper,depicts,thong,1
+hasSleeveType,sleeveless,depicts,thong,1
+hasNeckline,v-neck,depicts,thong,1
+hasLength,briefs,depicts,thong,1
+hasWaistline,low-rise,depicts,thong,1
+hasSilhouette,hipster,depicts,thong,1
+belongsToCategory,lowerbody,depicts,thong,1
+hasMaterialType,cotton or synthetic blend,hasFabricTreatment,moisture-wicking,1
+hasOpeningType,zipper or elastic waistband,hasFabricTreatment,moisture-wicking,1
+hasSleeveType,sleeveless,hasFabricTreatment,moisture-wicking,1
+hasLength,short,hasFabricTreatment,moisture-wicking,1
+hasWaistline,natural-waist,hasFabricTreatment,moisture-wicking,1
+hasSilhouette,briefs,hasFabricTreatment,moisture-wicking,1
+belongsToCategory,lowerbody,hasFabricTreatment,moisture-wicking,1
+depicts,underwear,hasFabricTreatment,moisture-wicking,1
+hasFabricTreatment,moisture-wicking,hasMaterialType,cotton or synthetic blend,1
+hasOpeningType,zipper or elastic waistband,hasMaterialType,cotton or synthetic blend,1
+hasSleeveType,sleeveless,hasMaterialType,cotton or synthetic blend,1
+hasLength,short,hasMaterialType,cotton or synthetic blend,1
+hasWaistline,natural-waist,hasMaterialType,cotton or synthetic blend,1
+hasSilhouette,briefs,hasMaterialType,cotton or synthetic blend,1
+belongsToCategory,lowerbody,hasMaterialType,cotton or synthetic blend,1
+depicts,underwear,hasMaterialType,cotton or synthetic blend,1
+hasFabricTreatment,moisture-wicking,hasOpeningType,zipper or elastic waistband,1
+hasMaterialType,cotton or synthetic blend,hasOpeningType,zipper or elastic waistband,1
+hasSleeveType,sleeveless,hasOpeningType,zipper or elastic waistband,1
+hasLength,short,hasOpeningType,zipper or elastic waistband,1
+hasWaistline,natural-waist,hasOpeningType,zipper or elastic waistband,1
+hasSilhouette,briefs,hasOpeningType,zipper or elastic waistband,1
+belongsToCategory,lowerbody,hasOpeningType,zipper or elastic waistband,1
+depicts,underwear,hasOpeningType,zipper or elastic waistband,1
+hasFabricTreatment,moisture-wicking,hasSleeveType,sleeveless,1
+hasMaterialType,cotton or synthetic blend,hasSleeveType,sleeveless,1
+hasOpeningType,zipper or elastic waistband,hasSleeveType,sleeveless,1
+hasFabricTreatment,moisture-wicking,hasLength,short,1
+hasMaterialType,cotton or synthetic blend,hasLength,short,1
+hasOpeningType,zipper or elastic waistband,hasLength,short,1
+hasFabricTreatment,moisture-wicking,hasWaistline,natural-waist,1
+hasMaterialType,cotton or synthetic blend,hasWaistline,natural-waist,1
+hasOpeningType,zipper or elastic waistband,hasWaistline,natural-waist,1
+hasFabricTreatment,moisture-wicking,hasSilhouette,briefs,1
+hasMaterialType,cotton or synthetic blend,hasSilhouette,briefs,1
+hasOpeningType,zipper or elastic waistband,hasSilhouette,briefs,1
+hasFabricTreatment,moisture-wicking,belongsToCategory,lowerbody,1
+hasMaterialType,cotton or synthetic blend,belongsToCategory,lowerbody,1
+hasOpeningType,zipper or elastic waistband,belongsToCategory,lowerbody,1
+hasFabricTreatment,moisture-wicking,depicts,underwear,1
+hasMaterialType,cotton or synthetic blend,depicts,underwear,1
+hasOpeningType,zipper or elastic waistband,depicts,underwear,1
+hasMaterialType,nylon,hasPattern,solid color,1
+hasOpeningType,open back,hasPattern,solid color,1
+hasSilhouette,bodycon,hasPattern,solid color,1
+depicts,panties,hasPattern,solid color,1
+hasMaterialType,nylon,hasFabricTreatment,stretchy,1
+hasSilhouette,bodycon,hasFabricTreatment,stretchy,1
+depicts,panties,hasFabricTreatment,stretchy,1
+hasPattern,solid color,hasMaterialType,nylon,1
+hasFabricTreatment,stretchy,hasMaterialType,nylon,1
+hasOpeningType,open back,hasMaterialType,nylon,1
+hasSleeveType,sleeveless,hasMaterialType,nylon,1
+hasLength,briefs,hasMaterialType,nylon,1
+hasWaistline,low-rise,hasMaterialType,nylon,1
+hasSilhouette,bodycon,hasMaterialType,nylon,1
+belongsToCategory,lowerbody,hasMaterialType,nylon,1
+depicts,panties,hasMaterialType,nylon,1
+hasPattern,solid color,hasOpeningType,open back,1
+hasMaterialType,nylon,hasOpeningType,open back,1
+hasSilhouette,bodycon,hasOpeningType,open back,1
+depicts,panties,hasOpeningType,open back,1
+hasMaterialType,nylon,hasSleeveType,sleeveless,1
+depicts,panties,hasSleeveType,sleeveless,1
+hasMaterialType,nylon,hasLength,briefs,1
+depicts,panties,hasLength,briefs,1
+hasMaterialType,nylon,hasWaistline,low-rise,1
+hasSilhouette,bodycon,hasWaistline,low-rise,1
+depicts,panties,hasWaistline,low-rise,1
+hasPattern,solid color,hasSilhouette,bodycon,1
+hasFabricTreatment,stretchy,hasSilhouette,bodycon,1
+hasMaterialType,nylon,hasSilhouette,bodycon,1
+hasOpeningType,open back,hasSilhouette,bodycon,1
+hasWaistline,low-rise,hasSilhouette,bodycon,1
+depicts,panties,hasSilhouette,bodycon,1
+hasMaterialType,nylon,belongsToCategory,lowerbody,1
+depicts,panties,belongsToCategory,lowerbody,1
+hasPattern,solid color,depicts,panties,1
+hasFabricTreatment,stretchy,depicts,panties,1
+hasMaterialType,nylon,depicts,panties,1
+hasOpeningType,open back,depicts,panties,1
+hasSleeveType,sleeveless,depicts,panties,1
+hasLength,briefs,depicts,panties,1
+hasWaistline,low-rise,depicts,panties,1
+hasSilhouette,bodycon,depicts,panties,1
+belongsToCategory,lowerbody,depicts,panties,1
+hasNeckline,v-neck,hasPattern,solid color,1
+hasNickname,jockstrap,hasPattern,solid color,1
+depicts,lowerbody,hasFabricTreatment,stretchy,1
+depicts,lowerbody,hasOpeningType,zipper,1
+hasPattern,solid color,hasNeckline,v-neck,1
+depicts,lowerbody,hasNeckline,v-neck,1
+hasSilhouette,slim-fit,hasWaistline,high-waisted,1
+depicts,lowerbody,hasWaistline,high-waisted,1
+hasWaistline,high-waisted,hasSilhouette,slim-fit,1
+hasNickname,jockstrap,hasSilhouette,slim-fit,1
+depicts,lowerbody,hasSilhouette,slim-fit,1
+hasPattern,solid color,hasNickname,jockstrap,1
+hasSilhouette,slim-fit,hasNickname,jockstrap,1
+depicts,lowerbody,hasNickname,jockstrap,1
+hasFabricTreatment,stretchy,depicts,lowerbody,1
+hasOpeningType,zipper,depicts,lowerbody,1
+hasNeckline,v-neck,depicts,lowerbody,1
+hasWaistline,high-waisted,depicts,lowerbody,1
+hasSilhouette,slim-fit,depicts,lowerbody,1
+hasNickname,jockstrap,depicts,lowerbody,1
+hasNeckline,v-shaped,hasFabricTreatment,stretchy,1
+hasSilhouette,bikini-like,hasFabricTreatment,stretchy,1
+hasOpeningType,open back,hasMaterialType,cotton or polyester blend,1
+hasNeckline,v-shaped,hasMaterialType,cotton or polyester blend,1
+hasLength,briefs,hasMaterialType,cotton or polyester blend,1
+hasWaistline,low-rise,hasMaterialType,cotton or polyester blend,1
+hasSilhouette,bikini-like,hasMaterialType,cotton or polyester blend,1
+hasMaterialType,cotton or polyester blend,hasOpeningType,open back,1
+hasNeckline,v-shaped,hasOpeningType,open back,1
+hasSilhouette,bikini-like,hasOpeningType,open back,1
+depicts,underwear,hasOpeningType,open back,1
+hasNeckline,v-shaped,hasSleeveType,sleeveless,1
+hasSilhouette,bikini-like,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretchy,hasNeckline,v-shaped,1
+hasMaterialType,cotton or polyester blend,hasNeckline,v-shaped,1
+hasOpeningType,open back,hasNeckline,v-shaped,1
+hasSleeveType,sleeveless,hasNeckline,v-shaped,1
+hasLength,briefs,hasNeckline,v-shaped,1
+hasWaistline,low-rise,hasNeckline,v-shaped,1
+hasSilhouette,bikini-like,hasNeckline,v-shaped,1
+belongsToCategory,lowerbody,hasNeckline,v-shaped,1
+depicts,underwear,hasNeckline,v-shaped,1
+hasMaterialType,cotton or polyester blend,hasLength,briefs,1
+hasNeckline,v-shaped,hasLength,briefs,1
+hasSilhouette,bikini-like,hasLength,briefs,1
+hasMaterialType,cotton or polyester blend,hasWaistline,low-rise,1
+hasNeckline,v-shaped,hasWaistline,low-rise,1
+hasSilhouette,bikini-like,hasWaistline,low-rise,1
+hasFabricTreatment,stretchy,hasSilhouette,bikini-like,1
+hasMaterialType,cotton or polyester blend,hasSilhouette,bikini-like,1
+hasOpeningType,open back,hasSilhouette,bikini-like,1
+hasSleeveType,sleeveless,hasSilhouette,bikini-like,1
+hasNeckline,v-shaped,hasSilhouette,bikini-like,1
+hasLength,briefs,hasSilhouette,bikini-like,1
+hasWaistline,low-rise,hasSilhouette,bikini-like,1
+belongsToCategory,lowerbody,hasSilhouette,bikini-like,1
+depicts,underwear,hasSilhouette,bikini-like,1
+hasNeckline,v-shaped,belongsToCategory,lowerbody,1
+hasSilhouette,bikini-like,belongsToCategory,lowerbody,1
+hasOpeningType,open back,depicts,underwear,1
+hasNeckline,v-shaped,depicts,underwear,1
+hasSilhouette,bikini-like,depicts,underwear,1
+depicts,pant,hasPattern,solid color,1
+hasLeatherType,no leather,hasFabricTreatment,stretchy,1
+hasOpeningType,open-front,hasFabricTreatment,stretchy,1
+hasNeckline,no neckline,hasFabricTreatment,stretchy,1
+depicts,pant,hasFabricTreatment,stretchy,1
+hasFabricTreatment,stretchy,hasLeatherType,no leather,1
+hasOpeningType,open-front,hasLeatherType,no leather,1
+hasSilhouette,form-fitting,hasLeatherType,no leather,1
+depicts,pant,hasLeatherType,no leather,1
+depicts,pant,hasMaterialType,cotton,1
+hasFabricTreatment,stretchy,hasOpeningType,open-front,1
+hasLeatherType,no leather,hasOpeningType,open-front,1
+hasNeckline,no neckline,hasOpeningType,open-front,1
+depicts,pant,hasOpeningType,open-front,1
+depicts,pant,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretchy,hasNeckline,no neckline,1
+hasOpeningType,open-front,hasNeckline,no neckline,1
+depicts,pant,hasNeckline,no neckline,1
+depicts,pant,hasLength,briefs,1
+depicts,pant,hasWaistline,high-waisted,1
+hasLeatherType,no leather,hasSilhouette,form-fitting,1
+depicts,pant,hasSilhouette,form-fitting,1
+depicts,pant,belongsToCategory,lowerbody,1
+hasPattern,solid color,depicts,pant,1
+hasFabricTreatment,stretchy,depicts,pant,1
+hasLeatherType,no leather,depicts,pant,1
+hasMaterialType,cotton,depicts,pant,1
+hasOpeningType,open-front,depicts,pant,1
+hasSleeveType,sleeveless,depicts,pant,1
+hasNeckline,no neckline,depicts,pant,1
+hasLength,briefs,depicts,pant,1
+hasWaistline,high-waisted,depicts,pant,1
+hasSilhouette,form-fitting,depicts,pant,1
+belongsToCategory,lowerbody,depicts,pant,1
+hasMaterialType,cotton,hasFabricTreatment,perforated,1
+hasOpeningType,slit,hasFabricTreatment,perforated,1
+hasSleeveType,sleeveless,hasFabricTreatment,perforated,1
+hasNeckline,straight,hasFabricTreatment,perforated,1
+hasLength,short,hasFabricTreatment,perforated,1
+hasWaistline,natural-waist,hasFabricTreatment,perforated,1
+hasSilhouette,close-fitting,hasFabricTreatment,perforated,1
+belongsToCategory,lowerbody,hasFabricTreatment,perforated,1
+depicts,briefs,hasFabricTreatment,perforated,1
+hasFabricTreatment,perforated,hasMaterialType,cotton,1
+hasOpeningType,slit,hasMaterialType,cotton,1
+hasSilhouette,close-fitting,hasMaterialType,cotton,1
+hasFabricTreatment,perforated,hasOpeningType,slit,1
+hasMaterialType,cotton,hasOpeningType,slit,1
+hasSleeveType,sleeveless,hasOpeningType,slit,1
+hasNeckline,straight,hasOpeningType,slit,1
+hasLength,short,hasOpeningType,slit,1
+hasWaistline,natural-waist,hasOpeningType,slit,1
+hasSilhouette,close-fitting,hasOpeningType,slit,1
+belongsToCategory,lowerbody,hasOpeningType,slit,1
+depicts,briefs,hasOpeningType,slit,1
+hasFabricTreatment,perforated,hasSleeveType,sleeveless,1
+hasOpeningType,slit,hasSleeveType,sleeveless,1
+hasSilhouette,close-fitting,hasSleeveType,sleeveless,1
+hasFabricTreatment,perforated,hasNeckline,straight,1
+hasOpeningType,slit,hasNeckline,straight,1
+hasSilhouette,close-fitting,hasNeckline,straight,1
+hasFabricTreatment,perforated,hasLength,short,1
+hasOpeningType,slit,hasLength,short,1
+hasSilhouette,close-fitting,hasLength,short,1
+hasFabricTreatment,perforated,hasWaistline,natural-waist,1
+hasOpeningType,slit,hasWaistline,natural-waist,1
+hasSilhouette,close-fitting,hasWaistline,natural-waist,1
+hasFabricTreatment,perforated,hasSilhouette,close-fitting,1
+hasMaterialType,cotton,hasSilhouette,close-fitting,1
+hasOpeningType,slit,hasSilhouette,close-fitting,1
+hasSleeveType,sleeveless,hasSilhouette,close-fitting,1
+hasNeckline,straight,hasSilhouette,close-fitting,1
+hasLength,short,hasSilhouette,close-fitting,1
+hasWaistline,natural-waist,hasSilhouette,close-fitting,1
+belongsToCategory,lowerbody,hasSilhouette,close-fitting,1
+depicts,briefs,hasSilhouette,close-fitting,1
+hasFabricTreatment,perforated,belongsToCategory,lowerbody,1
+hasOpeningType,slit,belongsToCategory,lowerbody,1
+hasSilhouette,close-fitting,belongsToCategory,lowerbody,1
+hasFabricTreatment,perforated,depicts,briefs,1
+hasOpeningType,slit,depicts,briefs,1
+hasSilhouette,close-fitting,depicts,briefs,1
+hasSilhouette,slimming,hasPattern,striped,1
+hasNickname,briefs,hasPattern,striped,1
+hasSilhouette,slimming,hasFabricTreatment,stretchy,1
+hasSilhouette,slimming,hasMaterialType,cotton,1
+hasNickname,briefs,hasMaterialType,cotton,1
+hasSleeveType,short-sleeve,hasOpeningType,open front,1
+hasSilhouette,slimming,hasOpeningType,open front,1
+hasNickname,briefs,hasOpeningType,open front,1
+hasOpeningType,open front,hasSleeveType,short-sleeve,1
+hasLength,short,hasSleeveType,short-sleeve,1
+hasSilhouette,slimming,hasSleeveType,short-sleeve,1
+hasNickname,briefs,hasSleeveType,short-sleeve,1
+hasSleeveType,short-sleeve,hasLength,short,1
+hasSilhouette,slimming,hasLength,short,1
+hasSilhouette,slimming,hasWaistline,low-rise,1
+hasNickname,briefs,hasWaistline,low-rise,1
+hasPattern,striped,hasSilhouette,slimming,1
+hasFabricTreatment,stretchy,hasSilhouette,slimming,1
+hasMaterialType,cotton,hasSilhouette,slimming,1
+hasOpeningType,open front,hasSilhouette,slimming,1
+hasSleeveType,short-sleeve,hasSilhouette,slimming,1
+hasLength,short,hasSilhouette,slimming,1
+hasWaistline,low-rise,hasSilhouette,slimming,1
+hasNickname,briefs,hasSilhouette,slimming,1
+belongsToCategory,lowerbody,hasSilhouette,slimming,1
+depicts,underwear,hasSilhouette,slimming,1
+hasPattern,striped,hasNickname,briefs,1
+hasMaterialType,cotton,hasNickname,briefs,1
+hasOpeningType,open front,hasNickname,briefs,1
+hasSleeveType,short-sleeve,hasNickname,briefs,1
+hasWaistline,low-rise,hasNickname,briefs,1
+hasSilhouette,slimming,hasNickname,briefs,1
+depicts,underwear,hasNickname,briefs,1
+hasSilhouette,slimming,belongsToCategory,lowerbody,1
+hasSilhouette,slimming,depicts,underwear,1
+hasNickname,briefs,depicts,underwear,1
+hasMaterialType,nylon and elastane blend,hasFabricTreatment,stretchy,1
+depicts,upperbody,hasFabricTreatment,stretchy,1
+hasFabricTreatment,stretchy,hasMaterialType,nylon and elastane blend,1
+hasOpeningType,open back,hasMaterialType,nylon and elastane blend,1
+hasSleeveType,sleeveless,hasMaterialType,nylon and elastane blend,1
+hasNeckline,non-existent,hasMaterialType,nylon and elastane blend,1
+hasLength,short,hasMaterialType,nylon and elastane blend,1
+hasWaistline,natural-waist,hasMaterialType,nylon and elastane blend,1
+hasSilhouette,slim-fit,hasMaterialType,nylon and elastane blend,1
+hasNickname,briefs,hasMaterialType,nylon and elastane blend,1
+belongsToCategory,lowerbody,hasMaterialType,nylon and elastane blend,1
+depicts,upperbody,hasMaterialType,nylon and elastane blend,1
+hasMaterialType,nylon and elastane blend,hasOpeningType,open back,1
+hasNeckline,non-existent,hasOpeningType,open back,1
+hasLength,short,hasOpeningType,open back,1
+hasWaistline,natural-waist,hasOpeningType,open back,1
+hasSilhouette,slim-fit,hasOpeningType,open back,1
+hasNickname,briefs,hasOpeningType,open back,1
+depicts,upperbody,hasOpeningType,open back,1
+hasMaterialType,nylon and elastane blend,hasSleeveType,sleeveless,1
+hasNeckline,non-existent,hasSleeveType,sleeveless,1
+hasNickname,briefs,hasSleeveType,sleeveless,1
+depicts,upperbody,hasSleeveType,sleeveless,1
+hasMaterialType,nylon and elastane blend,hasNeckline,non-existent,1
+hasOpeningType,open back,hasNeckline,non-existent,1
+hasSleeveType,sleeveless,hasNeckline,non-existent,1
+hasLength,short,hasNeckline,non-existent,1
+hasWaistline,natural-waist,hasNeckline,non-existent,1
+hasSilhouette,slim-fit,hasNeckline,non-existent,1
+hasNickname,briefs,hasNeckline,non-existent,1
+depicts,upperbody,hasNeckline,non-existent,1
+hasMaterialType,nylon and elastane blend,hasLength,short,1
+hasOpeningType,open back,hasLength,short,1
+hasNeckline,non-existent,hasLength,short,1
+depicts,upperbody,hasLength,short,1
+hasMaterialType,nylon and elastane blend,hasWaistline,natural-waist,1
+hasOpeningType,open back,hasWaistline,natural-waist,1
+hasNeckline,non-existent,hasWaistline,natural-waist,1
+hasNickname,briefs,hasWaistline,natural-waist,1
+depicts,upperbody,hasWaistline,natural-waist,1
+hasMaterialType,nylon and elastane blend,hasSilhouette,slim-fit,1
+hasOpeningType,open back,hasSilhouette,slim-fit,1
+hasNeckline,non-existent,hasSilhouette,slim-fit,1
+hasNickname,briefs,hasSilhouette,slim-fit,1
+depicts,upperbody,hasSilhouette,slim-fit,1
+hasMaterialType,nylon and elastane blend,hasNickname,briefs,1
+hasOpeningType,open back,hasNickname,briefs,1
+hasSleeveType,sleeveless,hasNickname,briefs,1
+hasNeckline,non-existent,hasNickname,briefs,1
+hasWaistline,natural-waist,hasNickname,briefs,1
+hasSilhouette,slim-fit,hasNickname,briefs,1
+depicts,upperbody,hasNickname,briefs,1
+hasMaterialType,nylon and elastane blend,belongsToCategory,lowerbody,1
+depicts,upperbody,belongsToCategory,lowerbody,1
+hasFabricTreatment,stretchy,depicts,upperbody,1
+hasMaterialType,nylon and elastane blend,depicts,upperbody,1
+hasOpeningType,open back,depicts,upperbody,1
+hasSleeveType,sleeveless,depicts,upperbody,1
+hasNeckline,non-existent,depicts,upperbody,1
+hasLength,short,depicts,upperbody,1
+hasWaistline,natural-waist,depicts,upperbody,1
+hasSilhouette,slim-fit,depicts,upperbody,1
+hasNickname,briefs,depicts,upperbody,1
+belongsToCategory,lowerbody,depicts,upperbody,1
+hasMaterialType,polyester elastane blend,hasPattern,solid pattern,1
+hasSleeveType,sleeveless,hasPattern,solid pattern,1
+hasLength,short,hasPattern,solid pattern,1
+hasWaistline,mid-rise waistline,hasPattern,solid pattern,1
+hasSilhouette,boyshort silhouette,hasPattern,solid pattern,1
+belongsToCategory,lowerbody,hasPattern,solid pattern,1
+depicts,briefs,hasPattern,solid pattern,1
+hasPattern,solid pattern,hasMaterialType,polyester elastane blend,1
+hasSleeveType,sleeveless,hasMaterialType,polyester elastane blend,1
+hasLength,short,hasMaterialType,polyester elastane blend,1
+hasWaistline,mid-rise waistline,hasMaterialType,polyester elastane blend,1
+hasSilhouette,boyshort silhouette,hasMaterialType,polyester elastane blend,1
+belongsToCategory,lowerbody,hasMaterialType,polyester elastane blend,1
+depicts,briefs,hasMaterialType,polyester elastane blend,1
+hasPattern,solid pattern,hasSleeveType,sleeveless,1
+hasMaterialType,polyester elastane blend,hasSleeveType,sleeveless,1
+hasWaistline,mid-rise waistline,hasSleeveType,sleeveless,1
+hasSilhouette,boyshort silhouette,hasSleeveType,sleeveless,1
+hasPattern,solid pattern,hasLength,short,1
+hasMaterialType,polyester elastane blend,hasLength,short,1
+hasWaistline,mid-rise waistline,hasLength,short,1
+hasSilhouette,boyshort silhouette,hasLength,short,1
+hasPattern,solid pattern,hasWaistline,mid-rise waistline,1
+hasMaterialType,polyester elastane blend,hasWaistline,mid-rise waistline,1
+hasSleeveType,sleeveless,hasWaistline,mid-rise waistline,1
+hasLength,short,hasWaistline,mid-rise waistline,1
+hasSilhouette,boyshort silhouette,hasWaistline,mid-rise waistline,1
+belongsToCategory,lowerbody,hasWaistline,mid-rise waistline,1
+depicts,briefs,hasWaistline,mid-rise waistline,1
+hasPattern,solid pattern,hasSilhouette,boyshort silhouette,1
+hasMaterialType,polyester elastane blend,hasSilhouette,boyshort silhouette,1
+hasSleeveType,sleeveless,hasSilhouette,boyshort silhouette,1
+hasLength,short,hasSilhouette,boyshort silhouette,1
+hasWaistline,mid-rise waistline,hasSilhouette,boyshort silhouette,1
+belongsToCategory,lowerbody,hasSilhouette,boyshort silhouette,1
+depicts,briefs,hasSilhouette,boyshort silhouette,1
+hasPattern,solid pattern,belongsToCategory,lowerbody,1
+hasMaterialType,polyester elastane blend,belongsToCategory,lowerbody,1
+hasWaistline,mid-rise waistline,belongsToCategory,lowerbody,1
+hasSilhouette,boyshort silhouette,belongsToCategory,lowerbody,1
+hasPattern,solid pattern,depicts,briefs,1
+hasMaterialType,polyester elastane blend,depicts,briefs,1
+hasWaistline,mid-rise waistline,depicts,briefs,1
+hasSilhouette,boyshort silhouette,depicts,briefs,1
+hasMaterialType,cotton blend,hasFabricTreatment,stretch,1
+hasOpeningType,zipper,hasFabricTreatment,stretch,1
+hasSleeveType,sleeveless,hasFabricTreatment,stretch,1
+hasNeckline,straight,hasFabricTreatment,stretch,1
+hasLength,short,hasFabricTreatment,stretch,1
+hasWaistline,natural-waist,hasFabricTreatment,stretch,1
+hasSilhouette,form-fitting,hasFabricTreatment,stretch,1
+depicts,briefs,hasFabricTreatment,stretch,1
+hasFabricTreatment,stretch,hasMaterialType,cotton blend,1
+hasOpeningType,zipper,hasMaterialType,cotton blend,1
+hasSleeveType,sleeveless,hasMaterialType,cotton blend,1
+hasNeckline,straight,hasMaterialType,cotton blend,1
+hasLength,short,hasMaterialType,cotton blend,1
+hasWaistline,natural-waist,hasMaterialType,cotton blend,1
+depicts,briefs,hasMaterialType,cotton blend,1
+hasFabricTreatment,stretch,hasOpeningType,zipper,1
+hasMaterialType,cotton blend,hasOpeningType,zipper,1
+hasNeckline,straight,hasOpeningType,zipper,1
+hasWaistline,natural-waist,hasOpeningType,zipper,1
+hasSilhouette,form-fitting,hasOpeningType,zipper,1
+depicts,briefs,hasOpeningType,zipper,1
+hasFabricTreatment,stretch,hasSleeveType,sleeveless,1
+hasMaterialType,cotton blend,hasSleeveType,sleeveless,1
+hasFabricTreatment,stretch,hasNeckline,straight,1
+hasMaterialType,cotton blend,hasNeckline,straight,1
+hasOpeningType,zipper,hasNeckline,straight,1
+hasFabricTreatment,stretch,hasLength,short,1
+hasMaterialType,cotton blend,hasLength,short,1
+hasSilhouette,form-fitting,hasLength,short,1
+hasFabricTreatment,stretch,hasWaistline,natural-waist,1
+hasMaterialType,cotton blend,hasWaistline,natural-waist,1
+hasOpeningType,zipper,hasWaistline,natural-waist,1
+hasSilhouette,form-fitting,hasWaistline,natural-waist,1
+hasFabricTreatment,stretch,hasSilhouette,form-fitting,1
+hasOpeningType,zipper,hasSilhouette,form-fitting,1
+hasLength,short,hasSilhouette,form-fitting,1
+hasWaistline,natural-waist,hasSilhouette,form-fitting,1
+depicts,briefs,hasSilhouette,form-fitting,1
+hasFabricTreatment,stretch,depicts,briefs,1
+hasMaterialType,cotton blend,depicts,briefs,1
+hasOpeningType,zipper,depicts,briefs,1
+hasSilhouette,form-fitting,depicts,briefs,1
+hasWaistline,no waist,hasPattern,solid color,1
+hasOpeningType,front opening,hasFabricTreatment,plain weave,1
+hasWaistline,no waist,hasFabricTreatment,plain weave,1
+hasWaistline,no waist,hasMaterialType,cotton,1
+hasFabricTreatment,plain weave,hasOpeningType,front opening,1
+hasLength,short,hasOpeningType,front opening,1
+hasWaistline,no waist,hasOpeningType,front opening,1
+hasSilhouette,briefs,hasOpeningType,front opening,1
+hasWaistline,no waist,hasSleeveType,sleeveless,1
+hasOpeningType,front opening,hasLength,short,1
+hasWaistline,no waist,hasLength,short,1
+hasPattern,solid color,hasWaistline,no waist,1
+hasFabricTreatment,plain weave,hasWaistline,no waist,1
+hasMaterialType,cotton,hasWaistline,no waist,1
+hasOpeningType,front opening,hasWaistline,no waist,1
+hasSleeveType,sleeveless,hasWaistline,no waist,1
+hasLength,short,hasWaistline,no waist,1
+hasSilhouette,briefs,hasWaistline,no waist,1
+belongsToCategory,lowerbody,hasWaistline,no waist,1
+depicts,underwear,hasWaistline,no waist,1
+hasOpeningType,front opening,hasSilhouette,briefs,1
+hasWaistline,no waist,hasSilhouette,briefs,1
+hasWaistline,no waist,belongsToCategory,lowerbody,1
+hasWaistline,no waist,depicts,underwear,1
+hasOpeningType,zipper closure,hasPattern,solid color,1
+hasOpeningType,zipper closure,hasLeatherType,no leather,1
+hasLength,short,hasLeatherType,no leather,1
+hasSilhouette,briefs,hasLeatherType,no leather,1
+depicts,underwear,hasLeatherType,no leather,1
+hasOpeningType,zipper closure,hasMaterialType,cotton,1
+hasPattern,solid color,hasOpeningType,zipper closure,1
+hasLeatherType,no leather,hasOpeningType,zipper closure,1
+hasMaterialType,cotton,hasOpeningType,zipper closure,1
+hasSleeveType,sleeveless,hasOpeningType,zipper closure,1
+hasLength,short,hasOpeningType,zipper closure,1
+hasWaistline,high-waisted,hasOpeningType,zipper closure,1
+hasSilhouette,briefs,hasOpeningType,zipper closure,1
+belongsToCategory,lowerbody,hasOpeningType,zipper closure,1
+depicts,underwear,hasOpeningType,zipper closure,1
+hasOpeningType,zipper closure,hasSleeveType,sleeveless,1
+hasLeatherType,no leather,hasLength,short,1
+hasOpeningType,zipper closure,hasLength,short,1
+hasOpeningType,zipper closure,hasWaistline,high-waisted,1
+hasLeatherType,no leather,hasSilhouette,briefs,1
+hasOpeningType,zipper closure,hasSilhouette,briefs,1
+hasOpeningType,zipper closure,belongsToCategory,lowerbody,1
+hasLeatherType,no leather,depicts,underwear,1
+hasOpeningType,zipper closure,depicts,underwear,1

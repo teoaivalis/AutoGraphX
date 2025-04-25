@@ -1,0 +1,15 @@
+**Determining Relationships of Fashion Items in Image**
+
+To extract relevant information from the image, we will analyze each aspect:
+
+* **Depicts:** The fashion item is a watch.
+* **has_material_type:** Made of leather.
+
+Based on these observations, the following triples can be generated:
+
+| image_name | relationship | attribute_value |
+| --- | --- | --- |
+| Q&Q_Kids-Unisex_Unisex_White_Fashion_Winter_2016_Casual_Free_Gifts_Free_Items_Free_Gifts_3 | depicts | watch |
+| Q&Q_Kids-Unisex_Unisex_White_Fashion_Winter_2016_Casual_Free_Gifts_Free_Items_Free_Gifts_3 | has_material_type | leather |
+
+These triples provide a concise summary of the key characteristics and attributes of the fashion item in the image.

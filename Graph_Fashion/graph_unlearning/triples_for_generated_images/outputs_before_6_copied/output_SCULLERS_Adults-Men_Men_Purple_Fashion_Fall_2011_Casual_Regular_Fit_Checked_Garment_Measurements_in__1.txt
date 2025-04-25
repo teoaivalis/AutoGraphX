@@ -1,0 +1,18 @@
+The provided image depicts a man wearing a shirt. The relevant garment category is "Shirt". The supercategory of this item is "upperbody" since it covers the upper part of the body.
+
+**Relationships and Attributes**
+
+*   (image_name, **belongs_to_category**, Shirts)
+*   (image_name, **has_silhouette**, Straight)
+*   (image_name, **has_waistline**, Natural)
+*   (image_name, **has_length**, Regular)
+*   (image_name, **has_collar_type**, Pointed)
+*   (image_name, **has_lapel_type**, None)
+*   (image_name, **has_neckline**, Classic)
+*   (image_name, **has_sleeve_type**, Short)
+*   (image_name, **has_pocket_type**, Side seam pockets)
+*   (image_name, **has_opening_type**, Button front)
+*   (image_name, **has_material_type**, Cotton)
+*   (image_name, **has_leather_type**, None)
+*   (image_name, **has_fabric_treatment**, Plain weave)
+*   (image_name, **has_pattern**, Checked)

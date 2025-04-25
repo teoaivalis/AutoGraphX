@@ -1,0 +1,783 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,shoes,belongsToCategory,lowerbody,40
+belongsToCategory,lowerbody,depicts,shoes,40
+belongsToCategory,lowerbody,hasMaterialType,leather,39
+depicts,shoes,hasMaterialType,leather,39
+hasMaterialType,leather,belongsToCategory,lowerbody,39
+hasMaterialType,leather,depicts,shoes,39
+belongsToCategory,lowerbody,hasSilhouette,round toe,38
+depicts,shoes,hasSilhouette,round toe,38
+hasSilhouette,round toe,belongsToCategory,lowerbody,38
+hasSilhouette,round toe,depicts,shoes,38
+hasSilhouette,round toe,hasMaterialType,leather,37
+hasMaterialType,leather,hasSilhouette,round toe,37
+hasMaterialType,leather,hasLeatherType,full grain leather,6
+hasSilhouette,round toe,hasLeatherType,full grain leather,6
+belongsToCategory,lowerbody,hasLeatherType,full grain leather,6
+depicts,shoes,hasLeatherType,full grain leather,6
+hasLeatherType,full grain leather,hasMaterialType,leather,6
+hasLength,ankle-high,hasMaterialType,leather,6
+hasMaterialType,leather,hasLength,ankle-high,6
+hasSilhouette,round toe,hasLength,ankle-high,6
+belongsToCategory,lowerbody,hasLength,ankle-high,6
+depicts,shoes,hasLength,ankle-high,6
+hasLeatherType,full grain leather,hasSilhouette,round toe,6
+hasLength,ankle-high,hasSilhouette,round toe,6
+hasLeatherType,full grain leather,belongsToCategory,lowerbody,6
+hasLength,ankle-high,belongsToCategory,lowerbody,6
+hasLeatherType,full grain leather,depicts,shoes,6
+hasLength,ankle-high,depicts,shoes,6
+hasLength,ankle boots,hasMaterialType,leather,6
+hasMaterialType,leather,hasLength,ankle boots,6
+hasSilhouette,round toe,hasLength,ankle boots,6
+belongsToCategory,lowerbody,hasLength,ankle boots,6
+depicts,shoes,hasLength,ankle boots,6
+hasLength,ankle boots,hasSilhouette,round toe,6
+hasLength,ankle boots,belongsToCategory,lowerbody,6
+hasLength,ankle boots,depicts,shoes,6
+hasOpeningType,lace-up,hasMaterialType,leather,5
+hasMaterialType,leather,hasOpeningType,lace-up,5
+hasSilhouette,round toe,hasOpeningType,lace-up,5
+belongsToCategory,lowerbody,hasOpeningType,lace-up,5
+depicts,shoes,hasOpeningType,lace-up,5
+hasOpeningType,lace-up,hasSilhouette,round toe,5
+hasOpeningType,lace-up,belongsToCategory,lowerbody,5
+hasOpeningType,lace-up,depicts,shoes,5
+hasLength,low-top,hasMaterialType,leather,5
+hasMaterialType,leather,hasLength,low-top,5
+hasSilhouette,round toe,hasLength,low-top,5
+belongsToCategory,lowerbody,hasLength,low-top,5
+depicts,shoes,hasLength,low-top,5
+hasLength,low-top,hasSilhouette,round toe,5
+hasLength,low-top,belongsToCategory,lowerbody,5
+hasLength,low-top,depicts,shoes,5
+hasOpeningType,slip-on,hasMaterialType,leather,5
+hasMaterialType,leather,hasOpeningType,slip-on,5
+hasSilhouette,round toe,hasOpeningType,slip-on,5
+belongsToCategory,lowerbody,hasOpeningType,slip-on,5
+depicts,shoes,hasOpeningType,slip-on,5
+hasOpeningType,slip-on,hasSilhouette,round toe,5
+hasOpeningType,slip-on,belongsToCategory,lowerbody,5
+hasOpeningType,slip-on,depicts,shoes,5
+hasLeatherType,full-grain leather,depicts,shoes,4
+hasLeatherType,full-grain leather,belongsToCategory,lowerbody,4
+hasLeatherType,full-grain leather,hasMaterialType,leather,4
+depicts,shoes,hasLeatherType,full-grain leather,4
+belongsToCategory,lowerbody,hasLeatherType,full-grain leather,4
+hasMaterialType,leather,hasLeatherType,full-grain leather,4
+hasMaterialType,leather,hasPattern,solid color,4
+hasSilhouette,round toe,hasPattern,solid color,4
+belongsToCategory,lowerbody,hasPattern,solid color,4
+depicts,shoes,hasPattern,solid color,4
+hasPattern,solid color,hasMaterialType,leather,4
+hasNeckline,round neckline,hasMaterialType,leather,4
+hasMaterialType,leather,hasNeckline,round neckline,4
+hasSilhouette,round toe,hasNeckline,round neckline,4
+belongsToCategory,lowerbody,hasNeckline,round neckline,4
+depicts,shoes,hasNeckline,round neckline,4
+hasPattern,solid color,hasSilhouette,round toe,4
+hasNeckline,round neckline,hasSilhouette,round toe,4
+hasPattern,solid color,belongsToCategory,lowerbody,4
+hasNeckline,round neckline,belongsToCategory,lowerbody,4
+hasPattern,solid color,depicts,shoes,4
+hasNeckline,round neckline,depicts,shoes,4
+hasLength,short,depicts,shoes,3
+hasLength,short,belongsToCategory,lowerbody,3
+depicts,shoes,hasLength,short,3
+belongsToCategory,lowerbody,hasLength,short,3
+hasMaterialType,leather,hasLength,short,3
+hasLength,short,hasMaterialType,leather,3
+hasLeatherType,nubuck,hasMaterialType,leather,3
+hasMaterialType,leather,hasLeatherType,nubuck,3
+hasSilhouette,round toe,hasLeatherType,nubuck,3
+belongsToCategory,lowerbody,hasLeatherType,nubuck,3
+depicts,shoes,hasLeatherType,nubuck,3
+hasLeatherType,nubuck,hasSilhouette,round toe,3
+hasLeatherType,nubuck,belongsToCategory,lowerbody,3
+hasLeatherType,nubuck,depicts,shoes,3
+hasSilhouette,round toe,hasLeatherType,full-grain leather,3
+hasSleeveType,short-sleeve,hasMaterialType,leather,3
+hasMaterialType,leather,hasSleeveType,short-sleeve,3
+hasSilhouette,round toe,hasSleeveType,short-sleeve,3
+belongsToCategory,lowerbody,hasSleeveType,short-sleeve,3
+depicts,shoes,hasSleeveType,short-sleeve,3
+hasLeatherType,full-grain leather,hasSilhouette,round toe,3
+hasSleeveType,short-sleeve,hasSilhouette,round toe,3
+hasSleeveType,short-sleeve,belongsToCategory,lowerbody,3
+hasSleeveType,short-sleeve,depicts,shoes,3
+hasMaterialType,leather,hasFabricTreatment,suede,3
+hasSilhouette,round toe,hasFabricTreatment,suede,3
+belongsToCategory,lowerbody,hasFabricTreatment,suede,3
+depicts,shoes,hasFabricTreatment,suede,3
+hasFabricTreatment,suede,hasMaterialType,leather,3
+hasLength,low-top,hasOpeningType,lace-up,3
+hasOpeningType,lace-up,hasLength,low-top,3
+hasFabricTreatment,suede,hasSilhouette,round toe,3
+hasFabricTreatment,suede,belongsToCategory,lowerbody,3
+hasFabricTreatment,suede,depicts,shoes,3
+hasMaterialType,leather,hasFabricTreatment,suede finish,3
+hasSilhouette,round toe,hasFabricTreatment,suede finish,3
+belongsToCategory,lowerbody,hasFabricTreatment,suede finish,3
+depicts,shoes,hasFabricTreatment,suede finish,3
+hasFabricTreatment,suede finish,hasMaterialType,leather,3
+hasFabricTreatment,suede finish,hasSilhouette,round toe,3
+hasFabricTreatment,suede finish,belongsToCategory,lowerbody,3
+hasFabricTreatment,suede finish,depicts,shoes,3
+hasLength,ankle-high,hasLeatherType,full grain leather,2
+hasLeatherType,full grain leather,hasLength,ankle-high,2
+hasLength,full length,hasMaterialType,leather,2
+hasMaterialType,leather,hasLength,full length,2
+hasSilhouette,round toe,hasLength,full length,2
+belongsToCategory,lowerbody,hasLength,full length,2
+depicts,shoes,hasLength,full length,2
+hasLength,full length,hasSilhouette,round toe,2
+hasLength,full length,belongsToCategory,lowerbody,2
+hasLength,full length,depicts,shoes,2
+hasLeatherType,full-grain leather,hasPattern,solid color,2
+hasSleeveType,short-sleeve,hasPattern,solid color,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasLength,ankle-high,hasPattern,solid color,2
+hasPattern,solid color,hasLeatherType,full-grain leather,2
+hasSleeveType,short-sleeve,hasLeatherType,full-grain leather,2
+hasPattern,solid color,hasSleeveType,short-sleeve,2
+hasLeatherType,full-grain leather,hasSleeveType,short-sleeve,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasLength,ankle-high,hasNeckline,round neckline,2
+hasPattern,solid color,hasLength,ankle-high,2
+hasNeckline,round neckline,hasLength,ankle-high,2
+belongsToCategory,lowerbody,hasLeatherType,leather,2
+depicts,shoes,hasLeatherType,leather,2
+hasLeatherType,leather,belongsToCategory,lowerbody,2
+hasLeatherType,leather,depicts,shoes,2
+hasOpeningType,lace-up,hasFabricTreatment,suede,2
+hasLength,low-top,hasFabricTreatment,suede,2
+hasFabricTreatment,suede,hasOpeningType,lace-up,2
+hasFabricTreatment,suede,hasLength,low-top,2
+hasLeatherType,full grain leather,hasPattern,solid color,2
+hasPattern,solid color,hasLeatherType,full grain leather,2
+hasNeckline,round neckline,hasLeatherType,full grain leather,2
+hasLeatherType,full grain leather,hasNeckline,round neckline,2
+hasMaterialType,leather,hasLeatherType,smooth leather,2
+hasSilhouette,round toe,hasLeatherType,smooth leather,2
+belongsToCategory,lowerbody,hasLeatherType,smooth leather,2
+depicts,shoes,hasLeatherType,smooth leather,2
+hasLeatherType,smooth leather,hasMaterialType,leather,2
+hasLeatherType,smooth leather,hasSilhouette,round toe,2
+hasLeatherType,smooth leather,belongsToCategory,lowerbody,2
+hasLeatherType,smooth leather,depicts,shoes,2
+hasSleeveType,short-sleeve,hasFabricTreatment,suede finish,2
+hasLength,ankle boots,hasFabricTreatment,suede finish,2
+hasFabricTreatment,suede finish,hasSleeveType,short-sleeve,2
+hasLength,ankle boots,hasSleeveType,short-sleeve,2
+hasFabricTreatment,suede finish,hasLength,ankle boots,2
+hasSleeveType,short-sleeve,hasLength,ankle boots,2
+hasLeatherType,nubuck,hasFabricTreatment,suede,2
+hasFabricTreatment,suede,hasLeatherType,nubuck,2
+hasNeckline,round neckline,hasOpeningType,slip-on,2
+hasOpeningType,slip-on,hasNeckline,round neckline,2
+hasSilhouette,round toe,hasLength,short,2
+hasLength,short,hasSilhouette,round toe,2
+hasMaterialType,leather,hasFabricTreatment,embossed,2
+hasLength,low-top,hasFabricTreatment,embossed,2
+hasSilhouette,round toe,hasFabricTreatment,embossed,2
+belongsToCategory,lowerbody,hasFabricTreatment,embossed,2
+depicts,shoes,hasFabricTreatment,embossed,2
+hasFabricTreatment,embossed,hasMaterialType,leather,2
+hasFabricTreatment,embossed,hasLength,low-top,2
+hasFabricTreatment,embossed,hasSilhouette,round toe,2
+hasFabricTreatment,embossed,belongsToCategory,lowerbody,2
+hasFabricTreatment,embossed,depicts,shoes,2
+hasLength,flat,hasMaterialType,leather,2
+hasMaterialType,leather,hasLength,flat,2
+hasSilhouette,round toe,hasLength,flat,2
+belongsToCategory,lowerbody,hasLength,flat,2
+depicts,shoes,hasLength,flat,2
+hasLength,flat,hasSilhouette,round toe,2
+hasLength,flat,belongsToCategory,lowerbody,2
+hasLength,flat,depicts,shoes,2
+hasLength,midi,hasMaterialType,leather,1
+hasMaterialType,leather,hasLength,midi,1
+hasSilhouette,round toe,hasLength,midi,1
+belongsToCategory,lowerbody,hasLength,midi,1
+depicts,shoes,hasLength,midi,1
+hasLength,midi,hasSilhouette,round toe,1
+hasLength,midi,belongsToCategory,lowerbody,1
+hasLength,midi,depicts,shoes,1
+hasMaterialType,leather,hasLeatherType,cow leather,1
+hasOpeningType,lace-up,hasLeatherType,cow leather,1
+hasLength,low-top shoes,hasLeatherType,cow leather,1
+hasSilhouette,round toe,hasLeatherType,cow leather,1
+belongsToCategory,lowerbody,hasLeatherType,cow leather,1
+depicts,shoes,hasLeatherType,cow leather,1
+hasLeatherType,cow leather,hasMaterialType,leather,1
+hasLength,low-top shoes,hasMaterialType,leather,1
+hasLeatherType,cow leather,hasOpeningType,lace-up,1
+hasLength,low-top shoes,hasOpeningType,lace-up,1
+hasLeatherType,cow leather,hasLength,low-top shoes,1
+hasMaterialType,leather,hasLength,low-top shoes,1
+hasOpeningType,lace-up,hasLength,low-top shoes,1
+hasSilhouette,round toe,hasLength,low-top shoes,1
+belongsToCategory,lowerbody,hasLength,low-top shoes,1
+depicts,shoes,hasLength,low-top shoes,1
+hasLeatherType,cow leather,hasSilhouette,round toe,1
+hasLength,low-top shoes,hasSilhouette,round toe,1
+hasLeatherType,cow leather,belongsToCategory,lowerbody,1
+hasLength,low-top shoes,belongsToCategory,lowerbody,1
+hasLeatherType,cow leather,depicts,shoes,1
+hasLength,low-top shoes,depicts,shoes,1
+depicts,shoes,hasSilhouette,slip-on,1
+belongsToCategory,lowerbody,hasSilhouette,slip-on,1
+hasLength,short,hasSilhouette,slip-on,1
+hasOpeningType,shoes,hasSilhouette,slip-on,1
+hasMaterialType,leather,hasSilhouette,slip-on,1
+hasLeatherType,full-grain leather,hasSilhouette,slip-on,1
+depicts,shoes,hasSleeveType,slip-on,1
+belongsToCategory,lowerbody,hasSleeveType,slip-on,1
+hasLength,short,hasSleeveType,slip-on,1
+hasOpeningType,shoes,hasSleeveType,slip-on,1
+hasMaterialType,leather,hasSleeveType,slip-on,1
+hasLeatherType,full-grain leather,hasSleeveType,slip-on,1
+hasSilhouette,slip-on,depicts,shoes,1
+hasSleeveType,slip-on,depicts,shoes,1
+hasSilhouette,slip-on,belongsToCategory,lowerbody,1
+hasSleeveType,slip-on,belongsToCategory,lowerbody,1
+hasOpeningType,shoes,belongsToCategory,lowerbody,1
+hasSilhouette,slip-on,hasLength,short,1
+hasSleeveType,slip-on,hasLength,short,1
+hasOpeningType,shoes,hasLength,short,1
+hasLeatherType,full-grain leather,hasLength,short,1
+hasSilhouette,slip-on,hasOpeningType,shoes,1
+hasSleeveType,slip-on,hasOpeningType,shoes,1
+belongsToCategory,lowerbody,hasOpeningType,shoes,1
+hasLength,short,hasOpeningType,shoes,1
+hasMaterialType,leather,hasOpeningType,shoes,1
+hasLeatherType,full-grain leather,hasOpeningType,shoes,1
+hasSilhouette,slip-on,hasMaterialType,leather,1
+hasSleeveType,slip-on,hasMaterialType,leather,1
+hasOpeningType,shoes,hasMaterialType,leather,1
+hasSilhouette,slip-on,hasLeatherType,full-grain leather,1
+hasSleeveType,slip-on,hasLeatherType,full-grain leather,1
+hasLength,short,hasLeatherType,full-grain leather,1
+hasOpeningType,shoes,hasLeatherType,full-grain leather,1
+hasLength,ankle-high,hasLeatherType,nubuck,1
+hasLeatherType,nubuck,hasLength,ankle-high,1
+hasOpeningType,lace-up closure,hasPattern,solid color,1
+hasOpeningType,lace-up closure,hasLeatherType,full-grain leather,1
+hasNeckline,round neckline,hasLeatherType,full-grain leather,1
+hasLength,ankle-high,hasLeatherType,full-grain leather,1
+hasOpeningType,lace-up closure,hasMaterialType,leather,1
+hasPattern,solid color,hasOpeningType,lace-up closure,1
+hasLeatherType,full-grain leather,hasOpeningType,lace-up closure,1
+hasMaterialType,leather,hasOpeningType,lace-up closure,1
+hasSleeveType,short-sleeve,hasOpeningType,lace-up closure,1
+hasNeckline,round neckline,hasOpeningType,lace-up closure,1
+hasLength,ankle-high,hasOpeningType,lace-up closure,1
+hasSilhouette,round toe,hasOpeningType,lace-up closure,1
+belongsToCategory,lowerbody,hasOpeningType,lace-up closure,1
+depicts,shoes,hasOpeningType,lace-up closure,1
+hasOpeningType,lace-up closure,hasSleeveType,short-sleeve,1
+hasNeckline,round neckline,hasSleeveType,short-sleeve,1
+hasLength,ankle-high,hasSleeveType,short-sleeve,1
+hasLeatherType,full-grain leather,hasNeckline,round neckline,1
+hasOpeningType,lace-up closure,hasNeckline,round neckline,1
+hasSleeveType,short-sleeve,hasNeckline,round neckline,1
+hasLeatherType,full-grain leather,hasLength,ankle-high,1
+hasOpeningType,lace-up closure,hasLength,ankle-high,1
+hasSleeveType,short-sleeve,hasLength,ankle-high,1
+hasOpeningType,lace-up closure,hasSilhouette,round toe,1
+hasOpeningType,lace-up closure,belongsToCategory,lowerbody,1
+hasOpeningType,lace-up closure,depicts,shoes,1
+hasLength,ankle boots,hasOpeningType,lace-up,1
+hasOpeningType,lace-up,hasLength,ankle boots,1
+hasLeatherType,full grain leather,hasFabricTreatment,smooth finish,1
+hasMaterialType,leather,hasFabricTreatment,smooth finish,1
+hasOpeningType,slip-on shoes,hasFabricTreatment,smooth finish,1
+hasSleeveType,unadorned sleeves,hasFabricTreatment,smooth finish,1
+hasLength,low-top,hasFabricTreatment,smooth finish,1
+hasSilhouette,round toe,hasFabricTreatment,smooth finish,1
+belongsToCategory,lowerbody,hasFabricTreatment,smooth finish,1
+depicts,shoes,hasFabricTreatment,smooth finish,1
+hasFabricTreatment,smooth finish,hasLeatherType,full grain leather,1
+hasOpeningType,slip-on shoes,hasLeatherType,full grain leather,1
+hasSleeveType,unadorned sleeves,hasLeatherType,full grain leather,1
+hasLength,low-top,hasLeatherType,full grain leather,1
+hasFabricTreatment,smooth finish,hasMaterialType,leather,1
+hasOpeningType,slip-on shoes,hasMaterialType,leather,1
+hasSleeveType,unadorned sleeves,hasMaterialType,leather,1
+hasFabricTreatment,smooth finish,hasOpeningType,slip-on shoes,1
+hasLeatherType,full grain leather,hasOpeningType,slip-on shoes,1
+hasMaterialType,leather,hasOpeningType,slip-on shoes,1
+hasSleeveType,unadorned sleeves,hasOpeningType,slip-on shoes,1
+hasLength,low-top,hasOpeningType,slip-on shoes,1
+hasSilhouette,round toe,hasOpeningType,slip-on shoes,1
+belongsToCategory,lowerbody,hasOpeningType,slip-on shoes,1
+depicts,shoes,hasOpeningType,slip-on shoes,1
+hasFabricTreatment,smooth finish,hasSleeveType,unadorned sleeves,1
+hasLeatherType,full grain leather,hasSleeveType,unadorned sleeves,1
+hasMaterialType,leather,hasSleeveType,unadorned sleeves,1
+hasOpeningType,slip-on shoes,hasSleeveType,unadorned sleeves,1
+hasLength,low-top,hasSleeveType,unadorned sleeves,1
+hasSilhouette,round toe,hasSleeveType,unadorned sleeves,1
+belongsToCategory,lowerbody,hasSleeveType,unadorned sleeves,1
+depicts,shoes,hasSleeveType,unadorned sleeves,1
+hasFabricTreatment,smooth finish,hasLength,low-top,1
+hasLeatherType,full grain leather,hasLength,low-top,1
+hasOpeningType,slip-on shoes,hasLength,low-top,1
+hasSleeveType,unadorned sleeves,hasLength,low-top,1
+hasFabricTreatment,smooth finish,hasSilhouette,round toe,1
+hasOpeningType,slip-on shoes,hasSilhouette,round toe,1
+hasSleeveType,unadorned sleeves,hasSilhouette,round toe,1
+hasFabricTreatment,smooth finish,belongsToCategory,lowerbody,1
+hasOpeningType,slip-on shoes,belongsToCategory,lowerbody,1
+hasSleeveType,unadorned sleeves,belongsToCategory,lowerbody,1
+hasFabricTreatment,smooth finish,depicts,shoes,1
+hasOpeningType,slip-on shoes,depicts,shoes,1
+hasSleeveType,unadorned sleeves,depicts,shoes,1
+hasLength,low heel,hasLeatherType,leather,1
+hasSilhouette,round toe,hasLeatherType,leather,1
+hasLeatherType,leather,hasLength,low heel,1
+hasSilhouette,round toe,hasLength,low heel,1
+belongsToCategory,lowerbody,hasLength,low heel,1
+depicts,shoes,hasLength,low heel,1
+hasLeatherType,leather,hasSilhouette,round toe,1
+hasLength,low heel,hasSilhouette,round toe,1
+hasLength,low heel,belongsToCategory,lowerbody,1
+hasLength,low heel,depicts,shoes,1
+hasOpeningType,shoe opening,hasPattern,solid color,1
+hasSleeveType,sleeveless,hasPattern,solid color,1
+hasOpeningType,shoe opening,hasLeatherType,full grain leather,1
+hasSleeveType,sleeveless,hasLeatherType,full grain leather,1
+hasOpeningType,shoe opening,hasMaterialType,leather,1
+hasSleeveType,sleeveless,hasMaterialType,leather,1
+hasPattern,solid color,hasOpeningType,shoe opening,1
+hasLeatherType,full grain leather,hasOpeningType,shoe opening,1
+hasMaterialType,leather,hasOpeningType,shoe opening,1
+hasSleeveType,sleeveless,hasOpeningType,shoe opening,1
+hasNeckline,round neckline,hasOpeningType,shoe opening,1
+hasLength,ankle-high,hasOpeningType,shoe opening,1
+hasSilhouette,round toe,hasOpeningType,shoe opening,1
+belongsToCategory,lowerbody,hasOpeningType,shoe opening,1
+depicts,shoes,hasOpeningType,shoe opening,1
+hasPattern,solid color,hasSleeveType,sleeveless,1
+hasLeatherType,full grain leather,hasSleeveType,sleeveless,1
+hasMaterialType,leather,hasSleeveType,sleeveless,1
+hasOpeningType,shoe opening,hasSleeveType,sleeveless,1
+hasNeckline,round neckline,hasSleeveType,sleeveless,1
+hasLength,ankle-high,hasSleeveType,sleeveless,1
+hasSilhouette,round toe,hasSleeveType,sleeveless,1
+belongsToCategory,lowerbody,hasSleeveType,sleeveless,1
+depicts,shoes,hasSleeveType,sleeveless,1
+hasOpeningType,shoe opening,hasNeckline,round neckline,1
+hasSleeveType,sleeveless,hasNeckline,round neckline,1
+hasOpeningType,shoe opening,hasLength,ankle-high,1
+hasSleeveType,sleeveless,hasLength,ankle-high,1
+hasOpeningType,shoe opening,hasSilhouette,round toe,1
+hasSleeveType,sleeveless,hasSilhouette,round toe,1
+hasOpeningType,shoe opening,belongsToCategory,lowerbody,1
+hasSleeveType,sleeveless,belongsToCategory,lowerbody,1
+hasOpeningType,shoe opening,depicts,shoes,1
+hasSleeveType,sleeveless,depicts,shoes,1
+hasMaterialType,leather,hasLeatherType,calf skin,1
+hasOpeningType,velcro fastener,hasLeatherType,calf skin,1
+hasSleeveType,closed toe,hasLeatherType,calf skin,1
+hasLength,ankle-high,hasLeatherType,calf skin,1
+hasSilhouette,round toe,hasLeatherType,calf skin,1
+belongsToCategory,lowerbody,hasLeatherType,calf skin,1
+depicts,shoes,hasLeatherType,calf skin,1
+hasLeatherType,calf skin,hasMaterialType,leather,1
+hasOpeningType,velcro fastener,hasMaterialType,leather,1
+hasSleeveType,closed toe,hasMaterialType,leather,1
+hasLeatherType,calf skin,hasOpeningType,velcro fastener,1
+hasMaterialType,leather,hasOpeningType,velcro fastener,1
+hasSleeveType,closed toe,hasOpeningType,velcro fastener,1
+hasLength,ankle-high,hasOpeningType,velcro fastener,1
+hasSilhouette,round toe,hasOpeningType,velcro fastener,1
+belongsToCategory,lowerbody,hasOpeningType,velcro fastener,1
+depicts,shoes,hasOpeningType,velcro fastener,1
+hasLeatherType,calf skin,hasSleeveType,closed toe,1
+hasMaterialType,leather,hasSleeveType,closed toe,1
+hasOpeningType,velcro fastener,hasSleeveType,closed toe,1
+hasLength,ankle-high,hasSleeveType,closed toe,1
+hasSilhouette,round toe,hasSleeveType,closed toe,1
+belongsToCategory,lowerbody,hasSleeveType,closed toe,1
+depicts,shoes,hasSleeveType,closed toe,1
+hasLeatherType,calf skin,hasLength,ankle-high,1
+hasOpeningType,velcro fastener,hasLength,ankle-high,1
+hasSleeveType,closed toe,hasLength,ankle-high,1
+hasLeatherType,calf skin,hasSilhouette,round toe,1
+hasOpeningType,velcro fastener,hasSilhouette,round toe,1
+hasSleeveType,closed toe,hasSilhouette,round toe,1
+hasLeatherType,calf skin,belongsToCategory,lowerbody,1
+hasOpeningType,velcro fastener,belongsToCategory,lowerbody,1
+hasSleeveType,closed toe,belongsToCategory,lowerbody,1
+hasLeatherType,calf skin,depicts,shoes,1
+hasOpeningType,velcro fastener,depicts,shoes,1
+hasSleeveType,closed toe,depicts,shoes,1
+hasSilhouette,pointed toe,hasMaterialType,leather,1
+hasSilhouette,pointed toe,hasLeatherType,leather,1
+hasMaterialType,leather,hasSilhouette,pointed toe,1
+hasLeatherType,leather,hasSilhouette,pointed toe,1
+belongsToCategory,lowerbody,hasSilhouette,pointed toe,1
+depicts,shoes,hasSilhouette,pointed toe,1
+hasSilhouette,pointed toe,belongsToCategory,lowerbody,1
+hasSilhouette,pointed toe,depicts,shoes,1
+hasFabricTreatment,suede finish,hasAnimalPattern,no animal print,1
+hasLeatherType,full-grain leather,hasAnimalPattern,no animal print,1
+hasMaterialType,leather,hasAnimalPattern,no animal print,1
+hasOpeningType,zip closure,hasAnimalPattern,no animal print,1
+hasSleeveType,short-sleeve,hasAnimalPattern,no animal print,1
+hasNeckline,boat neckline,hasAnimalPattern,no animal print,1
+hasLength,ankle boots,hasAnimalPattern,no animal print,1
+hasSilhouette,round toe,hasAnimalPattern,no animal print,1
+belongsToCategory,lowerbody,hasAnimalPattern,no animal print,1
+depicts,shoes,hasAnimalPattern,no animal print,1
+hasAnimalPattern,no animal print,hasFabricTreatment,suede finish,1
+hasLeatherType,full-grain leather,hasFabricTreatment,suede finish,1
+hasOpeningType,zip closure,hasFabricTreatment,suede finish,1
+hasNeckline,boat neckline,hasFabricTreatment,suede finish,1
+hasAnimalPattern,no animal print,hasLeatherType,full-grain leather,1
+hasFabricTreatment,suede finish,hasLeatherType,full-grain leather,1
+hasOpeningType,zip closure,hasLeatherType,full-grain leather,1
+hasNeckline,boat neckline,hasLeatherType,full-grain leather,1
+hasLength,ankle boots,hasLeatherType,full-grain leather,1
+hasAnimalPattern,no animal print,hasMaterialType,leather,1
+hasOpeningType,zip closure,hasMaterialType,leather,1
+hasNeckline,boat neckline,hasMaterialType,leather,1
+hasAnimalPattern,no animal print,hasOpeningType,zip closure,1
+hasFabricTreatment,suede finish,hasOpeningType,zip closure,1
+hasLeatherType,full-grain leather,hasOpeningType,zip closure,1
+hasMaterialType,leather,hasOpeningType,zip closure,1
+hasSleeveType,short-sleeve,hasOpeningType,zip closure,1
+hasNeckline,boat neckline,hasOpeningType,zip closure,1
+hasLength,ankle boots,hasOpeningType,zip closure,1
+hasSilhouette,round toe,hasOpeningType,zip closure,1
+belongsToCategory,lowerbody,hasOpeningType,zip closure,1
+depicts,shoes,hasOpeningType,zip closure,1
+hasAnimalPattern,no animal print,hasSleeveType,short-sleeve,1
+hasOpeningType,zip closure,hasSleeveType,short-sleeve,1
+hasNeckline,boat neckline,hasSleeveType,short-sleeve,1
+hasAnimalPattern,no animal print,hasNeckline,boat neckline,1
+hasFabricTreatment,suede finish,hasNeckline,boat neckline,1
+hasLeatherType,full-grain leather,hasNeckline,boat neckline,1
+hasMaterialType,leather,hasNeckline,boat neckline,1
+hasOpeningType,zip closure,hasNeckline,boat neckline,1
+hasSleeveType,short-sleeve,hasNeckline,boat neckline,1
+hasLength,ankle boots,hasNeckline,boat neckline,1
+hasSilhouette,round toe,hasNeckline,boat neckline,1
+belongsToCategory,lowerbody,hasNeckline,boat neckline,1
+depicts,shoes,hasNeckline,boat neckline,1
+hasAnimalPattern,no animal print,hasLength,ankle boots,1
+hasLeatherType,full-grain leather,hasLength,ankle boots,1
+hasOpeningType,zip closure,hasLength,ankle boots,1
+hasNeckline,boat neckline,hasLength,ankle boots,1
+hasAnimalPattern,no animal print,hasSilhouette,round toe,1
+hasOpeningType,zip closure,hasSilhouette,round toe,1
+hasNeckline,boat neckline,hasSilhouette,round toe,1
+hasAnimalPattern,no animal print,belongsToCategory,lowerbody,1
+hasOpeningType,zip closure,belongsToCategory,lowerbody,1
+hasNeckline,boat neckline,belongsToCategory,lowerbody,1
+hasAnimalPattern,no animal print,depicts,shoes,1
+hasOpeningType,zip closure,depicts,shoes,1
+hasNeckline,boat neckline,depicts,shoes,1
+hasFabricTreatment,suede finish,hasPattern,solid color,1
+hasOpeningType,closed front,hasPattern,solid color,1
+hasNeckline,crew neck,hasPattern,solid color,1
+hasLength,ankle boots,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,suede finish,1
+hasLeatherType,full grain leather,hasFabricTreatment,suede finish,1
+hasOpeningType,closed front,hasFabricTreatment,suede finish,1
+hasNeckline,crew neck,hasFabricTreatment,suede finish,1
+hasFabricTreatment,suede finish,hasLeatherType,full grain leather,1
+hasOpeningType,closed front,hasLeatherType,full grain leather,1
+hasSleeveType,short-sleeve,hasLeatherType,full grain leather,1
+hasNeckline,crew neck,hasLeatherType,full grain leather,1
+hasLength,ankle boots,hasLeatherType,full grain leather,1
+hasOpeningType,closed front,hasMaterialType,leather,1
+hasNeckline,crew neck,hasMaterialType,leather,1
+hasPattern,solid color,hasOpeningType,closed front,1
+hasFabricTreatment,suede finish,hasOpeningType,closed front,1
+hasLeatherType,full grain leather,hasOpeningType,closed front,1
+hasMaterialType,leather,hasOpeningType,closed front,1
+hasSleeveType,short-sleeve,hasOpeningType,closed front,1
+hasNeckline,crew neck,hasOpeningType,closed front,1
+hasLength,ankle boots,hasOpeningType,closed front,1
+hasSilhouette,round toe,hasOpeningType,closed front,1
+belongsToCategory,lowerbody,hasOpeningType,closed front,1
+depicts,shoes,hasOpeningType,closed front,1
+hasLeatherType,full grain leather,hasSleeveType,short-sleeve,1
+hasOpeningType,closed front,hasSleeveType,short-sleeve,1
+hasNeckline,crew neck,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,crew neck,1
+hasFabricTreatment,suede finish,hasNeckline,crew neck,1
+hasLeatherType,full grain leather,hasNeckline,crew neck,1
+hasMaterialType,leather,hasNeckline,crew neck,1
+hasOpeningType,closed front,hasNeckline,crew neck,1
+hasSleeveType,short-sleeve,hasNeckline,crew neck,1
+hasLength,ankle boots,hasNeckline,crew neck,1
+hasSilhouette,round toe,hasNeckline,crew neck,1
+belongsToCategory,lowerbody,hasNeckline,crew neck,1
+depicts,shoes,hasNeckline,crew neck,1
+hasPattern,solid color,hasLength,ankle boots,1
+hasLeatherType,full grain leather,hasLength,ankle boots,1
+hasOpeningType,closed front,hasLength,ankle boots,1
+hasNeckline,crew neck,hasLength,ankle boots,1
+hasOpeningType,closed front,hasSilhouette,round toe,1
+hasNeckline,crew neck,hasSilhouette,round toe,1
+hasOpeningType,closed front,belongsToCategory,lowerbody,1
+hasNeckline,crew neck,belongsToCategory,lowerbody,1
+hasOpeningType,closed front,depicts,shoes,1
+hasNeckline,crew neck,depicts,shoes,1
+hasOpeningType,lace-up,hasLeatherType,nubuck,1
+hasLength,low-top,hasLeatherType,nubuck,1
+hasLeatherType,nubuck,hasOpeningType,lace-up,1
+hasLeatherType,nubuck,hasLength,low-top,1
+hasLength,low-heeled,hasMaterialType,leather,1
+hasMaterialType,leather,hasLength,low-heeled,1
+hasSilhouette,round toe,hasLength,low-heeled,1
+belongsToCategory,lowerbody,hasLength,low-heeled,1
+depicts,shoes,hasLength,low-heeled,1
+hasLength,low-heeled,hasSilhouette,round toe,1
+hasLength,low-heeled,belongsToCategory,lowerbody,1
+hasLength,low-heeled,depicts,shoes,1
+hasMaterialType,leather,hasLeatherType,full grain,1
+hasSilhouette,round toe,hasLeatherType,full grain,1
+belongsToCategory,lowerbody,hasLeatherType,full grain,1
+depicts,shoes,hasLeatherType,full grain,1
+hasLeatherType,full grain,hasMaterialType,leather,1
+hasLeatherType,full grain,hasSilhouette,round toe,1
+hasLeatherType,full grain,belongsToCategory,lowerbody,1
+hasLeatherType,full grain,depicts,shoes,1
+hasMaterialType,leather,hasLeatherType,veg tan leather,1
+hasSilhouette,round toe,hasLeatherType,veg tan leather,1
+belongsToCategory,lowerbody,hasLeatherType,veg tan leather,1
+depicts,shoes,hasLeatherType,veg tan leather,1
+hasLeatherType,veg tan leather,hasMaterialType,leather,1
+hasLeatherType,veg tan leather,hasSilhouette,round toe,1
+hasLeatherType,veg tan leather,belongsToCategory,lowerbody,1
+hasLeatherType,veg tan leather,depicts,shoes,1
+hasOpeningType,slip-on,hasLeatherType,full grain leather,1
+hasLength,full length,hasLeatherType,full grain leather,1
+hasLeatherType,full grain leather,hasOpeningType,slip-on,1
+hasLength,full length,hasOpeningType,slip-on,1
+hasLength,full length,hasNeckline,round neckline,1
+hasLeatherType,full grain leather,hasLength,full length,1
+hasOpeningType,slip-on,hasLength,full length,1
+hasNeckline,round neckline,hasLength,full length,1
+hasOpeningType,slip-on,hasFabricTreatment,suede,1
+hasLength,short,hasFabricTreatment,suede,1
+hasOpeningType,slip-on,hasLeatherType,nubuck,1
+hasLength,short,hasLeatherType,nubuck,1
+hasFabricTreatment,suede,hasOpeningType,slip-on,1
+hasLeatherType,nubuck,hasOpeningType,slip-on,1
+hasLength,short,hasOpeningType,slip-on,1
+hasFabricTreatment,suede,hasLength,short,1
+hasLeatherType,nubuck,hasLength,short,1
+hasOpeningType,slip-on,hasLength,short,1
+hasLength,flat heel,hasMaterialType,leather,1
+hasMaterialType,leather,hasLength,flat heel,1
+hasSilhouette,round toe,hasLength,flat heel,1
+belongsToCategory,lowerbody,hasLength,flat heel,1
+depicts,shoes,hasLength,flat heel,1
+hasLength,flat heel,hasSilhouette,round toe,1
+hasLength,flat heel,belongsToCategory,lowerbody,1
+hasLength,flat heel,depicts,shoes,1
+hasLeatherType,cowhide,hasFabricTreatment,suede finish,1
+hasOpeningType,slip-on,hasFabricTreatment,suede finish,1
+hasSleeveType,sandal,hasFabricTreatment,suede finish,1
+hasNeckline,round neckline,hasFabricTreatment,suede finish,1
+hasLength,closed-toe,hasFabricTreatment,suede finish,1
+hasFabricTreatment,suede finish,hasLeatherType,cowhide,1
+hasMaterialType,leather,hasLeatherType,cowhide,1
+hasOpeningType,slip-on,hasLeatherType,cowhide,1
+hasSleeveType,sandal,hasLeatherType,cowhide,1
+hasNeckline,round neckline,hasLeatherType,cowhide,1
+hasLength,closed-toe,hasLeatherType,cowhide,1
+hasSilhouette,round toe,hasLeatherType,cowhide,1
+belongsToCategory,lowerbody,hasLeatherType,cowhide,1
+depicts,shoes,hasLeatherType,cowhide,1
+hasLeatherType,cowhide,hasMaterialType,leather,1
+hasSleeveType,sandal,hasMaterialType,leather,1
+hasLength,closed-toe,hasMaterialType,leather,1
+hasFabricTreatment,suede finish,hasOpeningType,slip-on,1
+hasLeatherType,cowhide,hasOpeningType,slip-on,1
+hasSleeveType,sandal,hasOpeningType,slip-on,1
+hasLength,closed-toe,hasOpeningType,slip-on,1
+hasFabricTreatment,suede finish,hasSleeveType,sandal,1
+hasLeatherType,cowhide,hasSleeveType,sandal,1
+hasMaterialType,leather,hasSleeveType,sandal,1
+hasOpeningType,slip-on,hasSleeveType,sandal,1
+hasNeckline,round neckline,hasSleeveType,sandal,1
+hasLength,closed-toe,hasSleeveType,sandal,1
+hasSilhouette,round toe,hasSleeveType,sandal,1
+belongsToCategory,lowerbody,hasSleeveType,sandal,1
+depicts,shoes,hasSleeveType,sandal,1
+hasFabricTreatment,suede finish,hasNeckline,round neckline,1
+hasLeatherType,cowhide,hasNeckline,round neckline,1
+hasSleeveType,sandal,hasNeckline,round neckline,1
+hasLength,closed-toe,hasNeckline,round neckline,1
+hasFabricTreatment,suede finish,hasLength,closed-toe,1
+hasLeatherType,cowhide,hasLength,closed-toe,1
+hasMaterialType,leather,hasLength,closed-toe,1
+hasOpeningType,slip-on,hasLength,closed-toe,1
+hasSleeveType,sandal,hasLength,closed-toe,1
+hasNeckline,round neckline,hasLength,closed-toe,1
+hasSilhouette,round toe,hasLength,closed-toe,1
+belongsToCategory,lowerbody,hasLength,closed-toe,1
+depicts,shoes,hasLength,closed-toe,1
+hasLeatherType,cowhide,hasSilhouette,round toe,1
+hasSleeveType,sandal,hasSilhouette,round toe,1
+hasLength,closed-toe,hasSilhouette,round toe,1
+hasLeatherType,cowhide,belongsToCategory,lowerbody,1
+hasSleeveType,sandal,belongsToCategory,lowerbody,1
+hasLength,closed-toe,belongsToCategory,lowerbody,1
+hasLeatherType,cowhide,depicts,shoes,1
+hasSleeveType,sandal,depicts,shoes,1
+hasLength,closed-toe,depicts,shoes,1
+hasLeatherType,smooth leather,hasFabricTreatment,embossed,1
+hasOpeningType,closed opening,hasFabricTreatment,embossed,1
+hasSleeveType,long-sleeve,hasFabricTreatment,embossed,1
+hasNeckline,high neckline,hasFabricTreatment,embossed,1
+hasFabricTreatment,embossed,hasLeatherType,smooth leather,1
+hasOpeningType,closed opening,hasLeatherType,smooth leather,1
+hasSleeveType,long-sleeve,hasLeatherType,smooth leather,1
+hasNeckline,high neckline,hasLeatherType,smooth leather,1
+hasLength,low-top,hasLeatherType,smooth leather,1
+hasOpeningType,closed opening,hasMaterialType,leather,1
+hasSleeveType,long-sleeve,hasMaterialType,leather,1
+hasNeckline,high neckline,hasMaterialType,leather,1
+hasFabricTreatment,embossed,hasOpeningType,closed opening,1
+hasLeatherType,smooth leather,hasOpeningType,closed opening,1
+hasMaterialType,leather,hasOpeningType,closed opening,1
+hasSleeveType,long-sleeve,hasOpeningType,closed opening,1
+hasNeckline,high neckline,hasOpeningType,closed opening,1
+hasLength,low-top,hasOpeningType,closed opening,1
+hasSilhouette,round toe,hasOpeningType,closed opening,1
+belongsToCategory,lowerbody,hasOpeningType,closed opening,1
+depicts,shoes,hasOpeningType,closed opening,1
+hasFabricTreatment,embossed,hasSleeveType,long-sleeve,1
+hasLeatherType,smooth leather,hasSleeveType,long-sleeve,1
+hasMaterialType,leather,hasSleeveType,long-sleeve,1
+hasOpeningType,closed opening,hasSleeveType,long-sleeve,1
+hasNeckline,high neckline,hasSleeveType,long-sleeve,1
+hasLength,low-top,hasSleeveType,long-sleeve,1
+hasSilhouette,round toe,hasSleeveType,long-sleeve,1
+belongsToCategory,lowerbody,hasSleeveType,long-sleeve,1
+depicts,shoes,hasSleeveType,long-sleeve,1
+hasFabricTreatment,embossed,hasNeckline,high neckline,1
+hasLeatherType,smooth leather,hasNeckline,high neckline,1
+hasMaterialType,leather,hasNeckline,high neckline,1
+hasOpeningType,closed opening,hasNeckline,high neckline,1
+hasSleeveType,long-sleeve,hasNeckline,high neckline,1
+hasLength,low-top,hasNeckline,high neckline,1
+hasSilhouette,round toe,hasNeckline,high neckline,1
+belongsToCategory,lowerbody,hasNeckline,high neckline,1
+depicts,shoes,hasNeckline,high neckline,1
+hasLeatherType,smooth leather,hasLength,low-top,1
+hasOpeningType,closed opening,hasLength,low-top,1
+hasSleeveType,long-sleeve,hasLength,low-top,1
+hasNeckline,high neckline,hasLength,low-top,1
+hasOpeningType,closed opening,hasSilhouette,round toe,1
+hasSleeveType,long-sleeve,hasSilhouette,round toe,1
+hasNeckline,high neckline,hasSilhouette,round toe,1
+hasOpeningType,closed opening,belongsToCategory,lowerbody,1
+hasSleeveType,long-sleeve,belongsToCategory,lowerbody,1
+hasNeckline,high neckline,belongsToCategory,lowerbody,1
+hasOpeningType,closed opening,depicts,shoes,1
+hasSleeveType,long-sleeve,depicts,shoes,1
+hasNeckline,high neckline,depicts,shoes,1
+hasLeatherType,full-grain,hasFabricTreatment,uncoated,1
+hasMaterialType,leather,hasFabricTreatment,uncoated,1
+hasOpeningType,closed,hasFabricTreatment,uncoated,1
+hasLength,short,hasFabricTreatment,uncoated,1
+hasSilhouette,round toe,hasFabricTreatment,uncoated,1
+belongsToCategory,lowerbody,hasFabricTreatment,uncoated,1
+depicts,shoes,hasFabricTreatment,uncoated,1
+hasFabricTreatment,uncoated,hasLeatherType,full-grain,1
+hasMaterialType,leather,hasLeatherType,full-grain,1
+hasOpeningType,closed,hasLeatherType,full-grain,1
+hasLength,short,hasLeatherType,full-grain,1
+hasSilhouette,round toe,hasLeatherType,full-grain,1
+belongsToCategory,lowerbody,hasLeatherType,full-grain,1
+depicts,shoes,hasLeatherType,full-grain,1
+hasFabricTreatment,uncoated,hasMaterialType,leather,1
+hasLeatherType,full-grain,hasMaterialType,leather,1
+hasOpeningType,closed,hasMaterialType,leather,1
+hasFabricTreatment,uncoated,hasOpeningType,closed,1
+hasLeatherType,full-grain,hasOpeningType,closed,1
+hasMaterialType,leather,hasOpeningType,closed,1
+hasLength,short,hasOpeningType,closed,1
+hasSilhouette,round toe,hasOpeningType,closed,1
+belongsToCategory,lowerbody,hasOpeningType,closed,1
+depicts,shoes,hasOpeningType,closed,1
+hasFabricTreatment,uncoated,hasLength,short,1
+hasLeatherType,full-grain,hasLength,short,1
+hasOpeningType,closed,hasLength,short,1
+hasFabricTreatment,uncoated,hasSilhouette,round toe,1
+hasLeatherType,full-grain,hasSilhouette,round toe,1
+hasOpeningType,closed,hasSilhouette,round toe,1
+hasFabricTreatment,uncoated,belongsToCategory,lowerbody,1
+hasLeatherType,full-grain,belongsToCategory,lowerbody,1
+hasOpeningType,closed,belongsToCategory,lowerbody,1
+hasFabricTreatment,uncoated,depicts,shoes,1
+hasLeatherType,full-grain,depicts,shoes,1
+hasOpeningType,closed,depicts,shoes,1
+hasLeatherType,suede,hasPattern,striped,1
+hasMaterialType,leather,hasPattern,striped,1
+hasOpeningType,slip-on,hasPattern,striped,1
+hasLength,flat,hasPattern,striped,1
+hasSilhouette,round toe,hasPattern,striped,1
+belongsToCategory,lowerbody,hasPattern,striped,1
+depicts,shoes,hasPattern,striped,1
+hasPattern,striped,hasLeatherType,suede,1
+hasMaterialType,leather,hasLeatherType,suede,1
+hasOpeningType,slip-on,hasLeatherType,suede,1
+hasLength,flat,hasLeatherType,suede,1
+hasSilhouette,round toe,hasLeatherType,suede,1
+belongsToCategory,lowerbody,hasLeatherType,suede,1
+depicts,shoes,hasLeatherType,suede,1
+hasPattern,striped,hasMaterialType,leather,1
+hasLeatherType,suede,hasMaterialType,leather,1
+hasPattern,striped,hasOpeningType,slip-on,1
+hasLeatherType,suede,hasOpeningType,slip-on,1
+hasLength,flat,hasOpeningType,slip-on,1
+hasPattern,striped,hasLength,flat,1
+hasLeatherType,suede,hasLength,flat,1
+hasOpeningType,slip-on,hasLength,flat,1
+hasPattern,striped,hasSilhouette,round toe,1
+hasLeatherType,suede,hasSilhouette,round toe,1
+hasPattern,striped,belongsToCategory,lowerbody,1
+hasLeatherType,suede,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,shoes,1
+hasLeatherType,suede,depicts,shoes,1
+hasFabricTreatment,embossed,hasPattern,geometric,1
+hasMaterialType,leather,hasPattern,geometric,1
+hasOpeningType,lace-up,hasPattern,geometric,1
+hasSleeveType,closed,hasPattern,geometric,1
+hasLength,low-top,hasPattern,geometric,1
+hasSilhouette,round toe,hasPattern,geometric,1
+belongsToCategory,lowerbody,hasPattern,geometric,1
+depicts,shoes,hasPattern,geometric,1
+hasPattern,geometric,hasFabricTreatment,embossed,1
+hasOpeningType,lace-up,hasFabricTreatment,embossed,1
+hasSleeveType,closed,hasFabricTreatment,embossed,1
+hasPattern,geometric,hasMaterialType,leather,1
+hasSleeveType,closed,hasMaterialType,leather,1
+hasPattern,geometric,hasOpeningType,lace-up,1
+hasFabricTreatment,embossed,hasOpeningType,lace-up,1
+hasSleeveType,closed,hasOpeningType,lace-up,1
+hasPattern,geometric,hasSleeveType,closed,1
+hasFabricTreatment,embossed,hasSleeveType,closed,1
+hasMaterialType,leather,hasSleeveType,closed,1
+hasOpeningType,lace-up,hasSleeveType,closed,1
+hasLength,low-top,hasSleeveType,closed,1
+hasSilhouette,round toe,hasSleeveType,closed,1
+belongsToCategory,lowerbody,hasSleeveType,closed,1
+depicts,shoes,hasSleeveType,closed,1
+hasPattern,geometric,hasLength,low-top,1
+hasSleeveType,closed,hasLength,low-top,1
+hasPattern,geometric,hasSilhouette,round toe,1
+hasSleeveType,closed,hasSilhouette,round toe,1
+hasPattern,geometric,belongsToCategory,lowerbody,1
+hasSleeveType,closed,belongsToCategory,lowerbody,1
+hasPattern,geometric,depicts,shoes,1
+hasSleeveType,closed,depicts,shoes,1

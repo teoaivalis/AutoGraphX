@@ -1,0 +1,32 @@
+## Attribute Richness & Diversity
+
+- **Number of distinct attribute relationships**: 15
+- **Average unique values per relationship**: 5.80
+- **Most common relationship**: `hasMaterialType`
+- **Unique values in most common relationship**: 11
+
+---
+
+## Product-to-Product Similarity
+
+- **Maximum shared attributes between any product pair**: 9
+- **Average shared attributes across all pairs**: 2.85
+- **Minimum attribute count across products**: 4
+- **Standard deviation of attribute counts**: 0.48
+
+---
+
+## Clustering Structure
+
+- **Number of clusters with ≥ 5 shared attributes**: 1
+- **Number of clusters with ≥ 7 shared attributes**: 1
+- **Size of largest cluster (≥ 5 shared attributes)**: 28
+- **Size of largest cluster (≥ 7 shared attributes)**: 9
+
+---
+
+## Visual Summaries
+
+- `unique_values_per_relation.png`: Bar chart showing the number of unique values per attribute relationship.
+- `top_attribute_pairs.png`: Bar chart of the top 10 most frequently co-occurring attribute pairs.
+---

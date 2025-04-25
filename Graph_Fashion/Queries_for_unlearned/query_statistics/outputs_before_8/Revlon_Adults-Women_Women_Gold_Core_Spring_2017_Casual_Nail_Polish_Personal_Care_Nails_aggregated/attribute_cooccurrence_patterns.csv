@@ -1,0 +1,551 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,nail polish,belongsToCategory,upperbody,33
+belongsToCategory,upperbody,depicts,nail polish,33
+depicts,nail polish,hasLength,short,23
+hasLength,short,depicts,nail polish,23
+belongsToCategory,upperbody,hasLength,short,19
+hasLength,short,belongsToCategory,upperbody,19
+depicts,nail polish,hasMaterialType,plastic,15
+hasMaterialType,plastic,depicts,nail polish,15
+depicts,nail polish,hasMaterialType,gel,14
+hasMaterialType,gel,depicts,nail polish,14
+belongsToCategory,upperbody,hasMaterialType,plastic,12
+hasMaterialType,plastic,belongsToCategory,upperbody,12
+belongsToCategory,upperbody,hasMaterialType,gel,12
+hasMaterialType,gel,belongsToCategory,upperbody,12
+hasLength,short,hasMaterialType,plastic,10
+hasMaterialType,plastic,hasLength,short,10
+hasMaterialType,gel,hasLength,short,8
+hasLength,short,hasMaterialType,gel,8
+depicts,nail polish,hasPattern,solid color,7
+hasPattern,solid color,depicts,nail polish,7
+belongsToCategory,upperbody,hasMaterialType,nail polish,5
+hasMaterialType,nail polish,belongsToCategory,upperbody,5
+belongsToCategory,upperbody,hasPattern,solid color,5
+hasPattern,solid color,belongsToCategory,upperbody,5
+hasLength,short,hasPattern,solid color,4
+hasPattern,solid color,hasLength,short,4
+depicts,nail polish,hasSilhouette,cylindrical,4
+hasSilhouette,cylindrical,depicts,nail polish,4
+hasMaterialType,plastic,hasPattern,solid color,4
+hasPattern,solid color,hasMaterialType,plastic,4
+belongsToCategory,upperbody,hasNickname,nail polish,4
+hasNickname,nail polish,belongsToCategory,upperbody,4
+depicts,nail polish,belongsToCategory,cosmetics,3
+belongsToCategory,cosmetics,depicts,nail polish,3
+hasNickname,nail polish,hasMaterialType,plastic,3
+hasMaterialType,plastic,hasNickname,nail polish,3
+belongsToCategory,upperbody,hasFabricTreatment,glossy,3
+depicts,nail polish,hasFabricTreatment,glossy,3
+hasFabricTreatment,glossy,belongsToCategory,upperbody,3
+hasFabricTreatment,glossy,depicts,nail polish,3
+hasNickname,nail polish,hasPattern,solid color,3
+hasPattern,solid color,hasNickname,nail polish,3
+hasLength,short,hasMaterialType,nail polish,2
+hasMaterialType,nail polish,hasLength,short,2
+hasLength,short,hasSleeveType,sleeveless,2
+belongsToCategory,upperbody,hasSleeveType,sleeveless,2
+depicts,nail polish,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasLength,short,2
+hasSleeveType,sleeveless,belongsToCategory,upperbody,2
+hasSleeveType,sleeveless,depicts,nail polish,2
+belongsToCategory,cosmetics,hasMaterialType,gel,2
+hasMaterialType,gel,belongsToCategory,cosmetics,2
+belongsToCategory,lowerbody,hasMaterialType,plastic,2
+belongsToCategory,lowerbody,hasNickname,nail polish,2
+hasMaterialType,plastic,belongsToCategory,lowerbody,2
+hasNickname,nail polish,belongsToCategory,lowerbody,2
+depicts,nail polish,belongsToCategory,lowerbody,2
+belongsToCategory,lowerbody,depicts,nail polish,2
+hasSilhouette,cylindrical,hasLength,short,2
+hasLength,short,hasSilhouette,cylindrical,2
+hasSilhouette,straight,hasLength,short,2
+hasLength,short,hasSilhouette,straight,2
+belongsToCategory,upperbody,hasSilhouette,straight,2
+depicts,nail polish,hasSilhouette,straight,2
+hasSilhouette,straight,belongsToCategory,upperbody,2
+hasSilhouette,straight,depicts,nail polish,2
+hasLength,short,hasFabricTreatment,glossy,2
+hasSilhouette,round,hasFabricTreatment,glossy,2
+hasFabricTreatment,glossy,hasLength,short,2
+hasFabricTreatment,glossy,hasSilhouette,round,2
+belongsToCategory,upperbody,hasSilhouette,round,2
+depicts,nail polish,hasSilhouette,round,2
+hasSilhouette,round,belongsToCategory,upperbody,2
+hasSilhouette,round,depicts,nail polish,2
+hasMaterialType,plastic,hasFabricTreatment,glossy,2
+hasFabricTreatment,glossy,hasMaterialType,plastic,2
+belongsToCategory,upperbody,hasSilhouette,cylindrical,2
+hasSilhouette,cylindrical,belongsToCategory,upperbody,2
+hasNickname,nail polish,hasLength,short,2
+hasLength,short,hasNickname,nail polish,2
+hasSilhouette,square,hasMaterialType,nail polish,1
+hasSilhouette,square,hasLength,short,1
+hasMaterialType,nail polish,hasSilhouette,square,1
+hasLength,short,hasSilhouette,square,1
+belongsToCategory,upperbody,hasSilhouette,square,1
+depicts,nail polish,hasSilhouette,square,1
+hasSilhouette,square,belongsToCategory,upperbody,1
+hasSilhouette,square,depicts,nail polish,1
+hasSleeveType,sleeveless,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasSleeveType,sleeveless,1
+hasMaterialType,gel,hasPattern,solid color,1
+hasPattern,solid color,hasMaterialType,gel,1
+hasSilhouette,pointed,hasLength,short,1
+depicts,lipstick,hasLength,short,1
+hasOpeningType,brush,hasLength,short,1
+belongsToCategory,cosmetics,hasLength,short,1
+hasLength,short,hasSilhouette,pointed,1
+hasMaterialType,plastic,hasSilhouette,pointed,1
+belongsToCategory,upperbody,hasSilhouette,pointed,1
+depicts,lipstick,hasSilhouette,pointed,1
+hasOpeningType,brush,hasSilhouette,pointed,1
+hasMaterialType,gel,hasSilhouette,pointed,1
+belongsToCategory,cosmetics,hasSilhouette,pointed,1
+depicts,nail polish,hasSilhouette,pointed,1
+hasSilhouette,pointed,hasMaterialType,plastic,1
+depicts,lipstick,hasMaterialType,plastic,1
+hasOpeningType,brush,hasMaterialType,plastic,1
+hasMaterialType,gel,hasMaterialType,plastic,1
+belongsToCategory,cosmetics,hasMaterialType,plastic,1
+hasSilhouette,pointed,belongsToCategory,upperbody,1
+depicts,lipstick,belongsToCategory,upperbody,1
+hasOpeningType,brush,belongsToCategory,upperbody,1
+belongsToCategory,cosmetics,belongsToCategory,upperbody,1
+hasLength,short,depicts,lipstick,1
+hasSilhouette,pointed,depicts,lipstick,1
+hasMaterialType,plastic,depicts,lipstick,1
+belongsToCategory,upperbody,depicts,lipstick,1
+hasOpeningType,brush,depicts,lipstick,1
+hasMaterialType,gel,depicts,lipstick,1
+belongsToCategory,cosmetics,depicts,lipstick,1
+depicts,nail polish,depicts,lipstick,1
+hasLength,short,hasOpeningType,brush,1
+hasSilhouette,pointed,hasOpeningType,brush,1
+hasMaterialType,plastic,hasOpeningType,brush,1
+belongsToCategory,upperbody,hasOpeningType,brush,1
+depicts,lipstick,hasOpeningType,brush,1
+hasMaterialType,gel,hasOpeningType,brush,1
+belongsToCategory,cosmetics,hasOpeningType,brush,1
+depicts,nail polish,hasOpeningType,brush,1
+hasSilhouette,pointed,hasMaterialType,gel,1
+hasMaterialType,plastic,hasMaterialType,gel,1
+depicts,lipstick,hasMaterialType,gel,1
+hasOpeningType,brush,hasMaterialType,gel,1
+hasLength,short,belongsToCategory,cosmetics,1
+hasSilhouette,pointed,belongsToCategory,cosmetics,1
+hasMaterialType,plastic,belongsToCategory,cosmetics,1
+belongsToCategory,upperbody,belongsToCategory,cosmetics,1
+depicts,lipstick,belongsToCategory,cosmetics,1
+hasOpeningType,brush,belongsToCategory,cosmetics,1
+hasSilhouette,pointed,depicts,nail polish,1
+depicts,lipstick,depicts,nail polish,1
+hasOpeningType,brush,depicts,nail polish,1
+hasMaterialType,plastic,hasPattern,striped,1
+hasNickname,nail polish,hasPattern,striped,1
+belongsToCategory,lowerbody,hasPattern,striped,1
+depicts,nail polish,hasPattern,striped,1
+hasPattern,striped,hasMaterialType,plastic,1
+hasPattern,striped,hasNickname,nail polish,1
+hasPattern,striped,belongsToCategory,lowerbody,1
+hasPattern,striped,depicts,nail polish,1
+hasFabricTreatment,matte finish,hasPattern,solid color,1
+hasMaterialType,glass and plastic,hasPattern,solid color,1
+hasOpeningType,screw cap,hasPattern,solid color,1
+hasSilhouette,cylindrical,hasPattern,solid color,1
+hasNickname,dark gray nail polish,hasPattern,solid color,1
+belongsToCategory,upper body,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,matte finish,1
+hasMaterialType,glass and plastic,hasFabricTreatment,matte finish,1
+hasOpeningType,screw cap,hasFabricTreatment,matte finish,1
+hasLength,short,hasFabricTreatment,matte finish,1
+hasSilhouette,cylindrical,hasFabricTreatment,matte finish,1
+hasNickname,dark gray nail polish,hasFabricTreatment,matte finish,1
+belongsToCategory,upper body,hasFabricTreatment,matte finish,1
+depicts,nail polish,hasFabricTreatment,matte finish,1
+hasPattern,solid color,hasMaterialType,glass and plastic,1
+hasFabricTreatment,matte finish,hasMaterialType,glass and plastic,1
+hasOpeningType,screw cap,hasMaterialType,glass and plastic,1
+hasLength,short,hasMaterialType,glass and plastic,1
+hasSilhouette,cylindrical,hasMaterialType,glass and plastic,1
+hasNickname,dark gray nail polish,hasMaterialType,glass and plastic,1
+belongsToCategory,upper body,hasMaterialType,glass and plastic,1
+depicts,nail polish,hasMaterialType,glass and plastic,1
+hasPattern,solid color,hasOpeningType,screw cap,1
+hasFabricTreatment,matte finish,hasOpeningType,screw cap,1
+hasMaterialType,glass and plastic,hasOpeningType,screw cap,1
+hasLength,short,hasOpeningType,screw cap,1
+hasSilhouette,cylindrical,hasOpeningType,screw cap,1
+hasNickname,dark gray nail polish,hasOpeningType,screw cap,1
+belongsToCategory,upper body,hasOpeningType,screw cap,1
+depicts,nail polish,hasOpeningType,screw cap,1
+hasFabricTreatment,matte finish,hasLength,short,1
+hasMaterialType,glass and plastic,hasLength,short,1
+hasOpeningType,screw cap,hasLength,short,1
+hasNickname,dark gray nail polish,hasLength,short,1
+belongsToCategory,upper body,hasLength,short,1
+hasPattern,solid color,hasSilhouette,cylindrical,1
+hasFabricTreatment,matte finish,hasSilhouette,cylindrical,1
+hasMaterialType,glass and plastic,hasSilhouette,cylindrical,1
+hasOpeningType,screw cap,hasSilhouette,cylindrical,1
+hasNickname,dark gray nail polish,hasSilhouette,cylindrical,1
+belongsToCategory,upper body,hasSilhouette,cylindrical,1
+hasPattern,solid color,hasNickname,dark gray nail polish,1
+hasFabricTreatment,matte finish,hasNickname,dark gray nail polish,1
+hasMaterialType,glass and plastic,hasNickname,dark gray nail polish,1
+hasOpeningType,screw cap,hasNickname,dark gray nail polish,1
+hasLength,short,hasNickname,dark gray nail polish,1
+hasSilhouette,cylindrical,hasNickname,dark gray nail polish,1
+belongsToCategory,upper body,hasNickname,dark gray nail polish,1
+depicts,nail polish,hasNickname,dark gray nail polish,1
+hasPattern,solid color,belongsToCategory,upper body,1
+hasFabricTreatment,matte finish,belongsToCategory,upper body,1
+hasMaterialType,glass and plastic,belongsToCategory,upper body,1
+hasOpeningType,screw cap,belongsToCategory,upper body,1
+hasLength,short,belongsToCategory,upper body,1
+hasSilhouette,cylindrical,belongsToCategory,upper body,1
+hasNickname,dark gray nail polish,belongsToCategory,upper body,1
+depicts,nail polish,belongsToCategory,upper body,1
+hasFabricTreatment,matte finish,depicts,nail polish,1
+hasMaterialType,glass and plastic,depicts,nail polish,1
+hasOpeningType,screw cap,depicts,nail polish,1
+hasNickname,dark gray nail polish,depicts,nail polish,1
+belongsToCategory,upper body,depicts,nail polish,1
+hasSilhouette,straight,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasSilhouette,straight,1
+hasSilhouette,straight,hasMaterialType,gel,1
+hasMaterialType,gel,hasSilhouette,straight,1
+hasLength,short,hasPattern,plain color,1
+hasSilhouette,round shape,hasPattern,plain color,1
+hasMaterialType,plastic,hasPattern,plain color,1
+belongsToCategory,upperbody,hasPattern,plain color,1
+depicts,nail polish,hasPattern,plain color,1
+hasPattern,plain color,hasLength,short,1
+hasSilhouette,round shape,hasLength,short,1
+hasPattern,plain color,hasSilhouette,round shape,1
+hasLength,short,hasSilhouette,round shape,1
+hasMaterialType,plastic,hasSilhouette,round shape,1
+belongsToCategory,upperbody,hasSilhouette,round shape,1
+depicts,nail polish,hasSilhouette,round shape,1
+hasPattern,plain color,hasMaterialType,plastic,1
+hasSilhouette,round shape,hasMaterialType,plastic,1
+hasPattern,plain color,belongsToCategory,upperbody,1
+hasSilhouette,round shape,belongsToCategory,upperbody,1
+hasPattern,plain color,depicts,nail polish,1
+hasSilhouette,round shape,depicts,nail polish,1
+belongsToCategory,head,hasMaterialType,plastic,1
+belongsToCategory,head,hasLength,short,1
+hasMaterialType,plastic,belongsToCategory,head,1
+hasLength,short,belongsToCategory,head,1
+depicts,nail polish,belongsToCategory,head,1
+belongsToCategory,head,depicts,nail polish,1
+hasSleeveType,sleeveless,hasMaterialType,gel,1
+hasNeckline,no neckline,hasMaterialType,gel,1
+hasMaterialType,gel,hasSleeveType,sleeveless,1
+hasNeckline,no neckline,hasSleeveType,sleeveless,1
+hasMaterialType,gel,hasNeckline,no neckline,1
+hasSleeveType,sleeveless,hasNeckline,no neckline,1
+hasLength,short,hasNeckline,no neckline,1
+belongsToCategory,upperbody,hasNeckline,no neckline,1
+depicts,nail polish,hasNeckline,no neckline,1
+hasNeckline,no neckline,hasLength,short,1
+hasNeckline,no neckline,belongsToCategory,upperbody,1
+hasNeckline,no neckline,depicts,nail polish,1
+hasOpeningType,bottle cap,hasMaterialType,nail polish,1
+hasMaterialType,nail polish,hasOpeningType,bottle cap,1
+belongsToCategory,upperbody,hasOpeningType,bottle cap,1
+depicts,nail polish,hasOpeningType,bottle cap,1
+hasOpeningType,bottle cap,belongsToCategory,upperbody,1
+hasOpeningType,bottle cap,depicts,nail polish,1
+hasMaterialType,gel,hasAnimalPattern,no,1
+belongsToCategory,upperbody,hasAnimalPattern,no,1
+depicts,nail polish,hasAnimalPattern,no,1
+hasAnimalPattern,no,hasMaterialType,gel,1
+hasAnimalPattern,no,belongsToCategory,upperbody,1
+hasAnimalPattern,no,depicts,nail polish,1
+hasMaterialType,acrylic,hasFabricTreatment,glossy,1
+hasFabricTreatment,glossy,hasMaterialType,acrylic,1
+hasLength,short,hasMaterialType,acrylic,1
+hasSilhouette,round,hasMaterialType,acrylic,1
+belongsToCategory,upperbody,hasMaterialType,acrylic,1
+depicts,nail polish,hasMaterialType,acrylic,1
+hasMaterialType,acrylic,hasLength,short,1
+hasSilhouette,round,hasLength,short,1
+hasMaterialType,acrylic,hasSilhouette,round,1
+hasLength,short,hasSilhouette,round,1
+hasMaterialType,acrylic,belongsToCategory,upperbody,1
+hasMaterialType,acrylic,depicts,nail polish,1
+hasFabricTreatment,glossy,hasPattern,solid color,1
+hasOpeningType,zipper,hasPattern,solid color,1
+hasPocketType,no pocket,hasPattern,solid color,1
+hasSleeveType,long,hasPattern,solid color,1
+hasNeckline,round,hasPattern,solid color,1
+hasLength,medium,hasPattern,solid color,1
+hasSilhouette,round,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,glossy,1
+hasOpeningType,zipper,hasFabricTreatment,glossy,1
+hasPocketType,no pocket,hasFabricTreatment,glossy,1
+hasSleeveType,long,hasFabricTreatment,glossy,1
+hasNeckline,round,hasFabricTreatment,glossy,1
+hasLength,medium,hasFabricTreatment,glossy,1
+hasNickname,nail polish,hasFabricTreatment,glossy,1
+hasOpeningType,zipper,hasMaterialType,plastic,1
+hasPocketType,no pocket,hasMaterialType,plastic,1
+hasSleeveType,long,hasMaterialType,plastic,1
+hasNeckline,round,hasMaterialType,plastic,1
+hasLength,medium,hasMaterialType,plastic,1
+hasSilhouette,round,hasMaterialType,plastic,1
+hasPattern,solid color,hasOpeningType,zipper,1
+hasFabricTreatment,glossy,hasOpeningType,zipper,1
+hasMaterialType,plastic,hasOpeningType,zipper,1
+hasPocketType,no pocket,hasOpeningType,zipper,1
+hasSleeveType,long,hasOpeningType,zipper,1
+hasNeckline,round,hasOpeningType,zipper,1
+hasLength,medium,hasOpeningType,zipper,1
+hasSilhouette,round,hasOpeningType,zipper,1
+hasNickname,nail polish,hasOpeningType,zipper,1
+belongsToCategory,upperbody,hasOpeningType,zipper,1
+depicts,nail polish,hasOpeningType,zipper,1
+hasPattern,solid color,hasPocketType,no pocket,1
+hasFabricTreatment,glossy,hasPocketType,no pocket,1
+hasMaterialType,plastic,hasPocketType,no pocket,1
+hasOpeningType,zipper,hasPocketType,no pocket,1
+hasSleeveType,long,hasPocketType,no pocket,1
+hasNeckline,round,hasPocketType,no pocket,1
+hasLength,medium,hasPocketType,no pocket,1
+hasSilhouette,round,hasPocketType,no pocket,1
+hasNickname,nail polish,hasPocketType,no pocket,1
+belongsToCategory,upperbody,hasPocketType,no pocket,1
+depicts,nail polish,hasPocketType,no pocket,1
+hasPattern,solid color,hasSleeveType,long,1
+hasFabricTreatment,glossy,hasSleeveType,long,1
+hasMaterialType,plastic,hasSleeveType,long,1
+hasOpeningType,zipper,hasSleeveType,long,1
+hasPocketType,no pocket,hasSleeveType,long,1
+hasNeckline,round,hasSleeveType,long,1
+hasLength,medium,hasSleeveType,long,1
+hasSilhouette,round,hasSleeveType,long,1
+hasNickname,nail polish,hasSleeveType,long,1
+belongsToCategory,upperbody,hasSleeveType,long,1
+depicts,nail polish,hasSleeveType,long,1
+hasPattern,solid color,hasNeckline,round,1
+hasFabricTreatment,glossy,hasNeckline,round,1
+hasMaterialType,plastic,hasNeckline,round,1
+hasOpeningType,zipper,hasNeckline,round,1
+hasPocketType,no pocket,hasNeckline,round,1
+hasSleeveType,long,hasNeckline,round,1
+hasLength,medium,hasNeckline,round,1
+hasNickname,nail polish,hasNeckline,round,1
+belongsToCategory,upperbody,hasNeckline,round,1
+depicts,nail polish,hasNeckline,round,1
+hasPattern,solid color,hasLength,medium,1
+hasFabricTreatment,glossy,hasLength,medium,1
+hasMaterialType,plastic,hasLength,medium,1
+hasOpeningType,zipper,hasLength,medium,1
+hasPocketType,no pocket,hasLength,medium,1
+hasSleeveType,long,hasLength,medium,1
+hasNeckline,round,hasLength,medium,1
+hasSilhouette,round,hasLength,medium,1
+hasNickname,nail polish,hasLength,medium,1
+belongsToCategory,upperbody,hasLength,medium,1
+depicts,nail polish,hasLength,medium,1
+hasPattern,solid color,hasSilhouette,round,1
+hasMaterialType,plastic,hasSilhouette,round,1
+hasOpeningType,zipper,hasSilhouette,round,1
+hasPocketType,no pocket,hasSilhouette,round,1
+hasSleeveType,long,hasSilhouette,round,1
+hasLength,medium,hasSilhouette,round,1
+hasNickname,nail polish,hasSilhouette,round,1
+hasFabricTreatment,glossy,hasNickname,nail polish,1
+hasOpeningType,zipper,hasNickname,nail polish,1
+hasPocketType,no pocket,hasNickname,nail polish,1
+hasSleeveType,long,hasNickname,nail polish,1
+hasNeckline,round,hasNickname,nail polish,1
+hasLength,medium,hasNickname,nail polish,1
+hasSilhouette,round,hasNickname,nail polish,1
+hasOpeningType,zipper,belongsToCategory,upperbody,1
+hasPocketType,no pocket,belongsToCategory,upperbody,1
+hasSleeveType,long,belongsToCategory,upperbody,1
+hasNeckline,round,belongsToCategory,upperbody,1
+hasLength,medium,belongsToCategory,upperbody,1
+hasOpeningType,zipper,depicts,nail polish,1
+hasPocketType,no pocket,depicts,nail polish,1
+hasSleeveType,long,depicts,nail polish,1
+hasNeckline,round,depicts,nail polish,1
+hasLength,medium,depicts,nail polish,1
+hasOpeningType,bottle opening,hasPattern,solid color,1
+hasPocketType,non-existent,hasPattern,solid color,1
+hasWaistline,non-existent,hasPattern,solid color,1
+hasSilhouette,bottle-shaped,hasPattern,solid color,1
+hasOpeningType,bottle opening,hasMaterialType,plastic,1
+hasPocketType,non-existent,hasMaterialType,plastic,1
+hasWaistline,non-existent,hasMaterialType,plastic,1
+hasSilhouette,bottle-shaped,hasMaterialType,plastic,1
+hasPattern,solid color,hasOpeningType,bottle opening,1
+hasMaterialType,plastic,hasOpeningType,bottle opening,1
+hasPocketType,non-existent,hasOpeningType,bottle opening,1
+hasLength,short,hasOpeningType,bottle opening,1
+hasWaistline,non-existent,hasOpeningType,bottle opening,1
+hasSilhouette,bottle-shaped,hasOpeningType,bottle opening,1
+belongsToCategory,upperbody,hasOpeningType,bottle opening,1
+depicts,nail polish,hasOpeningType,bottle opening,1
+hasPattern,solid color,hasPocketType,non-existent,1
+hasMaterialType,plastic,hasPocketType,non-existent,1
+hasOpeningType,bottle opening,hasPocketType,non-existent,1
+hasLength,short,hasPocketType,non-existent,1
+hasSilhouette,bottle-shaped,hasPocketType,non-existent,1
+belongsToCategory,upperbody,hasPocketType,non-existent,1
+depicts,nail polish,hasPocketType,non-existent,1
+hasOpeningType,bottle opening,hasLength,short,1
+hasPocketType,non-existent,hasLength,short,1
+hasWaistline,non-existent,hasLength,short,1
+hasSilhouette,bottle-shaped,hasLength,short,1
+hasPattern,solid color,hasWaistline,non-existent,1
+hasMaterialType,plastic,hasWaistline,non-existent,1
+hasOpeningType,bottle opening,hasWaistline,non-existent,1
+hasLength,short,hasWaistline,non-existent,1
+hasSilhouette,bottle-shaped,hasWaistline,non-existent,1
+belongsToCategory,upperbody,hasWaistline,non-existent,1
+depicts,nail polish,hasWaistline,non-existent,1
+hasPattern,solid color,hasSilhouette,bottle-shaped,1
+hasMaterialType,plastic,hasSilhouette,bottle-shaped,1
+hasOpeningType,bottle opening,hasSilhouette,bottle-shaped,1
+hasPocketType,non-existent,hasSilhouette,bottle-shaped,1
+hasLength,short,hasSilhouette,bottle-shaped,1
+hasWaistline,non-existent,hasSilhouette,bottle-shaped,1
+belongsToCategory,upperbody,hasSilhouette,bottle-shaped,1
+depicts,nail polish,hasSilhouette,bottle-shaped,1
+hasOpeningType,bottle opening,belongsToCategory,upperbody,1
+hasPocketType,non-existent,belongsToCategory,upperbody,1
+hasWaistline,non-existent,belongsToCategory,upperbody,1
+hasSilhouette,bottle-shaped,belongsToCategory,upperbody,1
+hasOpeningType,bottle opening,depicts,nail polish,1
+hasPocketType,non-existent,depicts,nail polish,1
+hasWaistline,non-existent,depicts,nail polish,1
+hasSilhouette,bottle-shaped,depicts,nail polish,1
+hasSilhouette,a-line,hasFabricTreatment,glossy,1
+hasSilhouette,a-line,hasMaterialType,plastic,1
+hasSilhouette,a-line,hasLength,short,1
+hasFabricTreatment,glossy,hasSilhouette,a-line,1
+hasMaterialType,plastic,hasSilhouette,a-line,1
+hasLength,short,hasSilhouette,a-line,1
+belongsToCategory,upperbody,hasSilhouette,a-line,1
+depicts,nail polish,hasSilhouette,a-line,1
+hasSilhouette,a-line,belongsToCategory,upperbody,1
+hasSilhouette,a-line,depicts,nail polish,1
+belongsToCategory,wholebody,hasMaterialType,gel,1
+belongsToCategory,wholebody,hasLength,short,1
+hasMaterialType,gel,belongsToCategory,wholebody,1
+hasLength,short,belongsToCategory,wholebody,1
+depicts,nail polish,belongsToCategory,wholebody,1
+belongsToCategory,wholebody,depicts,nail polish,1
+hasFabricTreatment,high gloss,hasPattern,solid color,1
+hasMaterialType,gel polish,hasPattern,solid color,1
+hasWaistline,no waist,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,high gloss,1
+hasMaterialType,gel polish,hasFabricTreatment,high gloss,1
+hasLength,short,hasFabricTreatment,high gloss,1
+hasWaistline,no waist,hasFabricTreatment,high gloss,1
+hasNickname,nail polish,hasFabricTreatment,high gloss,1
+belongsToCategory,upperbody,hasFabricTreatment,high gloss,1
+depicts,nail polish,hasFabricTreatment,high gloss,1
+hasPattern,solid color,hasMaterialType,gel polish,1
+hasFabricTreatment,high gloss,hasMaterialType,gel polish,1
+hasLength,short,hasMaterialType,gel polish,1
+hasWaistline,no waist,hasMaterialType,gel polish,1
+hasNickname,nail polish,hasMaterialType,gel polish,1
+belongsToCategory,upperbody,hasMaterialType,gel polish,1
+depicts,nail polish,hasMaterialType,gel polish,1
+hasFabricTreatment,high gloss,hasLength,short,1
+hasMaterialType,gel polish,hasLength,short,1
+hasWaistline,no waist,hasLength,short,1
+hasPattern,solid color,hasWaistline,no waist,1
+hasFabricTreatment,high gloss,hasWaistline,no waist,1
+hasMaterialType,gel polish,hasWaistline,no waist,1
+hasLength,short,hasWaistline,no waist,1
+hasNickname,nail polish,hasWaistline,no waist,1
+belongsToCategory,upperbody,hasWaistline,no waist,1
+depicts,nail polish,hasWaistline,no waist,1
+hasFabricTreatment,high gloss,hasNickname,nail polish,1
+hasMaterialType,gel polish,hasNickname,nail polish,1
+hasWaistline,no waist,hasNickname,nail polish,1
+hasFabricTreatment,high gloss,belongsToCategory,upperbody,1
+hasMaterialType,gel polish,belongsToCategory,upperbody,1
+hasWaistline,no waist,belongsToCategory,upperbody,1
+hasFabricTreatment,high gloss,depicts,nail polish,1
+hasMaterialType,gel polish,depicts,nail polish,1
+hasWaistline,no waist,depicts,nail polish,1
+hasSilhouette,bell-shaped,hasMaterialType,plastic,1
+hasSilhouette,bell-shaped,hasLength,short,1
+hasMaterialType,plastic,hasSilhouette,bell-shaped,1
+hasLength,short,hasSilhouette,bell-shaped,1
+belongsToCategory,upperbody,hasSilhouette,bell-shaped,1
+depicts,nail polish,hasSilhouette,bell-shaped,1
+hasSilhouette,bell-shaped,belongsToCategory,upperbody,1
+hasSilhouette,bell-shaped,depicts,nail polish,1
+hasMaterialType,plastic or resin,hasNickname,nail polish,1
+hasNickname,nail polish,hasMaterialType,plastic or resin,1
+belongsToCategory,upperbody,hasMaterialType,plastic or resin,1
+depicts,nail polish,hasMaterialType,plastic or resin,1
+hasMaterialType,plastic or resin,belongsToCategory,upperbody,1
+hasMaterialType,plastic or resin,depicts,nail polish,1
+hasNickname,nail polish,hasMaterialType,liquid,1
+belongsToCategory,cosmetics,hasMaterialType,liquid,1
+depicts,nail polish,hasMaterialType,liquid,1
+hasMaterialType,liquid,hasNickname,nail polish,1
+belongsToCategory,cosmetics,hasNickname,nail polish,1
+hasMaterialType,liquid,belongsToCategory,cosmetics,1
+hasNickname,nail polish,belongsToCategory,cosmetics,1
+hasMaterialType,liquid,depicts,nail polish,1
+hasSilhouette,formless,hasPattern,solid color,1
+hasNickname,clear coat,hasPattern,solid color,1
+hasSilhouette,formless,hasMaterialType,plastic,1
+hasNickname,clear coat,hasMaterialType,plastic,1
+hasPattern,solid color,hasSilhouette,formless,1
+hasMaterialType,plastic,hasSilhouette,formless,1
+hasNickname,clear coat,hasSilhouette,formless,1
+belongsToCategory,upperbody,hasSilhouette,formless,1
+depicts,nail polish,hasSilhouette,formless,1
+hasPattern,solid color,hasNickname,clear coat,1
+hasMaterialType,plastic,hasNickname,clear coat,1
+hasSilhouette,formless,hasNickname,clear coat,1
+belongsToCategory,upperbody,hasNickname,clear coat,1
+depicts,nail polish,hasNickname,clear coat,1
+hasSilhouette,formless,belongsToCategory,upperbody,1
+hasNickname,clear coat,belongsToCategory,upperbody,1
+hasSilhouette,formless,depicts,nail polish,1
+hasNickname,clear coat,depicts,nail polish,1
+belongsToCategory,lowerbody,hasPattern,solid color,1
+belongsToCategory,lowerbody,hasLength,short,1
+hasPattern,solid color,belongsToCategory,lowerbody,1
+hasLength,short,belongsToCategory,lowerbody,1
+hasMaterialType,gel-based,hasMaterialType,nail polish,1
+hasSilhouette,bell-shaped silhouette,hasMaterialType,nail polish,1
+hasMaterialType,nail polish,hasMaterialType,gel-based,1
+hasLength,short,hasMaterialType,gel-based,1
+hasSilhouette,bell-shaped silhouette,hasMaterialType,gel-based,1
+belongsToCategory,upperbody,hasMaterialType,gel-based,1
+depicts,nail polish,hasMaterialType,gel-based,1
+hasMaterialType,gel-based,hasLength,short,1
+hasSilhouette,bell-shaped silhouette,hasLength,short,1
+hasMaterialType,nail polish,hasSilhouette,bell-shaped silhouette,1
+hasMaterialType,gel-based,hasSilhouette,bell-shaped silhouette,1
+hasLength,short,hasSilhouette,bell-shaped silhouette,1
+belongsToCategory,upperbody,hasSilhouette,bell-shaped silhouette,1
+depicts,nail polish,hasSilhouette,bell-shaped silhouette,1
+hasMaterialType,gel-based,belongsToCategory,upperbody,1
+hasSilhouette,bell-shaped silhouette,belongsToCategory,upperbody,1
+hasMaterialType,gel-based,depicts,nail polish,1
+hasSilhouette,bell-shaped silhouette,depicts,nail polish,1
+hasSilhouette,cylindrical,hasMaterialType,plastic,1
+hasMaterialType,plastic,hasSilhouette,cylindrical,1
+hasNickname,nail polish,hasMaterialType,lacquer,1
+belongsToCategory,upperbody,hasMaterialType,lacquer,1
+depicts,nail polish,hasMaterialType,lacquer,1
+hasMaterialType,lacquer,hasNickname,nail polish,1
+hasMaterialType,lacquer,belongsToCategory,upperbody,1
+hasMaterialType,lacquer,depicts,nail polish,1
+hasSilhouette,cylindrical,hasMaterialType,gel,1
+hasMaterialType,gel,hasSilhouette,cylindrical,1
+belongsToCategory,cosmetics,hasSilhouette,cylindrical,1
+hasSilhouette,cylindrical,belongsToCategory,cosmetics,1

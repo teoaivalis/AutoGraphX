@@ -1,0 +1,1259 @@
+relation1,attribute1,relation2,attribute2,frequency
+hasSleeveType,short-sleeve,hasMaterialType,cotton,40
+belongsToCategory,upperbody,hasMaterialType,cotton,40
+hasMaterialType,cotton,hasSleeveType,short-sleeve,40
+belongsToCategory,upperbody,hasSleeveType,short-sleeve,40
+hasMaterialType,cotton,belongsToCategory,upperbody,40
+hasSleeveType,short-sleeve,belongsToCategory,upperbody,40
+hasWaistline,natural-waist,hasMaterialType,cotton,39
+hasSilhouette,a-line,hasMaterialType,cotton,39
+hasWaistline,natural-waist,hasSleeveType,short-sleeve,39
+hasSilhouette,a-line,hasSleeveType,short-sleeve,39
+hasMaterialType,cotton,hasWaistline,natural-waist,39
+hasSleeveType,short-sleeve,hasWaistline,natural-waist,39
+belongsToCategory,upperbody,hasWaistline,natural-waist,39
+hasMaterialType,cotton,hasSilhouette,a-line,39
+hasSleeveType,short-sleeve,hasSilhouette,a-line,39
+belongsToCategory,upperbody,hasSilhouette,a-line,39
+hasWaistline,natural-waist,belongsToCategory,upperbody,39
+hasSilhouette,a-line,belongsToCategory,upperbody,39
+hasSilhouette,a-line,hasWaistline,natural-waist,38
+hasWaistline,natural-waist,hasSilhouette,a-line,38
+hasMaterialType,cotton,hasPattern,floral,24
+hasSleeveType,short-sleeve,hasPattern,floral,24
+hasSilhouette,a-line,hasPattern,floral,24
+belongsToCategory,upperbody,hasPattern,floral,24
+hasPattern,floral,hasMaterialType,cotton,24
+hasPattern,floral,hasSleeveType,short-sleeve,24
+hasPattern,floral,hasSilhouette,a-line,24
+hasPattern,floral,belongsToCategory,upperbody,24
+hasNeckline,round neckline,hasMaterialType,cotton,24
+hasNeckline,round neckline,hasSleeveType,short-sleeve,24
+hasMaterialType,cotton,hasNeckline,round neckline,24
+hasSleeveType,short-sleeve,hasNeckline,round neckline,24
+hasSilhouette,a-line,hasNeckline,round neckline,24
+belongsToCategory,upperbody,hasNeckline,round neckline,24
+hasNeckline,round neckline,hasSilhouette,a-line,24
+hasNeckline,round neckline,belongsToCategory,upperbody,24
+hasWaistline,natural-waist,hasPattern,floral,23
+hasPattern,floral,hasWaistline,natural-waist,23
+hasWaistline,natural-waist,hasNeckline,round neckline,23
+hasNeckline,round neckline,hasWaistline,natural-waist,23
+hasLength,knee-length,hasMaterialType,cotton,20
+hasLength,knee-length,hasSleeveType,short-sleeve,20
+hasMaterialType,cotton,hasLength,knee-length,20
+hasSleeveType,short-sleeve,hasLength,knee-length,20
+hasSilhouette,a-line,hasLength,knee-length,20
+belongsToCategory,upperbody,hasLength,knee-length,20
+hasLength,knee-length,hasSilhouette,a-line,20
+hasLength,knee-length,belongsToCategory,upperbody,20
+hasWaistline,natural-waist,hasLength,knee-length,19
+hasLength,knee-length,hasWaistline,natural-waist,19
+hasLength,knee-length,hasPattern,floral,17
+hasPattern,floral,hasLength,knee-length,17
+hasCollarType,round collar,hasMaterialType,cotton,15
+hasCollarType,round collar,hasSleeveType,short-sleeve,15
+hasMaterialType,cotton,hasCollarType,round collar,15
+hasSleeveType,short-sleeve,hasCollarType,round collar,15
+belongsToCategory,upperbody,hasCollarType,round collar,15
+hasCollarType,round collar,belongsToCategory,upperbody,15
+hasWaistline,natural-waist,hasCollarType,round collar,14
+hasSilhouette,a-line,hasCollarType,round collar,14
+hasCollarType,round collar,hasWaistline,natural-waist,14
+hasCollarType,round collar,hasSilhouette,a-line,14
+hasNeckline,round neckline,hasPattern,floral,14
+hasPattern,floral,hasNeckline,round neckline,14
+depicts,t-shirt,hasMaterialType,cotton,13
+depicts,t-shirt,hasSleeveType,short-sleeve,13
+depicts,t-shirt,hasWaistline,natural-waist,13
+depicts,t-shirt,belongsToCategory,upperbody,13
+hasMaterialType,cotton,depicts,t-shirt,13
+hasSleeveType,short-sleeve,depicts,t-shirt,13
+hasWaistline,natural-waist,depicts,t-shirt,13
+belongsToCategory,upperbody,depicts,t-shirt,13
+depicts,dress,hasMaterialType,cotton,12
+depicts,dress,hasSleeveType,short-sleeve,12
+depicts,dress,hasWaistline,natural-waist,12
+depicts,dress,hasSilhouette,a-line,12
+depicts,dress,belongsToCategory,upperbody,12
+hasMaterialType,cotton,depicts,dress,12
+hasSleeveType,short-sleeve,depicts,dress,12
+hasWaistline,natural-waist,depicts,dress,12
+hasSilhouette,a-line,depicts,dress,12
+belongsToCategory,upperbody,depicts,dress,12
+depicts,t-shirt,hasSilhouette,a-line,12
+hasSilhouette,a-line,depicts,t-shirt,12
+depicts,dress,hasPattern,floral,11
+hasLength,knee-length,hasCollarType,round collar,11
+hasCollarType,round collar,hasLength,knee-length,11
+hasPattern,floral,depicts,dress,11
+hasMaterialType,cotton,hasFabricTreatment,plain weave,11
+hasSleeveType,short-sleeve,hasFabricTreatment,plain weave,11
+hasSilhouette,a-line,hasFabricTreatment,plain weave,11
+belongsToCategory,upperbody,hasFabricTreatment,plain weave,11
+hasFabricTreatment,plain weave,hasMaterialType,cotton,11
+hasFabricTreatment,plain weave,hasSleeveType,short-sleeve,11
+hasLength,knee-length,hasNeckline,round neckline,11
+hasNeckline,round neckline,hasLength,knee-length,11
+hasFabricTreatment,plain weave,hasSilhouette,a-line,11
+hasFabricTreatment,plain weave,belongsToCategory,upperbody,11
+depicts,dress,hasLength,knee-length,10
+hasLength,knee-length,depicts,dress,10
+depicts,shirt,hasMaterialType,cotton,10
+depicts,shirt,hasSleeveType,short-sleeve,10
+depicts,shirt,hasSilhouette,a-line,10
+depicts,shirt,belongsToCategory,upperbody,10
+hasMaterialType,cotton,depicts,shirt,10
+hasSleeveType,short-sleeve,depicts,shirt,10
+hasSilhouette,a-line,depicts,shirt,10
+belongsToCategory,upperbody,depicts,shirt,10
+hasLength,short,hasMaterialType,cotton,10
+hasLength,short,hasSleeveType,short-sleeve,10
+hasMaterialType,cotton,hasLength,short,10
+hasSleeveType,short-sleeve,hasLength,short,10
+hasWaistline,natural-waist,hasLength,short,10
+belongsToCategory,upperbody,hasLength,short,10
+depicts,t-shirt,hasLength,short,10
+hasLength,short,hasWaistline,natural-waist,10
+hasLength,short,belongsToCategory,upperbody,10
+hasLength,short,depicts,t-shirt,10
+hasWaistline,natural-waist,hasFabricTreatment,plain weave,10
+hasFabricTreatment,plain weave,hasWaistline,natural-waist,10
+hasCollarType,round collar,hasPattern,floral,9
+hasPattern,floral,hasCollarType,round collar,9
+hasCollarType,crew-neck,hasMaterialType,cotton,9
+hasLength,above the knee,hasMaterialType,cotton,9
+hasCollarType,crew-neck,hasSleeveType,short-sleeve,9
+hasLength,above the knee,hasSleeveType,short-sleeve,9
+hasMaterialType,cotton,hasCollarType,crew-neck,9
+hasSleeveType,short-sleeve,hasCollarType,crew-neck,9
+hasWaistline,natural-waist,hasCollarType,crew-neck,9
+hasSilhouette,a-line,hasCollarType,crew-neck,9
+belongsToCategory,upperbody,hasCollarType,crew-neck,9
+hasMaterialType,cotton,hasLength,above the knee,9
+hasSleeveType,short-sleeve,hasLength,above the knee,9
+hasWaistline,natural-waist,hasLength,above the knee,9
+hasSilhouette,a-line,hasLength,above the knee,9
+belongsToCategory,upperbody,hasLength,above the knee,9
+hasCollarType,crew-neck,hasWaistline,natural-waist,9
+hasLength,above the knee,hasWaistline,natural-waist,9
+depicts,shirt,hasWaistline,natural-waist,9
+hasCollarType,crew-neck,hasSilhouette,a-line,9
+hasLength,above the knee,hasSilhouette,a-line,9
+hasCollarType,crew-neck,belongsToCategory,upperbody,9
+hasLength,above the knee,belongsToCategory,upperbody,9
+hasWaistline,natural-waist,depicts,shirt,9
+depicts,t-shirt,hasNeckline,round neckline,9
+hasSilhouette,a-line,hasLength,short,9
+hasLength,short,hasSilhouette,a-line,9
+hasNeckline,round neckline,depicts,t-shirt,9
+hasLength,short,hasNeckline,round neckline,8
+hasNeckline,round neckline,hasLength,short,8
+hasFabricTreatment,plain weave,hasPattern,floral,8
+hasPattern,floral,hasFabricTreatment,plain weave,8
+hasLength,knee-length,hasFabricTreatment,plain weave,8
+hasCollarType,round collar,hasNeckline,round neckline,8
+hasNeckline,round neckline,hasCollarType,round collar,8
+hasFabricTreatment,plain weave,hasLength,knee-length,8
+depicts,t-shirt,hasCollarType,crew-neck,8
+hasCollarType,crew-neck,depicts,t-shirt,8
+depicts,dress,hasCollarType,round collar,7
+hasCollarType,round collar,depicts,dress,7
+hasCollarType,crew-neck,hasNeckline,round neckline,7
+hasNeckline,round neckline,hasCollarType,crew-neck,7
+hasNeckline,round neckline,hasFabricTreatment,plain weave,7
+hasCollarType,round collar,hasFabricTreatment,plain weave,7
+hasFabricTreatment,plain weave,hasNeckline,round neckline,7
+hasFabricTreatment,plain weave,hasCollarType,round collar,7
+depicts,shirt,hasPattern,floral,7
+hasPattern,floral,depicts,shirt,7
+depicts,dress,hasFabricTreatment,plain weave,6
+depicts,dress,hasNeckline,round neckline,6
+hasFabricTreatment,plain weave,depicts,dress,6
+hasNeckline,round neckline,depicts,dress,6
+hasLength,short,hasCollarType,crew-neck,6
+hasCollarType,crew-neck,hasLength,short,6
+hasOpeningType,zipper closure,hasPattern,floral,6
+hasOpeningType,zipper closure,hasMaterialType,cotton,6
+hasPattern,floral,hasOpeningType,zipper closure,6
+hasMaterialType,cotton,hasOpeningType,zipper closure,6
+hasSleeveType,short-sleeve,hasOpeningType,zipper closure,6
+hasWaistline,natural-waist,hasOpeningType,zipper closure,6
+hasSilhouette,a-line,hasOpeningType,zipper closure,6
+belongsToCategory,upperbody,hasOpeningType,zipper closure,6
+hasOpeningType,zipper closure,hasSleeveType,short-sleeve,6
+hasOpeningType,zipper closure,hasWaistline,natural-waist,6
+hasOpeningType,zipper closure,hasSilhouette,a-line,6
+hasOpeningType,zipper closure,belongsToCategory,upperbody,6
+depicts,shirt,hasLength,knee-length,6
+hasLength,knee-length,depicts,shirt,6
+hasNeckline,v-neck,hasPattern,floral,5
+hasNeckline,v-neck,hasMaterialType,cotton,5
+hasNeckline,v-neck,hasSleeveType,short-sleeve,5
+hasPattern,floral,hasNeckline,v-neck,5
+hasMaterialType,cotton,hasNeckline,v-neck,5
+hasSleeveType,short-sleeve,hasNeckline,v-neck,5
+hasWaistline,natural-waist,hasNeckline,v-neck,5
+hasSilhouette,a-line,hasNeckline,v-neck,5
+belongsToCategory,upperbody,hasNeckline,v-neck,5
+hasNeckline,v-neck,hasWaistline,natural-waist,5
+hasNeckline,v-neck,hasSilhouette,a-line,5
+hasNeckline,v-neck,belongsToCategory,upperbody,5
+hasCollarType,v-neck,hasPattern,floral,5
+hasCollarType,v-neck,hasMaterialType,cotton,5
+hasCollarType,v-neck,hasSleeveType,short-sleeve,5
+hasPattern,floral,hasCollarType,v-neck,5
+hasMaterialType,cotton,hasCollarType,v-neck,5
+hasSleeveType,short-sleeve,hasCollarType,v-neck,5
+hasWaistline,natural-waist,hasCollarType,v-neck,5
+hasSilhouette,a-line,hasCollarType,v-neck,5
+belongsToCategory,upperbody,hasCollarType,v-neck,5
+hasCollarType,v-neck,hasWaistline,natural-waist,5
+hasCollarType,v-neck,hasSilhouette,a-line,5
+hasCollarType,v-neck,belongsToCategory,upperbody,5
+hasCollarType,round neckline,hasPattern,floral,5
+hasCollarType,round neckline,hasMaterialType,cotton,5
+depicts,dress,hasOpeningType,zipper closure,5
+hasCollarType,round neckline,hasSleeveType,short-sleeve,5
+hasPattern,floral,hasCollarType,round neckline,5
+hasMaterialType,cotton,hasCollarType,round neckline,5
+hasSleeveType,short-sleeve,hasCollarType,round neckline,5
+hasWaistline,natural-waist,hasCollarType,round neckline,5
+hasSilhouette,a-line,hasCollarType,round neckline,5
+belongsToCategory,upperbody,hasCollarType,round neckline,5
+hasCollarType,round neckline,hasWaistline,natural-waist,5
+hasCollarType,round neckline,hasSilhouette,a-line,5
+hasCollarType,round neckline,belongsToCategory,upperbody,5
+hasOpeningType,zipper closure,depicts,dress,5
+hasLength,above the knee,hasPattern,floral,5
+hasPattern,floral,hasLength,above the knee,5
+depicts,shirt,hasCollarType,round collar,5
+hasCollarType,round collar,depicts,shirt,5
+hasLength,above the knee,hasNeckline,round neckline,4
+depicts,shirt,hasNeckline,round neckline,4
+hasNeckline,round neckline,hasLength,above the knee,4
+depicts,shirt,hasLength,above the knee,4
+hasNeckline,round neckline,depicts,shirt,4
+hasLength,above the knee,depicts,shirt,4
+hasMaterialType,cotton,hasPattern,solid color,4
+hasSleeveType,short-sleeve,hasPattern,solid color,4
+hasWaistline,natural-waist,hasPattern,solid color,4
+hasSilhouette,a-line,hasPattern,solid color,4
+belongsToCategory,upperbody,hasPattern,solid color,4
+hasPattern,solid color,hasMaterialType,cotton,4
+hasPattern,solid color,hasSleeveType,short-sleeve,4
+hasPattern,solid color,hasWaistline,natural-waist,4
+hasPattern,solid color,hasSilhouette,a-line,4
+hasPattern,solid color,belongsToCategory,upperbody,4
+hasLength,knee-length,hasCollarType,v-neck,4
+hasCollarType,v-neck,hasLength,knee-length,4
+hasNeckline,crew neck,hasMaterialType,cotton,4
+hasNeckline,crew neck,hasSleeveType,short-sleeve,4
+hasMaterialType,cotton,hasNeckline,crew neck,4
+hasSleeveType,short-sleeve,hasNeckline,crew neck,4
+hasWaistline,natural-waist,hasNeckline,crew neck,4
+belongsToCategory,upperbody,hasNeckline,crew neck,4
+hasNeckline,crew neck,hasWaistline,natural-waist,4
+hasNeckline,crew neck,belongsToCategory,upperbody,4
+hasLeatherType,no leather,hasPattern,floral,4
+hasPattern,floral,hasLeatherType,no leather,4
+hasMaterialType,cotton,hasLeatherType,no leather,4
+hasSleeveType,short-sleeve,hasLeatherType,no leather,4
+hasNeckline,round neckline,hasLeatherType,no leather,4
+hasSilhouette,a-line,hasLeatherType,no leather,4
+belongsToCategory,upperbody,hasLeatherType,no leather,4
+hasLeatherType,no leather,hasMaterialType,cotton,4
+hasLeatherType,no leather,hasSleeveType,short-sleeve,4
+hasLeatherType,no leather,hasNeckline,round neckline,4
+hasLeatherType,no leather,hasSilhouette,a-line,4
+hasLeatherType,no leather,belongsToCategory,upperbody,4
+hasLength,knee-length,hasNeckline,v-neck,3
+hasNeckline,v-neck,hasLength,knee-length,3
+hasLength,above the knee,hasCollarType,crew-neck,3
+hasCollarType,crew-neck,hasLength,above the knee,3
+hasMaterialType,cotton,hasPattern,striped,3
+hasSleeveType,short-sleeve,hasPattern,striped,3
+hasWaistline,natural-waist,hasPattern,striped,3
+hasSilhouette,a-line,hasPattern,striped,3
+belongsToCategory,upperbody,hasPattern,striped,3
+hasPattern,striped,hasMaterialType,cotton,3
+hasPattern,striped,hasSleeveType,short-sleeve,3
+hasPattern,striped,hasWaistline,natural-waist,3
+hasPattern,striped,hasSilhouette,a-line,3
+hasPattern,striped,belongsToCategory,upperbody,3
+hasOpeningType,front opening,hasFabricTreatment,plain weave,3
+hasOpeningType,front opening,hasMaterialType,cotton,3
+hasFabricTreatment,plain weave,hasOpeningType,front opening,3
+hasMaterialType,cotton,hasOpeningType,front opening,3
+hasSleeveType,short-sleeve,hasOpeningType,front opening,3
+hasNeckline,round neckline,hasOpeningType,front opening,3
+hasCollarType,round collar,hasOpeningType,front opening,3
+hasWaistline,natural-waist,hasOpeningType,front opening,3
+hasSilhouette,a-line,hasOpeningType,front opening,3
+belongsToCategory,upperbody,hasOpeningType,front opening,3
+hasOpeningType,front opening,hasSleeveType,short-sleeve,3
+hasOpeningType,front opening,hasNeckline,round neckline,3
+hasOpeningType,front opening,hasCollarType,round collar,3
+hasOpeningType,front opening,hasWaistline,natural-waist,3
+hasOpeningType,front opening,hasSilhouette,a-line,3
+hasOpeningType,front opening,belongsToCategory,upperbody,3
+hasCollarType,crew-neck,hasPattern,solid color,3
+depicts,t-shirt,hasPattern,solid color,3
+hasPattern,solid color,hasCollarType,crew-neck,3
+hasPattern,solid color,depicts,t-shirt,3
+hasOpeningType,zipper front,hasMaterialType,cotton,3
+hasMaterialType,cotton,hasOpeningType,zipper front,3
+hasSleeveType,short-sleeve,hasOpeningType,zipper front,3
+hasSilhouette,a-line,hasOpeningType,zipper front,3
+belongsToCategory,upperbody,hasOpeningType,zipper front,3
+hasOpeningType,zipper front,hasSleeveType,short-sleeve,3
+hasOpeningType,zipper front,hasSilhouette,a-line,3
+hasOpeningType,zipper front,belongsToCategory,upperbody,3
+hasOpeningType,zipper closure,hasFabricTreatment,plain weave,3
+hasFabricTreatment,plain weave,hasOpeningType,zipper closure,3
+hasNeckline,round neckline,hasOpeningType,zipper closure,3
+hasOpeningType,zipper closure,hasNeckline,round neckline,3
+hasOpeningType,button front,hasMaterialType,cotton,3
+hasMaterialType,cotton,hasOpeningType,button front,3
+hasSleeveType,short-sleeve,hasOpeningType,button front,3
+hasWaistline,natural-waist,hasOpeningType,button front,3
+hasSilhouette,a-line,hasOpeningType,button front,3
+belongsToCategory,upperbody,hasOpeningType,button front,3
+hasOpeningType,button front,hasSleeveType,short-sleeve,3
+hasSilhouette,a-line,hasNeckline,crew neck,3
+hasOpeningType,button front,hasWaistline,natural-waist,3
+hasOpeningType,button front,hasSilhouette,a-line,3
+hasNeckline,crew neck,hasSilhouette,a-line,3
+hasOpeningType,button front,belongsToCategory,upperbody,3
+depicts,shirt,hasNeckline,v-neck,3
+hasNeckline,v-neck,depicts,shirt,3
+hasLength,knee-length,hasOpeningType,zipper closure,3
+hasOpeningType,zipper closure,hasLength,knee-length,3
+depicts,shirt,hasFabricTreatment,plain weave,3
+hasLength,knee-length,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasLength,knee-length,3
+hasFabricTreatment,plain weave,depicts,shirt,3
+hasWaistline,natural-waist,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasWaistline,natural-waist,3
+hasCollarType,round collar,hasNeckline,crew neck,3
+hasNeckline,crew neck,hasCollarType,round collar,3
+hasOpeningType,button-front closure,hasMaterialType,cotton,3
+hasMaterialType,cotton,hasOpeningType,button-front closure,3
+hasSleeveType,short-sleeve,hasOpeningType,button-front closure,3
+hasLength,knee-length,hasOpeningType,button-front closure,3
+hasWaistline,natural-waist,hasOpeningType,button-front closure,3
+hasSilhouette,a-line,hasOpeningType,button-front closure,3
+belongsToCategory,upperbody,hasOpeningType,button-front closure,3
+hasOpeningType,button-front closure,hasSleeveType,short-sleeve,3
+hasOpeningType,button-front closure,hasLength,knee-length,3
+hasOpeningType,button-front closure,hasWaistline,natural-waist,3
+hasOpeningType,button-front closure,hasSilhouette,a-line,3
+hasOpeningType,button-front closure,belongsToCategory,upperbody,3
+depicts,dress,hasNeckline,v-neck,2
+hasNeckline,v-neck,depicts,dress,2
+depicts,t-shirt,hasPattern,striped,2
+hasPattern,striped,depicts,t-shirt,2
+hasOpeningType,front opening,hasPattern,floral,2
+hasPattern,floral,hasOpeningType,front opening,2
+hasLength,knee-length,hasOpeningType,front opening,2
+depicts,dress,hasOpeningType,front opening,2
+hasOpeningType,front opening,hasLength,knee-length,2
+hasOpeningType,front opening,depicts,dress,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasLength,short,hasPattern,solid color,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasPattern,solid color,hasLength,short,2
+hasNeckline,round neckline,hasOpeningType,zipper front,2
+hasWaistline,natural-waist,hasOpeningType,zipper front,2
+hasOpeningType,zipper front,hasNeckline,round neckline,2
+hasOpeningType,zipper front,hasWaistline,natural-waist,2
+depicts,dress,hasCollarType,v-neck,2
+hasCollarType,v-neck,depicts,dress,2
+hasOpeningType,zipper opening,hasPattern,floral,2
+hasOpeningType,zipper opening,hasFabricTreatment,plain weave,2
+hasOpeningType,zipper opening,hasMaterialType,cotton,2
+hasPattern,floral,hasOpeningType,zipper opening,2
+hasFabricTreatment,plain weave,hasOpeningType,zipper opening,2
+hasMaterialType,cotton,hasOpeningType,zipper opening,2
+hasSleeveType,short-sleeve,hasOpeningType,zipper opening,2
+hasNeckline,round neckline,hasOpeningType,zipper opening,2
+hasLength,knee-length,hasOpeningType,zipper opening,2
+hasWaistline,natural-waist,hasOpeningType,zipper opening,2
+hasSilhouette,a-line,hasOpeningType,zipper opening,2
+belongsToCategory,upperbody,hasOpeningType,zipper opening,2
+hasOpeningType,zipper opening,hasSleeveType,short-sleeve,2
+hasOpeningType,zipper opening,hasNeckline,round neckline,2
+hasOpeningType,zipper opening,hasLength,knee-length,2
+hasOpeningType,zipper opening,hasWaistline,natural-waist,2
+hasOpeningType,zipper opening,hasSilhouette,a-line,2
+hasOpeningType,zipper opening,belongsToCategory,upperbody,2
+depicts,blouse,hasMaterialType,cotton,2
+depicts,blouse,hasSleeveType,short-sleeve,2
+depicts,blouse,hasNeckline,round neckline,2
+hasLength,above the knee,hasCollarType,round neckline,2
+hasCollarType,round neckline,hasLength,above the knee,2
+depicts,blouse,hasLength,above the knee,2
+depicts,blouse,hasWaistline,natural-waist,2
+depicts,blouse,hasSilhouette,a-line,2
+depicts,blouse,belongsToCategory,upperbody,2
+hasMaterialType,cotton,depicts,blouse,2
+hasSleeveType,short-sleeve,depicts,blouse,2
+hasNeckline,round neckline,depicts,blouse,2
+hasLength,above the knee,depicts,blouse,2
+hasWaistline,natural-waist,depicts,blouse,2
+hasSilhouette,a-line,depicts,blouse,2
+belongsToCategory,upperbody,depicts,blouse,2
+hasOpeningType,button front,hasPattern,striped,2
+hasNeckline,crew neck,hasPattern,striped,2
+hasPattern,striped,hasOpeningType,button front,2
+hasNeckline,crew neck,hasOpeningType,button front,2
+hasPattern,striped,hasNeckline,crew neck,2
+hasOpeningType,button front,hasNeckline,crew neck,2
+depicts,t-shirt,hasNeckline,crew neck,2
+depicts,t-shirt,hasLength,above the knee,2
+hasNeckline,crew neck,depicts,t-shirt,2
+hasLength,above the knee,depicts,t-shirt,2
+hasOpeningType,button,hasPattern,floral,2
+hasOpeningType,button,hasMaterialType,cotton,2
+hasPattern,floral,hasOpeningType,button,2
+hasMaterialType,cotton,hasOpeningType,button,2
+hasSleeveType,short-sleeve,hasOpeningType,button,2
+hasWaistline,natural-waist,hasOpeningType,button,2
+hasSilhouette,a-line,hasOpeningType,button,2
+belongsToCategory,upperbody,hasOpeningType,button,2
+hasOpeningType,button,hasSleeveType,short-sleeve,2
+depicts,shirt,hasCollarType,v-neck,2
+hasOpeningType,button,hasWaistline,natural-waist,2
+hasOpeningType,button,hasSilhouette,a-line,2
+hasOpeningType,button,belongsToCategory,upperbody,2
+hasCollarType,v-neck,depicts,shirt,2
+hasOpeningType,zipper front,hasPattern,floral,2
+hasLeatherType,no leather,hasFabricTreatment,plain weave,2
+hasFabricTreatment,plain weave,hasLeatherType,no leather,2
+hasPattern,floral,hasOpeningType,zipper front,2
+hasCollarType,round collar,hasOpeningType,zipper front,2
+hasLength,knee-length,hasOpeningType,zipper front,2
+depicts,shirt,hasOpeningType,zipper front,2
+hasOpeningType,zipper front,hasCollarType,round collar,2
+hasOpeningType,zipper front,hasLength,knee-length,2
+hasOpeningType,zipper front,depicts,shirt,2
+hasCollarType,v-neck,hasFabricTreatment,plain weave,2
+hasLength,above the knee,hasFabricTreatment,plain weave,2
+hasCollarType,v-neck,hasOpeningType,zipper closure,2
+hasLength,above the knee,hasOpeningType,zipper closure,2
+hasLength,above the knee,hasNeckline,v-neck,2
+hasFabricTreatment,plain weave,hasCollarType,v-neck,2
+hasOpeningType,zipper closure,hasCollarType,v-neck,2
+hasFabricTreatment,plain weave,hasLength,above the knee,2
+hasOpeningType,zipper closure,hasLength,above the knee,2
+hasNeckline,v-neck,hasLength,above the knee,2
+hasLapelType,lapelless,hasPattern,floral,2
+depicts,t-shirt,hasPattern,floral,2
+depicts,t-shirt,hasLeatherType,no leather,2
+hasLapelType,lapelless,hasMaterialType,cotton,2
+hasLapelType,lapelless,hasSleeveType,short-sleeve,2
+hasPattern,floral,hasLapelType,lapelless,2
+hasMaterialType,cotton,hasLapelType,lapelless,2
+hasSleeveType,short-sleeve,hasLapelType,lapelless,2
+hasWaistline,natural-waist,hasLapelType,lapelless,2
+hasSilhouette,a-line,hasLapelType,lapelless,2
+belongsToCategory,upperbody,hasLapelType,lapelless,2
+hasLapelType,lapelless,hasWaistline,natural-waist,2
+hasLapelType,lapelless,hasSilhouette,a-line,2
+hasLapelType,lapelless,belongsToCategory,upperbody,2
+hasPattern,floral,depicts,t-shirt,2
+hasLeatherType,no leather,depicts,t-shirt,2
+hasLength,above the knee,hasCollarType,round collar,2
+hasCollarType,round collar,hasLength,above the knee,2
+hasNeckline,crew neck,hasFabricTreatment,plain weave,2
+hasLength,knee-length,hasOpeningType,button front,2
+hasFabricTreatment,plain weave,hasNeckline,crew neck,2
+hasLength,knee-length,hasNeckline,crew neck,2
+hasOpeningType,button front,hasLength,knee-length,2
+hasNeckline,crew neck,hasLength,knee-length,2
+hasOpeningType,button-front closure,hasPattern,floral,2
+hasPattern,floral,hasOpeningType,button-front closure,2
+hasNeckline,round neckline,hasOpeningType,button-front closure,2
+hasOpeningType,button-front closure,hasNeckline,round neckline,2
+hasLength,knee-length,hasCollarType,round neckline,2
+hasCollarType,round neckline,hasLength,knee-length,2
+hasNeckline,crew neckline,hasPattern,floral,2
+hasNeckline,crew neckline,hasMaterialType,cotton,2
+hasNeckline,crew neckline,hasSleeveType,short-sleeve,2
+hasPattern,floral,hasNeckline,crew neckline,2
+hasMaterialType,cotton,hasNeckline,crew neckline,2
+hasSleeveType,short-sleeve,hasNeckline,crew neckline,2
+hasCollarType,round collar,hasNeckline,crew neckline,2
+hasLength,knee-length,hasNeckline,crew neckline,2
+hasWaistline,natural-waist,hasNeckline,crew neckline,2
+hasSilhouette,a-line,hasNeckline,crew neckline,2
+belongsToCategory,upperbody,hasNeckline,crew neckline,2
+hasNeckline,crew neckline,hasCollarType,round collar,2
+hasNeckline,crew neckline,hasLength,knee-length,2
+hasNeckline,crew neckline,hasWaistline,natural-waist,2
+hasNeckline,crew neckline,hasSilhouette,a-line,2
+hasNeckline,crew neckline,belongsToCategory,upperbody,2
+hasCollarType,round collar,hasOpeningType,button-front closure,2
+hasOpeningType,button-front closure,hasCollarType,round collar,2
+hasLength,short,hasCollarType,round collar,2
+depicts,t-shirt,hasCollarType,round collar,2
+hasCollarType,round collar,hasLength,short,2
+hasCollarType,round collar,depicts,t-shirt,2
+hasOpeningType,crew neck opening,hasMaterialType,cotton,2
+hasMaterialType,cotton,hasOpeningType,crew neck opening,2
+hasSleeveType,short-sleeve,hasOpeningType,crew neck opening,2
+hasCollarType,crew-neck,hasOpeningType,crew neck opening,2
+hasWaistline,natural-waist,hasOpeningType,crew neck opening,2
+hasSilhouette,a-line,hasOpeningType,crew neck opening,2
+belongsToCategory,upperbody,hasOpeningType,crew neck opening,2
+depicts,t-shirt,hasOpeningType,crew neck opening,2
+hasOpeningType,crew neck opening,hasSleeveType,short-sleeve,2
+hasOpeningType,crew neck opening,hasCollarType,crew-neck,2
+hasOpeningType,crew neck opening,hasWaistline,natural-waist,2
+hasOpeningType,crew neck opening,hasSilhouette,a-line,2
+hasOpeningType,crew neck opening,belongsToCategory,upperbody,2
+hasOpeningType,crew neck opening,depicts,t-shirt,2
+hasFabricTreatment,unlined,hasPattern,floral,1
+hasPattern,floral,hasFabricTreatment,unlined,1
+hasMaterialType,cotton,hasFabricTreatment,unlined,1
+hasSleeveType,short-sleeve,hasFabricTreatment,unlined,1
+hasNeckline,v-neck,hasFabricTreatment,unlined,1
+hasCollarType,round collar,hasFabricTreatment,unlined,1
+hasLength,knee-length,hasFabricTreatment,unlined,1
+hasWaistline,natural-waist,hasFabricTreatment,unlined,1
+hasSilhouette,a-line,hasFabricTreatment,unlined,1
+belongsToCategory,upperbody,hasFabricTreatment,unlined,1
+depicts,dress,hasFabricTreatment,unlined,1
+hasFabricTreatment,unlined,hasMaterialType,cotton,1
+hasFabricTreatment,unlined,hasSleeveType,short-sleeve,1
+hasFabricTreatment,unlined,hasNeckline,v-neck,1
+hasCollarType,round collar,hasNeckline,v-neck,1
+hasFabricTreatment,unlined,hasCollarType,round collar,1
+hasNeckline,v-neck,hasCollarType,round collar,1
+hasFabricTreatment,unlined,hasLength,knee-length,1
+hasFabricTreatment,unlined,hasWaistline,natural-waist,1
+hasFabricTreatment,unlined,hasSilhouette,a-line,1
+hasFabricTreatment,unlined,belongsToCategory,upperbody,1
+hasFabricTreatment,unlined,depicts,dress,1
+hasOpeningType,button front closure,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,button front closure,1
+hasSleeveType,short-sleeve,hasOpeningType,button front closure,1
+hasNeckline,round neckline,hasOpeningType,button front closure,1
+hasCollarType,crew-neck,hasOpeningType,button front closure,1
+hasLength,above the knee,hasOpeningType,button front closure,1
+hasWaistline,natural-waist,hasOpeningType,button front closure,1
+hasSilhouette,a-line,hasOpeningType,button front closure,1
+belongsToCategory,upperbody,hasOpeningType,button front closure,1
+depicts,shirt,hasOpeningType,button front closure,1
+hasOpeningType,button front closure,hasSleeveType,short-sleeve,1
+hasOpeningType,button front closure,hasNeckline,round neckline,1
+hasOpeningType,button front closure,hasCollarType,crew-neck,1
+depicts,shirt,hasCollarType,crew-neck,1
+hasOpeningType,button front closure,hasLength,above the knee,1
+hasOpeningType,button front closure,hasWaistline,natural-waist,1
+hasOpeningType,button front closure,hasSilhouette,a-line,1
+hasOpeningType,button front closure,belongsToCategory,upperbody,1
+hasOpeningType,button front closure,depicts,shirt,1
+hasCollarType,crew-neck,depicts,shirt,1
+hasOpeningType,buttonhole,hasPattern,striped,1
+hasNeckline,round neckline,hasPattern,striped,1
+hasLength,short,hasPattern,striped,1
+hasOpeningType,buttonhole,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,buttonhole,1
+hasMaterialType,cotton,hasOpeningType,buttonhole,1
+hasSleeveType,short-sleeve,hasOpeningType,buttonhole,1
+hasNeckline,round neckline,hasOpeningType,buttonhole,1
+hasLength,short,hasOpeningType,buttonhole,1
+hasWaistline,natural-waist,hasOpeningType,buttonhole,1
+hasSilhouette,a-line,hasOpeningType,buttonhole,1
+belongsToCategory,upperbody,hasOpeningType,buttonhole,1
+depicts,t-shirt,hasOpeningType,buttonhole,1
+hasOpeningType,buttonhole,hasSleeveType,short-sleeve,1
+hasPattern,striped,hasNeckline,round neckline,1
+hasOpeningType,buttonhole,hasNeckline,round neckline,1
+hasPattern,striped,hasLength,short,1
+hasOpeningType,buttonhole,hasLength,short,1
+hasOpeningType,buttonhole,hasWaistline,natural-waist,1
+hasOpeningType,buttonhole,hasSilhouette,a-line,1
+hasOpeningType,buttonhole,belongsToCategory,upperbody,1
+hasOpeningType,buttonhole,depicts,t-shirt,1
+hasFabricTreatment,non-treated fabric,hasPattern,solid color,1
+hasOpeningType,buttons up,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,non-treated fabric,1
+hasMaterialType,cotton,hasFabricTreatment,non-treated fabric,1
+hasOpeningType,buttons up,hasFabricTreatment,non-treated fabric,1
+hasSleeveType,short-sleeve,hasFabricTreatment,non-treated fabric,1
+hasNeckline,round neckline,hasFabricTreatment,non-treated fabric,1
+hasCollarType,crew-neck,hasFabricTreatment,non-treated fabric,1
+hasLength,short,hasFabricTreatment,non-treated fabric,1
+hasWaistline,natural-waist,hasFabricTreatment,non-treated fabric,1
+hasSilhouette,a-line,hasFabricTreatment,non-treated fabric,1
+belongsToCategory,upperbody,hasFabricTreatment,non-treated fabric,1
+depicts,t-shirt,hasFabricTreatment,non-treated fabric,1
+hasFabricTreatment,non-treated fabric,hasMaterialType,cotton,1
+hasOpeningType,buttons up,hasMaterialType,cotton,1
+hasPattern,solid color,hasOpeningType,buttons up,1
+hasFabricTreatment,non-treated fabric,hasOpeningType,buttons up,1
+hasMaterialType,cotton,hasOpeningType,buttons up,1
+hasSleeveType,short-sleeve,hasOpeningType,buttons up,1
+hasNeckline,round neckline,hasOpeningType,buttons up,1
+hasCollarType,crew-neck,hasOpeningType,buttons up,1
+hasLength,short,hasOpeningType,buttons up,1
+hasWaistline,natural-waist,hasOpeningType,buttons up,1
+hasSilhouette,a-line,hasOpeningType,buttons up,1
+belongsToCategory,upperbody,hasOpeningType,buttons up,1
+depicts,t-shirt,hasOpeningType,buttons up,1
+hasFabricTreatment,non-treated fabric,hasSleeveType,short-sleeve,1
+hasOpeningType,buttons up,hasSleeveType,short-sleeve,1
+hasFabricTreatment,non-treated fabric,hasNeckline,round neckline,1
+hasOpeningType,buttons up,hasNeckline,round neckline,1
+hasFabricTreatment,non-treated fabric,hasCollarType,crew-neck,1
+hasOpeningType,buttons up,hasCollarType,crew-neck,1
+hasFabricTreatment,non-treated fabric,hasLength,short,1
+hasOpeningType,buttons up,hasLength,short,1
+hasFabricTreatment,non-treated fabric,hasWaistline,natural-waist,1
+hasOpeningType,buttons up,hasWaistline,natural-waist,1
+hasFabricTreatment,non-treated fabric,hasSilhouette,a-line,1
+hasOpeningType,buttons up,hasSilhouette,a-line,1
+hasFabricTreatment,non-treated fabric,belongsToCategory,upperbody,1
+hasOpeningType,buttons up,belongsToCategory,upperbody,1
+hasFabricTreatment,non-treated fabric,depicts,t-shirt,1
+hasOpeningType,buttons up,depicts,t-shirt,1
+hasFabricTreatment,plain weave fabric,hasPattern,solid color pattern,1
+hasMaterialType,cotton,hasPattern,solid color pattern,1
+hasOpeningType,zipper front,hasPattern,solid color pattern,1
+hasSleeveType,short-sleeve,hasPattern,solid color pattern,1
+hasNeckline,round neckline,hasPattern,solid color pattern,1
+hasCollarType,crew-neck,hasPattern,solid color pattern,1
+hasLength,short,hasPattern,solid color pattern,1
+hasWaistline,natural-waist,hasPattern,solid color pattern,1
+hasSilhouette,a-line,hasPattern,solid color pattern,1
+belongsToCategory,upperbody,hasPattern,solid color pattern,1
+depicts,t-shirt,hasPattern,solid color pattern,1
+hasPattern,solid color pattern,hasFabricTreatment,plain weave fabric,1
+hasMaterialType,cotton,hasFabricTreatment,plain weave fabric,1
+hasOpeningType,zipper front,hasFabricTreatment,plain weave fabric,1
+hasSleeveType,short-sleeve,hasFabricTreatment,plain weave fabric,1
+hasNeckline,round neckline,hasFabricTreatment,plain weave fabric,1
+hasCollarType,crew-neck,hasFabricTreatment,plain weave fabric,1
+hasLength,short,hasFabricTreatment,plain weave fabric,1
+hasWaistline,natural-waist,hasFabricTreatment,plain weave fabric,1
+hasSilhouette,a-line,hasFabricTreatment,plain weave fabric,1
+belongsToCategory,upperbody,hasFabricTreatment,plain weave fabric,1
+depicts,t-shirt,hasFabricTreatment,plain weave fabric,1
+hasPattern,solid color pattern,hasMaterialType,cotton,1
+hasFabricTreatment,plain weave fabric,hasMaterialType,cotton,1
+hasPattern,solid color pattern,hasOpeningType,zipper front,1
+hasFabricTreatment,plain weave fabric,hasOpeningType,zipper front,1
+hasCollarType,crew-neck,hasOpeningType,zipper front,1
+hasLength,short,hasOpeningType,zipper front,1
+depicts,t-shirt,hasOpeningType,zipper front,1
+hasPattern,solid color pattern,hasSleeveType,short-sleeve,1
+hasFabricTreatment,plain weave fabric,hasSleeveType,short-sleeve,1
+hasPattern,solid color pattern,hasNeckline,round neckline,1
+hasFabricTreatment,plain weave fabric,hasNeckline,round neckline,1
+hasPattern,solid color pattern,hasCollarType,crew-neck,1
+hasFabricTreatment,plain weave fabric,hasCollarType,crew-neck,1
+hasOpeningType,zipper front,hasCollarType,crew-neck,1
+hasPattern,solid color pattern,hasLength,short,1
+hasFabricTreatment,plain weave fabric,hasLength,short,1
+hasOpeningType,zipper front,hasLength,short,1
+hasPattern,solid color pattern,hasWaistline,natural-waist,1
+hasFabricTreatment,plain weave fabric,hasWaistline,natural-waist,1
+hasPattern,solid color pattern,hasSilhouette,a-line,1
+hasFabricTreatment,plain weave fabric,hasSilhouette,a-line,1
+hasPattern,solid color pattern,belongsToCategory,upperbody,1
+hasFabricTreatment,plain weave fabric,belongsToCategory,upperbody,1
+hasPattern,solid color pattern,depicts,t-shirt,1
+hasFabricTreatment,plain weave fabric,depicts,t-shirt,1
+hasOpeningType,zipper front,depicts,t-shirt,1
+hasOpeningType,round neckline,hasPattern,floral,1
+hasOpeningType,round neckline,hasMaterialType,cotton,1
+hasPattern,floral,hasOpeningType,round neckline,1
+hasMaterialType,cotton,hasOpeningType,round neckline,1
+hasSleeveType,short-sleeve,hasOpeningType,round neckline,1
+hasNeckline,v-neck,hasOpeningType,round neckline,1
+hasCollarType,v-neck,hasOpeningType,round neckline,1
+hasWaistline,natural-waist,hasOpeningType,round neckline,1
+hasLength,knee-length,hasOpeningType,round neckline,1
+hasSilhouette,a-line,hasOpeningType,round neckline,1
+belongsToCategory,upperbody,hasOpeningType,round neckline,1
+depicts,dress,hasOpeningType,round neckline,1
+hasOpeningType,round neckline,hasSleeveType,short-sleeve,1
+hasOpeningType,round neckline,hasNeckline,v-neck,1
+hasOpeningType,round neckline,hasCollarType,v-neck,1
+hasOpeningType,round neckline,hasWaistline,natural-waist,1
+hasOpeningType,round neckline,hasLength,knee-length,1
+hasOpeningType,round neckline,hasSilhouette,a-line,1
+hasOpeningType,round neckline,belongsToCategory,upperbody,1
+hasOpeningType,round neckline,depicts,dress,1
+hasLength,knee-length dress,hasPattern,floral,1
+hasCollarType,round neckline,hasFabricTreatment,plain weave,1
+hasLength,knee-length dress,hasFabricTreatment,plain weave,1
+hasLength,knee-length dress,hasMaterialType,cotton,1
+hasCollarType,round neckline,hasOpeningType,zipper closure,1
+hasLength,knee-length dress,hasOpeningType,zipper closure,1
+hasLength,knee-length dress,hasSleeveType,short-sleeve,1
+hasLength,knee-length dress,hasNeckline,round neckline,1
+hasFabricTreatment,plain weave,hasCollarType,round neckline,1
+hasOpeningType,zipper closure,hasCollarType,round neckline,1
+hasLength,knee-length dress,hasCollarType,round neckline,1
+depicts,dress,hasCollarType,round neckline,1
+hasPattern,floral,hasLength,knee-length dress,1
+hasFabricTreatment,plain weave,hasLength,knee-length dress,1
+hasMaterialType,cotton,hasLength,knee-length dress,1
+hasOpeningType,zipper closure,hasLength,knee-length dress,1
+hasSleeveType,short-sleeve,hasLength,knee-length dress,1
+hasNeckline,round neckline,hasLength,knee-length dress,1
+hasCollarType,round neckline,hasLength,knee-length dress,1
+hasWaistline,natural-waist,hasLength,knee-length dress,1
+hasSilhouette,a-line,hasLength,knee-length dress,1
+belongsToCategory,upperbody,hasLength,knee-length dress,1
+depicts,dress,hasLength,knee-length dress,1
+hasLength,knee-length dress,hasWaistline,natural-waist,1
+hasLength,knee-length dress,hasSilhouette,a-line,1
+hasLength,knee-length dress,belongsToCategory,upperbody,1
+hasCollarType,round neckline,depicts,dress,1
+hasLength,knee-length dress,depicts,dress,1
+hasCollarType,round collar,hasOpeningType,zipper opening,1
+depicts,dress,hasOpeningType,zipper opening,1
+hasOpeningType,zipper opening,hasCollarType,round collar,1
+hasOpeningType,zipper opening,depicts,dress,1
+depicts,blouse,hasPattern,floral,1
+depicts,blouse,hasCollarType,round neckline,1
+hasPattern,floral,depicts,blouse,1
+hasCollarType,round neckline,depicts,blouse,1
+hasCollarType,crew-neck,hasPattern,striped,1
+hasLength,above the knee,hasPattern,striped,1
+hasCollarType,crew-neck,hasOpeningType,button front,1
+hasLength,above the knee,hasOpeningType,button front,1
+depicts,t-shirt,hasOpeningType,button front,1
+hasCollarType,crew-neck,hasNeckline,crew neck,1
+hasLength,above the knee,hasNeckline,crew neck,1
+hasPattern,striped,hasCollarType,crew-neck,1
+hasOpeningType,button front,hasCollarType,crew-neck,1
+hasNeckline,crew neck,hasCollarType,crew-neck,1
+hasPattern,striped,hasLength,above the knee,1
+hasOpeningType,button front,hasLength,above the knee,1
+hasNeckline,crew neck,hasLength,above the knee,1
+hasOpeningType,button front,depicts,t-shirt,1
+hasNeckline,v-neck,hasOpeningType,button,1
+hasCollarType,v-neck,hasOpeningType,button,1
+hasLength,knee-length,hasOpeningType,button,1
+depicts,shirt,hasOpeningType,button,1
+hasOpeningType,button,hasNeckline,v-neck,1
+hasOpeningType,button,hasCollarType,v-neck,1
+hasOpeningType,button,hasLength,knee-length,1
+hasOpeningType,button,depicts,shirt,1
+hasMaterialType,cotton,hasPattern,polka-dot,1
+hasSleeveType,short-sleeve,hasPattern,polka-dot,1
+hasNeckline,round neckline,hasPattern,polka-dot,1
+hasLength,short,hasPattern,polka-dot,1
+hasWaistline,natural-waist,hasPattern,polka-dot,1
+hasSilhouette,a-line,hasPattern,polka-dot,1
+belongsToCategory,upperbody,hasPattern,polka-dot,1
+depicts,t-shirt,hasPattern,polka-dot,1
+hasPattern,polka-dot,hasMaterialType,cotton,1
+hasPattern,polka-dot,hasSleeveType,short-sleeve,1
+hasPattern,polka-dot,hasNeckline,round neckline,1
+hasPattern,polka-dot,hasLength,short,1
+hasPattern,polka-dot,hasWaistline,natural-waist,1
+hasPattern,polka-dot,hasSilhouette,a-line,1
+hasPattern,polka-dot,belongsToCategory,upperbody,1
+hasPattern,polka-dot,depicts,t-shirt,1
+hasPattern,floral,hasAnimalPattern,no animal patterns,1
+hasMaterialType,cotton,hasAnimalPattern,no animal patterns,1
+hasOpeningType,zipper closure,hasAnimalPattern,no animal patterns,1
+hasSleeveType,short-sleeve,hasAnimalPattern,no animal patterns,1
+hasNeckline,sweetheart neckline,hasAnimalPattern,no animal patterns,1
+hasLength,knee-length,hasAnimalPattern,no animal patterns,1
+hasWaistline,natural-waist,hasAnimalPattern,no animal patterns,1
+hasSilhouette,a-line,hasAnimalPattern,no animal patterns,1
+belongsToCategory,upperbody,hasAnimalPattern,no animal patterns,1
+depicts,dress,hasAnimalPattern,no animal patterns,1
+hasAnimalPattern,no animal patterns,hasPattern,floral,1
+hasNeckline,sweetheart neckline,hasPattern,floral,1
+hasAnimalPattern,no animal patterns,hasMaterialType,cotton,1
+hasNeckline,sweetheart neckline,hasMaterialType,cotton,1
+hasAnimalPattern,no animal patterns,hasOpeningType,zipper closure,1
+hasNeckline,sweetheart neckline,hasOpeningType,zipper closure,1
+hasAnimalPattern,no animal patterns,hasSleeveType,short-sleeve,1
+hasNeckline,sweetheart neckline,hasSleeveType,short-sleeve,1
+hasAnimalPattern,no animal patterns,hasNeckline,sweetheart neckline,1
+hasPattern,floral,hasNeckline,sweetheart neckline,1
+hasMaterialType,cotton,hasNeckline,sweetheart neckline,1
+hasOpeningType,zipper closure,hasNeckline,sweetheart neckline,1
+hasSleeveType,short-sleeve,hasNeckline,sweetheart neckline,1
+hasLength,knee-length,hasNeckline,sweetheart neckline,1
+hasWaistline,natural-waist,hasNeckline,sweetheart neckline,1
+hasSilhouette,a-line,hasNeckline,sweetheart neckline,1
+belongsToCategory,upperbody,hasNeckline,sweetheart neckline,1
+depicts,dress,hasNeckline,sweetheart neckline,1
+hasAnimalPattern,no animal patterns,hasLength,knee-length,1
+hasNeckline,sweetheart neckline,hasLength,knee-length,1
+hasAnimalPattern,no animal patterns,hasWaistline,natural-waist,1
+hasNeckline,sweetheart neckline,hasWaistline,natural-waist,1
+hasAnimalPattern,no animal patterns,hasSilhouette,a-line,1
+hasNeckline,sweetheart neckline,hasSilhouette,a-line,1
+hasAnimalPattern,no animal patterns,belongsToCategory,upperbody,1
+hasNeckline,sweetheart neckline,belongsToCategory,upperbody,1
+hasAnimalPattern,no animal patterns,depicts,dress,1
+hasNeckline,sweetheart neckline,depicts,dress,1
+hasPattern,floral,hasAnimalPattern,no animal print,1
+hasFabricTreatment,plain weave,hasAnimalPattern,no animal print,1
+hasLeatherType,no leather,hasAnimalPattern,no animal print,1
+hasMaterialType,cotton,hasAnimalPattern,no animal print,1
+hasOpeningType,zipper front,hasAnimalPattern,no animal print,1
+hasPocketType,side pockets,hasAnimalPattern,no animal print,1
+hasSleeveType,short-sleeve,hasAnimalPattern,no animal print,1
+hasNeckline,round neckline,hasAnimalPattern,no animal print,1
+hasCollarType,round collar,hasAnimalPattern,no animal print,1
+hasLength,knee-length,hasAnimalPattern,no animal print,1
+hasWaistline,high-waisted,hasAnimalPattern,no animal print,1
+hasSilhouette,a-line,hasAnimalPattern,no animal print,1
+belongsToCategory,upperbody,hasAnimalPattern,no animal print,1
+depicts,shirt,hasAnimalPattern,no animal print,1
+hasAnimalPattern,no animal print,hasPattern,floral,1
+hasPocketType,side pockets,hasPattern,floral,1
+hasWaistline,high-waisted,hasPattern,floral,1
+hasAnimalPattern,no animal print,hasFabricTreatment,plain weave,1
+hasOpeningType,zipper front,hasFabricTreatment,plain weave,1
+hasPocketType,side pockets,hasFabricTreatment,plain weave,1
+hasWaistline,high-waisted,hasFabricTreatment,plain weave,1
+hasAnimalPattern,no animal print,hasLeatherType,no leather,1
+hasOpeningType,zipper front,hasLeatherType,no leather,1
+hasPocketType,side pockets,hasLeatherType,no leather,1
+hasCollarType,round collar,hasLeatherType,no leather,1
+hasWaistline,high-waisted,hasLeatherType,no leather,1
+depicts,shirt,hasLeatherType,no leather,1
+hasAnimalPattern,no animal print,hasMaterialType,cotton,1
+hasPocketType,side pockets,hasMaterialType,cotton,1
+hasWaistline,high-waisted,hasMaterialType,cotton,1
+hasAnimalPattern,no animal print,hasOpeningType,zipper front,1
+hasFabricTreatment,plain weave,hasOpeningType,zipper front,1
+hasLeatherType,no leather,hasOpeningType,zipper front,1
+hasPocketType,side pockets,hasOpeningType,zipper front,1
+hasWaistline,high-waisted,hasOpeningType,zipper front,1
+hasAnimalPattern,no animal print,hasPocketType,side pockets,1
+hasPattern,floral,hasPocketType,side pockets,1
+hasFabricTreatment,plain weave,hasPocketType,side pockets,1
+hasLeatherType,no leather,hasPocketType,side pockets,1
+hasMaterialType,cotton,hasPocketType,side pockets,1
+hasOpeningType,zipper front,hasPocketType,side pockets,1
+hasSleeveType,short-sleeve,hasPocketType,side pockets,1
+hasNeckline,round neckline,hasPocketType,side pockets,1
+hasCollarType,round collar,hasPocketType,side pockets,1
+hasLength,knee-length,hasPocketType,side pockets,1
+hasWaistline,high-waisted,hasPocketType,side pockets,1
+hasSilhouette,a-line,hasPocketType,side pockets,1
+belongsToCategory,upperbody,hasPocketType,side pockets,1
+depicts,shirt,hasPocketType,side pockets,1
+hasAnimalPattern,no animal print,hasSleeveType,short-sleeve,1
+hasPocketType,side pockets,hasSleeveType,short-sleeve,1
+hasWaistline,high-waisted,hasSleeveType,short-sleeve,1
+hasAnimalPattern,no animal print,hasNeckline,round neckline,1
+hasPocketType,side pockets,hasNeckline,round neckline,1
+hasWaistline,high-waisted,hasNeckline,round neckline,1
+hasAnimalPattern,no animal print,hasCollarType,round collar,1
+hasLeatherType,no leather,hasCollarType,round collar,1
+hasPocketType,side pockets,hasCollarType,round collar,1
+hasWaistline,high-waisted,hasCollarType,round collar,1
+hasAnimalPattern,no animal print,hasLength,knee-length,1
+hasPocketType,side pockets,hasLength,knee-length,1
+hasWaistline,high-waisted,hasLength,knee-length,1
+hasAnimalPattern,no animal print,hasWaistline,high-waisted,1
+hasPattern,floral,hasWaistline,high-waisted,1
+hasFabricTreatment,plain weave,hasWaistline,high-waisted,1
+hasLeatherType,no leather,hasWaistline,high-waisted,1
+hasMaterialType,cotton,hasWaistline,high-waisted,1
+hasOpeningType,zipper front,hasWaistline,high-waisted,1
+hasPocketType,side pockets,hasWaistline,high-waisted,1
+hasSleeveType,short-sleeve,hasWaistline,high-waisted,1
+hasNeckline,round neckline,hasWaistline,high-waisted,1
+hasCollarType,round collar,hasWaistline,high-waisted,1
+hasLength,knee-length,hasWaistline,high-waisted,1
+hasSilhouette,a-line,hasWaistline,high-waisted,1
+belongsToCategory,upperbody,hasWaistline,high-waisted,1
+depicts,shirt,hasWaistline,high-waisted,1
+hasAnimalPattern,no animal print,hasSilhouette,a-line,1
+hasPocketType,side pockets,hasSilhouette,a-line,1
+hasWaistline,high-waisted,hasSilhouette,a-line,1
+hasAnimalPattern,no animal print,belongsToCategory,upperbody,1
+hasPocketType,side pockets,belongsToCategory,upperbody,1
+hasWaistline,high-waisted,belongsToCategory,upperbody,1
+hasAnimalPattern,no animal print,depicts,shirt,1
+hasLeatherType,no leather,depicts,shirt,1
+hasPocketType,side pockets,depicts,shirt,1
+hasWaistline,high-waisted,depicts,shirt,1
+hasNeckline,v-neck,hasFabricTreatment,plain weave,1
+hasNeckline,v-neck,hasOpeningType,zipper closure,1
+depicts,shirt,hasOpeningType,zipper closure,1
+hasFabricTreatment,plain weave,hasNeckline,v-neck,1
+hasOpeningType,zipper closure,hasNeckline,v-neck,1
+hasLength,above the knee,hasCollarType,v-neck,1
+hasCollarType,v-neck,hasLength,above the knee,1
+hasOpeningType,zipper closure,depicts,shirt,1
+hasCollarType,crew-neck,hasPattern,floral,1
+hasLength,short,hasPattern,floral,1
+hasOpeningType,button,hasLeatherType,no leather,1
+hasLapelType,lapelless,hasLeatherType,no leather,1
+hasCollarType,crew-neck,hasLeatherType,no leather,1
+hasLength,short,hasLeatherType,no leather,1
+hasLeatherType,no leather,hasOpeningType,button,1
+hasNeckline,round neckline,hasOpeningType,button,1
+hasLapelType,lapelless,hasOpeningType,button,1
+hasCollarType,crew-neck,hasOpeningType,button,1
+hasLength,short,hasOpeningType,button,1
+depicts,t-shirt,hasOpeningType,button,1
+hasOpeningType,button,hasNeckline,round neckline,1
+hasLapelType,lapelless,hasNeckline,round neckline,1
+hasLeatherType,no leather,hasLapelType,lapelless,1
+hasOpeningType,button,hasLapelType,lapelless,1
+hasNeckline,round neckline,hasLapelType,lapelless,1
+hasCollarType,crew-neck,hasLapelType,lapelless,1
+hasLength,short,hasLapelType,lapelless,1
+depicts,t-shirt,hasLapelType,lapelless,1
+hasPattern,floral,hasCollarType,crew-neck,1
+hasLeatherType,no leather,hasCollarType,crew-neck,1
+hasOpeningType,button,hasCollarType,crew-neck,1
+hasLapelType,lapelless,hasCollarType,crew-neck,1
+hasPattern,floral,hasLength,short,1
+hasLeatherType,no leather,hasLength,short,1
+hasOpeningType,button,hasLength,short,1
+hasLapelType,lapelless,hasLength,short,1
+hasOpeningType,button,depicts,t-shirt,1
+hasLapelType,lapelless,depicts,t-shirt,1
+hasFabricTreatment,printed,hasPattern,floral,1
+hasPattern,floral,hasFabricTreatment,printed,1
+hasMaterialType,cotton,hasFabricTreatment,printed,1
+hasOpeningType,zipper closure,hasFabricTreatment,printed,1
+hasSleeveType,short-sleeve,hasFabricTreatment,printed,1
+hasNeckline,round neckline,hasFabricTreatment,printed,1
+hasCollarType,round collar,hasFabricTreatment,printed,1
+hasLength,above the knee,hasFabricTreatment,printed,1
+hasWaistline,natural-waist,hasFabricTreatment,printed,1
+hasSilhouette,a-line,hasFabricTreatment,printed,1
+belongsToCategory,upperbody,hasFabricTreatment,printed,1
+depicts,dress,hasFabricTreatment,printed,1
+hasFabricTreatment,printed,hasMaterialType,cotton,1
+hasFabricTreatment,printed,hasOpeningType,zipper closure,1
+hasCollarType,round collar,hasOpeningType,zipper closure,1
+hasFabricTreatment,printed,hasSleeveType,short-sleeve,1
+hasFabricTreatment,printed,hasNeckline,round neckline,1
+hasFabricTreatment,printed,hasCollarType,round collar,1
+hasOpeningType,zipper closure,hasCollarType,round collar,1
+hasFabricTreatment,printed,hasLength,above the knee,1
+depicts,dress,hasLength,above the knee,1
+hasFabricTreatment,printed,hasWaistline,natural-waist,1
+hasFabricTreatment,printed,hasSilhouette,a-line,1
+hasFabricTreatment,printed,belongsToCategory,upperbody,1
+hasFabricTreatment,printed,depicts,dress,1
+hasLength,above the knee,depicts,dress,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasCollarType,round collar,hasPattern,striped,1
+hasLength,knee-length,hasPattern,striped,1
+depicts,shirt,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1
+hasOpeningType,button front,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasOpeningType,button front,1
+hasCollarType,round collar,hasOpeningType,button front,1
+depicts,shirt,hasOpeningType,button front,1
+depicts,shirt,hasNeckline,crew neck,1
+hasPattern,striped,hasCollarType,round collar,1
+hasOpeningType,button front,hasCollarType,round collar,1
+hasPattern,striped,hasLength,knee-length,1
+hasPattern,striped,depicts,shirt,1
+hasOpeningType,button front,depicts,shirt,1
+hasNeckline,crew neck,depicts,shirt,1
+depicts,kurta,hasPattern,floral,1
+depicts,kurta,hasMaterialType,cotton,1
+hasCollarType,round neckline,hasOpeningType,button-front closure,1
+depicts,kurta,hasOpeningType,button-front closure,1
+depicts,kurta,hasSleeveType,short-sleeve,1
+depicts,kurta,hasNeckline,round neckline,1
+hasOpeningType,button-front closure,hasCollarType,round neckline,1
+depicts,kurta,hasCollarType,round neckline,1
+depicts,kurta,hasLength,knee-length,1
+depicts,kurta,hasWaistline,natural-waist,1
+depicts,kurta,hasSilhouette,a-line,1
+depicts,kurta,belongsToCategory,upperbody,1
+hasPattern,floral,depicts,kurta,1
+hasMaterialType,cotton,depicts,kurta,1
+hasOpeningType,button-front closure,depicts,kurta,1
+hasSleeveType,short-sleeve,depicts,kurta,1
+hasNeckline,round neckline,depicts,kurta,1
+hasCollarType,round neckline,depicts,kurta,1
+hasLength,knee-length,depicts,kurta,1
+hasWaistline,natural-waist,depicts,kurta,1
+hasSilhouette,a-line,depicts,kurta,1
+belongsToCategory,upperbody,depicts,kurta,1
+depicts,blouse,hasFabricTreatment,plain weave,1
+hasLength,above the knee,hasOpeningType,front opening,1
+depicts,blouse,hasOpeningType,front opening,1
+depicts,blouse,hasCollarType,round collar,1
+hasOpeningType,front opening,hasLength,above the knee,1
+hasFabricTreatment,plain weave,depicts,blouse,1
+hasOpeningType,front opening,depicts,blouse,1
+hasCollarType,round collar,depicts,blouse,1
+depicts,shirt,hasCollarType,round neckline,1
+hasCollarType,round neckline,depicts,shirt,1
+depicts,bag,hasPattern,floral,1
+depicts,bag,hasFabricTreatment,plain weave,1
+hasOpeningType,zipper opening,hasLeatherType,no leather,1
+depicts,bag,hasLeatherType,no leather,1
+depicts,bag,hasMaterialType,cotton,1
+hasLeatherType,no leather,hasOpeningType,zipper opening,1
+depicts,bag,hasOpeningType,zipper opening,1
+depicts,bag,hasSleeveType,short-sleeve,1
+depicts,bag,hasNeckline,round neckline,1
+depicts,bag,hasLength,knee-length,1
+depicts,bag,hasWaistline,natural-waist,1
+depicts,bag,hasSilhouette,a-line,1
+depicts,bag,belongsToCategory,upperbody,1
+hasPattern,floral,depicts,bag,1
+hasFabricTreatment,plain weave,depicts,bag,1
+hasLeatherType,no leather,depicts,bag,1
+hasMaterialType,cotton,depicts,bag,1
+hasOpeningType,zipper opening,depicts,bag,1
+hasSleeveType,short-sleeve,depicts,bag,1
+hasNeckline,round neckline,depicts,bag,1
+hasLength,knee-length,depicts,bag,1
+hasWaistline,natural-waist,depicts,bag,1
+hasSilhouette,a-line,depicts,bag,1
+belongsToCategory,upperbody,depicts,bag,1
+hasOpeningType,button front,hasPattern,floral,1
+depicts,tunic,hasPattern,floral,1
+depicts,tunic,hasMaterialType,cotton,1
+hasPattern,floral,hasOpeningType,button front,1
+hasNeckline,round neckline,hasOpeningType,button front,1
+hasCollarType,v-neck,hasOpeningType,button front,1
+depicts,tunic,hasOpeningType,button front,1
+depicts,tunic,hasSleeveType,short-sleeve,1
+hasOpeningType,button front,hasNeckline,round neckline,1
+hasCollarType,v-neck,hasNeckline,round neckline,1
+depicts,tunic,hasNeckline,round neckline,1
+hasOpeningType,button front,hasCollarType,v-neck,1
+hasNeckline,round neckline,hasCollarType,v-neck,1
+depicts,tunic,hasCollarType,v-neck,1
+depicts,tunic,hasLength,knee-length,1
+depicts,tunic,hasWaistline,natural-waist,1
+depicts,tunic,hasSilhouette,a-line,1
+depicts,tunic,belongsToCategory,upperbody,1
+hasPattern,floral,depicts,tunic,1
+hasMaterialType,cotton,depicts,tunic,1
+hasOpeningType,button front,depicts,tunic,1
+hasSleeveType,short-sleeve,depicts,tunic,1
+hasNeckline,round neckline,depicts,tunic,1
+hasCollarType,v-neck,depicts,tunic,1
+hasLength,knee-length,depicts,tunic,1
+hasWaistline,natural-waist,depicts,tunic,1
+hasSilhouette,a-line,depicts,tunic,1
+belongsToCategory,upperbody,depicts,tunic,1
+depicts,dress,hasNeckline,crew neckline,1
+hasNeckline,crew neckline,depicts,dress,1
+hasNeckline,v-shaped,hasPattern,floral,1
+hasNeckline,v-shaped,hasFabricTreatment,plain weave,1
+hasNeckline,v-shaped,hasMaterialType,cotton,1
+hasNeckline,v-shaped,hasOpeningType,zipper closure,1
+hasNeckline,v-shaped,hasSleeveType,short-sleeve,1
+hasPattern,floral,hasNeckline,v-shaped,1
+hasFabricTreatment,plain weave,hasNeckline,v-shaped,1
+hasMaterialType,cotton,hasNeckline,v-shaped,1
+hasOpeningType,zipper closure,hasNeckline,v-shaped,1
+hasSleeveType,short-sleeve,hasNeckline,v-shaped,1
+hasCollarType,v-neck,hasNeckline,v-shaped,1
+hasLength,knee-length,hasNeckline,v-shaped,1
+hasWaistline,natural-waist,hasNeckline,v-shaped,1
+hasSilhouette,a-line,hasNeckline,v-shaped,1
+belongsToCategory,upperbody,hasNeckline,v-shaped,1
+depicts,dress,hasNeckline,v-shaped,1
+hasNeckline,v-shaped,hasCollarType,v-neck,1
+hasNeckline,v-shaped,hasLength,knee-length,1
+hasNeckline,v-shaped,hasWaistline,natural-waist,1
+hasNeckline,v-shaped,hasSilhouette,a-line,1
+hasNeckline,v-shaped,belongsToCategory,upperbody,1
+hasNeckline,v-shaped,depicts,dress,1
+hasOpeningType,button or zipper fastening,hasPattern,floral,1
+hasOpeningType,button or zipper fastening,hasLeatherType,no leather,1
+hasCollarType,round neckline,hasLeatherType,no leather,1
+hasOpeningType,button or zipper fastening,hasMaterialType,cotton,1
+hasPattern,floral,hasOpeningType,button or zipper fastening,1
+hasLeatherType,no leather,hasOpeningType,button or zipper fastening,1
+hasMaterialType,cotton,hasOpeningType,button or zipper fastening,1
+hasSleeveType,short-sleeve,hasOpeningType,button or zipper fastening,1
+hasNeckline,round neckline,hasOpeningType,button or zipper fastening,1
+hasCollarType,round neckline,hasOpeningType,button or zipper fastening,1
+hasLength,knee-length,hasOpeningType,button or zipper fastening,1
+hasWaistline,natural-waist,hasOpeningType,button or zipper fastening,1
+hasSilhouette,a-line,hasOpeningType,button or zipper fastening,1
+belongsToCategory,upperbody,hasOpeningType,button or zipper fastening,1
+depicts,t-shirt,hasOpeningType,button or zipper fastening,1
+hasOpeningType,button or zipper fastening,hasSleeveType,short-sleeve,1
+hasOpeningType,button or zipper fastening,hasNeckline,round neckline,1
+hasLeatherType,no leather,hasCollarType,round neckline,1
+hasOpeningType,button or zipper fastening,hasCollarType,round neckline,1
+depicts,t-shirt,hasCollarType,round neckline,1
+hasOpeningType,button or zipper fastening,hasLength,knee-length,1
+depicts,t-shirt,hasLength,knee-length,1
+hasOpeningType,button or zipper fastening,hasWaistline,natural-waist,1
+hasOpeningType,button or zipper fastening,hasSilhouette,a-line,1
+hasOpeningType,button or zipper fastening,belongsToCategory,upperbody,1
+hasOpeningType,button or zipper fastening,depicts,t-shirt,1
+hasCollarType,round neckline,depicts,t-shirt,1
+hasLength,knee-length,depicts,t-shirt,1
+hasNeckline,crew neckline,hasOpeningType,zipper front,1
+hasLapelType,lapelless,hasOpeningType,zipper front,1
+hasOpeningType,zipper front,hasNeckline,crew neckline,1
+hasLapelType,lapelless,hasNeckline,crew neckline,1
+depicts,shirt,hasNeckline,crew neckline,1
+hasOpeningType,zipper front,hasLapelType,lapelless,1
+hasNeckline,crew neckline,hasLapelType,lapelless,1
+hasCollarType,round collar,hasLapelType,lapelless,1
+hasLength,knee-length,hasLapelType,lapelless,1
+depicts,shirt,hasLapelType,lapelless,1
+hasLapelType,lapelless,hasCollarType,round collar,1
+hasLapelType,lapelless,hasLength,knee-length,1
+hasNeckline,crew neckline,depicts,shirt,1
+hasLapelType,lapelless,depicts,shirt,1
+depicts,shirt,hasOpeningType,button-front closure,1
+hasOpeningType,button-front closure,depicts,shirt,1
+hasMaterialType,cotton,hasPattern,graphic print,1
+hasSleeveType,short-sleeve,hasPattern,graphic print,1
+hasNeckline,u-neckline,hasPattern,graphic print,1
+hasLapelType,lapel-less,hasPattern,graphic print,1
+hasCollarType,round collar,hasPattern,graphic print,1
+hasLength,short,hasPattern,graphic print,1
+hasWaistline,natural-waist,hasPattern,graphic print,1
+hasSilhouette,a-line,hasPattern,graphic print,1
+belongsToCategory,upperbody,hasPattern,graphic print,1
+depicts,t-shirt,hasPattern,graphic print,1
+hasPattern,graphic print,hasMaterialType,cotton,1
+hasNeckline,u-neckline,hasMaterialType,cotton,1
+hasLapelType,lapel-less,hasMaterialType,cotton,1
+hasPattern,graphic print,hasSleeveType,short-sleeve,1
+hasNeckline,u-neckline,hasSleeveType,short-sleeve,1
+hasLapelType,lapel-less,hasSleeveType,short-sleeve,1
+hasPattern,graphic print,hasNeckline,u-neckline,1
+hasMaterialType,cotton,hasNeckline,u-neckline,1
+hasSleeveType,short-sleeve,hasNeckline,u-neckline,1
+hasLapelType,lapel-less,hasNeckline,u-neckline,1
+hasCollarType,round collar,hasNeckline,u-neckline,1
+hasLength,short,hasNeckline,u-neckline,1
+hasWaistline,natural-waist,hasNeckline,u-neckline,1
+hasSilhouette,a-line,hasNeckline,u-neckline,1
+belongsToCategory,upperbody,hasNeckline,u-neckline,1
+depicts,t-shirt,hasNeckline,u-neckline,1
+hasPattern,graphic print,hasLapelType,lapel-less,1
+hasMaterialType,cotton,hasLapelType,lapel-less,1
+hasSleeveType,short-sleeve,hasLapelType,lapel-less,1
+hasNeckline,u-neckline,hasLapelType,lapel-less,1
+hasCollarType,round collar,hasLapelType,lapel-less,1
+hasLength,short,hasLapelType,lapel-less,1
+hasWaistline,natural-waist,hasLapelType,lapel-less,1
+hasSilhouette,a-line,hasLapelType,lapel-less,1
+belongsToCategory,upperbody,hasLapelType,lapel-less,1
+depicts,t-shirt,hasLapelType,lapel-less,1
+hasPattern,graphic print,hasCollarType,round collar,1
+hasNeckline,u-neckline,hasCollarType,round collar,1
+hasLapelType,lapel-less,hasCollarType,round collar,1
+hasPattern,graphic print,hasLength,short,1
+hasNeckline,u-neckline,hasLength,short,1
+hasLapelType,lapel-less,hasLength,short,1
+hasPattern,graphic print,hasWaistline,natural-waist,1
+hasNeckline,u-neckline,hasWaistline,natural-waist,1
+hasLapelType,lapel-less,hasWaistline,natural-waist,1
+hasPattern,graphic print,hasSilhouette,a-line,1
+hasNeckline,u-neckline,hasSilhouette,a-line,1
+hasLapelType,lapel-less,hasSilhouette,a-line,1
+hasPattern,graphic print,belongsToCategory,upperbody,1
+hasNeckline,u-neckline,belongsToCategory,upperbody,1
+hasLapelType,lapel-less,belongsToCategory,upperbody,1
+hasPattern,graphic print,depicts,t-shirt,1
+hasNeckline,u-neckline,depicts,t-shirt,1
+hasLapelType,lapel-less,depicts,t-shirt,1
+hasMaterialType,cotton,hasPattern,plaid,1
+hasOpeningType,crew neck opening,hasPattern,plaid,1
+hasSleeveType,short-sleeve,hasPattern,plaid,1
+hasNeckline,round neckline,hasPattern,plaid,1
+hasCollarType,crew-neck,hasPattern,plaid,1
+hasLength,short,hasPattern,plaid,1
+hasWaistline,natural-waist,hasPattern,plaid,1
+hasSilhouette,a-line,hasPattern,plaid,1
+belongsToCategory,upperbody,hasPattern,plaid,1
+depicts,t-shirt,hasPattern,plaid,1
+hasPattern,plaid,hasMaterialType,cotton,1
+hasPattern,plaid,hasOpeningType,crew neck opening,1
+hasNeckline,round neckline,hasOpeningType,crew neck opening,1
+hasLength,short,hasOpeningType,crew neck opening,1
+hasPattern,plaid,hasSleeveType,short-sleeve,1
+hasPattern,plaid,hasNeckline,round neckline,1
+hasOpeningType,crew neck opening,hasNeckline,round neckline,1
+hasPattern,plaid,hasCollarType,crew-neck,1
+hasPattern,plaid,hasLength,short,1
+hasOpeningType,crew neck opening,hasLength,short,1
+hasPattern,plaid,hasWaistline,natural-waist,1
+hasPattern,plaid,hasSilhouette,a-line,1
+hasPattern,plaid,belongsToCategory,upperbody,1
+hasPattern,plaid,depicts,t-shirt,1
+hasOpeningType,crew neck opening,hasPattern,solid color,1
+hasNeckline,round neck,hasPattern,solid color,1
+hasLength,above the knee,hasPattern,solid color,1
+hasNeckline,round neck,hasMaterialType,cotton,1
+hasPattern,solid color,hasOpeningType,crew neck opening,1
+hasNeckline,round neck,hasOpeningType,crew neck opening,1
+hasLength,above the knee,hasOpeningType,crew neck opening,1
+hasNeckline,round neck,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,round neck,1
+hasMaterialType,cotton,hasNeckline,round neck,1
+hasOpeningType,crew neck opening,hasNeckline,round neck,1
+hasSleeveType,short-sleeve,hasNeckline,round neck,1
+hasCollarType,crew-neck,hasNeckline,round neck,1
+hasLength,above the knee,hasNeckline,round neck,1
+hasWaistline,natural-waist,hasNeckline,round neck,1
+hasSilhouette,a-line,hasNeckline,round neck,1
+belongsToCategory,upperbody,hasNeckline,round neck,1
+depicts,t-shirt,hasNeckline,round neck,1
+hasNeckline,round neck,hasCollarType,crew-neck,1
+hasPattern,solid color,hasLength,above the knee,1
+hasOpeningType,crew neck opening,hasLength,above the knee,1
+hasNeckline,round neck,hasLength,above the knee,1
+hasNeckline,round neck,hasWaistline,natural-waist,1
+hasNeckline,round neck,hasSilhouette,a-line,1
+hasNeckline,round neck,belongsToCategory,upperbody,1
+hasNeckline,round neck,depicts,t-shirt,1
+hasSilhouette,crew neck,hasMaterialType,cotton,1
+hasSilhouette,crew neck,hasSleeveType,short-sleeve,1
+hasLength,short,hasNeckline,crew neck,1
+hasSilhouette,crew neck,hasCollarType,round collar,1
+hasNeckline,crew neck,hasLength,short,1
+hasSilhouette,crew neck,hasLength,short,1
+hasSilhouette,crew neck,hasWaistline,natural-waist,1
+hasMaterialType,cotton,hasSilhouette,crew neck,1
+hasSleeveType,short-sleeve,hasSilhouette,crew neck,1
+hasCollarType,round collar,hasSilhouette,crew neck,1
+hasLength,short,hasSilhouette,crew neck,1
+hasWaistline,natural-waist,hasSilhouette,crew neck,1
+belongsToCategory,upperbody,hasSilhouette,crew neck,1
+depicts,t-shirt,hasSilhouette,crew neck,1
+hasSilhouette,crew neck,belongsToCategory,upperbody,1
+hasSilhouette,crew neck,depicts,t-shirt,1
+hasFabricTreatment,plain weave,hasPattern,solid color,1
+hasOpeningType,button-front closure,hasPattern,solid color,1
+hasNeckline,crew neck,hasPattern,solid color,1
+hasCollarType,round collar,hasPattern,solid color,1
+hasLength,knee-length,hasPattern,solid color,1
+depicts,dress,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,plain weave,1
+hasOpeningType,button-front closure,hasFabricTreatment,plain weave,1
+hasPattern,solid color,hasOpeningType,button-front closure,1
+hasFabricTreatment,plain weave,hasOpeningType,button-front closure,1
+hasNeckline,crew neck,hasOpeningType,button-front closure,1
+depicts,dress,hasOpeningType,button-front closure,1
+hasPattern,solid color,hasNeckline,crew neck,1
+hasOpeningType,button-front closure,hasNeckline,crew neck,1
+depicts,dress,hasNeckline,crew neck,1
+hasPattern,solid color,hasCollarType,round collar,1
+hasPattern,solid color,hasLength,knee-length,1
+hasPattern,solid color,depicts,dress,1
+hasOpeningType,button-front closure,depicts,dress,1
+hasNeckline,crew neck,depicts,dress,1

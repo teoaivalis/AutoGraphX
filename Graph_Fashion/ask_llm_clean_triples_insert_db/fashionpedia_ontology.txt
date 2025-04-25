@@ -1,0 +1,19 @@
+Fasionpedia Relationship:
+
+-- depicts: Assign the most relevant garment category (Shirt, Blouse, T-shirt, Sweatshirt, Sweater, Cardigan, Jacket, Vest, Pants, Shorts, Skirt, Coat, Dress, Jumpsuit, Cape, Glasses, Hat, Headband, Hair Accessory, Tie, Scarf, Glove, Watch, Belt, Leg, Warmers, Tights, Stockings, Socks, Shoes, Bag, Wallet, Umbrella, Hood, Collar, Lapel, Epaulette, Sleeve, Pocket, Neckline, Buckle, Zipper, Applique, Bead, Bow, Flower, Fringe, Ribbon, Rivet, Ruffle, Sequin, Tassel, etc.)
+-- belongs_to_category: Assign the correct supercategory (upperbody, lowerbody, wholebody, head, neck, arms and hands, waist, legs and feet, others, garment parts, closures, decorations)
+-- has_nickname: Assign a valid nickname if applicable
+-- has_silhouette: Assign the most appropriate silhouette
+-- has_waistline: Specify the waistline type
+-- has_length: Define the length
+-- has_collar_type: Specify the collar style
+-- has_lapel_type: Define the lapel type
+-- has_neckline: Assign the correct neckline
+-- has_sleeve_type: Specify the sleeve type
+-- has_pocket_type: Define the pocket type
+-- has_opening_type: Assign the opening type
+-- has_material_type: Define the material type
+-- has_leather_type: Specify the leather type if applicable
+-- has_fabric_treatment: Define any textile finishing or techniques
+-- has_pattern: Assign a pattern type
+-- has_animal_pattern: Specify the animal pattern if applicable.

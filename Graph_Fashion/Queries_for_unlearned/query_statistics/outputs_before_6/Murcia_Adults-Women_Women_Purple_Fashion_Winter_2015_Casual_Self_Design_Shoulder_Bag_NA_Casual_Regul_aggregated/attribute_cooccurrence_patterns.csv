@@ -1,0 +1,1403 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,bag,belongsToCategory,upperbody,39
+belongsToCategory,upperbody,depicts,bag,39
+belongsToCategory,upperbody,hasOpeningType,zipper,25
+hasOpeningType,zipper,belongsToCategory,upperbody,25
+depicts,bag,hasOpeningType,zipper,24
+hasOpeningType,zipper,depicts,bag,24
+belongsToCategory,upperbody,hasMaterialType,leather,21
+depicts,bag,hasMaterialType,leather,21
+hasMaterialType,leather,belongsToCategory,upperbody,21
+hasMaterialType,leather,depicts,bag,21
+hasOpeningType,zipper,hasMaterialType,leather,15
+hasMaterialType,leather,hasOpeningType,zipper,15
+belongsToCategory,upperbody,hasWaistline,natural,13
+hasWaistline,natural,belongsToCategory,upperbody,13
+belongsToCategory,upperbody,hasSilhouette,shoulder bag,13
+depicts,bag,hasSilhouette,shoulder bag,13
+hasSilhouette,shoulder bag,belongsToCategory,upperbody,13
+hasSilhouette,shoulder bag,depicts,bag,13
+hasWaistline,natural,hasOpeningType,zipper,12
+belongsToCategory,upperbody,hasNeckline,round,12
+depicts,bag,hasNeckline,round,12
+hasOpeningType,zipper,hasWaistline,natural,12
+depicts,bag,hasWaistline,natural,12
+hasNeckline,round,belongsToCategory,upperbody,12
+hasNeckline,round,depicts,bag,12
+hasWaistline,natural,depicts,bag,12
+hasNeckline,round,hasOpeningType,zipper,11
+hasOpeningType,zipper,hasNeckline,round,11
+belongsToCategory,upperbody,hasLength,medium,11
+depicts,bag,hasLength,medium,11
+hasLength,medium,belongsToCategory,upperbody,11
+hasLength,medium,depicts,bag,11
+belongsToCategory,upperbody,hasLength,long,11
+depicts,bag,hasLength,long,11
+hasLength,long,belongsToCategory,upperbody,11
+hasLength,long,depicts,bag,11
+hasSilhouette,a-line,hasOpeningType,zipper,10
+belongsToCategory,upperbody,hasSleeveType,sleeveless,10
+hasOpeningType,zipper,hasSilhouette,a-line,10
+belongsToCategory,upperbody,hasSilhouette,a-line,10
+depicts,bag,hasSilhouette,a-line,10
+hasSleeveType,sleeveless,belongsToCategory,upperbody,10
+hasSilhouette,a-line,belongsToCategory,upperbody,10
+hasSilhouette,a-line,depicts,bag,10
+depicts,bag,hasSleeveType,sleeveless,9
+hasSleeveType,sleeveless,depicts,bag,9
+belongsToCategory,upperbody,hasSleeveType,short,9
+depicts,bag,hasSleeveType,short,9
+hasSleeveType,short,belongsToCategory,upperbody,9
+hasSleeveType,short,depicts,bag,9
+belongsToCategory,upperbody,hasLength,short,9
+depicts,bag,hasLength,short,9
+hasLength,short,belongsToCategory,upperbody,9
+hasLength,short,depicts,bag,9
+hasLength,long,hasOpeningType,zipper,9
+hasOpeningType,zipper,hasLength,long,9
+hasNeckline,round,hasMaterialType,leather,8
+hasSleeveType,sleeveless,hasOpeningType,zipper,8
+hasOpeningType,zipper,hasSleeveType,sleeveless,8
+hasMaterialType,leather,hasNeckline,round,8
+hasSleeveType,short,hasOpeningType,zipper,8
+hasOpeningType,zipper,hasSleeveType,short,8
+belongsToCategory,upperbody,hasMaterialType,fabric,8
+depicts,bag,hasMaterialType,fabric,8
+hasMaterialType,fabric,belongsToCategory,upperbody,8
+hasMaterialType,fabric,depicts,bag,8
+belongsToCategory,upperbody,hasPattern,solid color,8
+depicts,bag,hasPattern,solid color,8
+hasPattern,solid color,belongsToCategory,upperbody,8
+hasPattern,solid color,depicts,bag,8
+hasLength,medium,hasMaterialType,leather,7
+hasWaistline,natural,hasMaterialType,leather,7
+hasMaterialType,leather,hasLength,medium,7
+hasMaterialType,leather,hasWaistline,natural,7
+hasSilhouette,shoulder bag,hasLength,medium,7
+hasLength,medium,hasSilhouette,shoulder bag,7
+hasSilhouette,shoulder bag,hasMaterialType,leather,7
+hasMaterialType,leather,hasSilhouette,shoulder bag,7
+hasLength,short,hasMaterialType,leather,7
+hasMaterialType,leather,hasLength,short,7
+hasWaistline,natural,hasSleeveType,short,7
+hasSleeveType,short,hasWaistline,natural,7
+hasWaistline,natural,hasNeckline,round,6
+hasNeckline,round,hasWaistline,natural,6
+hasSilhouette,a-line,hasWaistline,natural,6
+hasWaistline,natural,hasSilhouette,a-line,6
+hasSilhouette,rectangular,hasOpeningType,zipper,6
+hasOpeningType,zipper,hasSilhouette,rectangular,6
+belongsToCategory,upperbody,hasSilhouette,rectangular,6
+depicts,bag,hasSilhouette,rectangular,6
+hasSilhouette,rectangular,belongsToCategory,upperbody,6
+hasSilhouette,rectangular,depicts,bag,6
+hasLength,short,hasOpeningType,zipper,6
+hasOpeningType,zipper,hasLength,short,6
+hasLength,long,hasSleeveType,short,6
+hasSleeveType,short,hasLength,long,6
+hasWaistline,natural,hasLength,long,6
+hasLength,long,hasWaistline,natural,6
+hasSleeveType,sleeveless,hasMaterialType,leather,5
+hasSilhouette,a-line,hasMaterialType,leather,5
+hasLength,medium,hasOpeningType,zipper,5
+hasMaterialType,leather,hasSleeveType,sleeveless,5
+hasSilhouette,a-line,hasNeckline,round,5
+hasOpeningType,zipper,hasLength,medium,5
+hasMaterialType,leather,hasSilhouette,a-line,5
+hasNeckline,round,hasSilhouette,a-line,5
+belongsToCategory,upperbody,hasFabricTreatment,plain weave,5
+hasNeckline,round,hasSleeveType,short,5
+hasSleeveType,short,hasNeckline,round,5
+belongsToCategory,upperbody,hasLength,regular,5
+hasFabricTreatment,plain weave,belongsToCategory,upperbody,5
+hasLength,regular,belongsToCategory,upperbody,5
+belongsToCategory,upperbody,hasPocketType,side pockets,5
+depicts,bag,hasPocketType,side pockets,5
+hasPocketType,side pockets,belongsToCategory,upperbody,5
+hasPocketType,side pockets,depicts,bag,5
+hasOpeningType,zipper,hasPattern,solid color,5
+hasPattern,solid color,hasOpeningType,zipper,5
+hasLength,long,hasMaterialType,fabric,5
+hasSilhouette,a-line,hasSleeveType,short,5
+hasMaterialType,fabric,hasLength,long,5
+hasSilhouette,a-line,hasLength,long,5
+hasSleeveType,short,hasSilhouette,a-line,5
+hasLength,long,hasSilhouette,a-line,5
+hasNeckline,round,hasSleeveType,sleeveless,4
+hasSilhouette,a-line,hasSleeveType,sleeveless,4
+hasSleeveType,sleeveless,hasNeckline,round,4
+hasLength,medium,hasNeckline,round,4
+hasNeckline,round,hasLength,medium,4
+hasSleeveType,sleeveless,hasSilhouette,a-line,4
+hasOpeningType,zipper,hasFabricTreatment,plain weave,4
+depicts,bag,hasFabricTreatment,plain weave,4
+hasFabricTreatment,plain weave,hasOpeningType,zipper,4
+hasLength,regular,hasOpeningType,zipper,4
+hasOpeningType,zipper,hasLength,regular,4
+depicts,bag,hasLength,regular,4
+hasFabricTreatment,plain weave,depicts,bag,4
+hasLength,regular,depicts,bag,4
+belongsToCategory,upperbody,hasMaterialType,cotton,4
+hasPocketType,side pockets,hasOpeningType,zipper,4
+hasOpeningType,zipper,hasPocketType,side pockets,4
+hasSilhouette,a-line,hasPocketType,side pockets,4
+hasPocketType,side pockets,hasSilhouette,a-line,4
+hasMaterialType,cotton,belongsToCategory,upperbody,4
+hasWaistline,high-waisted,hasMaterialType,leather,4
+hasSilhouette,rectangular,hasMaterialType,leather,4
+hasMaterialType,leather,hasWaistline,high-waisted,4
+belongsToCategory,upperbody,hasWaistline,high-waisted,4
+depicts,bag,hasWaistline,high-waisted,4
+hasMaterialType,leather,hasSilhouette,rectangular,4
+hasWaistline,high-waisted,belongsToCategory,upperbody,4
+hasWaistline,high-waisted,depicts,bag,4
+hasMaterialType,leather,hasPattern,solid color,4
+hasPattern,solid color,hasMaterialType,leather,4
+hasOpeningType,zipper,hasMaterialType,fabric,4
+hasSleeveType,short,hasMaterialType,fabric,4
+hasSilhouette,a-line,hasMaterialType,fabric,4
+hasMaterialType,fabric,hasOpeningType,zipper,4
+hasMaterialType,fabric,hasSleeveType,short,4
+hasMaterialType,fabric,hasSilhouette,a-line,4
+hasMaterialType,leather,hasFabricTreatment,suede,4
+hasOpeningType,zipper,hasFabricTreatment,suede,4
+belongsToCategory,upperbody,hasFabricTreatment,suede,4
+depicts,bag,hasFabricTreatment,suede,4
+hasFabricTreatment,suede,hasMaterialType,leather,4
+hasFabricTreatment,suede,hasOpeningType,zipper,4
+hasSilhouette,straight,hasOpeningType,zipper,4
+hasSilhouette,straight,hasWaistline,natural,4
+hasOpeningType,zipper,hasSilhouette,straight,4
+hasWaistline,natural,hasSilhouette,straight,4
+belongsToCategory,upperbody,hasSilhouette,straight,4
+depicts,bag,hasSilhouette,straight,4
+hasFabricTreatment,suede,belongsToCategory,upperbody,4
+hasSilhouette,straight,belongsToCategory,upperbody,4
+hasFabricTreatment,suede,depicts,bag,4
+hasSilhouette,straight,depicts,bag,4
+hasSilhouette,shoulder bag,hasPattern,solid color,4
+hasPattern,solid color,hasSilhouette,shoulder bag,4
+hasSilhouette,shoulder bag,hasOpeningType,zipper closure,4
+belongsToCategory,upperbody,hasOpeningType,zipper closure,4
+depicts,bag,hasOpeningType,zipper closure,4
+hasOpeningType,zipper closure,hasSilhouette,shoulder bag,4
+hasOpeningType,zipper closure,belongsToCategory,upperbody,4
+hasOpeningType,zipper closure,depicts,bag,4
+hasLength,medium,hasSleeveType,sleeveless,3
+hasWaistline,natural,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasLength,medium,3
+hasWaistline,natural,hasLength,medium,3
+hasSleeveType,sleeveless,hasWaistline,natural,3
+hasLength,medium,hasWaistline,natural,3
+hasLength,regular,hasFabricTreatment,plain weave,3
+hasSilhouette,rectangular,hasNeckline,round,3
+hasFabricTreatment,plain weave,hasLength,regular,3
+hasNeckline,round,hasSilhouette,rectangular,3
+hasOpeningType,zipper,hasPattern,floral,3
+belongsToCategory,upperbody,hasPattern,floral,3
+depicts,bag,hasPattern,floral,3
+hasMaterialType,cotton,hasFabricTreatment,plain weave,3
+hasFabricTreatment,plain weave,hasMaterialType,cotton,3
+hasLength,regular,hasMaterialType,cotton,3
+depicts,bag,hasMaterialType,cotton,3
+hasPattern,floral,hasOpeningType,zipper,3
+hasLength,regular,hasSleeveType,sleeveless,3
+hasMaterialType,cotton,hasLength,regular,3
+hasSleeveType,sleeveless,hasLength,regular,3
+hasPattern,floral,belongsToCategory,upperbody,3
+hasPattern,floral,depicts,bag,3
+hasMaterialType,cotton,depicts,bag,3
+hasMaterialType,leather,hasLeatherType,full-grain leather,3
+hasWaistline,high-waisted,hasLeatherType,full-grain leather,3
+belongsToCategory,upperbody,hasLeatherType,full-grain leather,3
+depicts,bag,hasLeatherType,full-grain leather,3
+hasLeatherType,full-grain leather,hasMaterialType,leather,3
+hasWaistline,high-waisted,hasOpeningType,zipper,3
+belongsToCategory,upperbody,hasSleeveType,short-sleeve,3
+depicts,bag,hasSleeveType,short-sleeve,3
+hasLength,short,hasNeckline,round,3
+hasNeckline,round,hasLength,short,3
+hasWaistline,high-waisted,hasLength,short,3
+hasLeatherType,full-grain leather,hasWaistline,high-waisted,3
+hasOpeningType,zipper,hasWaistline,high-waisted,3
+hasLength,short,hasWaistline,high-waisted,3
+hasLeatherType,full-grain leather,belongsToCategory,upperbody,3
+hasSleeveType,short-sleeve,belongsToCategory,upperbody,3
+hasLeatherType,full-grain leather,depicts,bag,3
+hasSleeveType,short-sleeve,depicts,bag,3
+hasSilhouette,shoulder bag,hasMaterialType,fabric,3
+hasMaterialType,fabric,hasSilhouette,shoulder bag,3
+belongsToCategory,upperbody,hasSilhouette,regular,3
+hasSilhouette,regular,belongsToCategory,upperbody,3
+hasMaterialType,fabric,hasPattern,solid color,3
+hasPattern,solid color,hasMaterialType,fabric,3
+hasWaistline,natural,hasMaterialType,fabric,3
+hasMaterialType,fabric,hasWaistline,natural,3
+hasNeckline,round,hasFabricTreatment,suede,3
+hasWaistline,natural,hasFabricTreatment,suede,3
+hasSilhouette,straight,hasFabricTreatment,suede,3
+hasLength,long,hasMaterialType,leather,3
+hasSilhouette,straight,hasMaterialType,leather,3
+hasFabricTreatment,suede,hasNeckline,round,3
+hasLength,long,hasNeckline,round,3
+hasMaterialType,leather,hasLength,long,3
+hasNeckline,round,hasLength,long,3
+hasFabricTreatment,suede,hasWaistline,natural,3
+hasFabricTreatment,suede,hasSilhouette,straight,3
+hasMaterialType,leather,hasSilhouette,straight,3
+hasSilhouette,a-line,hasLength,short,3
+hasLength,short,hasSilhouette,a-line,3
+hasPocketType,side pockets,hasMaterialType,leather,3
+hasMaterialType,leather,hasPocketType,side pockets,3
+hasLength,short,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasLength,short,3
+belongsToCategory,upperbody,hasPattern,striped,3
+depicts,bag,hasPattern,striped,3
+hasPattern,striped,belongsToCategory,upperbody,3
+hasPattern,striped,depicts,bag,3
+hasLength,medium,hasPattern,solid color,3
+hasPattern,solid color,hasLength,medium,3
+hasOpeningType,zipper closure,hasPattern,solid color,3
+hasPattern,solid color,hasOpeningType,zipper closure,3
+hasSilhouette,shoulder bag,hasNeckline,round neckline,3
+belongsToCategory,upperbody,hasNeckline,round neckline,3
+depicts,bag,hasNeckline,round neckline,3
+hasNeckline,round neckline,hasSilhouette,shoulder bag,3
+hasNeckline,round neckline,belongsToCategory,upperbody,3
+hasNeckline,round neckline,depicts,bag,3
+hasSilhouette,shoulder bag,hasLength,short,3
+hasLength,short,hasSilhouette,shoulder bag,3
+belongsToCategory,upperbody,hasMaterialType,nylon,2
+depicts,bag,hasMaterialType,nylon,2
+hasMaterialType,nylon,belongsToCategory,upperbody,2
+hasMaterialType,nylon,depicts,bag,2
+hasSleeveType,short,hasFabricTreatment,plain weave,2
+hasNeckline,round,hasFabricTreatment,plain weave,2
+hasFabricTreatment,plain weave,hasSleeveType,short,2
+hasLength,regular,hasSleeveType,short,2
+hasFabricTreatment,plain weave,hasNeckline,round,2
+hasLength,regular,hasNeckline,round,2
+hasSleeveType,short,hasLength,regular,2
+hasNeckline,round,hasLength,regular,2
+hasSilhouette,rectangular,hasLength,regular,2
+hasLength,regular,hasSilhouette,rectangular,2
+hasSilhouette,a-line,hasPattern,floral,2
+hasSleeveType,sleeveless,hasFabricTreatment,plain weave,2
+hasSilhouette,a-line,hasFabricTreatment,plain weave,2
+hasOpeningType,zipper,hasMaterialType,cotton,2
+hasSleeveType,sleeveless,hasMaterialType,cotton,2
+hasMaterialType,cotton,hasOpeningType,zipper,2
+hasSleeveType,sleeveless,hasPocketType,side pockets,2
+hasFabricTreatment,plain weave,hasSleeveType,sleeveless,2
+hasMaterialType,cotton,hasSleeveType,sleeveless,2
+hasPocketType,side pockets,hasSleeveType,sleeveless,2
+hasPattern,floral,hasSilhouette,a-line,2
+hasFabricTreatment,plain weave,hasSilhouette,a-line,2
+hasOpeningType,zipper,hasLeatherType,full-grain leather,2
+hasLength,short,hasLeatherType,full-grain leather,2
+hasSleeveType,short-sleeve,hasMaterialType,leather,2
+hasLeatherType,full-grain leather,hasOpeningType,zipper,2
+hasSleeveType,short-sleeve,hasOpeningType,zipper,2
+hasMaterialType,leather,hasSleeveType,short-sleeve,2
+hasOpeningType,zipper,hasSleeveType,short-sleeve,2
+hasNeckline,round,hasSleeveType,short-sleeve,2
+hasSleeveType,short-sleeve,hasNeckline,round,2
+hasWaistline,high-waisted,hasNeckline,round,2
+hasLeatherType,full-grain leather,hasLength,short,2
+hasSilhouette,rectangular,hasLength,short,2
+hasNeckline,round,hasWaistline,high-waisted,2
+hasLength,short,hasSilhouette,rectangular,2
+hasLength,medium,hasMaterialType,fabric,2
+hasMaterialType,fabric,hasLength,medium,2
+hasSleeveType,long,hasMaterialType,leather,2
+hasSleeveType,long,hasOpeningType,zipper,2
+hasMaterialType,leather,hasSleeveType,long,2
+hasOpeningType,zipper,hasSleeveType,long,2
+hasLength,short,hasSleeveType,long,2
+belongsToCategory,upperbody,hasSleeveType,long,2
+depicts,bag,hasSleeveType,long,2
+hasSleeveType,long,hasLength,short,2
+hasSleeveType,long,belongsToCategory,upperbody,2
+hasSleeveType,long,depicts,bag,2
+hasLength,short,hasPattern,solid color,2
+hasSilhouette,rectangular,hasPattern,solid color,2
+hasPattern,solid color,hasLength,short,2
+hasPattern,solid color,hasSilhouette,rectangular,2
+hasWaistline,natural,hasMaterialType,cotton,2
+hasSilhouette,regular,hasOpeningType,zipper,2
+hasWaistline,natural,hasLength,regular,2
+hasMaterialType,cotton,hasWaistline,natural,2
+hasLength,regular,hasWaistline,natural,2
+hasOpeningType,zipper,hasSilhouette,regular,2
+hasSleeveType,short,hasPattern,solid color,2
+hasLength,long,hasPattern,solid color,2
+hasSilhouette,a-line,hasPattern,solid color,2
+hasPattern,solid color,hasSleeveType,short,2
+hasPattern,solid color,hasLength,long,2
+hasPattern,solid color,hasSilhouette,a-line,2
+hasSilhouette,rectangular,hasSleeveType,sleeveless,2
+hasSleeveType,sleeveless,hasSilhouette,rectangular,2
+hasSilhouette,straight,hasNeckline,round,2
+hasSilhouette,straight,hasLength,long,2
+hasNeckline,round,hasSilhouette,straight,2
+hasLength,long,hasSilhouette,straight,2
+hasMaterialType,leather,hasPattern,plaid,2
+hasOpeningType,zipper,hasPattern,plaid,2
+hasLength,short,hasPattern,plaid,2
+hasSilhouette,a-line,hasPattern,plaid,2
+belongsToCategory,upperbody,hasPattern,plaid,2
+depicts,bag,hasPattern,plaid,2
+hasPattern,plaid,hasMaterialType,leather,2
+hasPattern,plaid,hasOpeningType,zipper,2
+hasPattern,plaid,hasLength,short,2
+hasPattern,plaid,hasSilhouette,a-line,2
+hasPattern,plaid,belongsToCategory,upperbody,2
+hasPattern,plaid,depicts,bag,2
+hasSleeveType,short,hasFabricTreatment,solid,2
+hasWaistline,natural,hasFabricTreatment,solid,2
+belongsToCategory,upperbody,hasFabricTreatment,solid,2
+depicts,bag,hasFabricTreatment,solid,2
+hasFabricTreatment,solid,hasSleeveType,short,2
+hasSilhouette,straight,hasSleeveType,short,2
+hasFabricTreatment,solid,hasWaistline,natural,2
+hasSleeveType,short,hasSilhouette,straight,2
+hasFabricTreatment,solid,belongsToCategory,upperbody,2
+hasFabricTreatment,solid,depicts,bag,2
+belongsToCategory,upperbody,hasMaterialType,polyester,2
+depicts,bag,hasMaterialType,polyester,2
+hasSilhouette,regular,hasLength,long,2
+hasLength,long,hasSilhouette,regular,2
+depicts,bag,hasSilhouette,regular,2
+hasMaterialType,polyester,belongsToCategory,upperbody,2
+hasMaterialType,polyester,depicts,bag,2
+hasSilhouette,regular,depicts,bag,2
+hasSleeveType,short,hasPattern,floral,2
+hasNeckline,round,hasPattern,floral,2
+hasWaistline,natural,hasPattern,floral,2
+hasSleeveType,short,hasMaterialType,leather,2
+hasPattern,floral,hasSleeveType,short,2
+hasMaterialType,leather,hasSleeveType,short,2
+hasPattern,floral,hasNeckline,round,2
+hasPattern,floral,hasWaistline,natural,2
+hasNeckline,round,hasMaterialType,fabric,2
+hasMaterialType,fabric,hasNeckline,round,2
+hasWaistline,high-waisted,hasPocketType,side pockets,2
+hasPocketType,side pockets,hasWaistline,high-waisted,2
+hasMaterialType,cotton,hasPattern,striped,2
+hasPattern,striped,hasMaterialType,cotton,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasMaterialType,fabric,hasLeatherType,no leather,2
+hasSleeveType,sleeveless,hasLeatherType,no leather,2
+hasNeckline,round neckline,hasLeatherType,no leather,2
+hasSilhouette,shoulder bag,hasLeatherType,no leather,2
+belongsToCategory,upperbody,hasLeatherType,no leather,2
+depicts,bag,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasMaterialType,fabric,2
+hasSleeveType,sleeveless,hasMaterialType,fabric,2
+hasNeckline,round neckline,hasMaterialType,fabric,2
+hasNeckline,round neckline,hasOpeningType,zipper closure,2
+hasLength,medium,hasOpeningType,zipper closure,2
+hasLeatherType,no leather,hasSleeveType,sleeveless,2
+hasMaterialType,fabric,hasSleeveType,sleeveless,2
+hasNeckline,round neckline,hasSleeveType,sleeveless,2
+hasSilhouette,shoulder bag,hasSleeveType,sleeveless,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasLeatherType,no leather,hasNeckline,round neckline,2
+hasMaterialType,fabric,hasNeckline,round neckline,2
+hasOpeningType,zipper closure,hasNeckline,round neckline,2
+hasSleeveType,sleeveless,hasNeckline,round neckline,2
+hasOpeningType,zipper closure,hasLength,medium,2
+hasLeatherType,no leather,hasSilhouette,shoulder bag,2
+hasSleeveType,sleeveless,hasSilhouette,shoulder bag,2
+hasLeatherType,no leather,belongsToCategory,upperbody,2
+hasLeatherType,no leather,depicts,bag,2
+hasSleeveType,short,hasPocketType,side pockets,2
+hasLength,long,hasPocketType,side pockets,2
+hasWaistline,natural,hasPocketType,side pockets,2
+hasPocketType,side pockets,hasSleeveType,short,2
+hasPocketType,side pockets,hasLength,long,2
+hasPocketType,side pockets,hasWaistline,natural,2
+hasNeckline,round,hasPattern,solid color,2
+hasPattern,solid color,hasNeckline,round,2
+hasSilhouette,shoulder bag,hasWaistline,natural-waist,2
+belongsToCategory,upperbody,hasWaistline,natural-waist,2
+depicts,bag,hasWaistline,natural-waist,2
+hasWaistline,natural-waist,hasSilhouette,shoulder bag,2
+hasWaistline,natural-waist,belongsToCategory,upperbody,2
+hasWaistline,natural-waist,depicts,bag,2
+hasSilhouette,a-line,hasLength,medium,1
+hasLength,medium,hasSilhouette,a-line,1
+hasMaterialType,nylon,hasPattern,animal,1
+hasLength,medium,hasPattern,animal,1
+hasSilhouette,shoulder bag,hasPattern,animal,1
+belongsToCategory,upperbody,hasPattern,animal,1
+depicts,bag,hasPattern,animal,1
+hasPattern,animal,hasMaterialType,nylon,1
+hasLength,medium,hasMaterialType,nylon,1
+hasSilhouette,shoulder bag,hasMaterialType,nylon,1
+hasPattern,animal,hasLength,medium,1
+hasMaterialType,nylon,hasLength,medium,1
+hasPattern,animal,hasSilhouette,shoulder bag,1
+hasMaterialType,nylon,hasSilhouette,shoulder bag,1
+hasPattern,animal,belongsToCategory,upperbody,1
+hasPattern,animal,depicts,bag,1
+hasFabricTreatment,plain weave,hasPattern,polka-dot,1
+hasMaterialType,synthetic,hasPattern,polka-dot,1
+hasOpeningType,zipper,hasPattern,polka-dot,1
+hasPocketType,side,hasPattern,polka-dot,1
+hasSleeveType,short,hasPattern,polka-dot,1
+hasNeckline,round,hasPattern,polka-dot,1
+hasLength,regular,hasPattern,polka-dot,1
+hasSilhouette,rectangular,hasPattern,polka-dot,1
+belongsToCategory,upperbody,hasPattern,polka-dot,1
+depicts,bag,hasPattern,polka-dot,1
+hasPattern,polka-dot,hasFabricTreatment,plain weave,1
+hasMaterialType,synthetic,hasFabricTreatment,plain weave,1
+hasPocketType,side,hasFabricTreatment,plain weave,1
+hasSilhouette,rectangular,hasFabricTreatment,plain weave,1
+hasPattern,polka-dot,hasMaterialType,synthetic,1
+hasFabricTreatment,plain weave,hasMaterialType,synthetic,1
+hasOpeningType,zipper,hasMaterialType,synthetic,1
+hasPocketType,side,hasMaterialType,synthetic,1
+hasSleeveType,short,hasMaterialType,synthetic,1
+hasNeckline,round,hasMaterialType,synthetic,1
+hasLength,regular,hasMaterialType,synthetic,1
+hasSilhouette,rectangular,hasMaterialType,synthetic,1
+belongsToCategory,upperbody,hasMaterialType,synthetic,1
+depicts,bag,hasMaterialType,synthetic,1
+hasPattern,polka-dot,hasOpeningType,zipper,1
+hasMaterialType,synthetic,hasOpeningType,zipper,1
+hasPocketType,side,hasOpeningType,zipper,1
+hasPattern,polka-dot,hasPocketType,side,1
+hasFabricTreatment,plain weave,hasPocketType,side,1
+hasMaterialType,synthetic,hasPocketType,side,1
+hasOpeningType,zipper,hasPocketType,side,1
+hasSleeveType,short,hasPocketType,side,1
+hasNeckline,round,hasPocketType,side,1
+hasLength,regular,hasPocketType,side,1
+hasSilhouette,rectangular,hasPocketType,side,1
+belongsToCategory,upperbody,hasPocketType,side,1
+depicts,bag,hasPocketType,side,1
+hasPattern,polka-dot,hasSleeveType,short,1
+hasMaterialType,synthetic,hasSleeveType,short,1
+hasPocketType,side,hasSleeveType,short,1
+hasSilhouette,rectangular,hasSleeveType,short,1
+hasPattern,polka-dot,hasNeckline,round,1
+hasMaterialType,synthetic,hasNeckline,round,1
+hasPocketType,side,hasNeckline,round,1
+hasPattern,polka-dot,hasLength,regular,1
+hasMaterialType,synthetic,hasLength,regular,1
+hasPocketType,side,hasLength,regular,1
+hasPattern,polka-dot,hasSilhouette,rectangular,1
+hasFabricTreatment,plain weave,hasSilhouette,rectangular,1
+hasMaterialType,synthetic,hasSilhouette,rectangular,1
+hasPocketType,side,hasSilhouette,rectangular,1
+hasSleeveType,short,hasSilhouette,rectangular,1
+hasPattern,polka-dot,belongsToCategory,upperbody,1
+hasMaterialType,synthetic,belongsToCategory,upperbody,1
+hasPocketType,side,belongsToCategory,upperbody,1
+hasPattern,polka-dot,depicts,bag,1
+hasMaterialType,synthetic,depicts,bag,1
+hasPocketType,side,depicts,bag,1
+hasFabricTreatment,plain weave,hasPattern,floral,1
+hasMaterialType,cotton,hasPattern,floral,1
+hasPocketType,side pockets,hasPattern,floral,1
+hasSleeveType,sleeveless,hasPattern,floral,1
+hasNeckline,round neck,hasPattern,floral,1
+hasLength,regular,hasPattern,floral,1
+hasPattern,floral,hasFabricTreatment,plain weave,1
+hasPocketType,side pockets,hasFabricTreatment,plain weave,1
+hasNeckline,round neck,hasFabricTreatment,plain weave,1
+hasPattern,floral,hasMaterialType,cotton,1
+hasPocketType,side pockets,hasMaterialType,cotton,1
+hasNeckline,round neck,hasMaterialType,cotton,1
+hasSilhouette,a-line,hasMaterialType,cotton,1
+hasNeckline,round neck,hasOpeningType,zipper,1
+hasPattern,floral,hasPocketType,side pockets,1
+hasFabricTreatment,plain weave,hasPocketType,side pockets,1
+hasMaterialType,cotton,hasPocketType,side pockets,1
+hasNeckline,round neck,hasPocketType,side pockets,1
+hasLength,regular,hasPocketType,side pockets,1
+hasPattern,floral,hasSleeveType,sleeveless,1
+hasNeckline,round neck,hasSleeveType,sleeveless,1
+hasPattern,floral,hasNeckline,round neck,1
+hasFabricTreatment,plain weave,hasNeckline,round neck,1
+hasMaterialType,cotton,hasNeckline,round neck,1
+hasOpeningType,zipper,hasNeckline,round neck,1
+hasPocketType,side pockets,hasNeckline,round neck,1
+hasSleeveType,sleeveless,hasNeckline,round neck,1
+hasLength,regular,hasNeckline,round neck,1
+hasSilhouette,a-line,hasNeckline,round neck,1
+belongsToCategory,upperbody,hasNeckline,round neck,1
+depicts,bag,hasNeckline,round neck,1
+hasPattern,floral,hasLength,regular,1
+hasPocketType,side pockets,hasLength,regular,1
+hasNeckline,round neck,hasLength,regular,1
+hasSilhouette,a-line,hasLength,regular,1
+hasMaterialType,cotton,hasSilhouette,a-line,1
+hasNeckline,round neck,hasSilhouette,a-line,1
+hasLength,regular,hasSilhouette,a-line,1
+hasNeckline,round neck,belongsToCategory,upperbody,1
+hasNeckline,round neck,depicts,bag,1
+hasSleeveType,short-sleeve,hasLeatherType,full-grain leather,1
+hasNeckline,round,hasLeatherType,full-grain leather,1
+hasSilhouette,rectangular,hasLeatherType,full-grain leather,1
+hasLeatherType,full-grain leather,hasSleeveType,short-sleeve,1
+hasLength,short,hasSleeveType,short-sleeve,1
+hasWaistline,high-waisted,hasSleeveType,short-sleeve,1
+hasSilhouette,rectangular,hasSleeveType,short-sleeve,1
+hasLeatherType,full-grain leather,hasNeckline,round,1
+hasSleeveType,short-sleeve,hasLength,short,1
+hasSleeveType,short-sleeve,hasWaistline,high-waisted,1
+hasSilhouette,rectangular,hasWaistline,high-waisted,1
+hasLeatherType,full-grain leather,hasSilhouette,rectangular,1
+hasSleeveType,short-sleeve,hasSilhouette,rectangular,1
+hasWaistline,high-waisted,hasSilhouette,rectangular,1
+hasSleeveType,long,hasLeatherType,full-grain leather,1
+hasSilhouette,trapeze,hasLeatherType,full-grain leather,1
+hasSilhouette,trapeze,hasMaterialType,leather,1
+hasSilhouette,trapeze,hasOpeningType,zipper,1
+hasLeatherType,full-grain leather,hasSleeveType,long,1
+hasWaistline,high-waisted,hasSleeveType,long,1
+hasSilhouette,trapeze,hasSleeveType,long,1
+hasSilhouette,trapeze,hasLength,short,1
+hasSleeveType,long,hasWaistline,high-waisted,1
+hasSilhouette,trapeze,hasWaistline,high-waisted,1
+hasLeatherType,full-grain leather,hasSilhouette,trapeze,1
+hasMaterialType,leather,hasSilhouette,trapeze,1
+hasOpeningType,zipper,hasSilhouette,trapeze,1
+hasSleeveType,long,hasSilhouette,trapeze,1
+hasLength,short,hasSilhouette,trapeze,1
+hasWaistline,high-waisted,hasSilhouette,trapeze,1
+belongsToCategory,upperbody,hasSilhouette,trapeze,1
+depicts,bag,hasSilhouette,trapeze,1
+hasSilhouette,trapeze,belongsToCategory,upperbody,1
+hasSilhouette,trapeze,depicts,bag,1
+hasLeatherType,smooth,hasPattern,solid color,1
+hasPattern,solid color,hasLeatherType,smooth,1
+hasMaterialType,leather,hasLeatherType,smooth,1
+hasOpeningType,zipper,hasLeatherType,smooth,1
+hasLength,short,hasLeatherType,smooth,1
+hasSilhouette,rectangular,hasLeatherType,smooth,1
+belongsToCategory,upperbody,hasLeatherType,smooth,1
+depicts,bag,hasLeatherType,smooth,1
+hasLeatherType,smooth,hasMaterialType,leather,1
+hasLeatherType,smooth,hasOpeningType,zipper,1
+hasLeatherType,smooth,hasLength,short,1
+hasLeatherType,smooth,hasSilhouette,rectangular,1
+hasLeatherType,smooth,belongsToCategory,upperbody,1
+hasLeatherType,smooth,depicts,bag,1
+hasNeckline,v-shaped,hasFabricTreatment,plain weave,1
+hasWaistline,natural,hasFabricTreatment,plain weave,1
+hasSilhouette,regular,hasFabricTreatment,plain weave,1
+depicts,vest,hasFabricTreatment,plain weave,1
+hasNeckline,v-shaped,hasMaterialType,cotton,1
+hasSilhouette,regular,hasMaterialType,cotton,1
+depicts,vest,hasMaterialType,cotton,1
+hasNeckline,v-shaped,hasOpeningType,zipper,1
+depicts,vest,hasOpeningType,zipper,1
+hasNeckline,v-shaped,hasSleeveType,sleeveless,1
+hasSilhouette,regular,hasSleeveType,sleeveless,1
+depicts,vest,hasSleeveType,sleeveless,1
+hasFabricTreatment,plain weave,hasNeckline,v-shaped,1
+hasMaterialType,cotton,hasNeckline,v-shaped,1
+hasOpeningType,zipper,hasNeckline,v-shaped,1
+hasSleeveType,sleeveless,hasNeckline,v-shaped,1
+hasLength,regular,hasNeckline,v-shaped,1
+hasWaistline,natural,hasNeckline,v-shaped,1
+hasSilhouette,regular,hasNeckline,v-shaped,1
+belongsToCategory,upperbody,hasNeckline,v-shaped,1
+depicts,vest,hasNeckline,v-shaped,1
+hasNeckline,v-shaped,hasLength,regular,1
+depicts,vest,hasLength,regular,1
+hasFabricTreatment,plain weave,hasWaistline,natural,1
+hasNeckline,v-shaped,hasWaistline,natural,1
+hasSilhouette,regular,hasWaistline,natural,1
+depicts,vest,hasWaistline,natural,1
+hasFabricTreatment,plain weave,hasSilhouette,regular,1
+hasMaterialType,cotton,hasSilhouette,regular,1
+hasSleeveType,sleeveless,hasSilhouette,regular,1
+hasNeckline,v-shaped,hasSilhouette,regular,1
+hasWaistline,natural,hasSilhouette,regular,1
+depicts,vest,hasSilhouette,regular,1
+hasNeckline,v-shaped,belongsToCategory,upperbody,1
+depicts,vest,belongsToCategory,upperbody,1
+hasFabricTreatment,plain weave,depicts,vest,1
+hasMaterialType,cotton,depicts,vest,1
+hasOpeningType,zipper,depicts,vest,1
+hasSleeveType,sleeveless,depicts,vest,1
+hasNeckline,v-shaped,depicts,vest,1
+hasLength,regular,depicts,vest,1
+hasWaistline,natural,depicts,vest,1
+hasSilhouette,regular,depicts,vest,1
+belongsToCategory,upperbody,depicts,vest,1
+hasFabricTreatment,textured,hasPattern,solid color,1
+hasWaistline,natural,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,textured,1
+hasMaterialType,fabric,hasFabricTreatment,textured,1
+hasOpeningType,zipper,hasFabricTreatment,textured,1
+hasSleeveType,short,hasFabricTreatment,textured,1
+hasLength,long,hasFabricTreatment,textured,1
+hasWaistline,natural,hasFabricTreatment,textured,1
+hasSilhouette,a-line,hasFabricTreatment,textured,1
+belongsToCategory,upperbody,hasFabricTreatment,textured,1
+depicts,bag,hasFabricTreatment,textured,1
+hasFabricTreatment,textured,hasMaterialType,fabric,1
+hasFabricTreatment,textured,hasOpeningType,zipper,1
+hasFabricTreatment,textured,hasSleeveType,short,1
+hasFabricTreatment,textured,hasLength,long,1
+hasPattern,solid color,hasWaistline,natural,1
+hasFabricTreatment,textured,hasWaistline,natural,1
+hasFabricTreatment,textured,hasSilhouette,a-line,1
+hasFabricTreatment,textured,belongsToCategory,upperbody,1
+hasFabricTreatment,textured,depicts,bag,1
+hasMaterialType,faux leather,hasFabricTreatment,brushed,1
+hasOpeningType,zipper,hasFabricTreatment,brushed,1
+hasPocketType,no pocket,hasFabricTreatment,brushed,1
+hasSleeveType,sleeveless,hasFabricTreatment,brushed,1
+hasLength,regular,hasFabricTreatment,brushed,1
+hasSilhouette,rectangular,hasFabricTreatment,brushed,1
+belongsToCategory,upperbody,hasFabricTreatment,brushed,1
+depicts,bag,hasFabricTreatment,brushed,1
+hasFabricTreatment,brushed,hasMaterialType,faux leather,1
+hasOpeningType,zipper,hasMaterialType,faux leather,1
+hasPocketType,no pocket,hasMaterialType,faux leather,1
+hasSleeveType,sleeveless,hasMaterialType,faux leather,1
+hasLength,regular,hasMaterialType,faux leather,1
+hasSilhouette,rectangular,hasMaterialType,faux leather,1
+belongsToCategory,upperbody,hasMaterialType,faux leather,1
+depicts,bag,hasMaterialType,faux leather,1
+hasFabricTreatment,brushed,hasOpeningType,zipper,1
+hasMaterialType,faux leather,hasOpeningType,zipper,1
+hasPocketType,no pocket,hasOpeningType,zipper,1
+hasFabricTreatment,brushed,hasPocketType,no pocket,1
+hasMaterialType,faux leather,hasPocketType,no pocket,1
+hasOpeningType,zipper,hasPocketType,no pocket,1
+hasSleeveType,sleeveless,hasPocketType,no pocket,1
+hasLength,regular,hasPocketType,no pocket,1
+hasSilhouette,rectangular,hasPocketType,no pocket,1
+belongsToCategory,upperbody,hasPocketType,no pocket,1
+depicts,bag,hasPocketType,no pocket,1
+hasFabricTreatment,brushed,hasSleeveType,sleeveless,1
+hasMaterialType,faux leather,hasSleeveType,sleeveless,1
+hasPocketType,no pocket,hasSleeveType,sleeveless,1
+hasFabricTreatment,brushed,hasLength,regular,1
+hasMaterialType,faux leather,hasLength,regular,1
+hasPocketType,no pocket,hasLength,regular,1
+hasFabricTreatment,brushed,hasSilhouette,rectangular,1
+hasMaterialType,faux leather,hasSilhouette,rectangular,1
+hasPocketType,no pocket,hasSilhouette,rectangular,1
+hasFabricTreatment,brushed,belongsToCategory,upperbody,1
+hasMaterialType,faux leather,belongsToCategory,upperbody,1
+hasPocketType,no pocket,belongsToCategory,upperbody,1
+hasFabricTreatment,brushed,depicts,bag,1
+hasMaterialType,faux leather,depicts,bag,1
+hasPocketType,no pocket,depicts,bag,1
+hasSleeveType,short-sleeve,hasFabricTreatment,suede,1
+hasLength,long,hasFabricTreatment,suede,1
+hasFabricTreatment,suede,hasSleeveType,short-sleeve,1
+hasLength,long,hasSleeveType,short-sleeve,1
+hasWaistline,natural,hasSleeveType,short-sleeve,1
+hasSilhouette,straight,hasSleeveType,short-sleeve,1
+hasFabricTreatment,suede,hasLength,long,1
+hasSleeveType,short-sleeve,hasLength,long,1
+hasSleeveType,short-sleeve,hasWaistline,natural,1
+hasSleeveType,short-sleeve,hasSilhouette,straight,1
+hasPattern,plaid,hasAnimalPattern,wolf,1
+hasMaterialType,leather,hasAnimalPattern,wolf,1
+hasOpeningType,zipper,hasAnimalPattern,wolf,1
+hasPocketType,external,hasAnimalPattern,wolf,1
+hasSleeveType,long,hasAnimalPattern,wolf,1
+hasLength,short,hasAnimalPattern,wolf,1
+hasWaistline,natural,hasAnimalPattern,wolf,1
+hasSilhouette,a-line,hasAnimalPattern,wolf,1
+belongsToCategory,upperbody,hasAnimalPattern,wolf,1
+depicts,bag,hasAnimalPattern,wolf,1
+hasAnimalPattern,wolf,hasPattern,plaid,1
+hasPocketType,external,hasPattern,plaid,1
+hasSleeveType,long,hasPattern,plaid,1
+hasWaistline,natural,hasPattern,plaid,1
+hasAnimalPattern,wolf,hasMaterialType,leather,1
+hasPocketType,external,hasMaterialType,leather,1
+hasAnimalPattern,wolf,hasOpeningType,zipper,1
+hasPocketType,external,hasOpeningType,zipper,1
+hasAnimalPattern,wolf,hasPocketType,external,1
+hasPattern,plaid,hasPocketType,external,1
+hasMaterialType,leather,hasPocketType,external,1
+hasOpeningType,zipper,hasPocketType,external,1
+hasSleeveType,long,hasPocketType,external,1
+hasLength,short,hasPocketType,external,1
+hasWaistline,natural,hasPocketType,external,1
+hasSilhouette,a-line,hasPocketType,external,1
+belongsToCategory,upperbody,hasPocketType,external,1
+depicts,bag,hasPocketType,external,1
+hasAnimalPattern,wolf,hasSleeveType,long,1
+hasPattern,plaid,hasSleeveType,long,1
+hasPocketType,external,hasSleeveType,long,1
+hasWaistline,natural,hasSleeveType,long,1
+hasSilhouette,a-line,hasSleeveType,long,1
+hasAnimalPattern,wolf,hasLength,short,1
+hasPocketType,external,hasLength,short,1
+hasWaistline,natural,hasLength,short,1
+hasAnimalPattern,wolf,hasWaistline,natural,1
+hasPattern,plaid,hasWaistline,natural,1
+hasPocketType,external,hasWaistline,natural,1
+hasSleeveType,long,hasWaistline,natural,1
+hasLength,short,hasWaistline,natural,1
+hasAnimalPattern,wolf,hasSilhouette,a-line,1
+hasPocketType,external,hasSilhouette,a-line,1
+hasSleeveType,long,hasSilhouette,a-line,1
+hasAnimalPattern,wolf,belongsToCategory,upperbody,1
+hasPocketType,external,belongsToCategory,upperbody,1
+hasAnimalPattern,wolf,depicts,bag,1
+hasPocketType,external,depicts,bag,1
+hasMaterialType,nylon,hasFabricTreatment,solid,1
+hasOpeningType,zipper,hasFabricTreatment,solid,1
+hasPocketType,zipper,hasFabricTreatment,solid,1
+hasLength,long,hasFabricTreatment,solid,1
+hasSilhouette,straight,hasFabricTreatment,solid,1
+hasFabricTreatment,solid,hasMaterialType,nylon,1
+hasOpeningType,zipper,hasMaterialType,nylon,1
+hasPocketType,zipper,hasMaterialType,nylon,1
+hasSleeveType,short,hasMaterialType,nylon,1
+hasLength,long,hasMaterialType,nylon,1
+hasWaistline,natural,hasMaterialType,nylon,1
+hasSilhouette,straight,hasMaterialType,nylon,1
+hasFabricTreatment,solid,hasOpeningType,zipper,1
+hasMaterialType,nylon,hasOpeningType,zipper,1
+hasFabricTreatment,solid,hasPocketType,zipper,1
+hasMaterialType,nylon,hasPocketType,zipper,1
+hasSleeveType,short,hasPocketType,zipper,1
+hasLength,long,hasPocketType,zipper,1
+hasWaistline,natural,hasPocketType,zipper,1
+hasSilhouette,straight,hasPocketType,zipper,1
+belongsToCategory,upperbody,hasPocketType,zipper,1
+depicts,bag,hasPocketType,zipper,1
+hasMaterialType,nylon,hasSleeveType,short,1
+hasPocketType,zipper,hasSleeveType,short,1
+hasFabricTreatment,solid,hasLength,long,1
+hasMaterialType,nylon,hasLength,long,1
+hasPocketType,zipper,hasLength,long,1
+hasMaterialType,nylon,hasWaistline,natural,1
+hasPocketType,zipper,hasWaistline,natural,1
+hasFabricTreatment,solid,hasSilhouette,straight,1
+hasMaterialType,nylon,hasSilhouette,straight,1
+hasPocketType,zipper,hasSilhouette,straight,1
+hasPocketType,zipper,belongsToCategory,upperbody,1
+hasPocketType,zipper,depicts,bag,1
+hasLength,long,hasMaterialType,polyester,1
+hasSilhouette,regular,hasMaterialType,polyester,1
+hasMaterialType,polyester,hasLength,long,1
+hasMaterialType,polyester,hasSilhouette,regular,1
+hasFabricTreatment,suede,hasPattern,floral,1
+hasMaterialType,leather,hasPattern,floral,1
+hasLength,medium,hasPattern,floral,1
+hasSilhouette,straight,hasPattern,floral,1
+hasPattern,floral,hasFabricTreatment,suede,1
+hasSleeveType,short,hasFabricTreatment,suede,1
+hasLength,medium,hasFabricTreatment,suede,1
+hasPattern,floral,hasMaterialType,leather,1
+hasFabricTreatment,suede,hasSleeveType,short,1
+hasLength,medium,hasSleeveType,short,1
+hasPattern,floral,hasLength,medium,1
+hasFabricTreatment,suede,hasLength,medium,1
+hasSleeveType,short,hasLength,medium,1
+hasSilhouette,straight,hasLength,medium,1
+hasPattern,floral,hasSilhouette,straight,1
+hasLength,medium,hasSilhouette,straight,1
+hasMaterialType,fabric,hasPattern,floral,1
+hasLength,long,hasPattern,floral,1
+hasPattern,floral,hasMaterialType,fabric,1
+hasPattern,floral,hasLength,long,1
+hasMaterialType,leather,hasFabricTreatment,smooth,1
+hasOpeningType,zipper,hasFabricTreatment,smooth,1
+hasSleeveType,sleeveless,hasFabricTreatment,smooth,1
+hasNeckline,round,hasFabricTreatment,smooth,1
+hasLength,medium,hasFabricTreatment,smooth,1
+hasWaistline,natural,hasFabricTreatment,smooth,1
+hasSilhouette,satchel,hasFabricTreatment,smooth,1
+belongsToCategory,upperbody,hasFabricTreatment,smooth,1
+depicts,bag,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasMaterialType,leather,1
+hasSilhouette,satchel,hasMaterialType,leather,1
+hasFabricTreatment,smooth,hasOpeningType,zipper,1
+hasSilhouette,satchel,hasOpeningType,zipper,1
+hasFabricTreatment,smooth,hasSleeveType,sleeveless,1
+hasSilhouette,satchel,hasSleeveType,sleeveless,1
+hasFabricTreatment,smooth,hasNeckline,round,1
+hasSilhouette,satchel,hasNeckline,round,1
+hasFabricTreatment,smooth,hasLength,medium,1
+hasSilhouette,satchel,hasLength,medium,1
+hasFabricTreatment,smooth,hasWaistline,natural,1
+hasSilhouette,satchel,hasWaistline,natural,1
+hasFabricTreatment,smooth,hasSilhouette,satchel,1
+hasMaterialType,leather,hasSilhouette,satchel,1
+hasOpeningType,zipper,hasSilhouette,satchel,1
+hasSleeveType,sleeveless,hasSilhouette,satchel,1
+hasNeckline,round,hasSilhouette,satchel,1
+hasLength,medium,hasSilhouette,satchel,1
+hasWaistline,natural,hasSilhouette,satchel,1
+belongsToCategory,upperbody,hasSilhouette,satchel,1
+depicts,bag,hasSilhouette,satchel,1
+hasFabricTreatment,smooth,belongsToCategory,upperbody,1
+hasSilhouette,satchel,belongsToCategory,upperbody,1
+hasFabricTreatment,smooth,depicts,bag,1
+hasSilhouette,satchel,depicts,bag,1
+hasNeckline,round,hasPocketType,side pockets,1
+hasLength,short,hasPocketType,side pockets,1
+hasWaistline,high-waisted,hasSleeveType,sleeveless,1
+hasPocketType,side pockets,hasNeckline,round,1
+hasPocketType,side pockets,hasLength,short,1
+hasSleeveType,sleeveless,hasWaistline,high-waisted,1
+hasSilhouette,a-line,hasWaistline,high-waisted,1
+hasWaistline,high-waisted,hasSilhouette,a-line,1
+hasFabricTreatment,embossed,hasPattern,striped,1
+hasMaterialType,leather,hasPattern,striped,1
+hasOpeningType,zipper,hasPattern,striped,1
+hasSleeveType,sleeveless,hasPattern,striped,1
+hasLength,long,hasPattern,striped,1
+hasSilhouette,rectangular,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,embossed,1
+hasMaterialType,leather,hasFabricTreatment,embossed,1
+hasOpeningType,zipper,hasFabricTreatment,embossed,1
+hasSleeveType,sleeveless,hasFabricTreatment,embossed,1
+hasLength,long,hasFabricTreatment,embossed,1
+hasSilhouette,rectangular,hasFabricTreatment,embossed,1
+belongsToCategory,upperbody,hasFabricTreatment,embossed,1
+depicts,bag,hasFabricTreatment,embossed,1
+hasPattern,striped,hasMaterialType,leather,1
+hasFabricTreatment,embossed,hasMaterialType,leather,1
+hasPattern,striped,hasOpeningType,zipper,1
+hasFabricTreatment,embossed,hasOpeningType,zipper,1
+hasPattern,striped,hasSleeveType,sleeveless,1
+hasFabricTreatment,embossed,hasSleeveType,sleeveless,1
+hasLength,long,hasSleeveType,sleeveless,1
+hasPattern,striped,hasLength,long,1
+hasFabricTreatment,embossed,hasLength,long,1
+hasSleeveType,sleeveless,hasLength,long,1
+hasSilhouette,rectangular,hasLength,long,1
+hasPattern,striped,hasSilhouette,rectangular,1
+hasFabricTreatment,embossed,hasSilhouette,rectangular,1
+hasLength,long,hasSilhouette,rectangular,1
+hasFabricTreatment,embossed,belongsToCategory,upperbody,1
+hasFabricTreatment,embossed,depicts,bag,1
+hasLength,shoulder bag,hasFabricTreatment,suede,1
+hasLength,shoulder bag,hasMaterialType,leather,1
+hasLength,shoulder bag,hasOpeningType,zipper,1
+hasFabricTreatment,suede,hasLength,shoulder bag,1
+hasMaterialType,leather,hasLength,shoulder bag,1
+hasOpeningType,zipper,hasLength,shoulder bag,1
+hasWaistline,natural,hasLength,shoulder bag,1
+hasSilhouette,straight,hasLength,shoulder bag,1
+belongsToCategory,upperbody,hasLength,shoulder bag,1
+depicts,bag,hasLength,shoulder bag,1
+hasLength,shoulder bag,hasWaistline,natural,1
+hasLength,shoulder bag,hasSilhouette,straight,1
+hasLength,shoulder bag,belongsToCategory,upperbody,1
+hasLength,shoulder bag,depicts,bag,1
+hasFabricTreatment,solid,hasPattern,striped,1
+hasOpeningType,slit,hasPattern,striped,1
+hasSleeveType,short,hasPattern,striped,1
+hasNeckline,round,hasPattern,striped,1
+hasLength,regular,hasPattern,striped,1
+hasWaistline,natural,hasPattern,striped,1
+hasSilhouette,horizontal,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,solid,1
+hasMaterialType,cotton,hasFabricTreatment,solid,1
+hasOpeningType,slit,hasFabricTreatment,solid,1
+hasNeckline,round,hasFabricTreatment,solid,1
+hasLength,regular,hasFabricTreatment,solid,1
+hasSilhouette,horizontal,hasFabricTreatment,solid,1
+hasFabricTreatment,solid,hasMaterialType,cotton,1
+hasOpeningType,slit,hasMaterialType,cotton,1
+hasSleeveType,short,hasMaterialType,cotton,1
+hasNeckline,round,hasMaterialType,cotton,1
+hasSilhouette,horizontal,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,slit,1
+hasFabricTreatment,solid,hasOpeningType,slit,1
+hasMaterialType,cotton,hasOpeningType,slit,1
+hasSleeveType,short,hasOpeningType,slit,1
+hasNeckline,round,hasOpeningType,slit,1
+hasLength,regular,hasOpeningType,slit,1
+hasWaistline,natural,hasOpeningType,slit,1
+hasSilhouette,horizontal,hasOpeningType,slit,1
+belongsToCategory,upperbody,hasOpeningType,slit,1
+depicts,bag,hasOpeningType,slit,1
+hasPattern,striped,hasSleeveType,short,1
+hasMaterialType,cotton,hasSleeveType,short,1
+hasOpeningType,slit,hasSleeveType,short,1
+hasSilhouette,horizontal,hasSleeveType,short,1
+hasPattern,striped,hasNeckline,round,1
+hasFabricTreatment,solid,hasNeckline,round,1
+hasMaterialType,cotton,hasNeckline,round,1
+hasOpeningType,slit,hasNeckline,round,1
+hasSilhouette,horizontal,hasNeckline,round,1
+hasPattern,striped,hasLength,regular,1
+hasFabricTreatment,solid,hasLength,regular,1
+hasOpeningType,slit,hasLength,regular,1
+hasSilhouette,horizontal,hasLength,regular,1
+hasPattern,striped,hasWaistline,natural,1
+hasOpeningType,slit,hasWaistline,natural,1
+hasSilhouette,horizontal,hasWaistline,natural,1
+hasPattern,striped,hasSilhouette,horizontal,1
+hasFabricTreatment,solid,hasSilhouette,horizontal,1
+hasMaterialType,cotton,hasSilhouette,horizontal,1
+hasOpeningType,slit,hasSilhouette,horizontal,1
+hasSleeveType,short,hasSilhouette,horizontal,1
+hasNeckline,round,hasSilhouette,horizontal,1
+hasLength,regular,hasSilhouette,horizontal,1
+hasWaistline,natural,hasSilhouette,horizontal,1
+belongsToCategory,upperbody,hasSilhouette,horizontal,1
+depicts,bag,hasSilhouette,horizontal,1
+hasOpeningType,slit,belongsToCategory,upperbody,1
+hasSilhouette,horizontal,belongsToCategory,upperbody,1
+hasOpeningType,slit,depicts,bag,1
+hasSilhouette,horizontal,depicts,bag,1
+hasSilhouette,shoulder bag,hasOpeningType,zipper,1
+hasOpeningType,zipper,hasSilhouette,shoulder bag,1
+hasLeatherType,no leather,hasPattern,solid color,1
+hasSleeveType,sleeveless,hasPattern,solid color,1
+hasPattern,solid color,hasLeatherType,no leather,1
+hasOpeningType,zipper closure,hasLeatherType,no leather,1
+hasLength,medium,hasLeatherType,no leather,1
+hasOpeningType,zipper closure,hasMaterialType,fabric,1
+hasLeatherType,no leather,hasOpeningType,zipper closure,1
+hasMaterialType,fabric,hasOpeningType,zipper closure,1
+hasSleeveType,sleeveless,hasOpeningType,zipper closure,1
+hasPattern,solid color,hasSleeveType,sleeveless,1
+hasOpeningType,zipper closure,hasSleeveType,sleeveless,1
+hasLength,medium,hasNeckline,round neckline,1
+hasLeatherType,no leather,hasLength,medium,1
+hasNeckline,round neckline,hasLength,medium,1
+hasMaterialType,fabric,hasFabricTreatment,non-treated,1
+hasOpeningType,zipper,hasFabricTreatment,non-treated,1
+hasPocketType,side pockets,hasFabricTreatment,non-treated,1
+hasSleeveType,short,hasFabricTreatment,non-treated,1
+hasLength,long,hasFabricTreatment,non-treated,1
+hasWaistline,natural,hasFabricTreatment,non-treated,1
+hasSilhouette,a-line,hasFabricTreatment,non-treated,1
+belongsToCategory,upperbody,hasFabricTreatment,non-treated,1
+depicts,bag,hasFabricTreatment,non-treated,1
+hasFabricTreatment,non-treated,hasMaterialType,fabric,1
+hasPocketType,side pockets,hasMaterialType,fabric,1
+hasFabricTreatment,non-treated,hasOpeningType,zipper,1
+hasFabricTreatment,non-treated,hasPocketType,side pockets,1
+hasMaterialType,fabric,hasPocketType,side pockets,1
+hasFabricTreatment,non-treated,hasSleeveType,short,1
+hasFabricTreatment,non-treated,hasLength,long,1
+hasFabricTreatment,non-treated,hasWaistline,natural,1
+hasFabricTreatment,non-treated,hasSilhouette,a-line,1
+hasFabricTreatment,non-treated,belongsToCategory,upperbody,1
+hasFabricTreatment,non-treated,depicts,bag,1
+hasFabricTreatment,water resistant,hasPattern,solid color,1
+hasMaterialType,polyester,hasPattern,solid color,1
+hasPocketType,interior pockets,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,water resistant,1
+hasMaterialType,polyester,hasFabricTreatment,water resistant,1
+hasOpeningType,zipper closure,hasFabricTreatment,water resistant,1
+hasPocketType,interior pockets,hasFabricTreatment,water resistant,1
+hasLength,short,hasFabricTreatment,water resistant,1
+hasSilhouette,shoulder bag,hasFabricTreatment,water resistant,1
+belongsToCategory,upperbody,hasFabricTreatment,water resistant,1
+depicts,bag,hasFabricTreatment,water resistant,1
+hasPattern,solid color,hasMaterialType,polyester,1
+hasFabricTreatment,water resistant,hasMaterialType,polyester,1
+hasOpeningType,zipper closure,hasMaterialType,polyester,1
+hasPocketType,interior pockets,hasMaterialType,polyester,1
+hasLength,short,hasMaterialType,polyester,1
+hasSilhouette,shoulder bag,hasMaterialType,polyester,1
+hasFabricTreatment,water resistant,hasOpeningType,zipper closure,1
+hasMaterialType,polyester,hasOpeningType,zipper closure,1
+hasPocketType,interior pockets,hasOpeningType,zipper closure,1
+hasLength,short,hasOpeningType,zipper closure,1
+hasPattern,solid color,hasPocketType,interior pockets,1
+hasFabricTreatment,water resistant,hasPocketType,interior pockets,1
+hasMaterialType,polyester,hasPocketType,interior pockets,1
+hasOpeningType,zipper closure,hasPocketType,interior pockets,1
+hasLength,short,hasPocketType,interior pockets,1
+hasSilhouette,shoulder bag,hasPocketType,interior pockets,1
+belongsToCategory,upperbody,hasPocketType,interior pockets,1
+depicts,bag,hasPocketType,interior pockets,1
+hasFabricTreatment,water resistant,hasLength,short,1
+hasMaterialType,polyester,hasLength,short,1
+hasOpeningType,zipper closure,hasLength,short,1
+hasPocketType,interior pockets,hasLength,short,1
+hasFabricTreatment,water resistant,hasSilhouette,shoulder bag,1
+hasMaterialType,polyester,hasSilhouette,shoulder bag,1
+hasPocketType,interior pockets,hasSilhouette,shoulder bag,1
+hasFabricTreatment,water resistant,belongsToCategory,upperbody,1
+hasPocketType,interior pockets,belongsToCategory,upperbody,1
+hasFabricTreatment,water resistant,depicts,bag,1
+hasPocketType,interior pockets,depicts,bag,1
+hasFabricTreatment,plain weave,hasPattern,solid color,1
+hasWaistline,high,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,plain weave,1
+hasMaterialType,fabric,hasFabricTreatment,plain weave,1
+hasLength,long,hasFabricTreatment,plain weave,1
+hasWaistline,high,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasMaterialType,fabric,1
+hasWaistline,high,hasMaterialType,fabric,1
+hasWaistline,high,hasOpeningType,zipper,1
+hasWaistline,high,hasSleeveType,short,1
+hasWaistline,high,hasNeckline,round,1
+hasFabricTreatment,plain weave,hasLength,long,1
+hasWaistline,high,hasLength,long,1
+hasPattern,solid color,hasWaistline,high,1
+hasFabricTreatment,plain weave,hasWaistline,high,1
+hasMaterialType,fabric,hasWaistline,high,1
+hasOpeningType,zipper,hasWaistline,high,1
+hasSleeveType,short,hasWaistline,high,1
+hasNeckline,round,hasWaistline,high,1
+hasLength,long,hasWaistline,high,1
+hasSilhouette,a-line,hasWaistline,high,1
+belongsToCategory,upperbody,hasWaistline,high,1
+depicts,bag,hasWaistline,high,1
+hasWaistline,high,hasSilhouette,a-line,1
+hasWaistline,high,belongsToCategory,upperbody,1
+hasWaistline,high,depicts,bag,1
+hasNeckline,v-neck,hasMaterialType,leather,1
+hasNeckline,v-neck,hasOpeningType,zipper,1
+hasNeckline,v-neck,hasPocketType,side pockets,1
+hasNeckline,v-neck,hasSleeveType,short,1
+hasMaterialType,leather,hasNeckline,v-neck,1
+hasOpeningType,zipper,hasNeckline,v-neck,1
+hasPocketType,side pockets,hasNeckline,v-neck,1
+hasSleeveType,short,hasNeckline,v-neck,1
+hasLength,long,hasNeckline,v-neck,1
+hasWaistline,natural,hasNeckline,v-neck,1
+hasSilhouette,a-line,hasNeckline,v-neck,1
+belongsToCategory,upperbody,hasNeckline,v-neck,1
+depicts,bag,hasNeckline,v-neck,1
+hasNeckline,v-neck,hasLength,long,1
+hasNeckline,v-neck,hasWaistline,natural,1
+hasNeckline,v-neck,hasSilhouette,a-line,1
+hasNeckline,v-neck,belongsToCategory,upperbody,1
+hasNeckline,v-neck,depicts,bag,1
+hasPattern,plaid,hasAnimalPattern,animal pattern,1
+hasFabricTreatment,suede,hasAnimalPattern,animal pattern,1
+hasMaterialType,leather,hasAnimalPattern,animal pattern,1
+hasOpeningType,zipper,hasAnimalPattern,animal pattern,1
+hasSleeveType,sleeveless,hasAnimalPattern,animal pattern,1
+hasNeckline,round,hasAnimalPattern,animal pattern,1
+hasLength,short,hasAnimalPattern,animal pattern,1
+hasSilhouette,a-line,hasAnimalPattern,animal pattern,1
+belongsToCategory,upperbody,hasAnimalPattern,animal pattern,1
+depicts,bag,hasAnimalPattern,animal pattern,1
+hasAnimalPattern,animal pattern,hasPattern,plaid,1
+hasFabricTreatment,suede,hasPattern,plaid,1
+hasSleeveType,sleeveless,hasPattern,plaid,1
+hasNeckline,round,hasPattern,plaid,1
+hasAnimalPattern,animal pattern,hasFabricTreatment,suede,1
+hasPattern,plaid,hasFabricTreatment,suede,1
+hasSleeveType,sleeveless,hasFabricTreatment,suede,1
+hasLength,short,hasFabricTreatment,suede,1
+hasSilhouette,a-line,hasFabricTreatment,suede,1
+hasAnimalPattern,animal pattern,hasMaterialType,leather,1
+hasAnimalPattern,animal pattern,hasOpeningType,zipper,1
+hasAnimalPattern,animal pattern,hasSleeveType,sleeveless,1
+hasPattern,plaid,hasSleeveType,sleeveless,1
+hasFabricTreatment,suede,hasSleeveType,sleeveless,1
+hasAnimalPattern,animal pattern,hasNeckline,round,1
+hasPattern,plaid,hasNeckline,round,1
+hasAnimalPattern,animal pattern,hasLength,short,1
+hasFabricTreatment,suede,hasLength,short,1
+hasAnimalPattern,animal pattern,hasSilhouette,a-line,1
+hasFabricTreatment,suede,hasSilhouette,a-line,1
+hasAnimalPattern,animal pattern,belongsToCategory,upperbody,1
+hasAnimalPattern,animal pattern,depicts,bag,1
+hasSilhouette,bag,hasMaterialType,fabric,1
+hasSilhouette,bag,hasLength,long,1
+hasMaterialType,fabric,hasSilhouette,bag,1
+hasLength,long,hasSilhouette,bag,1
+belongsToCategory,upperbody,hasSilhouette,bag,1
+hasSilhouette,bag,belongsToCategory,upperbody,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasOpeningType,zipper closure,hasPattern,striped,1
+hasPocketType,exterior pocket,hasPattern,striped,1
+hasSleeveType,short-sleeve,hasPattern,striped,1
+hasLength,medium,hasPattern,striped,1
+hasWaistline,natural-waist,hasPattern,striped,1
+hasSilhouette,shoulder bag,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1
+hasOpeningType,zipper closure,hasFabricTreatment,plain weave,1
+hasPocketType,exterior pocket,hasFabricTreatment,plain weave,1
+hasSleeveType,short-sleeve,hasFabricTreatment,plain weave,1
+hasLength,medium,hasFabricTreatment,plain weave,1
+hasWaistline,natural-waist,hasFabricTreatment,plain weave,1
+hasSilhouette,shoulder bag,hasFabricTreatment,plain weave,1
+hasOpeningType,zipper closure,hasMaterialType,cotton,1
+hasPocketType,exterior pocket,hasMaterialType,cotton,1
+hasSleeveType,short-sleeve,hasMaterialType,cotton,1
+hasLength,medium,hasMaterialType,cotton,1
+hasWaistline,natural-waist,hasMaterialType,cotton,1
+hasSilhouette,shoulder bag,hasMaterialType,cotton,1
+hasPattern,striped,hasOpeningType,zipper closure,1
+hasFabricTreatment,plain weave,hasOpeningType,zipper closure,1
+hasMaterialType,cotton,hasOpeningType,zipper closure,1
+hasPocketType,exterior pocket,hasOpeningType,zipper closure,1
+hasSleeveType,short-sleeve,hasOpeningType,zipper closure,1
+hasWaistline,natural-waist,hasOpeningType,zipper closure,1
+hasPattern,striped,hasPocketType,exterior pocket,1
+hasFabricTreatment,plain weave,hasPocketType,exterior pocket,1
+hasMaterialType,cotton,hasPocketType,exterior pocket,1
+hasOpeningType,zipper closure,hasPocketType,exterior pocket,1
+hasSleeveType,short-sleeve,hasPocketType,exterior pocket,1
+hasLength,medium,hasPocketType,exterior pocket,1
+hasWaistline,natural-waist,hasPocketType,exterior pocket,1
+hasSilhouette,shoulder bag,hasPocketType,exterior pocket,1
+belongsToCategory,upperbody,hasPocketType,exterior pocket,1
+depicts,bag,hasPocketType,exterior pocket,1
+hasPattern,striped,hasSleeveType,short-sleeve,1
+hasFabricTreatment,plain weave,hasSleeveType,short-sleeve,1
+hasMaterialType,cotton,hasSleeveType,short-sleeve,1
+hasOpeningType,zipper closure,hasSleeveType,short-sleeve,1
+hasPocketType,exterior pocket,hasSleeveType,short-sleeve,1
+hasLength,medium,hasSleeveType,short-sleeve,1
+hasWaistline,natural-waist,hasSleeveType,short-sleeve,1
+hasSilhouette,shoulder bag,hasSleeveType,short-sleeve,1
+hasPattern,striped,hasLength,medium,1
+hasFabricTreatment,plain weave,hasLength,medium,1
+hasMaterialType,cotton,hasLength,medium,1
+hasPocketType,exterior pocket,hasLength,medium,1
+hasSleeveType,short-sleeve,hasLength,medium,1
+hasWaistline,natural-waist,hasLength,medium,1
+hasPattern,striped,hasWaistline,natural-waist,1
+hasFabricTreatment,plain weave,hasWaistline,natural-waist,1
+hasMaterialType,cotton,hasWaistline,natural-waist,1
+hasOpeningType,zipper closure,hasWaistline,natural-waist,1
+hasPocketType,exterior pocket,hasWaistline,natural-waist,1
+hasSleeveType,short-sleeve,hasWaistline,natural-waist,1
+hasLength,medium,hasWaistline,natural-waist,1
+hasPattern,striped,hasSilhouette,shoulder bag,1
+hasFabricTreatment,plain weave,hasSilhouette,shoulder bag,1
+hasMaterialType,cotton,hasSilhouette,shoulder bag,1
+hasPocketType,exterior pocket,hasSilhouette,shoulder bag,1
+hasSleeveType,short-sleeve,hasSilhouette,shoulder bag,1
+hasPocketType,exterior pocket,belongsToCategory,upperbody,1
+hasPocketType,exterior pocket,depicts,bag,1
+hasLeatherType,suede,hasPattern,solid color,1
+hasNickname,purse,hasPattern,solid color,1
+hasPattern,solid color,hasLeatherType,suede,1
+hasMaterialType,leather,hasLeatherType,suede,1
+hasOpeningType,zipper,hasLeatherType,suede,1
+hasNeckline,round,hasLeatherType,suede,1
+hasLength,medium,hasLeatherType,suede,1
+hasSilhouette,rectangular,hasLeatherType,suede,1
+hasNickname,purse,hasLeatherType,suede,1
+belongsToCategory,upperbody,hasLeatherType,suede,1
+depicts,bag,hasLeatherType,suede,1
+hasLeatherType,suede,hasMaterialType,leather,1
+hasNickname,purse,hasMaterialType,leather,1
+hasLeatherType,suede,hasOpeningType,zipper,1
+hasNickname,purse,hasOpeningType,zipper,1
+hasLeatherType,suede,hasNeckline,round,1
+hasNickname,purse,hasNeckline,round,1
+hasLeatherType,suede,hasLength,medium,1
+hasSilhouette,rectangular,hasLength,medium,1
+hasNickname,purse,hasLength,medium,1
+hasLeatherType,suede,hasSilhouette,rectangular,1
+hasLength,medium,hasSilhouette,rectangular,1
+hasNickname,purse,hasSilhouette,rectangular,1
+hasPattern,solid color,hasNickname,purse,1
+hasLeatherType,suede,hasNickname,purse,1
+hasMaterialType,leather,hasNickname,purse,1
+hasOpeningType,zipper,hasNickname,purse,1
+hasNeckline,round,hasNickname,purse,1
+hasLength,medium,hasNickname,purse,1
+hasSilhouette,rectangular,hasNickname,purse,1
+belongsToCategory,upperbody,hasNickname,purse,1
+depicts,bag,hasNickname,purse,1
+hasLeatherType,suede,belongsToCategory,upperbody,1
+hasNickname,purse,belongsToCategory,upperbody,1
+hasLeatherType,suede,depicts,bag,1
+hasNickname,purse,depicts,bag,1
+hasFabricTreatment,no special treatment,hasPattern,solid color pattern,1
+hasLeatherType,no leather,hasPattern,solid color pattern,1
+hasMaterialType,fabric,hasPattern,solid color pattern,1
+hasOpeningType,zipper opening,hasPattern,solid color pattern,1
+hasPocketType,side pocket,hasPattern,solid color pattern,1
+hasSleeveType,sleeveless,hasPattern,solid color pattern,1
+hasNeckline,round neckline,hasPattern,solid color pattern,1
+hasLength,short,hasPattern,solid color pattern,1
+hasWaistline,natural-waist,hasPattern,solid color pattern,1
+hasSilhouette,shoulder bag,hasPattern,solid color pattern,1
+belongsToCategory,upperbody,hasPattern,solid color pattern,1
+depicts,bag,hasPattern,solid color pattern,1
+hasPattern,solid color pattern,hasFabricTreatment,no special treatment,1
+hasLeatherType,no leather,hasFabricTreatment,no special treatment,1
+hasMaterialType,fabric,hasFabricTreatment,no special treatment,1
+hasOpeningType,zipper opening,hasFabricTreatment,no special treatment,1
+hasPocketType,side pocket,hasFabricTreatment,no special treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,no special treatment,1
+hasNeckline,round neckline,hasFabricTreatment,no special treatment,1
+hasLength,short,hasFabricTreatment,no special treatment,1
+hasWaistline,natural-waist,hasFabricTreatment,no special treatment,1
+hasSilhouette,shoulder bag,hasFabricTreatment,no special treatment,1
+belongsToCategory,upperbody,hasFabricTreatment,no special treatment,1
+depicts,bag,hasFabricTreatment,no special treatment,1
+hasPattern,solid color pattern,hasLeatherType,no leather,1
+hasFabricTreatment,no special treatment,hasLeatherType,no leather,1
+hasOpeningType,zipper opening,hasLeatherType,no leather,1
+hasPocketType,side pocket,hasLeatherType,no leather,1
+hasLength,short,hasLeatherType,no leather,1
+hasWaistline,natural-waist,hasLeatherType,no leather,1
+hasPattern,solid color pattern,hasMaterialType,fabric,1
+hasFabricTreatment,no special treatment,hasMaterialType,fabric,1
+hasOpeningType,zipper opening,hasMaterialType,fabric,1
+hasPocketType,side pocket,hasMaterialType,fabric,1
+hasLength,short,hasMaterialType,fabric,1
+hasWaistline,natural-waist,hasMaterialType,fabric,1
+hasPattern,solid color pattern,hasOpeningType,zipper opening,1
+hasFabricTreatment,no special treatment,hasOpeningType,zipper opening,1
+hasLeatherType,no leather,hasOpeningType,zipper opening,1
+hasMaterialType,fabric,hasOpeningType,zipper opening,1
+hasPocketType,side pocket,hasOpeningType,zipper opening,1
+hasSleeveType,sleeveless,hasOpeningType,zipper opening,1
+hasNeckline,round neckline,hasOpeningType,zipper opening,1
+hasLength,short,hasOpeningType,zipper opening,1
+hasWaistline,natural-waist,hasOpeningType,zipper opening,1
+hasSilhouette,shoulder bag,hasOpeningType,zipper opening,1
+belongsToCategory,upperbody,hasOpeningType,zipper opening,1
+depicts,bag,hasOpeningType,zipper opening,1
+hasPattern,solid color pattern,hasPocketType,side pocket,1
+hasFabricTreatment,no special treatment,hasPocketType,side pocket,1
+hasLeatherType,no leather,hasPocketType,side pocket,1
+hasMaterialType,fabric,hasPocketType,side pocket,1
+hasOpeningType,zipper opening,hasPocketType,side pocket,1
+hasSleeveType,sleeveless,hasPocketType,side pocket,1
+hasNeckline,round neckline,hasPocketType,side pocket,1
+hasLength,short,hasPocketType,side pocket,1
+hasWaistline,natural-waist,hasPocketType,side pocket,1
+hasSilhouette,shoulder bag,hasPocketType,side pocket,1
+belongsToCategory,upperbody,hasPocketType,side pocket,1
+depicts,bag,hasPocketType,side pocket,1
+hasPattern,solid color pattern,hasSleeveType,sleeveless,1
+hasFabricTreatment,no special treatment,hasSleeveType,sleeveless,1
+hasOpeningType,zipper opening,hasSleeveType,sleeveless,1
+hasPocketType,side pocket,hasSleeveType,sleeveless,1
+hasWaistline,natural-waist,hasSleeveType,sleeveless,1
+hasPattern,solid color pattern,hasNeckline,round neckline,1
+hasFabricTreatment,no special treatment,hasNeckline,round neckline,1
+hasOpeningType,zipper opening,hasNeckline,round neckline,1
+hasPocketType,side pocket,hasNeckline,round neckline,1
+hasLength,short,hasNeckline,round neckline,1
+hasWaistline,natural-waist,hasNeckline,round neckline,1
+hasPattern,solid color pattern,hasLength,short,1
+hasFabricTreatment,no special treatment,hasLength,short,1
+hasLeatherType,no leather,hasLength,short,1
+hasMaterialType,fabric,hasLength,short,1
+hasOpeningType,zipper opening,hasLength,short,1
+hasPocketType,side pocket,hasLength,short,1
+hasNeckline,round neckline,hasLength,short,1
+hasWaistline,natural-waist,hasLength,short,1
+hasPattern,solid color pattern,hasWaistline,natural-waist,1
+hasFabricTreatment,no special treatment,hasWaistline,natural-waist,1
+hasLeatherType,no leather,hasWaistline,natural-waist,1
+hasMaterialType,fabric,hasWaistline,natural-waist,1
+hasOpeningType,zipper opening,hasWaistline,natural-waist,1
+hasPocketType,side pocket,hasWaistline,natural-waist,1
+hasSleeveType,sleeveless,hasWaistline,natural-waist,1
+hasNeckline,round neckline,hasWaistline,natural-waist,1
+hasLength,short,hasWaistline,natural-waist,1
+hasPattern,solid color pattern,hasSilhouette,shoulder bag,1
+hasFabricTreatment,no special treatment,hasSilhouette,shoulder bag,1
+hasOpeningType,zipper opening,hasSilhouette,shoulder bag,1
+hasPocketType,side pocket,hasSilhouette,shoulder bag,1
+hasPattern,solid color pattern,belongsToCategory,upperbody,1
+hasFabricTreatment,no special treatment,belongsToCategory,upperbody,1
+hasOpeningType,zipper opening,belongsToCategory,upperbody,1
+hasPocketType,side pocket,belongsToCategory,upperbody,1
+hasPattern,solid color pattern,depicts,bag,1
+hasFabricTreatment,no special treatment,depicts,bag,1
+hasOpeningType,zipper opening,depicts,bag,1
+hasPocketType,side pocket,depicts,bag,1
+hasLeatherType,full-grain leather,hasPattern,solid color,1
+hasPocketType,side pockets,hasPattern,solid color,1
+hasSleeveType,long-sleeve,hasPattern,solid color,1
+hasLength,medium-length,hasPattern,solid color,1
+hasWaistline,high-waisted,hasPattern,solid color,1
+hasPattern,solid color,hasLeatherType,full-grain leather,1
+hasOpeningType,zipper closure,hasLeatherType,full-grain leather,1
+hasPocketType,side pockets,hasLeatherType,full-grain leather,1
+hasSleeveType,long-sleeve,hasLeatherType,full-grain leather,1
+hasNeckline,round neckline,hasLeatherType,full-grain leather,1
+hasLength,medium-length,hasLeatherType,full-grain leather,1
+hasSilhouette,shoulder bag,hasLeatherType,full-grain leather,1
+hasOpeningType,zipper closure,hasMaterialType,leather,1
+hasSleeveType,long-sleeve,hasMaterialType,leather,1
+hasNeckline,round neckline,hasMaterialType,leather,1
+hasLength,medium-length,hasMaterialType,leather,1
+hasLeatherType,full-grain leather,hasOpeningType,zipper closure,1
+hasMaterialType,leather,hasOpeningType,zipper closure,1
+hasPocketType,side pockets,hasOpeningType,zipper closure,1
+hasSleeveType,long-sleeve,hasOpeningType,zipper closure,1
+hasLength,medium-length,hasOpeningType,zipper closure,1
+hasWaistline,high-waisted,hasOpeningType,zipper closure,1
+hasPattern,solid color,hasPocketType,side pockets,1
+hasLeatherType,full-grain leather,hasPocketType,side pockets,1
+hasOpeningType,zipper closure,hasPocketType,side pockets,1
+hasSleeveType,long-sleeve,hasPocketType,side pockets,1
+hasNeckline,round neckline,hasPocketType,side pockets,1
+hasLength,medium-length,hasPocketType,side pockets,1
+hasSilhouette,shoulder bag,hasPocketType,side pockets,1
+hasPattern,solid color,hasSleeveType,long-sleeve,1
+hasLeatherType,full-grain leather,hasSleeveType,long-sleeve,1
+hasMaterialType,leather,hasSleeveType,long-sleeve,1
+hasOpeningType,zipper closure,hasSleeveType,long-sleeve,1
+hasPocketType,side pockets,hasSleeveType,long-sleeve,1
+hasNeckline,round neckline,hasSleeveType,long-sleeve,1
+hasLength,medium-length,hasSleeveType,long-sleeve,1
+hasWaistline,high-waisted,hasSleeveType,long-sleeve,1
+hasSilhouette,shoulder bag,hasSleeveType,long-sleeve,1
+belongsToCategory,upperbody,hasSleeveType,long-sleeve,1
+depicts,bag,hasSleeveType,long-sleeve,1
+hasLeatherType,full-grain leather,hasNeckline,round neckline,1
+hasMaterialType,leather,hasNeckline,round neckline,1
+hasPocketType,side pockets,hasNeckline,round neckline,1
+hasSleeveType,long-sleeve,hasNeckline,round neckline,1
+hasLength,medium-length,hasNeckline,round neckline,1
+hasWaistline,high-waisted,hasNeckline,round neckline,1
+hasPattern,solid color,hasLength,medium-length,1
+hasLeatherType,full-grain leather,hasLength,medium-length,1
+hasMaterialType,leather,hasLength,medium-length,1
+hasOpeningType,zipper closure,hasLength,medium-length,1
+hasPocketType,side pockets,hasLength,medium-length,1
+hasSleeveType,long-sleeve,hasLength,medium-length,1
+hasNeckline,round neckline,hasLength,medium-length,1
+hasWaistline,high-waisted,hasLength,medium-length,1
+hasSilhouette,shoulder bag,hasLength,medium-length,1
+belongsToCategory,upperbody,hasLength,medium-length,1
+depicts,bag,hasLength,medium-length,1
+hasPattern,solid color,hasWaistline,high-waisted,1
+hasOpeningType,zipper closure,hasWaistline,high-waisted,1
+hasSleeveType,long-sleeve,hasWaistline,high-waisted,1
+hasNeckline,round neckline,hasWaistline,high-waisted,1
+hasLength,medium-length,hasWaistline,high-waisted,1
+hasSilhouette,shoulder bag,hasWaistline,high-waisted,1
+hasLeatherType,full-grain leather,hasSilhouette,shoulder bag,1
+hasPocketType,side pockets,hasSilhouette,shoulder bag,1
+hasSleeveType,long-sleeve,hasSilhouette,shoulder bag,1
+hasLength,medium-length,hasSilhouette,shoulder bag,1
+hasWaistline,high-waisted,hasSilhouette,shoulder bag,1
+hasSleeveType,long-sleeve,belongsToCategory,upperbody,1
+hasLength,medium-length,belongsToCategory,upperbody,1
+hasSleeveType,long-sleeve,depicts,bag,1
+hasLength,medium-length,depicts,bag,1
+hasLength,medium length,hasMaterialType,leather,1
+hasWaistline,no waist,hasMaterialType,leather,1
+hasMaterialType,leather,hasLength,medium length,1
+hasWaistline,no waist,hasLength,medium length,1
+hasSilhouette,shoulder bag,hasLength,medium length,1
+belongsToCategory,upperbody,hasLength,medium length,1
+depicts,bag,hasLength,medium length,1
+hasMaterialType,leather,hasWaistline,no waist,1
+hasLength,medium length,hasWaistline,no waist,1
+hasSilhouette,shoulder bag,hasWaistline,no waist,1
+belongsToCategory,upperbody,hasWaistline,no waist,1
+depicts,bag,hasWaistline,no waist,1
+hasLength,medium length,hasSilhouette,shoulder bag,1
+hasWaistline,no waist,hasSilhouette,shoulder bag,1
+hasLength,medium length,belongsToCategory,upperbody,1
+hasWaistline,no waist,belongsToCategory,upperbody,1
+hasLength,medium length,depicts,bag,1
+hasWaistline,no waist,depicts,bag,1

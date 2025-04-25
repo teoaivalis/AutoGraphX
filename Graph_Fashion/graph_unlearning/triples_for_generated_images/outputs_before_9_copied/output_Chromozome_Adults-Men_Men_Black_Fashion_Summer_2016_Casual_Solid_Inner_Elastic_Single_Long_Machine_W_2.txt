@@ -1,0 +1,83 @@
+A triple is a set of three elements: a subject, a predicate, and an object. It is used to represent a statement or a relationship between entities.
+
+**Relationships**
+
+The relationships we can extract from the image are:
+
+*   **Depicts**: The fashion item depicted in the image.
+*   **Belongs_to_category**: The supercategory of the garment.
+*   **Has_nickname**: A valid nickname for the garment.
+*   **Has_silhouette**: The silhouette of the garment.
+*   **Has_waistline**: The type of waistline.
+*   **Has_length**: The length of the garment.
+*   **Has_collar_type**: The style of collar.
+*   **Has_lapel_type**: The type of lapel.
+*   **Has_neckline**: The neckline of the garment.
+*   **Has_sleeve_type**: The type of sleeve.
+*   **Has_pocket_type**: The type of pocket.
+*   **Has_opening_type**: The type of opening.
+*   **Has_material_type**: The type of material used in the garment.
+*   **Has_leather_type**: The type of leather used (if applicable).
+*   **Has_fabric_treatment**: Any textile finishing or techniques used.
+*   **Has_pattern**: The pattern type.
+*   **Has_animal_pattern**: The animal pattern (if applicable).
+
+**Attributes**
+
+The attributes we can extract from the image are:
+
+*   **Depicts**: "Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2"
+*   **Belongs_to_category**: "garment parts"
+*   **Has_nickname**: "None"
+*   **Has_silhouette**: "straight"
+*   **Has_waistline**: "high"
+*   **Has_length**: "long"
+*   **Has_collar_type**: "none"
+*   **Has_lapel_type**: "none"
+*   **Has_neckline**: "round"
+*   **Has_sleeve_type**: "short"
+*   **Has_pocket_type**: "none"
+*   **Has_opening_type**: "zipper"
+*   **Has_material_type**: "cotton"
+*   **Has_leather_type**: "None"
+*   **Has_fabric_treatment**: "stretchy"
+*   **Has_pattern**: "solid"
+*   **Has_animal_pattern**: "None"
+
+**Triples**
+
+The triples that describe the image are:
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, depicts, Men's underwear)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, belongs_to_category, garment parts)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_nickname, None)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_silhouette, straight)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_waistline, high)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_length, long)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_collar_type, none)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_lapel_type, none)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_neckline, round)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_sleeve_type, short)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_pocket_type, none)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_opening_type, zipper)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_material_type, cotton)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_leather_type, None)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_fabric_treatment, stretchy)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_pattern, solid)
+
+(Chromozome_Adults-Men_Men_Black_Fashion_Summer_2016_Casual_Solid_Inner_Elastic_Single_Long_Machine_W_2, has_animal_pattern, None)

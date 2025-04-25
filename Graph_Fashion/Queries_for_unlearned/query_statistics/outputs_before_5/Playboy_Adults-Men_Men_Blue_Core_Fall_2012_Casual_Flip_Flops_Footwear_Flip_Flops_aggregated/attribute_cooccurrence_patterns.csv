@@ -1,0 +1,957 @@
+relation1,attribute1,relation2,attribute2,frequency
+depicts,shoes,hasSilhouette,flat,39
+depicts,shoes,belongsToCategory,lowerbody,39
+hasSilhouette,flat,depicts,shoes,39
+belongsToCategory,lowerbody,depicts,shoes,39
+hasSilhouette,flat,hasLength,short,38
+depicts,shoes,hasLength,short,38
+hasLength,short,hasSilhouette,flat,38
+belongsToCategory,lowerbody,hasSilhouette,flat,38
+hasSilhouette,flat,belongsToCategory,lowerbody,38
+hasLength,short,depicts,shoes,38
+belongsToCategory,lowerbody,hasLength,short,37
+hasLength,short,belongsToCategory,lowerbody,37
+hasLength,short,hasSleeveType,sleeveless,26
+hasSilhouette,flat,hasSleeveType,sleeveless,26
+belongsToCategory,lowerbody,hasSleeveType,sleeveless,26
+depicts,shoes,hasSleeveType,sleeveless,26
+hasSleeveType,sleeveless,hasLength,short,26
+hasSleeveType,sleeveless,hasSilhouette,flat,26
+hasSleeveType,sleeveless,belongsToCategory,lowerbody,26
+hasSleeveType,sleeveless,depicts,shoes,26
+belongsToCategory,lowerbody,hasOpeningType,closed,26
+depicts,shoes,hasOpeningType,closed,26
+hasOpeningType,closed,belongsToCategory,lowerbody,26
+hasOpeningType,closed,depicts,shoes,26
+hasLength,short,hasMaterialType,fabric,25
+hasSilhouette,flat,hasMaterialType,fabric,25
+depicts,shoes,hasMaterialType,fabric,25
+hasMaterialType,fabric,hasLength,short,25
+hasMaterialType,fabric,hasSilhouette,flat,25
+hasMaterialType,fabric,depicts,shoes,25
+hasSilhouette,flat,hasOpeningType,closed,25
+hasOpeningType,closed,hasSilhouette,flat,25
+belongsToCategory,lowerbody,hasMaterialType,fabric,24
+hasMaterialType,fabric,belongsToCategory,lowerbody,24
+hasLength,short,hasOpeningType,closed,24
+hasOpeningType,closed,hasLength,short,24
+hasSleeveType,sleeveless,hasMaterialType,fabric,20
+hasMaterialType,fabric,hasSleeveType,sleeveless,20
+hasSleeveType,sleeveless,hasOpeningType,closed,18
+hasOpeningType,closed,hasSleeveType,sleeveless,18
+hasOpeningType,closed,hasMaterialType,fabric,15
+hasMaterialType,fabric,hasOpeningType,closed,15
+depicts,shoes,hasNeckline,round,14
+hasNeckline,round,depicts,shoes,14
+belongsToCategory,lowerbody,hasFabricTreatment,smooth,13
+depicts,shoes,hasFabricTreatment,smooth,13
+hasLength,short,hasNeckline,round,13
+hasSilhouette,flat,hasNeckline,round,13
+belongsToCategory,lowerbody,hasNeckline,round,13
+hasNeckline,round,hasLength,short,13
+hasNeckline,round,hasSilhouette,flat,13
+hasFabricTreatment,smooth,belongsToCategory,lowerbody,13
+hasNeckline,round,belongsToCategory,lowerbody,13
+hasFabricTreatment,smooth,depicts,shoes,13
+hasSilhouette,flat,hasFabricTreatment,smooth,12
+hasFabricTreatment,smooth,hasSilhouette,flat,12
+hasLength,short,hasFabricTreatment,smooth,11
+hasFabricTreatment,smooth,hasLength,short,11
+belongsToCategory,lowerbody,hasMaterialType,leather,10
+depicts,shoes,hasMaterialType,leather,10
+hasMaterialType,leather,belongsToCategory,lowerbody,10
+hasMaterialType,leather,depicts,shoes,10
+hasSilhouette,flat,hasMaterialType,leather,9
+hasMaterialType,leather,hasSilhouette,flat,9
+hasLength,short,hasFabricTreatment,plain weave,9
+hasSilhouette,flat,hasFabricTreatment,plain weave,9
+depicts,shoes,hasFabricTreatment,plain weave,9
+hasFabricTreatment,plain weave,hasLength,short,9
+hasFabricTreatment,plain weave,hasSilhouette,flat,9
+hasFabricTreatment,plain weave,depicts,shoes,9
+depicts,shoes,hasSleeveType,short,9
+hasSleeveType,short,depicts,shoes,9
+hasLength,short,hasPattern,striped,8
+hasSilhouette,flat,hasPattern,striped,8
+belongsToCategory,lowerbody,hasPattern,striped,8
+depicts,shoes,hasPattern,striped,8
+hasMaterialType,fabric,hasFabricTreatment,smooth,8
+hasFabricTreatment,smooth,hasMaterialType,fabric,8
+hasNeckline,round,hasSleeveType,sleeveless,8
+hasSleeveType,sleeveless,hasNeckline,round,8
+hasPattern,striped,hasLength,short,8
+hasPattern,striped,hasSilhouette,flat,8
+hasPattern,striped,belongsToCategory,lowerbody,8
+hasPattern,striped,depicts,shoes,8
+hasOpeningType,closed,hasMaterialType,leather,8
+hasLength,short,hasMaterialType,leather,8
+hasMaterialType,leather,hasOpeningType,closed,8
+hasMaterialType,leather,hasLength,short,8
+hasMaterialType,fabric,hasFabricTreatment,plain weave,8
+belongsToCategory,lowerbody,hasFabricTreatment,plain weave,8
+hasFabricTreatment,plain weave,hasMaterialType,fabric,8
+hasFabricTreatment,plain weave,belongsToCategory,lowerbody,8
+hasSleeveType,short,hasSilhouette,flat,8
+hasSilhouette,flat,hasSleeveType,short,8
+belongsToCategory,lowerbody,hasSleeveType,short,8
+hasSleeveType,short,belongsToCategory,lowerbody,8
+hasMaterialType,fabric,hasPattern,solid color,8
+hasSleeveType,sleeveless,hasPattern,solid color,8
+hasLength,short,hasPattern,solid color,8
+hasSilhouette,flat,hasPattern,solid color,8
+belongsToCategory,lowerbody,hasPattern,solid color,8
+depicts,shoes,hasPattern,solid color,8
+hasPattern,solid color,hasMaterialType,fabric,8
+hasPattern,solid color,hasSleeveType,sleeveless,8
+hasPattern,solid color,hasLength,short,8
+hasPattern,solid color,hasSilhouette,flat,8
+hasPattern,solid color,belongsToCategory,lowerbody,8
+hasPattern,solid color,depicts,shoes,8
+hasMaterialType,fabric,hasPattern,striped,7
+hasNeckline,round,hasFabricTreatment,smooth,7
+hasPattern,striped,hasMaterialType,fabric,7
+hasNeckline,round,hasMaterialType,fabric,7
+hasFabricTreatment,smooth,hasNeckline,round,7
+hasMaterialType,fabric,hasNeckline,round,7
+hasOpeningType,closed,hasFabricTreatment,smooth,7
+hasFabricTreatment,smooth,hasOpeningType,closed,7
+hasNeckline,round,hasOpeningType,closed,7
+hasOpeningType,closed,hasNeckline,round,7
+hasSleeveType,sleeveless,hasFabricTreatment,plain weave,7
+hasFabricTreatment,plain weave,hasSleeveType,sleeveless,7
+hasSleeveType,sleeveless,hasFabricTreatment,smooth,6
+hasFabricTreatment,smooth,hasSleeveType,sleeveless,6
+hasOpeningType,closed,hasFabricTreatment,plain weave,6
+hasFabricTreatment,plain weave,hasOpeningType,closed,6
+hasNeckline,round,hasMaterialType,leather,5
+hasMaterialType,leather,hasNeckline,round,5
+hasSleeveType,sleeveless,hasPattern,striped,4
+hasPattern,striped,hasSleeveType,sleeveless,4
+hasMaterialType,leather,hasFabricTreatment,smooth,4
+hasFabricTreatment,smooth,hasMaterialType,leather,4
+hasPocketType,no pocket,hasMaterialType,fabric,4
+hasMaterialType,fabric,hasPocketType,no pocket,4
+hasSleeveType,sleeveless,hasPocketType,no pocket,4
+hasLength,short,hasPocketType,no pocket,4
+hasSilhouette,flat,hasPocketType,no pocket,4
+belongsToCategory,lowerbody,hasPocketType,no pocket,4
+depicts,shoes,hasPocketType,no pocket,4
+hasPocketType,no pocket,hasSleeveType,sleeveless,4
+hasPocketType,no pocket,hasLength,short,4
+hasPocketType,no pocket,hasSilhouette,flat,4
+hasPocketType,no pocket,belongsToCategory,lowerbody,4
+hasPocketType,no pocket,depicts,shoes,4
+hasSleeveType,sleeveless,hasMaterialType,leather,4
+hasMaterialType,leather,hasSleeveType,sleeveless,4
+hasNeckline,round,hasSleeveType,short,4
+hasSleeveType,short,hasNeckline,round,4
+hasOpeningType,closed,hasPattern,solid color,4
+hasPattern,solid color,hasOpeningType,closed,4
+hasFabricTreatment,smooth,hasPattern,striped,3
+hasNeckline,round,hasPattern,striped,3
+hasPattern,striped,hasFabricTreatment,smooth,3
+hasLength,short,hasOpeningType,slip-on,3
+hasSilhouette,flat,hasOpeningType,slip-on,3
+belongsToCategory,lowerbody,hasOpeningType,slip-on,3
+depicts,shoes,hasOpeningType,slip-on,3
+hasPattern,striped,hasNeckline,round,3
+hasOpeningType,slip-on,hasLength,short,3
+hasOpeningType,slip-on,hasSilhouette,flat,3
+hasOpeningType,slip-on,belongsToCategory,lowerbody,3
+hasOpeningType,slip-on,depicts,shoes,3
+hasMaterialType,fabric,hasLeatherType,no leather,3
+hasSleeveType,sleeveless,hasLeatherType,no leather,3
+hasLength,short,hasLeatherType,no leather,3
+hasSilhouette,flat,hasLeatherType,no leather,3
+belongsToCategory,lowerbody,hasLeatherType,no leather,3
+depicts,shoes,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasMaterialType,fabric,3
+hasNeckline,round neckline,hasMaterialType,fabric,3
+hasLeatherType,no leather,hasSleeveType,sleeveless,3
+hasNeckline,round neckline,hasSleeveType,sleeveless,3
+hasMaterialType,fabric,hasNeckline,round neckline,3
+hasSleeveType,sleeveless,hasNeckline,round neckline,3
+hasLength,short,hasNeckline,round neckline,3
+hasSilhouette,flat,hasNeckline,round neckline,3
+belongsToCategory,lowerbody,hasNeckline,round neckline,3
+depicts,shoes,hasNeckline,round neckline,3
+hasLeatherType,no leather,hasLength,short,3
+hasNeckline,round neckline,hasLength,short,3
+hasLeatherType,no leather,hasSilhouette,flat,3
+hasNeckline,round neckline,hasSilhouette,flat,3
+hasLeatherType,no leather,belongsToCategory,lowerbody,3
+hasNeckline,round neckline,belongsToCategory,lowerbody,3
+hasLeatherType,no leather,depicts,shoes,3
+hasNeckline,round neckline,depicts,shoes,3
+hasPattern,floral,hasSilhouette,flat,3
+hasMaterialType,fabric,hasSleeveType,short,3
+hasSilhouette,flat,hasPattern,floral,3
+depicts,shoes,hasPattern,floral,3
+hasLength,short,hasPattern,floral,3
+hasPattern,floral,depicts,shoes,3
+hasPattern,floral,hasLength,short,3
+hasSleeveType,short,hasMaterialType,fabric,3
+hasSleeveType,short,hasPattern,striped,3
+hasPattern,striped,hasSleeveType,short,3
+hasOpeningType,closed,hasPattern,striped,3
+hasPattern,striped,hasOpeningType,closed,3
+hasOpeningType,closed,hasSleeveType,short,3
+hasMaterialType,leather,hasSleeveType,short,3
+hasFabricTreatment,smooth,hasSleeveType,short,3
+hasSleeveType,short,hasOpeningType,closed,3
+hasSleeveType,short,hasMaterialType,leather,3
+hasSleeveType,short,hasFabricTreatment,smooth,3
+hasFabricTreatment,plain weave,hasPattern,solid color,3
+hasPattern,solid color,hasFabricTreatment,plain weave,3
+hasFabricTreatment,smooth,hasPattern,solid color,3
+hasOpeningType,closed opening,hasPattern,solid color,3
+hasPattern,solid color,hasFabricTreatment,smooth,3
+hasOpeningType,closed opening,hasMaterialType,fabric,3
+hasPattern,solid color,hasOpeningType,closed opening,3
+hasMaterialType,fabric,hasOpeningType,closed opening,3
+hasSleeveType,sleeveless,hasOpeningType,closed opening,3
+hasLength,short,hasOpeningType,closed opening,3
+hasSilhouette,flat,hasOpeningType,closed opening,3
+belongsToCategory,lowerbody,hasOpeningType,closed opening,3
+depicts,shoes,hasOpeningType,closed opening,3
+hasOpeningType,closed opening,hasSleeveType,sleeveless,3
+hasOpeningType,closed opening,hasLength,short,3
+hasOpeningType,closed opening,hasSilhouette,flat,3
+hasOpeningType,closed opening,belongsToCategory,lowerbody,3
+hasOpeningType,closed opening,depicts,shoes,3
+hasNeckline,round,hasPattern,solid color,3
+hasPattern,solid color,hasNeckline,round,3
+hasOpeningType,slip-on,hasMaterialType,fabric,2
+hasMaterialType,fabric,hasOpeningType,slip-on,2
+hasSleeveType,sleeveless,hasOpeningType,slip-on,2
+hasNeckline,round,hasOpeningType,slip-on,2
+hasOpeningType,slip-on,hasSleeveType,sleeveless,2
+hasOpeningType,slip-on,hasNeckline,round,2
+hasPocketType,no pocket,hasFabricTreatment,plain weave,2
+hasNeckline,round neckline,hasFabricTreatment,plain weave,2
+hasPocketType,no pocket,hasLeatherType,no leather,2
+hasNeckline,round neckline,hasLeatherType,no leather,2
+hasFabricTreatment,plain weave,hasPocketType,no pocket,2
+hasLeatherType,no leather,hasPocketType,no pocket,2
+hasNeckline,round neckline,hasPocketType,no pocket,2
+hasFabricTreatment,plain weave,hasNeckline,round neckline,2
+hasLeatherType,no leather,hasNeckline,round neckline,2
+hasPocketType,no pocket,hasNeckline,round neckline,2
+hasFabricTreatment,plain weave,hasSleeveType,short,2
+hasNeckline,round,hasPattern,floral,2
+hasMaterialType,fabric,hasPattern,floral,2
+hasFabricTreatment,plain weave,hasPattern,floral,2
+hasPattern,floral,hasNeckline,round,2
+hasFabricTreatment,plain weave,hasNeckline,round,2
+hasPattern,floral,hasMaterialType,fabric,2
+hasSleeveType,short,hasFabricTreatment,plain weave,2
+hasPattern,floral,hasFabricTreatment,plain weave,2
+hasNeckline,round,hasFabricTreatment,plain weave,2
+hasLength,short,hasNeckline,open,2
+hasSilhouette,flat,hasNeckline,open,2
+belongsToCategory,lowerbody,hasNeckline,open,2
+depicts,shoes,hasNeckline,open,2
+hasNeckline,open,hasLength,short,2
+hasNeckline,open,hasSilhouette,flat,2
+hasNeckline,open,belongsToCategory,lowerbody,2
+hasNeckline,open,depicts,shoes,2
+hasMaterialType,fabric,hasFabricTreatment,unfinished,2
+hasOpeningType,closed,hasFabricTreatment,unfinished,2
+hasSleeveType,sleeveless,hasFabricTreatment,unfinished,2
+hasLength,short,hasFabricTreatment,unfinished,2
+hasSilhouette,flat,hasFabricTreatment,unfinished,2
+belongsToCategory,lowerbody,hasFabricTreatment,unfinished,2
+depicts,shoes,hasFabricTreatment,unfinished,2
+hasFabricTreatment,unfinished,hasMaterialType,fabric,2
+hasFabricTreatment,unfinished,hasOpeningType,closed,2
+hasPocketType,no pocket,hasOpeningType,closed,2
+hasOpeningType,closed,hasPocketType,no pocket,2
+hasFabricTreatment,unfinished,hasSleeveType,sleeveless,2
+hasFabricTreatment,unfinished,hasLength,short,2
+hasFabricTreatment,unfinished,hasSilhouette,flat,2
+hasFabricTreatment,unfinished,belongsToCategory,lowerbody,2
+hasFabricTreatment,unfinished,depicts,shoes,2
+hasOpeningType,closed,hasPattern,floral,2
+hasSleeveType,sleeveless,hasPattern,floral,2
+belongsToCategory,lowerbody,hasPattern,floral,2
+hasOpeningType,closed,hasMaterialType,synthetic,2
+hasLength,short,hasMaterialType,synthetic,2
+hasSilhouette,flat,hasMaterialType,synthetic,2
+belongsToCategory,lowerbody,hasMaterialType,synthetic,2
+depicts,shoes,hasMaterialType,synthetic,2
+hasPattern,floral,hasOpeningType,closed,2
+hasMaterialType,synthetic,hasOpeningType,closed,2
+hasPattern,floral,hasSleeveType,sleeveless,2
+hasMaterialType,synthetic,hasLength,short,2
+hasMaterialType,synthetic,hasSilhouette,flat,2
+hasPattern,floral,belongsToCategory,lowerbody,2
+hasMaterialType,synthetic,belongsToCategory,lowerbody,2
+hasMaterialType,synthetic,depicts,shoes,2
+hasPocketType,no pocket,hasPattern,solid color,2
+hasNeckline,round neckline,hasPattern,solid color,2
+hasPattern,solid color,hasPocketType,no pocket,2
+hasPattern,solid color,hasNeckline,round neckline,2
+hasLeatherType,no leather,hasPattern,solid color,2
+hasOpeningType,closed opening,hasFabricTreatment,smooth,2
+hasPattern,solid color,hasLeatherType,no leather,2
+hasOpeningType,closed opening,hasLeatherType,no leather,2
+hasNeckline,round neck,hasMaterialType,fabric,2
+hasWaistline,no waist,hasMaterialType,fabric,2
+hasFabricTreatment,smooth,hasOpeningType,closed opening,2
+hasLeatherType,no leather,hasOpeningType,closed opening,2
+hasNeckline,round neck,hasSleeveType,sleeveless,2
+hasWaistline,no waist,hasSleeveType,sleeveless,2
+hasMaterialType,fabric,hasNeckline,round neck,2
+hasSleeveType,sleeveless,hasNeckline,round neck,2
+hasLength,short,hasNeckline,round neck,2
+hasWaistline,no waist,hasNeckline,round neck,2
+hasSilhouette,flat,hasNeckline,round neck,2
+belongsToCategory,lowerbody,hasNeckline,round neck,2
+depicts,shoes,hasNeckline,round neck,2
+hasNeckline,round neck,hasLength,short,2
+hasWaistline,no waist,hasLength,short,2
+hasMaterialType,fabric,hasWaistline,no waist,2
+hasSleeveType,sleeveless,hasWaistline,no waist,2
+hasNeckline,round neck,hasWaistline,no waist,2
+hasLength,short,hasWaistline,no waist,2
+hasSilhouette,flat,hasWaistline,no waist,2
+belongsToCategory,lowerbody,hasWaistline,no waist,2
+depicts,shoes,hasWaistline,no waist,2
+hasNeckline,round neck,hasSilhouette,flat,2
+hasWaistline,no waist,hasSilhouette,flat,2
+hasNeckline,round neck,belongsToCategory,lowerbody,2
+hasWaistline,no waist,belongsToCategory,lowerbody,2
+hasNeckline,round neck,depicts,shoes,2
+hasWaistline,no waist,depicts,shoes,2
+hasLength,short,hasMaterialType,textile,2
+hasSilhouette,flat,hasMaterialType,textile,2
+belongsToCategory,lowerbody,hasMaterialType,textile,2
+depicts,shoes,hasMaterialType,textile,2
+hasMaterialType,textile,hasLength,short,2
+hasMaterialType,textile,hasSilhouette,flat,2
+hasMaterialType,textile,belongsToCategory,lowerbody,2
+hasMaterialType,textile,depicts,shoes,2
+hasOpeningType,open toe,hasFabricTreatment,smooth,2
+hasOpeningType,open toe,hasMaterialType,fabric,2
+hasFabricTreatment,smooth,hasOpeningType,open toe,2
+hasMaterialType,fabric,hasOpeningType,open toe,2
+hasSleeveType,sleeveless,hasOpeningType,open toe,2
+hasNeckline,round,hasOpeningType,open toe,2
+hasLength,short,hasOpeningType,open toe,2
+hasSilhouette,flat,hasOpeningType,open toe,2
+belongsToCategory,lowerbody,hasOpeningType,open toe,2
+depicts,shoes,hasOpeningType,open toe,2
+hasOpeningType,open toe,hasSleeveType,sleeveless,2
+hasOpeningType,open toe,hasNeckline,round,2
+hasOpeningType,open toe,hasLength,short,2
+hasOpeningType,open toe,hasSilhouette,flat,2
+hasOpeningType,open toe,belongsToCategory,lowerbody,2
+hasOpeningType,open toe,depicts,shoes,2
+hasNeckline,straight,hasOpeningType,closed,2
+hasNeckline,straight,hasSleeveType,sleeveless,2
+hasOpeningType,closed,hasNeckline,straight,2
+hasSleeveType,sleeveless,hasNeckline,straight,2
+hasLength,short,hasNeckline,straight,2
+hasSilhouette,flat,hasNeckline,straight,2
+belongsToCategory,lowerbody,hasNeckline,straight,2
+depicts,shoes,hasNeckline,straight,2
+hasNeckline,straight,hasLength,short,2
+hasNeckline,straight,hasSilhouette,flat,2
+hasNeckline,straight,belongsToCategory,lowerbody,2
+hasNeckline,straight,depicts,shoes,2
+hasPocketType,pocketless,hasOpeningType,closed,2
+hasOpeningType,closed,hasPocketType,pocketless,2
+hasSleeveType,sleeveless,hasPocketType,pocketless,2
+hasLength,short,hasPocketType,pocketless,2
+hasSilhouette,flat,hasPocketType,pocketless,2
+belongsToCategory,lowerbody,hasPocketType,pocketless,2
+depicts,shoes,hasPocketType,pocketless,2
+hasPocketType,pocketless,hasSleeveType,sleeveless,2
+hasPocketType,pocketless,hasLength,short,2
+hasPocketType,pocketless,hasSilhouette,flat,2
+hasPocketType,pocketless,belongsToCategory,lowerbody,2
+hasPocketType,pocketless,depicts,shoes,2
+hasOpeningType,slip-on,hasPattern,striped,1
+hasOpeningType,slip-on,hasFabricTreatment,smooth,1
+hasPattern,striped,hasOpeningType,slip-on,1
+hasFabricTreatment,smooth,hasOpeningType,slip-on,1
+hasLeatherType,calf,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasLeatherType,calf,1
+hasMaterialType,leather,hasLeatherType,calf,1
+hasOpeningType,closed,hasLeatherType,calf,1
+hasNeckline,round,hasLeatherType,calf,1
+hasLength,short,hasLeatherType,calf,1
+hasSilhouette,flat,hasLeatherType,calf,1
+belongsToCategory,lowerbody,hasLeatherType,calf,1
+depicts,shoes,hasLeatherType,calf,1
+hasLeatherType,calf,hasMaterialType,leather,1
+hasLeatherType,calf,hasOpeningType,closed,1
+hasLeatherType,calf,hasNeckline,round,1
+hasLeatherType,calf,hasLength,short,1
+hasLeatherType,calf,hasSilhouette,flat,1
+hasLeatherType,calf,belongsToCategory,lowerbody,1
+hasLeatherType,calf,depicts,shoes,1
+hasLeatherType,no leather,hasFabricTreatment,plain weave,1
+hasOpeningType,slip-on,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasLeatherType,no leather,1
+hasOpeningType,slip-on,hasLeatherType,no leather,1
+hasFabricTreatment,plain weave,hasOpeningType,slip-on,1
+hasLeatherType,no leather,hasOpeningType,slip-on,1
+hasPocketType,no pocket,hasOpeningType,slip-on,1
+hasNeckline,round neckline,hasOpeningType,slip-on,1
+hasOpeningType,slip-on,hasPocketType,no pocket,1
+hasOpeningType,slip-on,hasNeckline,round neckline,1
+hasLeatherType,full grain leather,hasFabricTreatment,suede,1
+hasMaterialType,leather,hasFabricTreatment,suede,1
+hasOpeningType,closed,hasFabricTreatment,suede,1
+hasSleeveType,sleeveless,hasFabricTreatment,suede,1
+hasNeckline,round,hasFabricTreatment,suede,1
+hasLength,short,hasFabricTreatment,suede,1
+hasSilhouette,flat,hasFabricTreatment,suede,1
+belongsToCategory,lowerbody,hasFabricTreatment,suede,1
+depicts,shoes,hasFabricTreatment,suede,1
+hasFabricTreatment,suede,hasLeatherType,full grain leather,1
+hasMaterialType,leather,hasLeatherType,full grain leather,1
+hasOpeningType,closed,hasLeatherType,full grain leather,1
+hasSleeveType,sleeveless,hasLeatherType,full grain leather,1
+hasNeckline,round,hasLeatherType,full grain leather,1
+hasLength,short,hasLeatherType,full grain leather,1
+hasSilhouette,flat,hasLeatherType,full grain leather,1
+belongsToCategory,lowerbody,hasLeatherType,full grain leather,1
+depicts,shoes,hasLeatherType,full grain leather,1
+hasFabricTreatment,suede,hasMaterialType,leather,1
+hasLeatherType,full grain leather,hasMaterialType,leather,1
+hasFabricTreatment,suede,hasOpeningType,closed,1
+hasLeatherType,full grain leather,hasOpeningType,closed,1
+hasFabricTreatment,suede,hasSleeveType,sleeveless,1
+hasLeatherType,full grain leather,hasSleeveType,sleeveless,1
+hasFabricTreatment,suede,hasNeckline,round,1
+hasLeatherType,full grain leather,hasNeckline,round,1
+hasFabricTreatment,suede,hasLength,short,1
+hasLeatherType,full grain leather,hasLength,short,1
+hasFabricTreatment,suede,hasSilhouette,flat,1
+hasLeatherType,full grain leather,hasSilhouette,flat,1
+hasFabricTreatment,suede,belongsToCategory,lowerbody,1
+hasLeatherType,full grain leather,belongsToCategory,lowerbody,1
+hasFabricTreatment,suede,depicts,shoes,1
+hasLeatherType,full grain leather,depicts,shoes,1
+hasCollarType,open,hasSilhouette,flat,1
+belongsToCategory,upperbody,hasSilhouette,flat,1
+hasOpeningType,zipper,hasSilhouette,flat,1
+hasSilhouette,flat,hasCollarType,open,1
+hasSleeveType,short,hasCollarType,open,1
+hasPattern,floral,hasCollarType,open,1
+depicts,shoes,hasCollarType,open,1
+belongsToCategory,upperbody,hasCollarType,open,1
+hasLength,short,hasCollarType,open,1
+hasNeckline,round,hasCollarType,open,1
+hasOpeningType,zipper,hasCollarType,open,1
+hasMaterialType,fabric,hasCollarType,open,1
+hasFabricTreatment,plain weave,hasCollarType,open,1
+hasCollarType,open,hasSleeveType,short,1
+hasPattern,floral,hasSleeveType,short,1
+belongsToCategory,upperbody,hasSleeveType,short,1
+hasOpeningType,zipper,hasSleeveType,short,1
+hasCollarType,open,hasPattern,floral,1
+hasSleeveType,short,hasPattern,floral,1
+belongsToCategory,upperbody,hasPattern,floral,1
+hasOpeningType,zipper,hasPattern,floral,1
+hasCollarType,open,depicts,shoes,1
+belongsToCategory,upperbody,depicts,shoes,1
+hasOpeningType,zipper,depicts,shoes,1
+hasSilhouette,flat,belongsToCategory,upperbody,1
+hasCollarType,open,belongsToCategory,upperbody,1
+hasSleeveType,short,belongsToCategory,upperbody,1
+hasPattern,floral,belongsToCategory,upperbody,1
+depicts,shoes,belongsToCategory,upperbody,1
+hasLength,short,belongsToCategory,upperbody,1
+hasNeckline,round,belongsToCategory,upperbody,1
+hasOpeningType,zipper,belongsToCategory,upperbody,1
+hasMaterialType,fabric,belongsToCategory,upperbody,1
+hasFabricTreatment,plain weave,belongsToCategory,upperbody,1
+hasCollarType,open,hasLength,short,1
+belongsToCategory,upperbody,hasLength,short,1
+hasOpeningType,zipper,hasLength,short,1
+hasCollarType,open,hasNeckline,round,1
+belongsToCategory,upperbody,hasNeckline,round,1
+hasOpeningType,zipper,hasNeckline,round,1
+hasSilhouette,flat,hasOpeningType,zipper,1
+hasCollarType,open,hasOpeningType,zipper,1
+hasSleeveType,short,hasOpeningType,zipper,1
+hasPattern,floral,hasOpeningType,zipper,1
+depicts,shoes,hasOpeningType,zipper,1
+belongsToCategory,upperbody,hasOpeningType,zipper,1
+hasLength,short,hasOpeningType,zipper,1
+hasNeckline,round,hasOpeningType,zipper,1
+hasMaterialType,fabric,hasOpeningType,zipper,1
+hasFabricTreatment,plain weave,hasOpeningType,zipper,1
+hasCollarType,open,hasMaterialType,fabric,1
+belongsToCategory,upperbody,hasMaterialType,fabric,1
+hasOpeningType,zipper,hasMaterialType,fabric,1
+hasCollarType,open,hasFabricTreatment,plain weave,1
+belongsToCategory,upperbody,hasFabricTreatment,plain weave,1
+hasOpeningType,zipper,hasFabricTreatment,plain weave,1
+hasFabricTreatment,non-woven fabric,hasPattern,striped,1
+hasMaterialType,rubber,hasPattern,striped,1
+hasOpeningType,closed toe and closed heel,hasPattern,striped,1
+hasNeckline,open,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,non-woven fabric,1
+hasMaterialType,rubber,hasFabricTreatment,non-woven fabric,1
+hasOpeningType,closed toe and closed heel,hasFabricTreatment,non-woven fabric,1
+hasSleeveType,short,hasFabricTreatment,non-woven fabric,1
+hasNeckline,open,hasFabricTreatment,non-woven fabric,1
+hasLength,short,hasFabricTreatment,non-woven fabric,1
+hasSilhouette,flat,hasFabricTreatment,non-woven fabric,1
+belongsToCategory,lowerbody,hasFabricTreatment,non-woven fabric,1
+depicts,shoes,hasFabricTreatment,non-woven fabric,1
+hasPattern,striped,hasMaterialType,rubber,1
+hasFabricTreatment,non-woven fabric,hasMaterialType,rubber,1
+hasOpeningType,closed toe and closed heel,hasMaterialType,rubber,1
+hasSleeveType,short,hasMaterialType,rubber,1
+hasNeckline,open,hasMaterialType,rubber,1
+hasLength,short,hasMaterialType,rubber,1
+hasSilhouette,flat,hasMaterialType,rubber,1
+belongsToCategory,lowerbody,hasMaterialType,rubber,1
+depicts,shoes,hasMaterialType,rubber,1
+hasPattern,striped,hasOpeningType,closed toe and closed heel,1
+hasFabricTreatment,non-woven fabric,hasOpeningType,closed toe and closed heel,1
+hasMaterialType,rubber,hasOpeningType,closed toe and closed heel,1
+hasSleeveType,short,hasOpeningType,closed toe and closed heel,1
+hasNeckline,open,hasOpeningType,closed toe and closed heel,1
+hasLength,short,hasOpeningType,closed toe and closed heel,1
+hasSilhouette,flat,hasOpeningType,closed toe and closed heel,1
+belongsToCategory,lowerbody,hasOpeningType,closed toe and closed heel,1
+depicts,shoes,hasOpeningType,closed toe and closed heel,1
+hasFabricTreatment,non-woven fabric,hasSleeveType,short,1
+hasMaterialType,rubber,hasSleeveType,short,1
+hasOpeningType,closed toe and closed heel,hasSleeveType,short,1
+hasNeckline,open,hasSleeveType,short,1
+hasPattern,striped,hasNeckline,open,1
+hasFabricTreatment,non-woven fabric,hasNeckline,open,1
+hasMaterialType,rubber,hasNeckline,open,1
+hasOpeningType,closed toe and closed heel,hasNeckline,open,1
+hasSleeveType,short,hasNeckline,open,1
+hasFabricTreatment,non-woven fabric,hasLength,short,1
+hasMaterialType,rubber,hasLength,short,1
+hasOpeningType,closed toe and closed heel,hasLength,short,1
+hasFabricTreatment,non-woven fabric,hasSilhouette,flat,1
+hasMaterialType,rubber,hasSilhouette,flat,1
+hasOpeningType,closed toe and closed heel,hasSilhouette,flat,1
+hasFabricTreatment,non-woven fabric,belongsToCategory,lowerbody,1
+hasMaterialType,rubber,belongsToCategory,lowerbody,1
+hasOpeningType,closed toe and closed heel,belongsToCategory,lowerbody,1
+hasFabricTreatment,non-woven fabric,depicts,shoes,1
+hasMaterialType,rubber,depicts,shoes,1
+hasOpeningType,closed toe and closed heel,depicts,shoes,1
+hasFabricTreatment,textured,hasPattern,striped,1
+hasOpeningType,lace-up front,hasPattern,striped,1
+hasWaistline,natural,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,textured,1
+hasMaterialType,fabric,hasFabricTreatment,textured,1
+hasOpeningType,lace-up front,hasFabricTreatment,textured,1
+hasSleeveType,short,hasFabricTreatment,textured,1
+hasLength,short,hasFabricTreatment,textured,1
+hasWaistline,natural,hasFabricTreatment,textured,1
+hasSilhouette,flat,hasFabricTreatment,textured,1
+belongsToCategory,lowerbody,hasFabricTreatment,textured,1
+depicts,shoes,hasFabricTreatment,textured,1
+hasFabricTreatment,textured,hasMaterialType,fabric,1
+hasOpeningType,lace-up front,hasMaterialType,fabric,1
+hasWaistline,natural,hasMaterialType,fabric,1
+hasPattern,striped,hasOpeningType,lace-up front,1
+hasFabricTreatment,textured,hasOpeningType,lace-up front,1
+hasMaterialType,fabric,hasOpeningType,lace-up front,1
+hasSleeveType,short,hasOpeningType,lace-up front,1
+hasLength,short,hasOpeningType,lace-up front,1
+hasWaistline,natural,hasOpeningType,lace-up front,1
+hasSilhouette,flat,hasOpeningType,lace-up front,1
+belongsToCategory,lowerbody,hasOpeningType,lace-up front,1
+depicts,shoes,hasOpeningType,lace-up front,1
+hasFabricTreatment,textured,hasSleeveType,short,1
+hasOpeningType,lace-up front,hasSleeveType,short,1
+hasWaistline,natural,hasSleeveType,short,1
+hasFabricTreatment,textured,hasLength,short,1
+hasOpeningType,lace-up front,hasLength,short,1
+hasWaistline,natural,hasLength,short,1
+hasPattern,striped,hasWaistline,natural,1
+hasFabricTreatment,textured,hasWaistline,natural,1
+hasMaterialType,fabric,hasWaistline,natural,1
+hasOpeningType,lace-up front,hasWaistline,natural,1
+hasSleeveType,short,hasWaistline,natural,1
+hasLength,short,hasWaistline,natural,1
+hasSilhouette,flat,hasWaistline,natural,1
+belongsToCategory,lowerbody,hasWaistline,natural,1
+depicts,shoes,hasWaistline,natural,1
+hasFabricTreatment,textured,hasSilhouette,flat,1
+hasOpeningType,lace-up front,hasSilhouette,flat,1
+hasWaistline,natural,hasSilhouette,flat,1
+hasFabricTreatment,textured,belongsToCategory,lowerbody,1
+hasOpeningType,lace-up front,belongsToCategory,lowerbody,1
+hasWaistline,natural,belongsToCategory,lowerbody,1
+hasFabricTreatment,textured,depicts,shoes,1
+hasOpeningType,lace-up front,depicts,shoes,1
+hasWaistline,natural,depicts,shoes,1
+hasPocketType,no pocket,hasFabricTreatment,unfinished,1
+hasFabricTreatment,unfinished,hasPocketType,no pocket,1
+hasOpeningType,slip on,hasMaterialType,leather,1
+hasPocketType,pockets,hasMaterialType,leather,1
+hasNeckline,flat,hasMaterialType,leather,1
+hasMaterialType,leather,hasOpeningType,slip on,1
+hasPocketType,pockets,hasOpeningType,slip on,1
+hasSleeveType,sleeveless,hasOpeningType,slip on,1
+hasNeckline,flat,hasOpeningType,slip on,1
+hasLength,short,hasOpeningType,slip on,1
+hasSilhouette,flat,hasOpeningType,slip on,1
+belongsToCategory,lowerbody,hasOpeningType,slip on,1
+depicts,shoes,hasOpeningType,slip on,1
+hasMaterialType,leather,hasPocketType,pockets,1
+hasOpeningType,slip on,hasPocketType,pockets,1
+hasSleeveType,sleeveless,hasPocketType,pockets,1
+hasNeckline,flat,hasPocketType,pockets,1
+hasLength,short,hasPocketType,pockets,1
+hasSilhouette,flat,hasPocketType,pockets,1
+belongsToCategory,lowerbody,hasPocketType,pockets,1
+depicts,shoes,hasPocketType,pockets,1
+hasOpeningType,slip on,hasSleeveType,sleeveless,1
+hasPocketType,pockets,hasSleeveType,sleeveless,1
+hasNeckline,flat,hasSleeveType,sleeveless,1
+hasMaterialType,leather,hasNeckline,flat,1
+hasOpeningType,slip on,hasNeckline,flat,1
+hasPocketType,pockets,hasNeckline,flat,1
+hasSleeveType,sleeveless,hasNeckline,flat,1
+hasLength,short,hasNeckline,flat,1
+belongsToCategory,lowerbody,hasNeckline,flat,1
+depicts,shoes,hasNeckline,flat,1
+hasOpeningType,slip on,hasLength,short,1
+hasPocketType,pockets,hasLength,short,1
+hasNeckline,flat,hasLength,short,1
+hasOpeningType,slip on,hasSilhouette,flat,1
+hasPocketType,pockets,hasSilhouette,flat,1
+hasOpeningType,slip on,belongsToCategory,lowerbody,1
+hasPocketType,pockets,belongsToCategory,lowerbody,1
+hasNeckline,flat,belongsToCategory,lowerbody,1
+hasOpeningType,slip on,depicts,shoes,1
+hasPocketType,pockets,depicts,shoes,1
+hasNeckline,flat,depicts,shoes,1
+hasMaterialType,synthetic,hasPattern,floral,1
+hasPattern,floral,hasMaterialType,synthetic,1
+hasSleeveType,sleeveless,hasMaterialType,synthetic,1
+hasNeckline,round,hasMaterialType,synthetic,1
+hasMaterialType,synthetic,hasSleeveType,sleeveless,1
+hasMaterialType,synthetic,hasNeckline,round,1
+hasSleeveType,short,hasSilhouette,closed,1
+depicts,shoes,hasSilhouette,closed,1
+belongsToCategory,lowerbody,hasSilhouette,closed,1
+hasWaistline,high,hasSilhouette,closed,1
+hasLength,ankle-length,hasSilhouette,closed,1
+hasNeckline,round,hasSilhouette,closed,1
+hasMaterialType,leather,hasSilhouette,closed,1
+hasLeatherType,nubuck,hasSilhouette,closed,1
+hasFabricTreatment,smooth,hasSilhouette,closed,1
+hasSilhouette,closed,hasSleeveType,short,1
+hasWaistline,high,hasSleeveType,short,1
+hasLength,ankle-length,hasSleeveType,short,1
+hasLeatherType,nubuck,hasSleeveType,short,1
+hasSilhouette,closed,depicts,shoes,1
+hasWaistline,high,depicts,shoes,1
+hasLength,ankle-length,depicts,shoes,1
+hasLeatherType,nubuck,depicts,shoes,1
+hasSilhouette,closed,belongsToCategory,lowerbody,1
+hasWaistline,high,belongsToCategory,lowerbody,1
+hasLength,ankle-length,belongsToCategory,lowerbody,1
+hasLeatherType,nubuck,belongsToCategory,lowerbody,1
+hasSilhouette,closed,hasWaistline,high,1
+hasSleeveType,short,hasWaistline,high,1
+depicts,shoes,hasWaistline,high,1
+belongsToCategory,lowerbody,hasWaistline,high,1
+hasLength,ankle-length,hasWaistline,high,1
+hasNeckline,round,hasWaistline,high,1
+hasOpeningType,closed,hasWaistline,high,1
+hasMaterialType,leather,hasWaistline,high,1
+hasLeatherType,nubuck,hasWaistline,high,1
+hasFabricTreatment,smooth,hasWaistline,high,1
+hasSilhouette,closed,hasLength,ankle-length,1
+hasSleeveType,short,hasLength,ankle-length,1
+depicts,shoes,hasLength,ankle-length,1
+belongsToCategory,lowerbody,hasLength,ankle-length,1
+hasWaistline,high,hasLength,ankle-length,1
+hasNeckline,round,hasLength,ankle-length,1
+hasOpeningType,closed,hasLength,ankle-length,1
+hasMaterialType,leather,hasLength,ankle-length,1
+hasLeatherType,nubuck,hasLength,ankle-length,1
+hasFabricTreatment,smooth,hasLength,ankle-length,1
+hasSilhouette,closed,hasNeckline,round,1
+hasWaistline,high,hasNeckline,round,1
+hasLength,ankle-length,hasNeckline,round,1
+hasLeatherType,nubuck,hasNeckline,round,1
+hasWaistline,high,hasOpeningType,closed,1
+hasLength,ankle-length,hasOpeningType,closed,1
+hasLeatherType,nubuck,hasOpeningType,closed,1
+hasSilhouette,closed,hasMaterialType,leather,1
+hasWaistline,high,hasMaterialType,leather,1
+hasLength,ankle-length,hasMaterialType,leather,1
+hasLeatherType,nubuck,hasMaterialType,leather,1
+hasSilhouette,closed,hasLeatherType,nubuck,1
+hasSleeveType,short,hasLeatherType,nubuck,1
+depicts,shoes,hasLeatherType,nubuck,1
+belongsToCategory,lowerbody,hasLeatherType,nubuck,1
+hasWaistline,high,hasLeatherType,nubuck,1
+hasLength,ankle-length,hasLeatherType,nubuck,1
+hasNeckline,round,hasLeatherType,nubuck,1
+hasOpeningType,closed,hasLeatherType,nubuck,1
+hasMaterialType,leather,hasLeatherType,nubuck,1
+hasFabricTreatment,smooth,hasLeatherType,nubuck,1
+hasSilhouette,closed,hasFabricTreatment,smooth,1
+hasWaistline,high,hasFabricTreatment,smooth,1
+hasLength,ankle-length,hasFabricTreatment,smooth,1
+hasLeatherType,nubuck,hasFabricTreatment,smooth,1
+hasNeckline,round neckline,hasOpeningType,closed,1
+hasOpeningType,closed,hasNeckline,round neckline,1
+hasLeatherType,full-grain leather,hasSilhouette,flat,1
+hasFabricTreatment,suede finish,hasSilhouette,flat,1
+hasOpeningType,slip-on,hasSleeveType,short,1
+hasLeatherType,full-grain leather,hasSleeveType,short,1
+hasFabricTreatment,suede finish,hasSleeveType,short,1
+hasLeatherType,full-grain leather,depicts,shoes,1
+hasFabricTreatment,suede finish,depicts,shoes,1
+hasLeatherType,full-grain leather,belongsToCategory,lowerbody,1
+hasFabricTreatment,suede finish,belongsToCategory,lowerbody,1
+hasLeatherType,full-grain leather,hasLength,short,1
+hasFabricTreatment,suede finish,hasLength,short,1
+hasLeatherType,full-grain leather,hasNeckline,round,1
+hasFabricTreatment,suede finish,hasNeckline,round,1
+hasSleeveType,short,hasOpeningType,slip-on,1
+hasMaterialType,leather,hasOpeningType,slip-on,1
+hasLeatherType,full-grain leather,hasOpeningType,slip-on,1
+hasFabricTreatment,suede finish,hasOpeningType,slip-on,1
+hasOpeningType,slip-on,hasMaterialType,leather,1
+hasLeatherType,full-grain leather,hasMaterialType,leather,1
+hasFabricTreatment,suede finish,hasMaterialType,leather,1
+hasSilhouette,flat,hasLeatherType,full-grain leather,1
+hasSleeveType,short,hasLeatherType,full-grain leather,1
+depicts,shoes,hasLeatherType,full-grain leather,1
+belongsToCategory,lowerbody,hasLeatherType,full-grain leather,1
+hasLength,short,hasLeatherType,full-grain leather,1
+hasNeckline,round,hasLeatherType,full-grain leather,1
+hasOpeningType,slip-on,hasLeatherType,full-grain leather,1
+hasMaterialType,leather,hasLeatherType,full-grain leather,1
+hasFabricTreatment,suede finish,hasLeatherType,full-grain leather,1
+hasSilhouette,flat,hasFabricTreatment,suede finish,1
+hasSleeveType,short,hasFabricTreatment,suede finish,1
+depicts,shoes,hasFabricTreatment,suede finish,1
+belongsToCategory,lowerbody,hasFabricTreatment,suede finish,1
+hasLength,short,hasFabricTreatment,suede finish,1
+hasNeckline,round,hasFabricTreatment,suede finish,1
+hasOpeningType,slip-on,hasFabricTreatment,suede finish,1
+hasMaterialType,leather,hasFabricTreatment,suede finish,1
+hasLeatherType,full-grain leather,hasFabricTreatment,suede finish,1
+hasFabricTreatment,plain weave,hasPattern,striped,1
+hasPattern,striped,hasFabricTreatment,plain weave,1
+hasNeckline,round neck,hasPattern,solid color,1
+hasWaistline,no waist,hasPattern,solid color,1
+hasLeatherType,no leather,hasFabricTreatment,smooth,1
+hasPocketType,no pocket,hasFabricTreatment,smooth,1
+hasNeckline,round neck,hasFabricTreatment,smooth,1
+hasWaistline,no waist,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasLeatherType,no leather,1
+hasNeckline,round neck,hasLeatherType,no leather,1
+hasWaistline,no waist,hasLeatherType,no leather,1
+hasPocketType,no pocket,hasOpeningType,closed opening,1
+hasNeckline,round neck,hasOpeningType,closed opening,1
+hasWaistline,no waist,hasOpeningType,closed opening,1
+hasFabricTreatment,smooth,hasPocketType,no pocket,1
+hasOpeningType,closed opening,hasPocketType,no pocket,1
+hasNeckline,round neck,hasPocketType,no pocket,1
+hasWaistline,no waist,hasPocketType,no pocket,1
+hasPattern,solid color,hasNeckline,round neck,1
+hasFabricTreatment,smooth,hasNeckline,round neck,1
+hasLeatherType,no leather,hasNeckline,round neck,1
+hasOpeningType,closed opening,hasNeckline,round neck,1
+hasPocketType,no pocket,hasNeckline,round neck,1
+hasPattern,solid color,hasWaistline,no waist,1
+hasFabricTreatment,smooth,hasWaistline,no waist,1
+hasLeatherType,no leather,hasWaistline,no waist,1
+hasOpeningType,closed opening,hasWaistline,no waist,1
+hasPocketType,no pocket,hasWaistline,no waist,1
+hasNeckline,v-neck,hasFabricTreatment,smooth,1
+hasNeckline,v-neck,hasMaterialType,fabric,1
+hasNeckline,v-neck,hasOpeningType,closed,1
+hasNeckline,v-neck,hasSleeveType,sleeveless,1
+hasFabricTreatment,smooth,hasNeckline,v-neck,1
+hasMaterialType,fabric,hasNeckline,v-neck,1
+hasOpeningType,closed,hasNeckline,v-neck,1
+hasSleeveType,sleeveless,hasNeckline,v-neck,1
+hasLength,short,hasNeckline,v-neck,1
+hasSilhouette,flat,hasNeckline,v-neck,1
+belongsToCategory,lowerbody,hasNeckline,v-neck,1
+depicts,shoes,hasNeckline,v-neck,1
+hasNeckline,v-neck,hasLength,short,1
+hasNeckline,v-neck,hasSilhouette,flat,1
+hasNeckline,v-neck,belongsToCategory,lowerbody,1
+hasNeckline,v-neck,depicts,shoes,1
+hasMaterialType,textile,hasFabricTreatment,smooth,1
+hasOpeningType,closed toe,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasMaterialType,textile,1
+hasOpeningType,closed toe,hasMaterialType,textile,1
+hasSleeveType,short,hasMaterialType,textile,1
+hasNeckline,round,hasMaterialType,textile,1
+hasFabricTreatment,smooth,hasOpeningType,closed toe,1
+hasMaterialType,textile,hasOpeningType,closed toe,1
+hasSleeveType,short,hasOpeningType,closed toe,1
+hasNeckline,round,hasOpeningType,closed toe,1
+hasLength,short,hasOpeningType,closed toe,1
+hasSilhouette,flat,hasOpeningType,closed toe,1
+belongsToCategory,lowerbody,hasOpeningType,closed toe,1
+depicts,shoes,hasOpeningType,closed toe,1
+hasMaterialType,textile,hasSleeveType,short,1
+hasOpeningType,closed toe,hasSleeveType,short,1
+hasMaterialType,textile,hasNeckline,round,1
+hasOpeningType,closed toe,hasNeckline,round,1
+hasOpeningType,closed toe,hasLength,short,1
+hasOpeningType,closed toe,hasSilhouette,flat,1
+hasOpeningType,closed toe,belongsToCategory,lowerbody,1
+hasOpeningType,closed toe,depicts,shoes,1
+hasOpeningType,open toe,hasPattern,striped,1
+hasPattern,striped,hasOpeningType,open toe,1
+hasFabricTreatment,no treatment,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,no treatment,1
+hasLeatherType,no leather,hasFabricTreatment,no treatment,1
+hasMaterialType,fabric,hasFabricTreatment,no treatment,1
+hasOpeningType,closed opening,hasFabricTreatment,no treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,no treatment,1
+hasNeckline,round neckline,hasFabricTreatment,no treatment,1
+hasLength,short,hasFabricTreatment,no treatment,1
+hasSilhouette,flat,hasFabricTreatment,no treatment,1
+belongsToCategory,lowerbody,hasFabricTreatment,no treatment,1
+depicts,shoes,hasFabricTreatment,no treatment,1
+hasFabricTreatment,no treatment,hasLeatherType,no leather,1
+hasFabricTreatment,no treatment,hasMaterialType,fabric,1
+hasFabricTreatment,no treatment,hasOpeningType,closed opening,1
+hasNeckline,round neckline,hasOpeningType,closed opening,1
+hasFabricTreatment,no treatment,hasSleeveType,sleeveless,1
+hasFabricTreatment,no treatment,hasNeckline,round neckline,1
+hasOpeningType,closed opening,hasNeckline,round neckline,1
+hasFabricTreatment,no treatment,hasLength,short,1
+hasFabricTreatment,no treatment,hasSilhouette,flat,1
+hasFabricTreatment,no treatment,belongsToCategory,lowerbody,1
+hasFabricTreatment,no treatment,depicts,shoes,1
+hasNeckline,round neck,hasOpeningType,closed,1
+hasWaistline,no waist,hasOpeningType,closed,1
+hasOpeningType,closed,hasNeckline,round neck,1
+hasOpeningType,closed,hasWaistline,no waist,1
+hasNeckline,straight,hasFabricTreatment,unfinished,1
+hasNeckline,straight,hasMaterialType,fabric,1
+hasFabricTreatment,unfinished,hasNeckline,straight,1
+hasMaterialType,fabric,hasNeckline,straight,1
+hasMaterialType,fabric,hasFabricTreatment,solid,1
+hasOpeningType,closed,hasFabricTreatment,solid,1
+hasPocketType,no_pockets,hasFabricTreatment,solid,1
+hasSleeveType,sleeveless,hasFabricTreatment,solid,1
+hasLength,short,hasFabricTreatment,solid,1
+hasSilhouette,flat,hasFabricTreatment,solid,1
+belongsToCategory,lowerbody,hasFabricTreatment,solid,1
+depicts,shoes,hasFabricTreatment,solid,1
+hasFabricTreatment,solid,hasMaterialType,fabric,1
+hasPocketType,no_pockets,hasMaterialType,fabric,1
+hasFabricTreatment,solid,hasOpeningType,closed,1
+hasPocketType,no_pockets,hasOpeningType,closed,1
+hasFabricTreatment,solid,hasPocketType,no_pockets,1
+hasMaterialType,fabric,hasPocketType,no_pockets,1
+hasOpeningType,closed,hasPocketType,no_pockets,1
+hasSleeveType,sleeveless,hasPocketType,no_pockets,1
+hasLength,short,hasPocketType,no_pockets,1
+hasSilhouette,flat,hasPocketType,no_pockets,1
+belongsToCategory,lowerbody,hasPocketType,no_pockets,1
+depicts,shoes,hasPocketType,no_pockets,1
+hasFabricTreatment,solid,hasSleeveType,sleeveless,1
+hasPocketType,no_pockets,hasSleeveType,sleeveless,1
+hasFabricTreatment,solid,hasLength,short,1
+hasPocketType,no_pockets,hasLength,short,1
+hasFabricTreatment,solid,hasSilhouette,flat,1
+hasPocketType,no_pockets,hasSilhouette,flat,1
+hasFabricTreatment,solid,belongsToCategory,lowerbody,1
+hasPocketType,no_pockets,belongsToCategory,lowerbody,1
+hasFabricTreatment,solid,depicts,shoes,1
+hasPocketType,no_pockets,depicts,shoes,1
+hasSleeveType,short,hasMaterialType,synthetic,1
+hasMaterialType,synthetic,hasSleeveType,short,1
+hasLeatherType,cowhide,hasFabricTreatment,smooth,1
+hasLength,low,hasFabricTreatment,smooth,1
+hasFabricTreatment,smooth,hasLeatherType,cowhide,1
+hasMaterialType,leather,hasLeatherType,cowhide,1
+hasOpeningType,closed,hasLeatherType,cowhide,1
+hasSleeveType,short,hasLeatherType,cowhide,1
+hasLength,low,hasLeatherType,cowhide,1
+hasSilhouette,flat,hasLeatherType,cowhide,1
+belongsToCategory,lowerbody,hasLeatherType,cowhide,1
+depicts,shoes,hasLeatherType,cowhide,1
+hasLeatherType,cowhide,hasMaterialType,leather,1
+hasLength,low,hasMaterialType,leather,1
+hasLeatherType,cowhide,hasOpeningType,closed,1
+hasLength,low,hasOpeningType,closed,1
+hasLeatherType,cowhide,hasSleeveType,short,1
+hasLength,low,hasSleeveType,short,1
+hasFabricTreatment,smooth,hasLength,low,1
+hasLeatherType,cowhide,hasLength,low,1
+hasMaterialType,leather,hasLength,low,1
+hasOpeningType,closed,hasLength,low,1
+hasSleeveType,short,hasLength,low,1
+hasSilhouette,flat,hasLength,low,1
+belongsToCategory,lowerbody,hasLength,low,1
+depicts,shoes,hasLength,low,1
+hasLeatherType,cowhide,hasSilhouette,flat,1
+hasLength,low,hasSilhouette,flat,1
+hasLeatherType,cowhide,belongsToCategory,lowerbody,1
+hasLength,low,belongsToCategory,lowerbody,1
+hasLeatherType,cowhide,depicts,shoes,1
+hasLength,low,depicts,shoes,1
+hasNeckline,round,hasOpeningType,closed opening,1
+hasOpeningType,closed opening,hasNeckline,round,1
+hasPocketType,pocketless,hasMaterialType,leather,1
+hasMaterialType,leather,hasPocketType,pocketless,1
+hasMaterialType,textile,hasFabricTreatment,plain weave,1
+hasNeckline,straight,hasFabricTreatment,plain weave,1
+hasFabricTreatment,plain weave,hasMaterialType,textile,1
+hasOpeningType,closed,hasMaterialType,textile,1
+hasSleeveType,sleeveless,hasMaterialType,textile,1
+hasNeckline,straight,hasMaterialType,textile,1
+hasMaterialType,textile,hasOpeningType,closed,1
+hasMaterialType,textile,hasSleeveType,sleeveless,1
+hasFabricTreatment,plain weave,hasNeckline,straight,1
+hasMaterialType,textile,hasNeckline,straight,1
+hasPattern,floral,hasAnimalPattern,no,1
+hasFabricTreatment,plain weave,hasAnimalPattern,no,1
+hasMaterialType,fabric,hasAnimalPattern,no,1
+hasOpeningType,closed,hasAnimalPattern,no,1
+hasSleeveType,sleeveless,hasAnimalPattern,no,1
+hasNeckline,open,hasAnimalPattern,no,1
+hasLength,short,hasAnimalPattern,no,1
+hasSilhouette,flat,hasAnimalPattern,no,1
+belongsToCategory,lowerbody,hasAnimalPattern,no,1
+depicts,shoes,hasAnimalPattern,no,1
+hasAnimalPattern,no,hasPattern,floral,1
+hasNeckline,open,hasPattern,floral,1
+hasAnimalPattern,no,hasFabricTreatment,plain weave,1
+hasNeckline,open,hasFabricTreatment,plain weave,1
+hasAnimalPattern,no,hasMaterialType,fabric,1
+hasNeckline,open,hasMaterialType,fabric,1
+hasAnimalPattern,no,hasOpeningType,closed,1
+hasNeckline,open,hasOpeningType,closed,1
+hasAnimalPattern,no,hasSleeveType,sleeveless,1
+hasNeckline,open,hasSleeveType,sleeveless,1
+hasAnimalPattern,no,hasNeckline,open,1
+hasPattern,floral,hasNeckline,open,1
+hasFabricTreatment,plain weave,hasNeckline,open,1
+hasMaterialType,fabric,hasNeckline,open,1
+hasOpeningType,closed,hasNeckline,open,1
+hasSleeveType,sleeveless,hasNeckline,open,1
+hasAnimalPattern,no,hasLength,short,1
+hasAnimalPattern,no,hasSilhouette,flat,1
+hasAnimalPattern,no,belongsToCategory,lowerbody,1
+hasAnimalPattern,no,depicts,shoes,1
+hasOpeningType,open toe,hasPattern,solid color,1
+hasPattern,solid color,hasOpeningType,open toe,1
+hasPocketType,pocketless,hasPattern,striped,1
+hasPocketType,pocketless,hasMaterialType,fabric,1
+hasPattern,striped,hasPocketType,pocketless,1
+hasMaterialType,fabric,hasPocketType,pocketless,1

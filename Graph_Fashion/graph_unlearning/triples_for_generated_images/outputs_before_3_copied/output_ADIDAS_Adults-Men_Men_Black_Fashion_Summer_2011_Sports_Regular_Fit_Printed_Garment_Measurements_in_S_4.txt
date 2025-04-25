@@ -1,0 +1,41 @@
+The provided data is a single fashion item description:
+
+*   **Image Name:** ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4
+*   **Category:** T-shirt
+*   **Super Category:** Upperbody
+*   **Nickname:** None
+*   **Silhouette:** Regular Fit
+*   **Waistline:** None (since it's a t-shirt)
+*   **Length:** Short sleeves
+*   **Collar Style:** Crew neck
+*   **Lapel Type:** None (since it's a t-shirt)
+*   **Neckline:** Round neckline
+*   **Sleeve Type:** Short sleeves
+*   **Pocket Type:** None
+*   **Opening Type:** None (since it's a solid-colored t-shirt)
+*   **Material Type:** Cotton
+*   **Leather Type:** None (since it's not leather)
+*   **Fabric Treatment:** None
+*   **Pattern Type:** Printed
+
+The output is in the following format:
+
+(image_name, relationship, attribute_value)
+
+1.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, depicts, T-shirt
+2.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, belongs_to_category, Upperbody
+3.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_silhouette, Regular Fit
+4.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_waistline, None
+5.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_length, Short sleeves
+6.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_collar_type, Crew neck
+7.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_lapel_type, None
+8.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_neckline, Round neckline
+9.  ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_sleeve_type, Short sleeves
+10. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_pocket_type, None
+11. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_opening_type, None
+12. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_material_type, Cotton
+13. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_leather_type, None
+14. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_fabric_treatment, None
+15. ADIDAS_Adults-Men_Men_Black_Fashion_Summer_2011_Sports_Regular_Fit_Printed_Garment_Measurements_in_S_4, has_pattern_type, Printed
+
+The triples are in the format (image_name, relationship, attribute_value) and describe the fashion item of the image with nodes(image_name) and edges (relationships).

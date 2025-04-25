@@ -1,0 +1,1715 @@
+relation1,attribute1,relation2,attribute2,frequency
+belongsToCategory,upperbody,hasSilhouette,backpack silhouette,27
+hasSilhouette,backpack silhouette,belongsToCategory,upperbody,27
+depicts,backpack,hasSilhouette,backpack silhouette,26
+hasSilhouette,backpack silhouette,depicts,backpack,26
+depicts,backpack,belongsToCategory,upperbody,18
+belongsToCategory,upperbody,depicts,backpack,18
+hasSilhouette,backpack silhouette,hasOpeningType,zipper opening,17
+hasOpeningType,zipper opening,hasSilhouette,backpack silhouette,17
+hasSilhouette,backpack silhouette,hasMaterialType,polyester,14
+hasMaterialType,polyester,hasSilhouette,backpack silhouette,14
+depicts,backpack,hasMaterialType,polyester,13
+hasSilhouette,backpack silhouette,hasLength,medium length,13
+hasLength,medium length,hasSilhouette,backpack silhouette,13
+hasMaterialType,polyester,depicts,backpack,13
+belongsToCategory,upperbody,hasMaterialType,polyester,12
+hasMaterialType,polyester,belongsToCategory,upperbody,12
+hasOpeningType,zipper opening,hasLeatherType,no leather,12
+hasSilhouette,backpack silhouette,hasLeatherType,no leather,12
+hasLeatherType,no leather,hasOpeningType,zipper opening,12
+hasLeatherType,no leather,hasSilhouette,backpack silhouette,12
+belongsToCategory,upperbody,hasOpeningType,zipper opening,12
+depicts,bag,hasOpeningType,zipper opening,12
+hasOpeningType,zipper opening,belongsToCategory,upperbody,12
+hasOpeningType,zipper opening,depicts,bag,12
+depicts,bag,hasSilhouette,backpack silhouette,11
+hasSilhouette,backpack silhouette,depicts,bag,11
+depicts,backpack,hasLength,medium length,10
+hasLength,medium length,depicts,backpack,10
+depicts,bag,belongsToCategory,upperbody,10
+belongsToCategory,upperbody,depicts,bag,10
+belongsToCategory,upperbody,hasLength,medium length,9
+hasLength,medium length,belongsToCategory,upperbody,9
+hasOpeningType,zipper opening,hasPattern,solid pattern,9
+hasPattern,solid pattern,hasOpeningType,zipper opening,9
+hasNeckline,no neckline,hasOpeningType,zipper opening,9
+hasOpeningType,zipper opening,hasNeckline,no neckline,9
+hasSilhouette,backpack silhouette,hasNeckline,no neckline,9
+hasNeckline,no neckline,hasSilhouette,backpack silhouette,9
+hasSilhouette,backpack silhouette,hasLength,full length,8
+hasLength,full length,hasSilhouette,backpack silhouette,8
+hasSilhouette,backpack silhouette,hasPattern,solid pattern,8
+hasNeckline,no neckline,hasLeatherType,no leather,8
+belongsToCategory,upperbody,hasLeatherType,no leather,8
+hasSleeveType,sleeveless,hasOpeningType,zipper opening,8
+hasOpeningType,zipper opening,hasSleeveType,sleeveless,8
+hasSilhouette,backpack silhouette,hasSleeveType,sleeveless,8
+hasLeatherType,no leather,hasNeckline,no neckline,8
+hasPattern,solid pattern,hasSilhouette,backpack silhouette,8
+hasSleeveType,sleeveless,hasSilhouette,backpack silhouette,8
+hasLeatherType,no leather,belongsToCategory,upperbody,8
+hasLength,medium length,hasLeatherType,no leather,8
+hasLength,medium length,hasOpeningType,zipper opening,8
+hasLeatherType,no leather,hasLength,medium length,8
+hasOpeningType,zipper opening,hasLength,medium length,8
+depicts,backpack,hasLeatherType,no leather,7
+depicts,backpack,hasOpeningType,zipper opening,7
+belongsToCategory,lowerbody,hasSilhouette,backpack silhouette,7
+hasSilhouette,backpack silhouette,belongsToCategory,lowerbody,7
+hasLeatherType,no leather,depicts,backpack,7
+hasOpeningType,zipper opening,depicts,backpack,7
+depicts,backpack,belongsToCategory,lowerbody,6
+belongsToCategory,lowerbody,depicts,backpack,6
+hasLeatherType,no leather,hasPattern,solid pattern,6
+belongsToCategory,upperbody,hasPattern,solid pattern,6
+depicts,bag,hasPattern,solid pattern,6
+hasPattern,solid pattern,hasLeatherType,no leather,6
+hasSleeveType,sleeveless,hasLeatherType,no leather,6
+depicts,bag,hasLeatherType,no leather,6
+hasOpeningType,zipper opening,hasMaterialType,nylon material,6
+hasMaterialType,nylon material,hasOpeningType,zipper opening,6
+hasLeatherType,no leather,hasSleeveType,sleeveless,6
+belongsToCategory,upperbody,hasNeckline,no neckline,6
+belongsToCategory,upperbody,hasLength,full length,6
+hasPattern,solid pattern,belongsToCategory,upperbody,6
+hasNeckline,no neckline,belongsToCategory,upperbody,6
+hasLength,full length,belongsToCategory,upperbody,6
+hasPattern,solid pattern,depicts,bag,6
+hasLeatherType,no leather,depicts,bag,6
+depicts,backpack,hasLength,long,6
+hasLength,long,depicts,backpack,6
+hasPocketType,front pocket,hasOpeningType,zipper opening,6
+hasOpeningType,zipper opening,hasPocketType,front pocket,6
+hasSilhouette,backpack silhouette,hasPocketType,front pocket,6
+hasPocketType,front pocket,hasSilhouette,backpack silhouette,6
+hasNeckline,round neckline,hasOpeningType,zipper opening,5
+hasLength,full length,hasOpeningType,zipper opening,5
+hasSilhouette,backpack silhouette,hasSleeveType,short-sleeve,5
+depicts,backpack,hasSleeveType,short-sleeve,5
+hasOpeningType,zipper opening,hasNeckline,round neckline,5
+hasSilhouette,backpack silhouette,hasNeckline,round neckline,5
+hasOpeningType,zipper opening,hasLength,full length,5
+depicts,backpack,hasLength,full length,5
+hasSleeveType,short-sleeve,hasSilhouette,backpack silhouette,5
+hasNeckline,round neckline,hasSilhouette,backpack silhouette,5
+hasSleeveType,short-sleeve,depicts,backpack,5
+hasLength,full length,depicts,backpack,5
+hasMaterialType,nylon material,hasPattern,solid pattern,5
+hasPattern,solid pattern,hasMaterialType,nylon material,5
+hasSilhouette,backpack silhouette,hasMaterialType,nylon material,5
+hasNeckline,no neckline,hasSleeveType,sleeveless,5
+belongsToCategory,upperbody,hasSleeveType,sleeveless,5
+depicts,bag,hasSleeveType,sleeveless,5
+hasSleeveType,sleeveless,hasNeckline,no neckline,5
+hasMaterialType,nylon material,hasSilhouette,backpack silhouette,5
+hasSleeveType,sleeveless,belongsToCategory,upperbody,5
+hasSleeveType,sleeveless,depicts,bag,5
+hasSilhouette,backpack silhouette,hasLength,long,5
+hasLength,long,hasSilhouette,backpack silhouette,5
+depicts,backpack,hasSleeveType,sleeveless,5
+hasLength,medium length,hasNeckline,no neckline,5
+hasNeckline,no neckline,hasLength,medium length,5
+hasSleeveType,sleeveless,depicts,backpack,5
+hasLength,medium length,hasMaterialType,polyester,4
+hasMaterialType,polyester,hasLength,medium length,4
+belongsToCategory,lowerbody,hasLeatherType,no leather,4
+hasSleeveType,short-sleeve,hasOpeningType,zipper opening,4
+hasWaistline,high-waisted,hasOpeningType,zipper opening,4
+belongsToCategory,lowerbody,hasOpeningType,zipper opening,4
+hasOpeningType,zipper opening,hasSleeveType,short-sleeve,4
+hasWaistline,high-waisted,hasNeckline,round neckline,4
+hasOpeningType,zipper opening,hasWaistline,high-waisted,4
+hasNeckline,round neckline,hasWaistline,high-waisted,4
+depicts,backpack,hasWaistline,high-waisted,4
+hasLeatherType,no leather,belongsToCategory,lowerbody,4
+hasOpeningType,zipper opening,belongsToCategory,lowerbody,4
+hasWaistline,high-waisted,depicts,backpack,4
+hasNeckline,no neckline,hasPattern,solid pattern,4
+depicts,bag,hasMaterialType,nylon material,4
+hasPattern,solid pattern,hasNeckline,no neckline,4
+depicts,bag,hasNeckline,no neckline,4
+hasMaterialType,nylon material,depicts,bag,4
+hasNeckline,no neckline,depicts,bag,4
+hasWaistline,high-waisted,hasLength,long,4
+hasLength,long,hasWaistline,high-waisted,4
+hasSilhouette,backpack silhouette,hasMaterialType,nylon,4
+belongsToCategory,upperbody,hasMaterialType,nylon,4
+hasMaterialType,nylon,hasSilhouette,backpack silhouette,4
+hasMaterialType,nylon,belongsToCategory,upperbody,4
+hasSilhouette,backpack silhouette,hasPocketType,side pockets,4
+depicts,backpack,hasNeckline,no neckline,4
+hasPocketType,side pockets,hasSilhouette,backpack silhouette,4
+hasNeckline,no neckline,depicts,backpack,4
+depicts,bag,hasPocketType,front pocket,4
+hasPocketType,front pocket,depicts,bag,4
+depicts,bag,hasLength,medium length,4
+hasLength,medium length,depicts,bag,4
+depicts,bag,hasNeckline,round neckline,4
+hasNeckline,round neckline,depicts,bag,4
+hasSleeveType,short-sleeve,hasLeatherType,no leather,3
+hasNeckline,round neckline,hasLeatherType,no leather,3
+hasLength,full length,hasLeatherType,no leather,3
+hasWaistline,high-waisted,hasLeatherType,no leather,3
+depicts,backpack,hasPocketType,front pockets,3
+hasLeatherType,no leather,hasSleeveType,short-sleeve,3
+hasLeatherType,no leather,hasNeckline,round neckline,3
+belongsToCategory,lowerbody,hasNeckline,round neckline,3
+depicts,backpack,hasNeckline,round neckline,3
+hasLeatherType,no leather,hasLength,full length,3
+hasLeatherType,no leather,hasWaistline,high-waisted,3
+hasSilhouette,backpack silhouette,hasWaistline,high-waisted,3
+belongsToCategory,lowerbody,hasWaistline,high-waisted,3
+hasWaistline,high-waisted,hasSilhouette,backpack silhouette,3
+hasNeckline,round neckline,belongsToCategory,lowerbody,3
+hasWaistline,high-waisted,belongsToCategory,lowerbody,3
+hasPocketType,front pockets,depicts,backpack,3
+hasNeckline,round neckline,depicts,backpack,3
+hasSleeveType,sleeveless,hasPattern,solid pattern,3
+hasMaterialType,nylon material,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasMaterialType,nylon material,3
+belongsToCategory,upperbody,hasMaterialType,nylon material,3
+hasPattern,solid pattern,hasSleeveType,sleeveless,3
+hasLength,full length,hasSleeveType,sleeveless,3
+hasLength,full length,hasNeckline,no neckline,3
+hasSleeveType,sleeveless,hasLength,full length,3
+hasNeckline,no neckline,hasLength,full length,3
+depicts,bag,hasLength,full length,3
+hasMaterialType,nylon material,belongsToCategory,upperbody,3
+hasLength,full length,depicts,bag,3
+belongsToCategory,lowerbody,hasLength,long,3
+hasLength,long,belongsToCategory,lowerbody,3
+hasPocketType,front pocket,hasPattern,solid pattern,3
+hasLength,long,hasOpeningType,zipper opening,3
+hasPattern,solid pattern,hasPocketType,front pocket,3
+hasSleeveType,short-sleeve,hasPocketType,front pocket,3
+depicts,backpack,hasPocketType,front pocket,3
+hasPocketType,front pocket,hasSleeveType,short-sleeve,3
+hasOpeningType,zipper opening,hasLength,long,3
+hasPocketType,front pocket,depicts,backpack,3
+belongsToCategory,upperbody,hasLength,long,3
+hasLength,long,belongsToCategory,upperbody,3
+depicts,backpack,hasMaterialType,nylon,3
+hasMaterialType,nylon,depicts,backpack,3
+hasLength,medium length,hasPattern,solid pattern,3
+hasLength,medium length,hasMaterialType,nylon material,3
+depicts,backpack,hasPocketType,side pockets,3
+hasLength,medium length,hasSleeveType,sleeveless,3
+hasPattern,solid pattern,hasLength,medium length,3
+hasMaterialType,nylon material,hasLength,medium length,3
+hasSleeveType,sleeveless,hasLength,medium length,3
+hasPocketType,side pockets,depicts,backpack,3
+hasSilhouette,backpack silhouette,hasMaterialType,fabric material,3
+hasMaterialType,fabric material,hasSilhouette,backpack silhouette,3
+hasLength,full length,hasMaterialType,polyester,3
+hasMaterialType,polyester,hasLength,full length,3
+belongsToCategory,upperbody,hasPocketType,front pocket,3
+hasPocketType,front pocket,belongsToCategory,upperbody,3
+belongsToCategory,lowerbody,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,belongsToCategory,lowerbody,3
+hasLeatherType,no leather,hasFabricTreatment,water-resistant treatment,3
+hasLength,medium length,hasFabricTreatment,water-resistant treatment,3
+hasSilhouette,backpack silhouette,hasFabricTreatment,water-resistant treatment,3
+hasFabricTreatment,water-resistant treatment,hasLeatherType,no leather,3
+hasMaterialType,polyester material,hasLeatherType,no leather,3
+hasLeatherType,no leather,hasMaterialType,polyester material,3
+hasSilhouette,backpack silhouette,hasMaterialType,polyester material,3
+hasLength,medium length,hasSleeveType,short-sleeve,3
+hasFabricTreatment,water-resistant treatment,hasLength,medium length,3
+hasSleeveType,short-sleeve,hasLength,medium length,3
+hasFabricTreatment,water-resistant treatment,hasSilhouette,backpack silhouette,3
+hasMaterialType,polyester material,hasSilhouette,backpack silhouette,3
+hasSleeveType,long-sleeve,hasOpeningType,zipper opening,3
+hasOpeningType,zipper opening,hasSleeveType,long-sleeve,3
+hasSilhouette,backpack silhouette,hasSleeveType,long-sleeve,3
+belongsToCategory,upperbody,hasSleeveType,long-sleeve,3
+depicts,bag,hasSleeveType,long-sleeve,3
+belongsToCategory,upperbody,hasNeckline,round neckline,3
+hasSleeveType,long-sleeve,hasSilhouette,backpack silhouette,3
+hasSleeveType,long-sleeve,belongsToCategory,upperbody,3
+hasNeckline,round neckline,belongsToCategory,upperbody,3
+hasSleeveType,long-sleeve,depicts,bag,3
+hasNeckline,round neckline,hasSleeveType,sleeveless,3
+hasLength,long,hasSleeveType,sleeveless,3
+hasWaistline,high-waisted,hasSleeveType,sleeveless,3
+hasSleeveType,sleeveless,hasNeckline,round neckline,3
+hasLength,long,hasNeckline,round neckline,3
+hasSleeveType,sleeveless,hasLength,long,3
+hasNeckline,round neckline,hasLength,long,3
+hasSleeveType,sleeveless,hasWaistline,high-waisted,3
+hasPocketType,front pockets,hasLeatherType,no leather,2
+hasOpeningType,zipper opening,hasMaterialType,synthetic material,2
+hasLength,full length,hasMaterialType,synthetic material,2
+hasSilhouette,backpack silhouette,hasMaterialType,synthetic material,2
+hasMaterialType,synthetic material,hasOpeningType,zipper opening,2
+hasPocketType,front pockets,hasOpeningType,zipper opening,2
+hasLeatherType,no leather,hasPocketType,front pockets,2
+hasOpeningType,zipper opening,hasPocketType,front pockets,2
+hasNeckline,round neckline,hasPocketType,front pockets,2
+hasWaistline,high-waisted,hasPocketType,front pockets,2
+hasSilhouette,backpack silhouette,hasPocketType,front pockets,2
+hasWaistline,high-waisted,hasSleeveType,short-sleeve,2
+belongsToCategory,lowerbody,hasSleeveType,short-sleeve,2
+hasPocketType,front pockets,hasNeckline,round neckline,2
+hasLength,full length,hasNeckline,round neckline,2
+hasMaterialType,synthetic material,hasLength,full length,2
+hasNeckline,round neckline,hasLength,full length,2
+belongsToCategory,lowerbody,hasLength,full length,2
+hasPocketType,front pockets,hasWaistline,high-waisted,2
+hasSleeveType,short-sleeve,hasWaistline,high-waisted,2
+hasMaterialType,synthetic material,hasSilhouette,backpack silhouette,2
+hasPocketType,front pockets,hasSilhouette,backpack silhouette,2
+hasSleeveType,short-sleeve,belongsToCategory,lowerbody,2
+hasLength,full length,belongsToCategory,lowerbody,2
+hasSleeveType,sleeveless,hasMaterialType,nylon material,2
+hasNeckline,no neckline,hasMaterialType,nylon material,2
+hasMaterialType,nylon material,hasSleeveType,sleeveless,2
+hasMaterialType,nylon material,hasNeckline,no neckline,2
+hasSilhouette,backpack silhouette,hasLength,short,2
+belongsToCategory,upperbody,hasLength,short,2
+hasLength,short,hasSilhouette,backpack silhouette,2
+hasLength,short,belongsToCategory,upperbody,2
+hasFabricTreatment,waterproof treatment,hasPattern,solid pattern,2
+hasSleeveType,short-sleeve,hasPattern,solid pattern,2
+hasLength,long,hasPattern,solid pattern,2
+hasWaistline,high-waisted,hasPattern,solid pattern,2
+depicts,backpack,hasPattern,solid pattern,2
+hasPattern,solid pattern,hasFabricTreatment,waterproof treatment,2
+hasMaterialType,nylon material,hasFabricTreatment,waterproof treatment,2
+hasOpeningType,zipper opening,hasFabricTreatment,waterproof treatment,2
+depicts,backpack,hasFabricTreatment,waterproof treatment,2
+hasFabricTreatment,waterproof treatment,hasMaterialType,nylon material,2
+hasPocketType,front pocket,hasMaterialType,nylon material,2
+depicts,backpack,hasMaterialType,nylon material,2
+hasFabricTreatment,waterproof treatment,hasOpeningType,zipper opening,2
+hasMaterialType,nylon material,hasPocketType,front pocket,2
+hasLength,long,hasPocketType,front pocket,2
+hasWaistline,high-waisted,hasPocketType,front pocket,2
+hasPattern,solid pattern,hasSleeveType,short-sleeve,2
+hasPattern,solid pattern,hasLength,long,2
+hasPocketType,front pocket,hasLength,long,2
+hasPattern,solid pattern,hasWaistline,high-waisted,2
+hasPocketType,front pocket,hasWaistline,high-waisted,2
+hasPattern,solid pattern,depicts,backpack,2
+hasFabricTreatment,waterproof treatment,depicts,backpack,2
+hasMaterialType,nylon material,depicts,backpack,2
+hasLength,long,hasMaterialType,polyester,2
+hasLength,long,hasPocketType,front pockets,2
+belongsToCategory,upperbody,hasPocketType,front pockets,2
+hasSilhouette,backpack silhouette,hasSleeveType,backpack sleeves,2
+belongsToCategory,upperbody,hasSleeveType,backpack sleeves,2
+hasMaterialType,polyester,hasLength,long,2
+hasPocketType,front pockets,hasLength,long,2
+hasSleeveType,backpack sleeves,hasSilhouette,backpack silhouette,2
+hasPocketType,front pockets,belongsToCategory,upperbody,2
+hasSleeveType,backpack sleeves,belongsToCategory,upperbody,2
+hasSilhouette,backpack silhouette,hasFabricTreatment,water-resistant,2
+belongsToCategory,upperbody,hasFabricTreatment,water-resistant,2
+depicts,backpack,hasFabricTreatment,water-resistant,2
+hasFabricTreatment,water-resistant,hasSilhouette,backpack silhouette,2
+hasFabricTreatment,water-resistant,belongsToCategory,upperbody,2
+hasFabricTreatment,water-resistant,depicts,backpack,2
+hasPocketType,side pockets,hasPattern,solid pattern,2
+hasPocketType,side pockets,hasLeatherType,no leather,2
+hasPocketType,side pockets,hasMaterialType,nylon material,2
+belongsToCategory,wholebody,hasMaterialType,nylon material,2
+hasPocketType,side pockets,hasOpeningType,zipper opening,2
+belongsToCategory,wholebody,hasOpeningType,zipper opening,2
+hasPattern,solid pattern,hasPocketType,side pockets,2
+hasLeatherType,no leather,hasPocketType,side pockets,2
+hasMaterialType,nylon material,hasPocketType,side pockets,2
+hasOpeningType,zipper opening,hasPocketType,side pockets,2
+hasSleeveType,sleeveless,hasPocketType,side pockets,2
+hasLength,medium length,hasPocketType,side pockets,2
+hasPocketType,side pockets,hasSleeveType,sleeveless,2
+hasPocketType,side pockets,hasLength,medium length,2
+belongsToCategory,wholebody,hasLength,medium length,2
+belongsToCategory,wholebody,hasSilhouette,backpack silhouette,2
+hasMaterialType,nylon material,belongsToCategory,wholebody,2
+hasOpeningType,zipper opening,belongsToCategory,wholebody,2
+hasLength,medium length,belongsToCategory,wholebody,2
+hasSilhouette,backpack silhouette,belongsToCategory,wholebody,2
+hasLeatherType,no leather,hasPattern,abstract pattern,2
+hasOpeningType,zipper opening,hasPattern,abstract pattern,2
+hasSleeveType,sleeveless,hasPattern,abstract pattern,2
+belongsToCategory,upperbody,hasPattern,abstract pattern,2
+depicts,backpack,hasPattern,abstract pattern,2
+hasPattern,abstract pattern,hasLeatherType,no leather,2
+hasMaterialType,fabric material,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasMaterialType,fabric material,2
+hasOpeningType,zipper opening,hasMaterialType,fabric material,2
+hasNeckline,no neckline,hasMaterialType,fabric material,2
+belongsToCategory,upperbody,hasMaterialType,fabric material,2
+depicts,backpack,hasMaterialType,fabric material,2
+hasPattern,abstract pattern,hasOpeningType,zipper opening,2
+hasMaterialType,fabric material,hasOpeningType,zipper opening,2
+hasPattern,abstract pattern,hasSleeveType,sleeveless,2
+hasMaterialType,fabric material,hasNeckline,no neckline,2
+hasPattern,abstract pattern,belongsToCategory,upperbody,2
+hasMaterialType,fabric material,belongsToCategory,upperbody,2
+hasPattern,abstract pattern,depicts,backpack,2
+hasMaterialType,fabric material,depicts,backpack,2
+belongsToCategory,upperbody,hasSleeveType,short-sleeve,2
+hasSleeveType,short-sleeve,belongsToCategory,upperbody,2
+belongsToCategory,lowerbody,hasNeckline,no neckline,2
+belongsToCategory,lowerbody,hasLength,medium length,2
+hasNeckline,no neckline,belongsToCategory,lowerbody,2
+hasLength,medium length,belongsToCategory,lowerbody,2
+hasSleeveType,short-sleeve,hasFabricTreatment,water-resistant treatment,2
+belongsToCategory,upperbody,hasFabricTreatment,water-resistant treatment,2
+depicts,backpack,hasFabricTreatment,water-resistant treatment,2
+hasOpeningType,zipper closure,hasLeatherType,no leather,2
+hasLength,medium length,hasMaterialType,polyester material,2
+belongsToCategory,upperbody,hasMaterialType,polyester material,2
+hasLeatherType,no leather,hasOpeningType,zipper closure,2
+hasLength,medium length,hasOpeningType,zipper closure,2
+belongsToCategory,upperbody,hasOpeningType,zipper closure,2
+depicts,backpack,hasOpeningType,zipper closure,2
+belongsToCategory,upperbody,hasPocketType,side pockets,2
+hasFabricTreatment,water-resistant treatment,hasSleeveType,short-sleeve,2
+hasMaterialType,polyester material,hasLength,medium length,2
+hasOpeningType,zipper closure,hasLength,medium length,2
+hasFabricTreatment,water-resistant treatment,belongsToCategory,upperbody,2
+hasMaterialType,polyester material,belongsToCategory,upperbody,2
+hasOpeningType,zipper closure,belongsToCategory,upperbody,2
+hasPocketType,side pockets,belongsToCategory,upperbody,2
+hasFabricTreatment,water-resistant treatment,depicts,backpack,2
+hasOpeningType,zipper closure,depicts,backpack,2
+hasLeatherType,no leather,hasPattern,solid color pattern,2
+hasOpeningType,zipper opening,hasPattern,solid color pattern,2
+hasNeckline,no neckline,hasPattern,solid color pattern,2
+hasLength,medium length,hasPattern,solid color pattern,2
+hasSilhouette,backpack silhouette,hasPattern,solid color pattern,2
+hasOpeningType,zipper opening,hasFabricTreatment,water-resistant treatment,2
+hasPattern,solid color pattern,hasLeatherType,no leather,2
+hasMaterialType,polyester fabric,hasLeatherType,no leather,2
+hasPocketType,front pocket,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasMaterialType,polyester fabric,2
+hasOpeningType,zipper opening,hasMaterialType,polyester fabric,2
+hasLength,medium length,hasMaterialType,polyester fabric,2
+depicts,backpack,hasMaterialType,polyester fabric,2
+hasPattern,solid color pattern,hasOpeningType,zipper opening,2
+hasFabricTreatment,water-resistant treatment,hasOpeningType,zipper opening,2
+hasMaterialType,polyester fabric,hasOpeningType,zipper opening,2
+hasLeatherType,no leather,hasPocketType,front pocket,2
+hasLength,medium length,hasPocketType,front pocket,2
+belongsToCategory,lowerbody,hasPocketType,front pocket,2
+hasPattern,solid color pattern,hasNeckline,no neckline,2
+hasPattern,solid color pattern,hasLength,medium length,2
+hasMaterialType,polyester fabric,hasLength,medium length,2
+hasPocketType,front pocket,hasLength,medium length,2
+hasPattern,solid color pattern,hasSilhouette,backpack silhouette,2
+hasPocketType,front pocket,belongsToCategory,lowerbody,2
+hasMaterialType,polyester fabric,depicts,backpack,2
+hasOpeningType,zipper opening,hasPattern,plain pattern,2
+hasSilhouette,backpack silhouette,hasPattern,plain pattern,2
+depicts,bag,hasPattern,plain pattern,2
+hasPattern,plain pattern,hasOpeningType,zipper opening,2
+hasPattern,plain pattern,hasSilhouette,backpack silhouette,2
+hasPattern,plain pattern,depicts,bag,2
+hasSleeveType,long-sleeve,hasPattern,solid pattern,2
+hasNeckline,round neckline,hasPattern,solid pattern,2
+hasSleeveType,long-sleeve,hasMaterialType,nylon material,2
+hasNeckline,round neckline,hasPocketType,side pockets,2
+hasPattern,solid pattern,hasSleeveType,long-sleeve,2
+hasMaterialType,nylon material,hasSleeveType,long-sleeve,2
+hasNeckline,round neckline,hasSleeveType,long-sleeve,2
+hasPattern,solid pattern,hasNeckline,round neckline,2
+hasPocketType,side pockets,hasNeckline,round neckline,2
+hasSleeveType,long-sleeve,hasNeckline,round neckline,2
+hasMaterialType,fabric,hasLeatherType,no leather,2
+hasLength,long,hasLeatherType,no leather,2
+hasLeatherType,no leather,hasMaterialType,fabric,2
+hasOpeningType,zipper opening,hasMaterialType,fabric,2
+hasLength,medium length,hasMaterialType,fabric,2
+depicts,bag,hasMaterialType,fabric,2
+belongsToCategory,upperbody,hasMaterialType,fabric,2
+hasMaterialType,fabric,hasOpeningType,zipper opening,2
+hasMaterialType,fabric,hasLength,medium length,2
+hasMaterialType,fabric,depicts,bag,2
+hasLength,long,depicts,bag,2
+hasWaistline,high-waisted,depicts,bag,2
+hasLeatherType,no leather,hasLength,long,2
+depicts,bag,hasLength,long,2
+depicts,bag,hasWaistline,high-waisted,2
+hasMaterialType,fabric,belongsToCategory,upperbody,2
+hasMaterialType,polyester material,hasPattern,solid pattern,2
+hasPattern,solid pattern,hasMaterialType,polyester material,2
+hasOpeningType,zipper opening,hasMaterialType,polyester material,2
+hasMaterialType,polyester material,hasOpeningType,zipper opening,2
+hasSleeveType,sleeveless,hasPocketType,front pocket,2
+hasPocketType,front pocket,hasSleeveType,sleeveless,2
+hasLength,medium,hasPocketType,front pocket,2
+hasMaterialType,nylon,hasPocketType,front pocket,2
+hasPocketType,front pocket,hasLength,medium,2
+hasMaterialType,nylon,hasLength,medium,2
+hasSilhouette,backpack silhouette,hasLength,medium,2
+belongsToCategory,upperbody,hasLength,medium,2
+hasPocketType,front pocket,hasMaterialType,nylon,2
+hasLength,medium,hasMaterialType,nylon,2
+hasLength,medium,hasSilhouette,backpack silhouette,2
+hasLength,medium,belongsToCategory,upperbody,2
+hasSilhouette,backpack silhouette,hasOpeningType,zipper,2
+depicts,backpack,hasOpeningType,zipper,2
+hasOpeningType,zipper,hasSilhouette,backpack silhouette,2
+hasOpeningType,zipper,depicts,backpack,2
+hasFabricTreatment,water resistant,hasPattern,solid color,1
+hasLeatherType,no leather,hasPattern,solid color,1
+hasMaterialType,synthetic material,hasPattern,solid color,1
+hasOpeningType,zipper opening,hasPattern,solid color,1
+hasPocketType,front pockets,hasPattern,solid color,1
+hasSleeveType,short-sleeve,hasPattern,solid color,1
+hasNeckline,round neckline,hasPattern,solid color,1
+hasLength,full length,hasPattern,solid color,1
+hasWaistline,high-waisted,hasPattern,solid color,1
+hasSilhouette,backpack silhouette,hasPattern,solid color,1
+belongsToCategory,lowerbody,hasPattern,solid color,1
+depicts,backpack,hasPattern,solid color,1
+hasPattern,solid color,hasFabricTreatment,water resistant,1
+hasLeatherType,no leather,hasFabricTreatment,water resistant,1
+hasMaterialType,synthetic material,hasFabricTreatment,water resistant,1
+hasOpeningType,zipper opening,hasFabricTreatment,water resistant,1
+hasPocketType,front pockets,hasFabricTreatment,water resistant,1
+hasSleeveType,short-sleeve,hasFabricTreatment,water resistant,1
+hasNeckline,round neckline,hasFabricTreatment,water resistant,1
+hasLength,full length,hasFabricTreatment,water resistant,1
+hasWaistline,high-waisted,hasFabricTreatment,water resistant,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,water resistant,1
+belongsToCategory,lowerbody,hasFabricTreatment,water resistant,1
+depicts,backpack,hasFabricTreatment,water resistant,1
+hasPattern,solid color,hasLeatherType,no leather,1
+hasFabricTreatment,water resistant,hasLeatherType,no leather,1
+hasMaterialType,synthetic material,hasLeatherType,no leather,1
+hasPattern,solid color,hasMaterialType,synthetic material,1
+hasFabricTreatment,water resistant,hasMaterialType,synthetic material,1
+hasLeatherType,no leather,hasMaterialType,synthetic material,1
+hasPocketType,front pockets,hasMaterialType,synthetic material,1
+hasSleeveType,short-sleeve,hasMaterialType,synthetic material,1
+hasNeckline,round neckline,hasMaterialType,synthetic material,1
+hasWaistline,high-waisted,hasMaterialType,synthetic material,1
+belongsToCategory,lowerbody,hasMaterialType,synthetic material,1
+depicts,backpack,hasMaterialType,synthetic material,1
+hasPattern,solid color,hasOpeningType,zipper opening,1
+hasFabricTreatment,water resistant,hasOpeningType,zipper opening,1
+hasPattern,solid color,hasPocketType,front pockets,1
+hasFabricTreatment,water resistant,hasPocketType,front pockets,1
+hasMaterialType,synthetic material,hasPocketType,front pockets,1
+hasSleeveType,short-sleeve,hasPocketType,front pockets,1
+hasLength,full length,hasPocketType,front pockets,1
+belongsToCategory,lowerbody,hasPocketType,front pockets,1
+hasPattern,solid color,hasSleeveType,short-sleeve,1
+hasFabricTreatment,water resistant,hasSleeveType,short-sleeve,1
+hasMaterialType,synthetic material,hasSleeveType,short-sleeve,1
+hasPocketType,front pockets,hasSleeveType,short-sleeve,1
+hasNeckline,round neckline,hasSleeveType,short-sleeve,1
+hasLength,full length,hasSleeveType,short-sleeve,1
+hasPattern,solid color,hasNeckline,round neckline,1
+hasFabricTreatment,water resistant,hasNeckline,round neckline,1
+hasMaterialType,synthetic material,hasNeckline,round neckline,1
+hasSleeveType,short-sleeve,hasNeckline,round neckline,1
+hasPattern,solid color,hasLength,full length,1
+hasFabricTreatment,water resistant,hasLength,full length,1
+hasPocketType,front pockets,hasLength,full length,1
+hasSleeveType,short-sleeve,hasLength,full length,1
+hasWaistline,high-waisted,hasLength,full length,1
+hasPattern,solid color,hasWaistline,high-waisted,1
+hasFabricTreatment,water resistant,hasWaistline,high-waisted,1
+hasMaterialType,synthetic material,hasWaistline,high-waisted,1
+hasLength,full length,hasWaistline,high-waisted,1
+hasPattern,solid color,hasSilhouette,backpack silhouette,1
+hasFabricTreatment,water resistant,hasSilhouette,backpack silhouette,1
+hasPattern,solid color,belongsToCategory,lowerbody,1
+hasFabricTreatment,water resistant,belongsToCategory,lowerbody,1
+hasMaterialType,synthetic material,belongsToCategory,lowerbody,1
+hasPocketType,front pockets,belongsToCategory,lowerbody,1
+hasPattern,solid color,depicts,backpack,1
+hasFabricTreatment,water resistant,depicts,backpack,1
+hasMaterialType,synthetic material,depicts,backpack,1
+hasFabricTreatment,water-repellent treatment,hasPattern,solid pattern,1
+hasLength,full length,hasPattern,solid pattern,1
+hasPattern,solid pattern,hasFabricTreatment,water-repellent treatment,1
+hasLeatherType,no leather,hasFabricTreatment,water-repellent treatment,1
+hasMaterialType,nylon material,hasFabricTreatment,water-repellent treatment,1
+hasOpeningType,zipper opening,hasFabricTreatment,water-repellent treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,water-repellent treatment,1
+hasNeckline,no neckline,hasFabricTreatment,water-repellent treatment,1
+hasLength,full length,hasFabricTreatment,water-repellent treatment,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,water-repellent treatment,1
+belongsToCategory,upperbody,hasFabricTreatment,water-repellent treatment,1
+depicts,bag,hasFabricTreatment,water-repellent treatment,1
+hasFabricTreatment,water-repellent treatment,hasLeatherType,no leather,1
+hasFabricTreatment,water-repellent treatment,hasMaterialType,nylon material,1
+hasLength,full length,hasMaterialType,nylon material,1
+hasFabricTreatment,water-repellent treatment,hasOpeningType,zipper opening,1
+hasFabricTreatment,water-repellent treatment,hasSleeveType,sleeveless,1
+hasFabricTreatment,water-repellent treatment,hasNeckline,no neckline,1
+hasPattern,solid pattern,hasLength,full length,1
+hasFabricTreatment,water-repellent treatment,hasLength,full length,1
+hasMaterialType,nylon material,hasLength,full length,1
+hasFabricTreatment,water-repellent treatment,hasSilhouette,backpack silhouette,1
+hasFabricTreatment,water-repellent treatment,belongsToCategory,upperbody,1
+hasFabricTreatment,water-repellent treatment,depicts,bag,1
+hasLength,long,hasMaterialType,synthetic,1
+hasSilhouette,backpack silhouette,hasMaterialType,synthetic,1
+belongsToCategory,lowerbody,hasMaterialType,synthetic,1
+depicts,backpack,hasMaterialType,synthetic,1
+hasMaterialType,synthetic,hasLength,long,1
+hasMaterialType,synthetic,hasSilhouette,backpack silhouette,1
+hasMaterialType,synthetic,belongsToCategory,lowerbody,1
+hasMaterialType,synthetic,depicts,backpack,1
+hasLength,short,hasMaterialType,polyester,1
+hasMaterialType,polyester,hasLength,short,1
+depicts,backpack,hasLength,short,1
+hasLength,short,depicts,backpack,1
+hasSilhouette,straight,hasPattern,solid pattern,1
+belongsToCategory,wholebody garments,hasPattern,solid pattern,1
+hasPocketType,front pocket,hasFabricTreatment,waterproof treatment,1
+hasSleeveType,short-sleeve,hasFabricTreatment,waterproof treatment,1
+hasLength,long,hasFabricTreatment,waterproof treatment,1
+hasWaistline,high-waisted,hasFabricTreatment,waterproof treatment,1
+hasSilhouette,straight,hasFabricTreatment,waterproof treatment,1
+belongsToCategory,wholebody garments,hasFabricTreatment,waterproof treatment,1
+hasSleeveType,short-sleeve,hasMaterialType,nylon material,1
+hasLength,long,hasMaterialType,nylon material,1
+hasWaistline,high-waisted,hasMaterialType,nylon material,1
+hasSilhouette,straight,hasMaterialType,nylon material,1
+belongsToCategory,wholebody garments,hasMaterialType,nylon material,1
+hasSilhouette,straight,hasOpeningType,zipper opening,1
+belongsToCategory,wholebody garments,hasOpeningType,zipper opening,1
+hasFabricTreatment,waterproof treatment,hasPocketType,front pocket,1
+hasSilhouette,straight,hasPocketType,front pocket,1
+belongsToCategory,wholebody garments,hasPocketType,front pocket,1
+hasFabricTreatment,waterproof treatment,hasSleeveType,short-sleeve,1
+hasMaterialType,nylon material,hasSleeveType,short-sleeve,1
+hasLength,long,hasSleeveType,short-sleeve,1
+hasSilhouette,straight,hasSleeveType,short-sleeve,1
+belongsToCategory,wholebody garments,hasSleeveType,short-sleeve,1
+hasFabricTreatment,waterproof treatment,hasLength,long,1
+hasMaterialType,nylon material,hasLength,long,1
+hasSleeveType,short-sleeve,hasLength,long,1
+hasSilhouette,straight,hasLength,long,1
+belongsToCategory,wholebody garments,hasLength,long,1
+hasFabricTreatment,waterproof treatment,hasWaistline,high-waisted,1
+hasMaterialType,nylon material,hasWaistline,high-waisted,1
+hasSilhouette,straight,hasWaistline,high-waisted,1
+belongsToCategory,wholebody garments,hasWaistline,high-waisted,1
+hasPattern,solid pattern,hasSilhouette,straight,1
+hasFabricTreatment,waterproof treatment,hasSilhouette,straight,1
+hasMaterialType,nylon material,hasSilhouette,straight,1
+hasOpeningType,zipper opening,hasSilhouette,straight,1
+hasPocketType,front pocket,hasSilhouette,straight,1
+hasSleeveType,short-sleeve,hasSilhouette,straight,1
+hasLength,long,hasSilhouette,straight,1
+hasWaistline,high-waisted,hasSilhouette,straight,1
+belongsToCategory,wholebody garments,hasSilhouette,straight,1
+depicts,backpack,hasSilhouette,straight,1
+hasPattern,solid pattern,belongsToCategory,wholebody garments,1
+hasFabricTreatment,waterproof treatment,belongsToCategory,wholebody garments,1
+hasMaterialType,nylon material,belongsToCategory,wholebody garments,1
+hasOpeningType,zipper opening,belongsToCategory,wholebody garments,1
+hasPocketType,front pocket,belongsToCategory,wholebody garments,1
+hasSleeveType,short-sleeve,belongsToCategory,wholebody garments,1
+hasLength,long,belongsToCategory,wholebody garments,1
+hasWaistline,high-waisted,belongsToCategory,wholebody garments,1
+hasSilhouette,straight,belongsToCategory,wholebody garments,1
+depicts,backpack,belongsToCategory,wholebody garments,1
+hasSilhouette,straight,depicts,backpack,1
+belongsToCategory,wholebody garments,depicts,backpack,1
+hasMaterialType,polyester,hasFabricTreatment,textured fabric,1
+hasOpeningType,zip closure,hasFabricTreatment,textured fabric,1
+hasPocketType,front pockets,hasFabricTreatment,textured fabric,1
+hasSleeveType,backpack sleeves,hasFabricTreatment,textured fabric,1
+hasLength,long,hasFabricTreatment,textured fabric,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,textured fabric,1
+hasNickname,adidas star wars rucksack,hasFabricTreatment,textured fabric,1
+belongsToCategory,upperbody,hasFabricTreatment,textured fabric,1
+depicts,backpack,hasFabricTreatment,textured fabric,1
+hasFabricTreatment,textured fabric,hasMaterialType,polyester,1
+hasOpeningType,zip closure,hasMaterialType,polyester,1
+hasPocketType,front pockets,hasMaterialType,polyester,1
+hasSleeveType,backpack sleeves,hasMaterialType,polyester,1
+hasNickname,adidas star wars rucksack,hasMaterialType,polyester,1
+hasFabricTreatment,textured fabric,hasOpeningType,zip closure,1
+hasMaterialType,polyester,hasOpeningType,zip closure,1
+hasPocketType,front pockets,hasOpeningType,zip closure,1
+hasSleeveType,backpack sleeves,hasOpeningType,zip closure,1
+hasLength,long,hasOpeningType,zip closure,1
+hasSilhouette,backpack silhouette,hasOpeningType,zip closure,1
+hasNickname,adidas star wars rucksack,hasOpeningType,zip closure,1
+belongsToCategory,upperbody,hasOpeningType,zip closure,1
+depicts,backpack,hasOpeningType,zip closure,1
+hasFabricTreatment,textured fabric,hasPocketType,front pockets,1
+hasMaterialType,polyester,hasPocketType,front pockets,1
+hasOpeningType,zip closure,hasPocketType,front pockets,1
+hasSleeveType,backpack sleeves,hasPocketType,front pockets,1
+hasNickname,adidas star wars rucksack,hasPocketType,front pockets,1
+hasFabricTreatment,textured fabric,hasSleeveType,backpack sleeves,1
+hasMaterialType,polyester,hasSleeveType,backpack sleeves,1
+hasOpeningType,zip closure,hasSleeveType,backpack sleeves,1
+hasPocketType,front pockets,hasSleeveType,backpack sleeves,1
+hasLength,long,hasSleeveType,backpack sleeves,1
+hasNickname,adidas star wars rucksack,hasSleeveType,backpack sleeves,1
+depicts,backpack,hasSleeveType,backpack sleeves,1
+hasFabricTreatment,textured fabric,hasLength,long,1
+hasOpeningType,zip closure,hasLength,long,1
+hasSleeveType,backpack sleeves,hasLength,long,1
+hasNickname,adidas star wars rucksack,hasLength,long,1
+hasFabricTreatment,textured fabric,hasSilhouette,backpack silhouette,1
+hasOpeningType,zip closure,hasSilhouette,backpack silhouette,1
+hasNickname,adidas star wars rucksack,hasSilhouette,backpack silhouette,1
+hasFabricTreatment,textured fabric,hasNickname,adidas star wars rucksack,1
+hasMaterialType,polyester,hasNickname,adidas star wars rucksack,1
+hasOpeningType,zip closure,hasNickname,adidas star wars rucksack,1
+hasPocketType,front pockets,hasNickname,adidas star wars rucksack,1
+hasSleeveType,backpack sleeves,hasNickname,adidas star wars rucksack,1
+hasLength,long,hasNickname,adidas star wars rucksack,1
+hasSilhouette,backpack silhouette,hasNickname,adidas star wars rucksack,1
+belongsToCategory,upperbody,hasNickname,adidas star wars rucksack,1
+depicts,backpack,hasNickname,adidas star wars rucksack,1
+hasFabricTreatment,textured fabric,belongsToCategory,upperbody,1
+hasOpeningType,zip closure,belongsToCategory,upperbody,1
+hasNickname,adidas star wars rucksack,belongsToCategory,upperbody,1
+hasFabricTreatment,textured fabric,depicts,backpack,1
+hasOpeningType,zip closure,depicts,backpack,1
+hasSleeveType,backpack sleeves,depicts,backpack,1
+hasNickname,adidas star wars rucksack,depicts,backpack,1
+hasLength,medium length,hasMaterialType,nylon,1
+hasMaterialType,nylon,hasLength,medium length,1
+hasMaterialType,polyester,hasFabricTreatment,water-resistant,1
+hasFabricTreatment,water-resistant,hasMaterialType,polyester,1
+belongsToCategory,wholebody,hasPattern,solid pattern,1
+hasLeatherType,no leather,hasFabricTreatment,waterproof treatment,1
+hasPocketType,side pockets,hasFabricTreatment,waterproof treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,waterproof treatment,1
+hasNeckline,no neckline,hasFabricTreatment,waterproof treatment,1
+hasLength,medium length,hasFabricTreatment,waterproof treatment,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,waterproof treatment,1
+belongsToCategory,wholebody,hasFabricTreatment,waterproof treatment,1
+hasFabricTreatment,waterproof treatment,hasLeatherType,no leather,1
+belongsToCategory,wholebody,hasLeatherType,no leather,1
+hasFabricTreatment,waterproof treatment,hasPocketType,side pockets,1
+hasNeckline,no neckline,hasPocketType,side pockets,1
+belongsToCategory,wholebody,hasPocketType,side pockets,1
+hasFabricTreatment,waterproof treatment,hasSleeveType,sleeveless,1
+belongsToCategory,wholebody,hasSleeveType,sleeveless,1
+hasFabricTreatment,waterproof treatment,hasNeckline,no neckline,1
+hasPocketType,side pockets,hasNeckline,no neckline,1
+belongsToCategory,wholebody,hasNeckline,no neckline,1
+hasFabricTreatment,waterproof treatment,hasLength,medium length,1
+hasFabricTreatment,waterproof treatment,hasSilhouette,backpack silhouette,1
+hasPattern,solid pattern,belongsToCategory,wholebody,1
+hasFabricTreatment,waterproof treatment,belongsToCategory,wholebody,1
+hasLeatherType,no leather,belongsToCategory,wholebody,1
+hasPocketType,side pockets,belongsToCategory,wholebody,1
+hasSleeveType,sleeveless,belongsToCategory,wholebody,1
+hasNeckline,no neckline,belongsToCategory,wholebody,1
+depicts,backpack,belongsToCategory,wholebody,1
+belongsToCategory,wholebody,depicts,backpack,1
+hasMaterialType,fabric material,hasPattern,abstract pattern,1
+hasNeckline,no neckline,hasPattern,abstract pattern,1
+hasLength,full length,hasPattern,abstract pattern,1
+hasSilhouette,backpack silhouette,hasPattern,abstract pattern,1
+hasPattern,abstract pattern,hasMaterialType,fabric material,1
+hasSleeveType,sleeveless,hasMaterialType,fabric material,1
+hasLength,full length,hasMaterialType,fabric material,1
+hasMaterialType,fabric material,hasSleeveType,sleeveless,1
+hasPattern,abstract pattern,hasNeckline,no neckline,1
+hasPattern,abstract pattern,hasLength,full length,1
+hasMaterialType,fabric material,hasLength,full length,1
+hasPattern,abstract pattern,hasSilhouette,backpack silhouette,1
+hasLength,full length,hasMaterialType,nylon,1
+hasMaterialType,nylon,hasLength,full length,1
+belongsToCategory,lowerbody,hasMaterialType,polyester,1
+hasMaterialType,polyester,belongsToCategory,lowerbody,1
+hasPattern,solid pattern,hasAnimalPattern,none animal pattern,1
+hasLeatherType,none leather type,hasAnimalPattern,none animal pattern,1
+hasMaterialType,synthetic material type,hasAnimalPattern,none animal pattern,1
+hasOpeningType,zipper opening,hasAnimalPattern,none animal pattern,1
+hasPocketType,front pocket,hasAnimalPattern,none animal pattern,1
+hasSleeveType,short-sleeve,hasAnimalPattern,none animal pattern,1
+hasNeckline,none neckline,hasAnimalPattern,none animal pattern,1
+hasLapelType,none lapel type,hasAnimalPattern,none animal pattern,1
+hasCollarType,none collar type,hasAnimalPattern,none animal pattern,1
+hasLength,standard length,hasAnimalPattern,none animal pattern,1
+hasSilhouette,backpack silhouette,hasAnimalPattern,none animal pattern,1
+belongsToCategory,upperbody,hasAnimalPattern,none animal pattern,1
+depicts,bag,hasAnimalPattern,none animal pattern,1
+hasAnimalPattern,none animal pattern,hasPattern,solid pattern,1
+hasLeatherType,none leather type,hasPattern,solid pattern,1
+hasMaterialType,synthetic material type,hasPattern,solid pattern,1
+hasNeckline,none neckline,hasPattern,solid pattern,1
+hasLapelType,none lapel type,hasPattern,solid pattern,1
+hasCollarType,none collar type,hasPattern,solid pattern,1
+hasLength,standard length,hasPattern,solid pattern,1
+hasAnimalPattern,none animal pattern,hasLeatherType,none leather type,1
+hasPattern,solid pattern,hasLeatherType,none leather type,1
+hasMaterialType,synthetic material type,hasLeatherType,none leather type,1
+hasOpeningType,zipper opening,hasLeatherType,none leather type,1
+hasPocketType,front pocket,hasLeatherType,none leather type,1
+hasSleeveType,short-sleeve,hasLeatherType,none leather type,1
+hasNeckline,none neckline,hasLeatherType,none leather type,1
+hasLapelType,none lapel type,hasLeatherType,none leather type,1
+hasCollarType,none collar type,hasLeatherType,none leather type,1
+hasLength,standard length,hasLeatherType,none leather type,1
+hasSilhouette,backpack silhouette,hasLeatherType,none leather type,1
+belongsToCategory,upperbody,hasLeatherType,none leather type,1
+depicts,bag,hasLeatherType,none leather type,1
+hasAnimalPattern,none animal pattern,hasMaterialType,synthetic material type,1
+hasPattern,solid pattern,hasMaterialType,synthetic material type,1
+hasLeatherType,none leather type,hasMaterialType,synthetic material type,1
+hasOpeningType,zipper opening,hasMaterialType,synthetic material type,1
+hasPocketType,front pocket,hasMaterialType,synthetic material type,1
+hasSleeveType,short-sleeve,hasMaterialType,synthetic material type,1
+hasNeckline,none neckline,hasMaterialType,synthetic material type,1
+hasLapelType,none lapel type,hasMaterialType,synthetic material type,1
+hasCollarType,none collar type,hasMaterialType,synthetic material type,1
+hasLength,standard length,hasMaterialType,synthetic material type,1
+hasSilhouette,backpack silhouette,hasMaterialType,synthetic material type,1
+belongsToCategory,upperbody,hasMaterialType,synthetic material type,1
+depicts,bag,hasMaterialType,synthetic material type,1
+hasAnimalPattern,none animal pattern,hasOpeningType,zipper opening,1
+hasLeatherType,none leather type,hasOpeningType,zipper opening,1
+hasMaterialType,synthetic material type,hasOpeningType,zipper opening,1
+hasNeckline,none neckline,hasOpeningType,zipper opening,1
+hasLapelType,none lapel type,hasOpeningType,zipper opening,1
+hasCollarType,none collar type,hasOpeningType,zipper opening,1
+hasLength,standard length,hasOpeningType,zipper opening,1
+hasAnimalPattern,none animal pattern,hasPocketType,front pocket,1
+hasLeatherType,none leather type,hasPocketType,front pocket,1
+hasMaterialType,synthetic material type,hasPocketType,front pocket,1
+hasNeckline,none neckline,hasPocketType,front pocket,1
+hasLapelType,none lapel type,hasPocketType,front pocket,1
+hasCollarType,none collar type,hasPocketType,front pocket,1
+hasLength,standard length,hasPocketType,front pocket,1
+hasAnimalPattern,none animal pattern,hasSleeveType,short-sleeve,1
+hasLeatherType,none leather type,hasSleeveType,short-sleeve,1
+hasMaterialType,synthetic material type,hasSleeveType,short-sleeve,1
+hasNeckline,none neckline,hasSleeveType,short-sleeve,1
+hasLapelType,none lapel type,hasSleeveType,short-sleeve,1
+hasCollarType,none collar type,hasSleeveType,short-sleeve,1
+hasLength,standard length,hasSleeveType,short-sleeve,1
+depicts,bag,hasSleeveType,short-sleeve,1
+hasAnimalPattern,none animal pattern,hasNeckline,none neckline,1
+hasPattern,solid pattern,hasNeckline,none neckline,1
+hasLeatherType,none leather type,hasNeckline,none neckline,1
+hasMaterialType,synthetic material type,hasNeckline,none neckline,1
+hasOpeningType,zipper opening,hasNeckline,none neckline,1
+hasPocketType,front pocket,hasNeckline,none neckline,1
+hasSleeveType,short-sleeve,hasNeckline,none neckline,1
+hasLapelType,none lapel type,hasNeckline,none neckline,1
+hasCollarType,none collar type,hasNeckline,none neckline,1
+hasLength,standard length,hasNeckline,none neckline,1
+hasSilhouette,backpack silhouette,hasNeckline,none neckline,1
+belongsToCategory,upperbody,hasNeckline,none neckline,1
+depicts,bag,hasNeckline,none neckline,1
+hasAnimalPattern,none animal pattern,hasLapelType,none lapel type,1
+hasPattern,solid pattern,hasLapelType,none lapel type,1
+hasLeatherType,none leather type,hasLapelType,none lapel type,1
+hasMaterialType,synthetic material type,hasLapelType,none lapel type,1
+hasOpeningType,zipper opening,hasLapelType,none lapel type,1
+hasPocketType,front pocket,hasLapelType,none lapel type,1
+hasSleeveType,short-sleeve,hasLapelType,none lapel type,1
+hasNeckline,none neckline,hasLapelType,none lapel type,1
+hasCollarType,none collar type,hasLapelType,none lapel type,1
+hasLength,standard length,hasLapelType,none lapel type,1
+hasSilhouette,backpack silhouette,hasLapelType,none lapel type,1
+belongsToCategory,upperbody,hasLapelType,none lapel type,1
+depicts,bag,hasLapelType,none lapel type,1
+hasAnimalPattern,none animal pattern,hasCollarType,none collar type,1
+hasPattern,solid pattern,hasCollarType,none collar type,1
+hasLeatherType,none leather type,hasCollarType,none collar type,1
+hasMaterialType,synthetic material type,hasCollarType,none collar type,1
+hasOpeningType,zipper opening,hasCollarType,none collar type,1
+hasPocketType,front pocket,hasCollarType,none collar type,1
+hasSleeveType,short-sleeve,hasCollarType,none collar type,1
+hasNeckline,none neckline,hasCollarType,none collar type,1
+hasLapelType,none lapel type,hasCollarType,none collar type,1
+hasLength,standard length,hasCollarType,none collar type,1
+hasSilhouette,backpack silhouette,hasCollarType,none collar type,1
+belongsToCategory,upperbody,hasCollarType,none collar type,1
+depicts,bag,hasCollarType,none collar type,1
+hasAnimalPattern,none animal pattern,hasLength,standard length,1
+hasPattern,solid pattern,hasLength,standard length,1
+hasLeatherType,none leather type,hasLength,standard length,1
+hasMaterialType,synthetic material type,hasLength,standard length,1
+hasOpeningType,zipper opening,hasLength,standard length,1
+hasPocketType,front pocket,hasLength,standard length,1
+hasSleeveType,short-sleeve,hasLength,standard length,1
+hasNeckline,none neckline,hasLength,standard length,1
+hasLapelType,none lapel type,hasLength,standard length,1
+hasCollarType,none collar type,hasLength,standard length,1
+hasSilhouette,backpack silhouette,hasLength,standard length,1
+belongsToCategory,upperbody,hasLength,standard length,1
+depicts,bag,hasLength,standard length,1
+hasAnimalPattern,none animal pattern,hasSilhouette,backpack silhouette,1
+hasLeatherType,none leather type,hasSilhouette,backpack silhouette,1
+hasMaterialType,synthetic material type,hasSilhouette,backpack silhouette,1
+hasNeckline,none neckline,hasSilhouette,backpack silhouette,1
+hasLapelType,none lapel type,hasSilhouette,backpack silhouette,1
+hasCollarType,none collar type,hasSilhouette,backpack silhouette,1
+hasLength,standard length,hasSilhouette,backpack silhouette,1
+hasAnimalPattern,none animal pattern,belongsToCategory,upperbody,1
+hasLeatherType,none leather type,belongsToCategory,upperbody,1
+hasMaterialType,synthetic material type,belongsToCategory,upperbody,1
+hasNeckline,none neckline,belongsToCategory,upperbody,1
+hasLapelType,none lapel type,belongsToCategory,upperbody,1
+hasCollarType,none collar type,belongsToCategory,upperbody,1
+hasLength,standard length,belongsToCategory,upperbody,1
+hasAnimalPattern,none animal pattern,depicts,bag,1
+hasLeatherType,none leather type,depicts,bag,1
+hasMaterialType,synthetic material type,depicts,bag,1
+hasSleeveType,short-sleeve,depicts,bag,1
+hasNeckline,none neckline,depicts,bag,1
+hasLapelType,none lapel type,depicts,bag,1
+hasCollarType,none collar type,depicts,bag,1
+hasLength,standard length,depicts,bag,1
+hasLength,knee-length,hasMaterialType,polyester,1
+hasMaterialType,polyester,hasLength,knee-length,1
+hasSilhouette,backpack silhouette,hasLength,knee-length,1
+belongsToCategory,upperbody,hasLength,knee-length,1
+depicts,backpack,hasLength,knee-length,1
+hasLength,knee-length,hasSilhouette,backpack silhouette,1
+hasLength,knee-length,belongsToCategory,upperbody,1
+hasLength,knee-length,depicts,backpack,1
+hasFabricTreatment,waterproofing treatment,hasPattern,plain color,1
+hasMaterialType,synthetic material,hasPattern,plain color,1
+hasOpeningType,zipper opening,hasPattern,plain color,1
+hasPocketType,external pockets,hasPattern,plain color,1
+hasSleeveType,sleeveless,hasPattern,plain color,1
+hasNeckline,no neckline,hasPattern,plain color,1
+hasLength,full length,hasPattern,plain color,1
+hasSilhouette,backpack silhouette,hasPattern,plain color,1
+belongsToCategory,upperbody,hasPattern,plain color,1
+depicts,bag,hasPattern,plain color,1
+hasPattern,plain color,hasFabricTreatment,waterproofing treatment,1
+hasMaterialType,synthetic material,hasFabricTreatment,waterproofing treatment,1
+hasOpeningType,zipper opening,hasFabricTreatment,waterproofing treatment,1
+hasPocketType,external pockets,hasFabricTreatment,waterproofing treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,waterproofing treatment,1
+hasNeckline,no neckline,hasFabricTreatment,waterproofing treatment,1
+hasLength,full length,hasFabricTreatment,waterproofing treatment,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,waterproofing treatment,1
+belongsToCategory,upperbody,hasFabricTreatment,waterproofing treatment,1
+depicts,bag,hasFabricTreatment,waterproofing treatment,1
+hasPattern,plain color,hasMaterialType,synthetic material,1
+hasFabricTreatment,waterproofing treatment,hasMaterialType,synthetic material,1
+hasPocketType,external pockets,hasMaterialType,synthetic material,1
+hasSleeveType,sleeveless,hasMaterialType,synthetic material,1
+hasNeckline,no neckline,hasMaterialType,synthetic material,1
+belongsToCategory,upperbody,hasMaterialType,synthetic material,1
+depicts,bag,hasMaterialType,synthetic material,1
+hasPattern,plain color,hasOpeningType,zipper opening,1
+hasFabricTreatment,waterproofing treatment,hasOpeningType,zipper opening,1
+hasPocketType,external pockets,hasOpeningType,zipper opening,1
+hasPattern,plain color,hasPocketType,external pockets,1
+hasFabricTreatment,waterproofing treatment,hasPocketType,external pockets,1
+hasMaterialType,synthetic material,hasPocketType,external pockets,1
+hasOpeningType,zipper opening,hasPocketType,external pockets,1
+hasSleeveType,sleeveless,hasPocketType,external pockets,1
+hasNeckline,no neckline,hasPocketType,external pockets,1
+hasLength,full length,hasPocketType,external pockets,1
+hasSilhouette,backpack silhouette,hasPocketType,external pockets,1
+belongsToCategory,upperbody,hasPocketType,external pockets,1
+depicts,bag,hasPocketType,external pockets,1
+hasPattern,plain color,hasSleeveType,sleeveless,1
+hasFabricTreatment,waterproofing treatment,hasSleeveType,sleeveless,1
+hasMaterialType,synthetic material,hasSleeveType,sleeveless,1
+hasPocketType,external pockets,hasSleeveType,sleeveless,1
+hasPattern,plain color,hasNeckline,no neckline,1
+hasFabricTreatment,waterproofing treatment,hasNeckline,no neckline,1
+hasMaterialType,synthetic material,hasNeckline,no neckline,1
+hasPocketType,external pockets,hasNeckline,no neckline,1
+hasPattern,plain color,hasLength,full length,1
+hasFabricTreatment,waterproofing treatment,hasLength,full length,1
+hasPocketType,external pockets,hasLength,full length,1
+hasPattern,plain color,hasSilhouette,backpack silhouette,1
+hasFabricTreatment,waterproofing treatment,hasSilhouette,backpack silhouette,1
+hasPocketType,external pockets,hasSilhouette,backpack silhouette,1
+hasPattern,plain color,belongsToCategory,upperbody,1
+hasFabricTreatment,waterproofing treatment,belongsToCategory,upperbody,1
+hasMaterialType,synthetic material,belongsToCategory,upperbody,1
+hasPocketType,external pockets,belongsToCategory,upperbody,1
+hasPattern,plain color,depicts,bag,1
+hasFabricTreatment,waterproofing treatment,depicts,bag,1
+hasMaterialType,synthetic material,depicts,bag,1
+hasPocketType,external pockets,depicts,bag,1
+hasMaterialType,cotton material,hasLeatherType,no leather,1
+hasLeatherType,no leather,hasMaterialType,cotton material,1
+hasOpeningType,zipper opening,hasMaterialType,cotton material,1
+hasSleeveType,sleeveless,hasMaterialType,cotton material,1
+hasNeckline,no neckline,hasMaterialType,cotton material,1
+hasLength,medium length,hasMaterialType,cotton material,1
+hasSilhouette,backpack silhouette,hasMaterialType,cotton material,1
+belongsToCategory,lowerbody,hasMaterialType,cotton material,1
+depicts,backpack,hasMaterialType,cotton material,1
+hasMaterialType,cotton material,hasOpeningType,zipper opening,1
+hasMaterialType,cotton material,hasSleeveType,sleeveless,1
+hasMaterialType,cotton material,hasNeckline,no neckline,1
+hasMaterialType,cotton material,hasLength,medium length,1
+hasMaterialType,cotton material,hasSilhouette,backpack silhouette,1
+hasMaterialType,cotton material,belongsToCategory,lowerbody,1
+hasMaterialType,cotton material,depicts,backpack,1
+belongsToCategory,bag,hasMaterialType,fabric material,1
+belongsToCategory,bag,hasSilhouette,backpack silhouette,1
+hasMaterialType,fabric material,belongsToCategory,bag,1
+hasSilhouette,backpack silhouette,belongsToCategory,bag,1
+depicts,backpack,belongsToCategory,bag,1
+belongsToCategory,bag,depicts,backpack,1
+hasFabricTreatment,water-resistant treatment,hasPattern,polka dot pattern,1
+hasLeatherType,no leather,hasPattern,polka dot pattern,1
+hasMaterialType,polyester material,hasPattern,polka dot pattern,1
+hasOpeningType,zipper closure,hasPattern,polka dot pattern,1
+hasPocketType,side pockets,hasPattern,polka dot pattern,1
+hasSleeveType,short-sleeve,hasPattern,polka dot pattern,1
+hasNeckline,crew neck,hasPattern,polka dot pattern,1
+hasLength,medium length,hasPattern,polka dot pattern,1
+hasSilhouette,backpack silhouette,hasPattern,polka dot pattern,1
+belongsToCategory,upperbody,hasPattern,polka dot pattern,1
+depicts,backpack,hasPattern,polka dot pattern,1
+hasPattern,polka dot pattern,hasFabricTreatment,water-resistant treatment,1
+hasMaterialType,polyester material,hasFabricTreatment,water-resistant treatment,1
+hasOpeningType,zipper closure,hasFabricTreatment,water-resistant treatment,1
+hasPocketType,side pockets,hasFabricTreatment,water-resistant treatment,1
+hasNeckline,crew neck,hasFabricTreatment,water-resistant treatment,1
+hasPattern,polka dot pattern,hasLeatherType,no leather,1
+hasNeckline,crew neck,hasLeatherType,no leather,1
+hasPattern,polka dot pattern,hasMaterialType,polyester material,1
+hasFabricTreatment,water-resistant treatment,hasMaterialType,polyester material,1
+hasOpeningType,zipper closure,hasMaterialType,polyester material,1
+hasPocketType,side pockets,hasMaterialType,polyester material,1
+hasSleeveType,short-sleeve,hasMaterialType,polyester material,1
+hasNeckline,crew neck,hasMaterialType,polyester material,1
+depicts,backpack,hasMaterialType,polyester material,1
+hasPattern,polka dot pattern,hasOpeningType,zipper closure,1
+hasFabricTreatment,water-resistant treatment,hasOpeningType,zipper closure,1
+hasMaterialType,polyester material,hasOpeningType,zipper closure,1
+hasPocketType,side pockets,hasOpeningType,zipper closure,1
+hasSleeveType,short-sleeve,hasOpeningType,zipper closure,1
+hasNeckline,crew neck,hasOpeningType,zipper closure,1
+hasSilhouette,backpack silhouette,hasOpeningType,zipper closure,1
+hasPattern,polka dot pattern,hasPocketType,side pockets,1
+hasFabricTreatment,water-resistant treatment,hasPocketType,side pockets,1
+hasMaterialType,polyester material,hasPocketType,side pockets,1
+hasOpeningType,zipper closure,hasPocketType,side pockets,1
+hasSleeveType,short-sleeve,hasPocketType,side pockets,1
+hasNeckline,crew neck,hasPocketType,side pockets,1
+hasPattern,polka dot pattern,hasSleeveType,short-sleeve,1
+hasMaterialType,polyester material,hasSleeveType,short-sleeve,1
+hasOpeningType,zipper closure,hasSleeveType,short-sleeve,1
+hasPocketType,side pockets,hasSleeveType,short-sleeve,1
+hasNeckline,crew neck,hasSleeveType,short-sleeve,1
+hasPattern,polka dot pattern,hasNeckline,crew neck,1
+hasFabricTreatment,water-resistant treatment,hasNeckline,crew neck,1
+hasLeatherType,no leather,hasNeckline,crew neck,1
+hasMaterialType,polyester material,hasNeckline,crew neck,1
+hasOpeningType,zipper closure,hasNeckline,crew neck,1
+hasPocketType,side pockets,hasNeckline,crew neck,1
+hasSleeveType,short-sleeve,hasNeckline,crew neck,1
+hasLength,medium length,hasNeckline,crew neck,1
+hasSilhouette,backpack silhouette,hasNeckline,crew neck,1
+belongsToCategory,upperbody,hasNeckline,crew neck,1
+depicts,backpack,hasNeckline,crew neck,1
+hasPattern,polka dot pattern,hasLength,medium length,1
+hasNeckline,crew neck,hasLength,medium length,1
+hasPattern,polka dot pattern,hasSilhouette,backpack silhouette,1
+hasOpeningType,zipper closure,hasSilhouette,backpack silhouette,1
+hasNeckline,crew neck,hasSilhouette,backpack silhouette,1
+hasPattern,polka dot pattern,belongsToCategory,upperbody,1
+hasNeckline,crew neck,belongsToCategory,upperbody,1
+hasPattern,polka dot pattern,depicts,backpack,1
+hasMaterialType,polyester material,depicts,backpack,1
+hasNeckline,crew neck,depicts,backpack,1
+hasSilhouette,backpack silhouette,hasLength,regular length,1
+belongsToCategory,upperbody,hasLength,regular length,1
+depicts,backpack,hasLength,regular length,1
+hasLength,regular length,hasSilhouette,backpack silhouette,1
+hasLength,regular length,belongsToCategory,upperbody,1
+hasLength,regular length,depicts,backpack,1
+hasFabricTreatment,water-resistant treatment,hasPattern,solid color pattern,1
+hasMaterialType,polyester fabric,hasPattern,solid color pattern,1
+hasPocketType,front pocket,hasPattern,solid color pattern,1
+hasSleeveType,short-sleeve,hasPattern,solid color pattern,1
+belongsToCategory,lowerbody,hasPattern,solid color pattern,1
+depicts,backpack,hasPattern,solid color pattern,1
+hasPattern,solid color pattern,hasFabricTreatment,water-resistant treatment,1
+hasMaterialType,polyester fabric,hasFabricTreatment,water-resistant treatment,1
+hasPocketType,front pocket,hasFabricTreatment,water-resistant treatment,1
+hasNeckline,no neckline,hasFabricTreatment,water-resistant treatment,1
+belongsToCategory,lowerbody,hasFabricTreatment,water-resistant treatment,1
+hasPattern,solid color pattern,hasMaterialType,polyester fabric,1
+hasFabricTreatment,water-resistant treatment,hasMaterialType,polyester fabric,1
+hasPocketType,front pocket,hasMaterialType,polyester fabric,1
+hasSleeveType,short-sleeve,hasMaterialType,polyester fabric,1
+hasNeckline,no neckline,hasMaterialType,polyester fabric,1
+hasSilhouette,backpack silhouette,hasMaterialType,polyester fabric,1
+belongsToCategory,lowerbody,hasMaterialType,polyester fabric,1
+hasPattern,solid color pattern,hasPocketType,front pocket,1
+hasFabricTreatment,water-resistant treatment,hasPocketType,front pocket,1
+hasMaterialType,polyester fabric,hasPocketType,front pocket,1
+hasNeckline,no neckline,hasPocketType,front pocket,1
+hasPattern,solid color pattern,hasSleeveType,short-sleeve,1
+hasMaterialType,polyester fabric,hasSleeveType,short-sleeve,1
+hasNeckline,no neckline,hasSleeveType,short-sleeve,1
+hasFabricTreatment,water-resistant treatment,hasNeckline,no neckline,1
+hasMaterialType,polyester fabric,hasNeckline,no neckline,1
+hasPocketType,front pocket,hasNeckline,no neckline,1
+hasSleeveType,short-sleeve,hasNeckline,no neckline,1
+hasMaterialType,polyester fabric,hasSilhouette,backpack silhouette,1
+hasPattern,solid color pattern,belongsToCategory,lowerbody,1
+hasFabricTreatment,water-resistant treatment,belongsToCategory,lowerbody,1
+hasMaterialType,polyester fabric,belongsToCategory,lowerbody,1
+hasPattern,solid color pattern,depicts,backpack,1
+hasWaistline,no waist,hasMaterialType,polyester,1
+hasMaterialType,polyester,hasWaistline,no waist,1
+hasSilhouette,backpack silhouette,hasWaistline,no waist,1
+belongsToCategory,upperbody,hasWaistline,no waist,1
+depicts,backpack,hasWaistline,no waist,1
+hasWaistline,no waist,hasSilhouette,backpack silhouette,1
+hasWaistline,no waist,belongsToCategory,upperbody,1
+hasWaistline,no waist,depicts,backpack,1
+hasMaterialType,nylon material,hasPattern,plain pattern,1
+hasPocketType,front pocket,hasPattern,plain pattern,1
+hasLength,medium length,hasPattern,plain pattern,1
+belongsToCategory,wholebody,hasPattern,plain pattern,1
+hasPattern,plain pattern,hasMaterialType,nylon material,1
+hasPattern,plain pattern,hasPocketType,front pocket,1
+belongsToCategory,wholebody,hasPocketType,front pocket,1
+hasPattern,plain pattern,hasLength,medium length,1
+hasPattern,plain pattern,belongsToCategory,wholebody,1
+hasPocketType,front pocket,belongsToCategory,wholebody,1
+depicts,bag,belongsToCategory,wholebody,1
+belongsToCategory,wholebody,depicts,bag,1
+hasLeatherType,no leather type,hasPattern,solid pattern,1
+hasLength,above knee length,hasPattern,solid pattern,1
+hasWaistline,natural waistline,hasPattern,solid pattern,1
+hasPattern,solid pattern,hasLeatherType,no leather type,1
+hasMaterialType,nylon material,hasLeatherType,no leather type,1
+hasOpeningType,zipper opening,hasLeatherType,no leather type,1
+hasPocketType,side pockets,hasLeatherType,no leather type,1
+hasSleeveType,long-sleeve,hasLeatherType,no leather type,1
+hasNeckline,round neckline,hasLeatherType,no leather type,1
+hasLength,above knee length,hasLeatherType,no leather type,1
+hasWaistline,natural waistline,hasLeatherType,no leather type,1
+hasSilhouette,backpack silhouette,hasLeatherType,no leather type,1
+belongsToCategory,upperbody,hasLeatherType,no leather type,1
+depicts,bag,hasLeatherType,no leather type,1
+hasLeatherType,no leather type,hasMaterialType,nylon material,1
+hasNeckline,round neckline,hasMaterialType,nylon material,1
+hasLength,above knee length,hasMaterialType,nylon material,1
+hasWaistline,natural waistline,hasMaterialType,nylon material,1
+hasLeatherType,no leather type,hasOpeningType,zipper opening,1
+hasLength,above knee length,hasOpeningType,zipper opening,1
+hasWaistline,natural waistline,hasOpeningType,zipper opening,1
+hasLeatherType,no leather type,hasPocketType,side pockets,1
+hasSleeveType,long-sleeve,hasPocketType,side pockets,1
+hasLength,above knee length,hasPocketType,side pockets,1
+hasWaistline,natural waistline,hasPocketType,side pockets,1
+depicts,bag,hasPocketType,side pockets,1
+hasLeatherType,no leather type,hasSleeveType,long-sleeve,1
+hasPocketType,side pockets,hasSleeveType,long-sleeve,1
+hasLength,above knee length,hasSleeveType,long-sleeve,1
+hasWaistline,natural waistline,hasSleeveType,long-sleeve,1
+hasLeatherType,no leather type,hasNeckline,round neckline,1
+hasMaterialType,nylon material,hasNeckline,round neckline,1
+hasLength,above knee length,hasNeckline,round neckline,1
+hasWaistline,natural waistline,hasNeckline,round neckline,1
+hasPattern,solid pattern,hasLength,above knee length,1
+hasLeatherType,no leather type,hasLength,above knee length,1
+hasMaterialType,nylon material,hasLength,above knee length,1
+hasOpeningType,zipper opening,hasLength,above knee length,1
+hasPocketType,side pockets,hasLength,above knee length,1
+hasSleeveType,long-sleeve,hasLength,above knee length,1
+hasNeckline,round neckline,hasLength,above knee length,1
+hasWaistline,natural waistline,hasLength,above knee length,1
+hasSilhouette,backpack silhouette,hasLength,above knee length,1
+belongsToCategory,upperbody,hasLength,above knee length,1
+depicts,bag,hasLength,above knee length,1
+hasPattern,solid pattern,hasWaistline,natural waistline,1
+hasLeatherType,no leather type,hasWaistline,natural waistline,1
+hasMaterialType,nylon material,hasWaistline,natural waistline,1
+hasOpeningType,zipper opening,hasWaistline,natural waistline,1
+hasPocketType,side pockets,hasWaistline,natural waistline,1
+hasSleeveType,long-sleeve,hasWaistline,natural waistline,1
+hasNeckline,round neckline,hasWaistline,natural waistline,1
+hasLength,above knee length,hasWaistline,natural waistline,1
+hasSilhouette,backpack silhouette,hasWaistline,natural waistline,1
+belongsToCategory,upperbody,hasWaistline,natural waistline,1
+depicts,bag,hasWaistline,natural waistline,1
+hasLeatherType,no leather type,hasSilhouette,backpack silhouette,1
+hasLength,above knee length,hasSilhouette,backpack silhouette,1
+hasWaistline,natural waistline,hasSilhouette,backpack silhouette,1
+hasLeatherType,no leather type,belongsToCategory,upperbody,1
+hasLength,above knee length,belongsToCategory,upperbody,1
+hasWaistline,natural waistline,belongsToCategory,upperbody,1
+hasLeatherType,no leather type,depicts,bag,1
+hasPocketType,side pockets,depicts,bag,1
+hasLength,above knee length,depicts,bag,1
+hasWaistline,natural waistline,depicts,bag,1
+hasFabricTreatment,waterproof,hasPattern,plain pattern,1
+hasMaterialType,polyester,hasPattern,plain pattern,1
+hasSleeveType,long-sleeve,hasPattern,plain pattern,1
+hasNeckline,round neckline,hasPattern,plain pattern,1
+hasLength,full length,hasPattern,plain pattern,1
+belongsToCategory,upperbody,hasPattern,plain pattern,1
+hasPattern,plain pattern,hasFabricTreatment,waterproof,1
+hasMaterialType,polyester,hasFabricTreatment,waterproof,1
+hasOpeningType,zipper opening,hasFabricTreatment,waterproof,1
+hasSleeveType,long-sleeve,hasFabricTreatment,waterproof,1
+hasNeckline,round neckline,hasFabricTreatment,waterproof,1
+hasLength,full length,hasFabricTreatment,waterproof,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,waterproof,1
+belongsToCategory,upperbody,hasFabricTreatment,waterproof,1
+depicts,bag,hasFabricTreatment,waterproof,1
+hasPattern,plain pattern,hasMaterialType,polyester,1
+hasFabricTreatment,waterproof,hasMaterialType,polyester,1
+hasOpeningType,zipper opening,hasMaterialType,polyester,1
+hasSleeveType,long-sleeve,hasMaterialType,polyester,1
+hasNeckline,round neckline,hasMaterialType,polyester,1
+depicts,bag,hasMaterialType,polyester,1
+hasFabricTreatment,waterproof,hasOpeningType,zipper opening,1
+hasMaterialType,polyester,hasOpeningType,zipper opening,1
+hasPattern,plain pattern,hasSleeveType,long-sleeve,1
+hasFabricTreatment,waterproof,hasSleeveType,long-sleeve,1
+hasMaterialType,polyester,hasSleeveType,long-sleeve,1
+hasLength,full length,hasSleeveType,long-sleeve,1
+hasPattern,plain pattern,hasNeckline,round neckline,1
+hasFabricTreatment,waterproof,hasNeckline,round neckline,1
+hasMaterialType,polyester,hasNeckline,round neckline,1
+hasPattern,plain pattern,hasLength,full length,1
+hasFabricTreatment,waterproof,hasLength,full length,1
+hasSleeveType,long-sleeve,hasLength,full length,1
+hasFabricTreatment,waterproof,hasSilhouette,backpack silhouette,1
+hasPattern,plain pattern,belongsToCategory,upperbody,1
+hasFabricTreatment,waterproof,belongsToCategory,upperbody,1
+hasFabricTreatment,waterproof,depicts,bag,1
+hasMaterialType,polyester,depicts,bag,1
+hasLeatherType,no leather,hasFabricTreatment,no treatment,1
+hasMaterialType,fabric,hasFabricTreatment,no treatment,1
+hasOpeningType,zipper opening,hasFabricTreatment,no treatment,1
+hasPocketType,front pockets,hasFabricTreatment,no treatment,1
+hasLength,medium length,hasFabricTreatment,no treatment,1
+hasSilhouette,bag-shaped,hasFabricTreatment,no treatment,1
+depicts,bag,hasFabricTreatment,no treatment,1
+hasPattern,abstract pattern,hasFabricTreatment,no treatment,1
+hasMaterialType,polyester fabric,hasFabricTreatment,no treatment,1
+hasOpeningType,zipper closure,hasFabricTreatment,no treatment,1
+hasSleeveType,sleeveless,hasFabricTreatment,no treatment,1
+hasNeckline,round neckline,hasFabricTreatment,no treatment,1
+hasLength,long,hasFabricTreatment,no treatment,1
+hasWaistline,high-waisted,hasFabricTreatment,no treatment,1
+hasSilhouette,a-line,hasFabricTreatment,no treatment,1
+belongsToCategory,upperbody,hasFabricTreatment,no treatment,1
+depicts,backpack,hasFabricTreatment,no treatment,1
+hasFabricTreatment,no treatment,hasLeatherType,no leather,1
+hasSilhouette,bag-shaped,hasLeatherType,no leather,1
+hasSilhouette,a-line,hasLeatherType,no leather,1
+hasFabricTreatment,no treatment,hasMaterialType,fabric,1
+hasPocketType,front pockets,hasMaterialType,fabric,1
+hasSilhouette,bag-shaped,hasMaterialType,fabric,1
+hasPattern,abstract pattern,hasMaterialType,fabric,1
+hasMaterialType,polyester fabric,hasMaterialType,fabric,1
+hasOpeningType,zipper closure,hasMaterialType,fabric,1
+hasSleeveType,sleeveless,hasMaterialType,fabric,1
+hasNeckline,round neckline,hasMaterialType,fabric,1
+hasLength,long,hasMaterialType,fabric,1
+hasWaistline,high-waisted,hasMaterialType,fabric,1
+hasSilhouette,a-line,hasMaterialType,fabric,1
+depicts,backpack,hasMaterialType,fabric,1
+hasFabricTreatment,no treatment,hasOpeningType,zipper opening,1
+hasSilhouette,bag-shaped,hasOpeningType,zipper opening,1
+hasOpeningType,zipper closure,hasOpeningType,zipper opening,1
+hasSilhouette,a-line,hasOpeningType,zipper opening,1
+hasFabricTreatment,no treatment,hasPocketType,front pockets,1
+hasMaterialType,fabric,hasPocketType,front pockets,1
+hasLength,medium length,hasPocketType,front pockets,1
+hasSilhouette,bag-shaped,hasPocketType,front pockets,1
+depicts,bag,hasPocketType,front pockets,1
+hasPattern,abstract pattern,hasPocketType,front pockets,1
+hasMaterialType,polyester fabric,hasPocketType,front pockets,1
+hasOpeningType,zipper closure,hasPocketType,front pockets,1
+hasSleeveType,sleeveless,hasPocketType,front pockets,1
+hasSilhouette,a-line,hasPocketType,front pockets,1
+hasFabricTreatment,no treatment,hasLength,medium length,1
+hasPocketType,front pockets,hasLength,medium length,1
+hasSilhouette,bag-shaped,hasLength,medium length,1
+hasPattern,abstract pattern,hasLength,medium length,1
+hasNeckline,round neckline,hasLength,medium length,1
+hasLength,long,hasLength,medium length,1
+hasWaistline,high-waisted,hasLength,medium length,1
+hasSilhouette,a-line,hasLength,medium length,1
+hasFabricTreatment,no treatment,hasSilhouette,bag-shaped,1
+hasLeatherType,no leather,hasSilhouette,bag-shaped,1
+hasMaterialType,fabric,hasSilhouette,bag-shaped,1
+hasOpeningType,zipper opening,hasSilhouette,bag-shaped,1
+hasPocketType,front pockets,hasSilhouette,bag-shaped,1
+hasLength,medium length,hasSilhouette,bag-shaped,1
+depicts,bag,hasSilhouette,bag-shaped,1
+hasPattern,abstract pattern,hasSilhouette,bag-shaped,1
+hasMaterialType,polyester fabric,hasSilhouette,bag-shaped,1
+hasOpeningType,zipper closure,hasSilhouette,bag-shaped,1
+hasSleeveType,sleeveless,hasSilhouette,bag-shaped,1
+hasNeckline,round neckline,hasSilhouette,bag-shaped,1
+hasLength,long,hasSilhouette,bag-shaped,1
+hasWaistline,high-waisted,hasSilhouette,bag-shaped,1
+hasSilhouette,a-line,hasSilhouette,bag-shaped,1
+belongsToCategory,upperbody,hasSilhouette,bag-shaped,1
+depicts,backpack,hasSilhouette,bag-shaped,1
+hasFabricTreatment,no treatment,depicts,bag,1
+hasPocketType,front pockets,depicts,bag,1
+hasSilhouette,bag-shaped,depicts,bag,1
+hasPattern,abstract pattern,depicts,bag,1
+hasMaterialType,polyester fabric,depicts,bag,1
+hasOpeningType,zipper closure,depicts,bag,1
+hasSilhouette,a-line,depicts,bag,1
+depicts,backpack,depicts,bag,1
+hasFabricTreatment,no treatment,hasPattern,abstract pattern,1
+hasMaterialType,fabric,hasPattern,abstract pattern,1
+hasPocketType,front pockets,hasPattern,abstract pattern,1
+hasLength,medium length,hasPattern,abstract pattern,1
+hasSilhouette,bag-shaped,hasPattern,abstract pattern,1
+depicts,bag,hasPattern,abstract pattern,1
+hasMaterialType,polyester fabric,hasPattern,abstract pattern,1
+hasOpeningType,zipper closure,hasPattern,abstract pattern,1
+hasNeckline,round neckline,hasPattern,abstract pattern,1
+hasLength,long,hasPattern,abstract pattern,1
+hasWaistline,high-waisted,hasPattern,abstract pattern,1
+hasSilhouette,a-line,hasPattern,abstract pattern,1
+hasFabricTreatment,no treatment,hasMaterialType,polyester fabric,1
+hasMaterialType,fabric,hasMaterialType,polyester fabric,1
+hasPocketType,front pockets,hasMaterialType,polyester fabric,1
+hasSilhouette,bag-shaped,hasMaterialType,polyester fabric,1
+depicts,bag,hasMaterialType,polyester fabric,1
+hasPattern,abstract pattern,hasMaterialType,polyester fabric,1
+hasOpeningType,zipper closure,hasMaterialType,polyester fabric,1
+hasSleeveType,sleeveless,hasMaterialType,polyester fabric,1
+hasNeckline,round neckline,hasMaterialType,polyester fabric,1
+hasLength,long,hasMaterialType,polyester fabric,1
+hasWaistline,high-waisted,hasMaterialType,polyester fabric,1
+hasSilhouette,a-line,hasMaterialType,polyester fabric,1
+belongsToCategory,upperbody,hasMaterialType,polyester fabric,1
+hasFabricTreatment,no treatment,hasOpeningType,zipper closure,1
+hasMaterialType,fabric,hasOpeningType,zipper closure,1
+hasOpeningType,zipper opening,hasOpeningType,zipper closure,1
+hasPocketType,front pockets,hasOpeningType,zipper closure,1
+hasSilhouette,bag-shaped,hasOpeningType,zipper closure,1
+depicts,bag,hasOpeningType,zipper closure,1
+hasPattern,abstract pattern,hasOpeningType,zipper closure,1
+hasMaterialType,polyester fabric,hasOpeningType,zipper closure,1
+hasSleeveType,sleeveless,hasOpeningType,zipper closure,1
+hasNeckline,round neckline,hasOpeningType,zipper closure,1
+hasLength,long,hasOpeningType,zipper closure,1
+hasWaistline,high-waisted,hasOpeningType,zipper closure,1
+hasSilhouette,a-line,hasOpeningType,zipper closure,1
+hasFabricTreatment,no treatment,hasSleeveType,sleeveless,1
+hasMaterialType,fabric,hasSleeveType,sleeveless,1
+hasPocketType,front pockets,hasSleeveType,sleeveless,1
+hasSilhouette,bag-shaped,hasSleeveType,sleeveless,1
+hasMaterialType,polyester fabric,hasSleeveType,sleeveless,1
+hasOpeningType,zipper closure,hasSleeveType,sleeveless,1
+hasSilhouette,a-line,hasSleeveType,sleeveless,1
+hasFabricTreatment,no treatment,hasNeckline,round neckline,1
+hasMaterialType,fabric,hasNeckline,round neckline,1
+hasLength,medium length,hasNeckline,round neckline,1
+hasSilhouette,bag-shaped,hasNeckline,round neckline,1
+hasPattern,abstract pattern,hasNeckline,round neckline,1
+hasMaterialType,polyester fabric,hasNeckline,round neckline,1
+hasOpeningType,zipper closure,hasNeckline,round neckline,1
+hasSilhouette,a-line,hasNeckline,round neckline,1
+hasFabricTreatment,no treatment,hasLength,long,1
+hasMaterialType,fabric,hasLength,long,1
+hasLength,medium length,hasLength,long,1
+hasSilhouette,bag-shaped,hasLength,long,1
+hasPattern,abstract pattern,hasLength,long,1
+hasMaterialType,polyester fabric,hasLength,long,1
+hasOpeningType,zipper closure,hasLength,long,1
+hasSilhouette,a-line,hasLength,long,1
+hasFabricTreatment,no treatment,hasWaistline,high-waisted,1
+hasMaterialType,fabric,hasWaistline,high-waisted,1
+hasLength,medium length,hasWaistline,high-waisted,1
+hasSilhouette,bag-shaped,hasWaistline,high-waisted,1
+hasPattern,abstract pattern,hasWaistline,high-waisted,1
+hasMaterialType,polyester fabric,hasWaistline,high-waisted,1
+hasOpeningType,zipper closure,hasWaistline,high-waisted,1
+hasSilhouette,a-line,hasWaistline,high-waisted,1
+belongsToCategory,upperbody,hasWaistline,high-waisted,1
+hasFabricTreatment,no treatment,hasSilhouette,a-line,1
+hasLeatherType,no leather,hasSilhouette,a-line,1
+hasMaterialType,fabric,hasSilhouette,a-line,1
+hasOpeningType,zipper opening,hasSilhouette,a-line,1
+hasPocketType,front pockets,hasSilhouette,a-line,1
+hasLength,medium length,hasSilhouette,a-line,1
+hasSilhouette,bag-shaped,hasSilhouette,a-line,1
+depicts,bag,hasSilhouette,a-line,1
+hasPattern,abstract pattern,hasSilhouette,a-line,1
+hasMaterialType,polyester fabric,hasSilhouette,a-line,1
+hasOpeningType,zipper closure,hasSilhouette,a-line,1
+hasSleeveType,sleeveless,hasSilhouette,a-line,1
+hasNeckline,round neckline,hasSilhouette,a-line,1
+hasLength,long,hasSilhouette,a-line,1
+hasWaistline,high-waisted,hasSilhouette,a-line,1
+belongsToCategory,upperbody,hasSilhouette,a-line,1
+depicts,backpack,hasSilhouette,a-line,1
+hasFabricTreatment,no treatment,belongsToCategory,upperbody,1
+hasSilhouette,bag-shaped,belongsToCategory,upperbody,1
+hasMaterialType,polyester fabric,belongsToCategory,upperbody,1
+hasWaistline,high-waisted,belongsToCategory,upperbody,1
+hasSilhouette,a-line,belongsToCategory,upperbody,1
+hasFabricTreatment,no treatment,depicts,backpack,1
+hasMaterialType,fabric,depicts,backpack,1
+hasSilhouette,bag-shaped,depicts,backpack,1
+depicts,bag,depicts,backpack,1
+hasSilhouette,a-line,depicts,backpack,1
+belongsToCategory,lowerbody,hasPattern,solid pattern,1
+hasPocketType,front pocket,hasMaterialType,polyester material,1
+hasSleeveType,sleeveless,hasMaterialType,polyester material,1
+hasNeckline,round neckline,hasMaterialType,polyester material,1
+hasLength,long,hasMaterialType,polyester material,1
+hasWaistline,high-waisted,hasMaterialType,polyester material,1
+belongsToCategory,lowerbody,hasMaterialType,polyester material,1
+depicts,bag,hasMaterialType,polyester material,1
+hasMaterialType,polyester material,hasPocketType,front pocket,1
+hasNeckline,round neckline,hasPocketType,front pocket,1
+hasMaterialType,polyester material,hasSleeveType,sleeveless,1
+hasMaterialType,polyester material,hasNeckline,round neckline,1
+hasPocketType,front pocket,hasNeckline,round neckline,1
+hasMaterialType,polyester material,hasLength,long,1
+hasMaterialType,polyester material,hasWaistline,high-waisted,1
+hasPattern,solid pattern,belongsToCategory,lowerbody,1
+hasMaterialType,polyester material,belongsToCategory,lowerbody,1
+depicts,bag,belongsToCategory,lowerbody,1
+hasMaterialType,polyester material,depicts,bag,1
+belongsToCategory,lowerbody,depicts,bag,1
+hasLength,medium,hasOpeningType,zipper opening,1
+hasMaterialType,nylon,hasOpeningType,zipper opening,1
+hasLength,medium,hasSleeveType,sleeveless,1
+hasMaterialType,nylon,hasSleeveType,sleeveless,1
+hasOpeningType,zipper opening,hasLength,medium,1
+hasSleeveType,sleeveless,hasLength,medium,1
+depicts,bag,hasLength,medium,1
+hasOpeningType,zipper opening,hasMaterialType,nylon,1
+hasSleeveType,sleeveless,hasMaterialType,nylon,1
+depicts,bag,hasMaterialType,nylon,1
+hasLength,medium,depicts,bag,1
+hasMaterialType,nylon,depicts,bag,1
+hasOpeningType,top opening,hasMaterialType,cotton,1
+hasPocketType,side pockets,hasMaterialType,cotton,1
+hasSleeveType,sleeveless,hasMaterialType,cotton,1
+hasNeckline,round neckline,hasMaterialType,cotton,1
+hasLength,long,hasMaterialType,cotton,1
+hasWaistline,high-waisted,hasMaterialType,cotton,1
+hasSilhouette,backpack silhouette,hasMaterialType,cotton,1
+belongsToCategory,lowerbody,hasMaterialType,cotton,1
+depicts,backpack,hasMaterialType,cotton,1
+hasMaterialType,cotton,hasOpeningType,top opening,1
+hasPocketType,side pockets,hasOpeningType,top opening,1
+hasSleeveType,sleeveless,hasOpeningType,top opening,1
+hasNeckline,round neckline,hasOpeningType,top opening,1
+hasLength,long,hasOpeningType,top opening,1
+hasWaistline,high-waisted,hasOpeningType,top opening,1
+hasSilhouette,backpack silhouette,hasOpeningType,top opening,1
+belongsToCategory,lowerbody,hasOpeningType,top opening,1
+depicts,backpack,hasOpeningType,top opening,1
+hasMaterialType,cotton,hasPocketType,side pockets,1
+hasOpeningType,top opening,hasPocketType,side pockets,1
+hasLength,long,hasPocketType,side pockets,1
+hasWaistline,high-waisted,hasPocketType,side pockets,1
+belongsToCategory,lowerbody,hasPocketType,side pockets,1
+hasMaterialType,cotton,hasSleeveType,sleeveless,1
+hasOpeningType,top opening,hasSleeveType,sleeveless,1
+hasMaterialType,cotton,hasNeckline,round neckline,1
+hasOpeningType,top opening,hasNeckline,round neckline,1
+hasMaterialType,cotton,hasLength,long,1
+hasOpeningType,top opening,hasLength,long,1
+hasPocketType,side pockets,hasLength,long,1
+hasMaterialType,cotton,hasWaistline,high-waisted,1
+hasOpeningType,top opening,hasWaistline,high-waisted,1
+hasPocketType,side pockets,hasWaistline,high-waisted,1
+hasMaterialType,cotton,hasSilhouette,backpack silhouette,1
+hasOpeningType,top opening,hasSilhouette,backpack silhouette,1
+hasMaterialType,cotton,belongsToCategory,lowerbody,1
+hasOpeningType,top opening,belongsToCategory,lowerbody,1
+hasPocketType,side pockets,belongsToCategory,lowerbody,1
+hasMaterialType,cotton,depicts,backpack,1
+hasOpeningType,top opening,depicts,backpack,1
+hasFabricTreatment,water-resistant treatment,hasPattern,solid pattern,1
+hasPocketType,outside pocket,hasPattern,solid pattern,1
+hasNeckline,crew neckline,hasPattern,solid pattern,1
+hasPattern,solid pattern,hasFabricTreatment,water-resistant treatment,1
+hasMaterialType,nylon material,hasFabricTreatment,water-resistant treatment,1
+hasPocketType,outside pocket,hasFabricTreatment,water-resistant treatment,1
+hasSleeveType,long-sleeve,hasFabricTreatment,water-resistant treatment,1
+hasNeckline,crew neckline,hasFabricTreatment,water-resistant treatment,1
+depicts,bag,hasFabricTreatment,water-resistant treatment,1
+hasPocketType,outside pocket,hasLeatherType,no leather,1
+hasSleeveType,long-sleeve,hasLeatherType,no leather,1
+hasNeckline,crew neckline,hasLeatherType,no leather,1
+hasFabricTreatment,water-resistant treatment,hasMaterialType,nylon material,1
+hasPocketType,outside pocket,hasMaterialType,nylon material,1
+hasNeckline,crew neckline,hasMaterialType,nylon material,1
+hasPocketType,outside pocket,hasOpeningType,zipper opening,1
+hasNeckline,crew neckline,hasOpeningType,zipper opening,1
+hasPattern,solid pattern,hasPocketType,outside pocket,1
+hasFabricTreatment,water-resistant treatment,hasPocketType,outside pocket,1
+hasLeatherType,no leather,hasPocketType,outside pocket,1
+hasMaterialType,nylon material,hasPocketType,outside pocket,1
+hasOpeningType,zipper opening,hasPocketType,outside pocket,1
+hasSleeveType,long-sleeve,hasPocketType,outside pocket,1
+hasNeckline,crew neckline,hasPocketType,outside pocket,1
+hasLength,medium length,hasPocketType,outside pocket,1
+hasSilhouette,backpack silhouette,hasPocketType,outside pocket,1
+belongsToCategory,upperbody,hasPocketType,outside pocket,1
+depicts,bag,hasPocketType,outside pocket,1
+hasFabricTreatment,water-resistant treatment,hasSleeveType,long-sleeve,1
+hasLeatherType,no leather,hasSleeveType,long-sleeve,1
+hasPocketType,outside pocket,hasSleeveType,long-sleeve,1
+hasNeckline,crew neckline,hasSleeveType,long-sleeve,1
+hasLength,medium length,hasSleeveType,long-sleeve,1
+hasPattern,solid pattern,hasNeckline,crew neckline,1
+hasFabricTreatment,water-resistant treatment,hasNeckline,crew neckline,1
+hasLeatherType,no leather,hasNeckline,crew neckline,1
+hasMaterialType,nylon material,hasNeckline,crew neckline,1
+hasOpeningType,zipper opening,hasNeckline,crew neckline,1
+hasPocketType,outside pocket,hasNeckline,crew neckline,1
+hasSleeveType,long-sleeve,hasNeckline,crew neckline,1
+hasLength,medium length,hasNeckline,crew neckline,1
+hasSilhouette,backpack silhouette,hasNeckline,crew neckline,1
+belongsToCategory,upperbody,hasNeckline,crew neckline,1
+depicts,bag,hasNeckline,crew neckline,1
+hasPocketType,outside pocket,hasLength,medium length,1
+hasSleeveType,long-sleeve,hasLength,medium length,1
+hasNeckline,crew neckline,hasLength,medium length,1
+hasPocketType,outside pocket,hasSilhouette,backpack silhouette,1
+hasNeckline,crew neckline,hasSilhouette,backpack silhouette,1
+hasPocketType,outside pocket,belongsToCategory,upperbody,1
+hasNeckline,crew neckline,belongsToCategory,upperbody,1
+hasFabricTreatment,water-resistant treatment,depicts,bag,1
+hasPocketType,outside pocket,depicts,bag,1
+hasNeckline,crew neckline,depicts,bag,1
+hasPocketType,multiple pockets,hasPattern,solid pattern,1
+hasSleeveType,backpack sleeves,hasPattern,solid pattern,1
+depicts,adidas backpack,hasPattern,solid pattern,1
+hasPocketType,multiple pockets,hasLeatherType,no leather,1
+hasSleeveType,backpack sleeves,hasLeatherType,no leather,1
+depicts,adidas backpack,hasLeatherType,no leather,1
+hasPocketType,multiple pockets,hasMaterialType,polyester material,1
+hasSleeveType,backpack sleeves,hasMaterialType,polyester material,1
+hasNeckline,no neckline,hasMaterialType,polyester material,1
+depicts,adidas backpack,hasMaterialType,polyester material,1
+hasPocketType,multiple pockets,hasOpeningType,zipper opening,1
+hasSleeveType,backpack sleeves,hasOpeningType,zipper opening,1
+depicts,adidas backpack,hasOpeningType,zipper opening,1
+hasPattern,solid pattern,hasPocketType,multiple pockets,1
+hasLeatherType,no leather,hasPocketType,multiple pockets,1
+hasMaterialType,polyester material,hasPocketType,multiple pockets,1
+hasOpeningType,zipper opening,hasPocketType,multiple pockets,1
+hasSleeveType,backpack sleeves,hasPocketType,multiple pockets,1
+hasNeckline,no neckline,hasPocketType,multiple pockets,1
+hasLength,medium length,hasPocketType,multiple pockets,1
+hasSilhouette,backpack silhouette,hasPocketType,multiple pockets,1
+belongsToCategory,upperbody,hasPocketType,multiple pockets,1
+depicts,adidas backpack,hasPocketType,multiple pockets,1
+hasPattern,solid pattern,hasSleeveType,backpack sleeves,1
+hasLeatherType,no leather,hasSleeveType,backpack sleeves,1
+hasMaterialType,polyester material,hasSleeveType,backpack sleeves,1
+hasOpeningType,zipper opening,hasSleeveType,backpack sleeves,1
+hasPocketType,multiple pockets,hasSleeveType,backpack sleeves,1
+hasNeckline,no neckline,hasSleeveType,backpack sleeves,1
+hasLength,medium length,hasSleeveType,backpack sleeves,1
+depicts,adidas backpack,hasSleeveType,backpack sleeves,1
+hasMaterialType,polyester material,hasNeckline,no neckline,1
+hasPocketType,multiple pockets,hasNeckline,no neckline,1
+hasSleeveType,backpack sleeves,hasNeckline,no neckline,1
+depicts,adidas backpack,hasNeckline,no neckline,1
+hasPocketType,multiple pockets,hasLength,medium length,1
+hasSleeveType,backpack sleeves,hasLength,medium length,1
+depicts,adidas backpack,hasLength,medium length,1
+hasPocketType,multiple pockets,hasSilhouette,backpack silhouette,1
+depicts,adidas backpack,hasSilhouette,backpack silhouette,1
+hasPocketType,multiple pockets,belongsToCategory,upperbody,1
+depicts,adidas backpack,belongsToCategory,upperbody,1
+hasPattern,solid pattern,depicts,adidas backpack,1
+hasLeatherType,no leather,depicts,adidas backpack,1
+hasMaterialType,polyester material,depicts,adidas backpack,1
+hasOpeningType,zipper opening,depicts,adidas backpack,1
+hasPocketType,multiple pockets,depicts,adidas backpack,1
+hasSleeveType,backpack sleeves,depicts,adidas backpack,1
+hasNeckline,no neckline,depicts,adidas backpack,1
+hasLength,medium length,depicts,adidas backpack,1
+hasSilhouette,backpack silhouette,depicts,adidas backpack,1
+belongsToCategory,upperbody,depicts,adidas backpack,1
+hasFabricTreatment,not treated,hasPattern,solid color pattern,1
+hasMaterialType,fabric,hasPattern,solid color pattern,1
+hasSleeveType,full sleeve,hasPattern,solid color pattern,1
+belongsToCategory,upperbody,hasPattern,solid color pattern,1
+depicts,bag,hasPattern,solid color pattern,1
+hasPattern,solid color pattern,hasFabricTreatment,not treated,1
+hasLeatherType,no leather,hasFabricTreatment,not treated,1
+hasMaterialType,fabric,hasFabricTreatment,not treated,1
+hasOpeningType,zipper opening,hasFabricTreatment,not treated,1
+hasSleeveType,full sleeve,hasFabricTreatment,not treated,1
+hasNeckline,no neckline,hasFabricTreatment,not treated,1
+hasLength,medium length,hasFabricTreatment,not treated,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,not treated,1
+belongsToCategory,upperbody,hasFabricTreatment,not treated,1
+depicts,bag,hasFabricTreatment,not treated,1
+hasFabricTreatment,not treated,hasLeatherType,no leather,1
+hasSleeveType,full sleeve,hasLeatherType,no leather,1
+hasPattern,solid color pattern,hasMaterialType,fabric,1
+hasFabricTreatment,not treated,hasMaterialType,fabric,1
+hasSleeveType,full sleeve,hasMaterialType,fabric,1
+hasNeckline,no neckline,hasMaterialType,fabric,1
+hasSilhouette,backpack silhouette,hasMaterialType,fabric,1
+hasFabricTreatment,not treated,hasOpeningType,zipper opening,1
+hasSleeveType,full sleeve,hasOpeningType,zipper opening,1
+hasPattern,solid color pattern,hasSleeveType,full sleeve,1
+hasFabricTreatment,not treated,hasSleeveType,full sleeve,1
+hasLeatherType,no leather,hasSleeveType,full sleeve,1
+hasMaterialType,fabric,hasSleeveType,full sleeve,1
+hasOpeningType,zipper opening,hasSleeveType,full sleeve,1
+hasNeckline,no neckline,hasSleeveType,full sleeve,1
+hasLength,medium length,hasSleeveType,full sleeve,1
+hasSilhouette,backpack silhouette,hasSleeveType,full sleeve,1
+belongsToCategory,upperbody,hasSleeveType,full sleeve,1
+depicts,bag,hasSleeveType,full sleeve,1
+hasFabricTreatment,not treated,hasNeckline,no neckline,1
+hasMaterialType,fabric,hasNeckline,no neckline,1
+hasSleeveType,full sleeve,hasNeckline,no neckline,1
+hasFabricTreatment,not treated,hasLength,medium length,1
+hasSleeveType,full sleeve,hasLength,medium length,1
+hasFabricTreatment,not treated,hasSilhouette,backpack silhouette,1
+hasMaterialType,fabric,hasSilhouette,backpack silhouette,1
+hasSleeveType,full sleeve,hasSilhouette,backpack silhouette,1
+hasPattern,solid color pattern,belongsToCategory,upperbody,1
+hasFabricTreatment,not treated,belongsToCategory,upperbody,1
+hasSleeveType,full sleeve,belongsToCategory,upperbody,1
+hasPattern,solid color pattern,depicts,bag,1
+hasFabricTreatment,not treated,depicts,bag,1
+hasSleeveType,full sleeve,depicts,bag,1
+hasMaterialType,nylon,hasFabricTreatment,water-resistant,1
+hasOpeningType,zipper,hasFabricTreatment,water-resistant,1
+hasPocketType,front pocket,hasFabricTreatment,water-resistant,1
+hasLength,medium,hasFabricTreatment,water-resistant,1
+hasFabricTreatment,water-resistant,hasMaterialType,nylon,1
+hasOpeningType,zipper,hasMaterialType,nylon,1
+hasFabricTreatment,water-resistant,hasOpeningType,zipper,1
+hasMaterialType,nylon,hasOpeningType,zipper,1
+hasPocketType,front pocket,hasOpeningType,zipper,1
+hasLength,medium,hasOpeningType,zipper,1
+belongsToCategory,upperbody,hasOpeningType,zipper,1
+hasFabricTreatment,water-resistant,hasPocketType,front pocket,1
+hasOpeningType,zipper,hasPocketType,front pocket,1
+hasFabricTreatment,water-resistant,hasLength,medium,1
+hasOpeningType,zipper,hasLength,medium,1
+depicts,backpack,hasLength,medium,1
+hasOpeningType,zipper,belongsToCategory,upperbody,1
+hasLength,medium,depicts,backpack,1
+hasFabricTreatment,no finishing or techniques,hasPattern,solid pattern,1
+hasMaterialType,fabric material,hasPattern,solid pattern,1
+hasPocketType,no pocket,hasPattern,solid pattern,1
+hasSleeveType,no sleeve,hasPattern,solid pattern,1
+hasLength,short,hasPattern,solid pattern,1
+hasPattern,solid pattern,hasFabricTreatment,no finishing or techniques,1
+hasLeatherType,no leather,hasFabricTreatment,no finishing or techniques,1
+hasMaterialType,fabric material,hasFabricTreatment,no finishing or techniques,1
+hasOpeningType,zipper opening,hasFabricTreatment,no finishing or techniques,1
+hasPocketType,no pocket,hasFabricTreatment,no finishing or techniques,1
+hasSleeveType,no sleeve,hasFabricTreatment,no finishing or techniques,1
+hasNeckline,no neckline,hasFabricTreatment,no finishing or techniques,1
+hasLength,short,hasFabricTreatment,no finishing or techniques,1
+hasSilhouette,backpack silhouette,hasFabricTreatment,no finishing or techniques,1
+belongsToCategory,upperbody,hasFabricTreatment,no finishing or techniques,1
+depicts,bag,hasFabricTreatment,no finishing or techniques,1
+hasFabricTreatment,no finishing or techniques,hasLeatherType,no leather,1
+hasPocketType,no pocket,hasLeatherType,no leather,1
+hasSleeveType,no sleeve,hasLeatherType,no leather,1
+hasLength,short,hasLeatherType,no leather,1
+hasPattern,solid pattern,hasMaterialType,fabric material,1
+hasFabricTreatment,no finishing or techniques,hasMaterialType,fabric material,1
+hasPocketType,no pocket,hasMaterialType,fabric material,1
+hasSleeveType,no sleeve,hasMaterialType,fabric material,1
+hasLength,short,hasMaterialType,fabric material,1
+depicts,bag,hasMaterialType,fabric material,1
+hasFabricTreatment,no finishing or techniques,hasOpeningType,zipper opening,1
+hasPocketType,no pocket,hasOpeningType,zipper opening,1
+hasSleeveType,no sleeve,hasOpeningType,zipper opening,1
+hasLength,short,hasOpeningType,zipper opening,1
+hasPattern,solid pattern,hasPocketType,no pocket,1
+hasFabricTreatment,no finishing or techniques,hasPocketType,no pocket,1
+hasLeatherType,no leather,hasPocketType,no pocket,1
+hasMaterialType,fabric material,hasPocketType,no pocket,1
+hasOpeningType,zipper opening,hasPocketType,no pocket,1
+hasSleeveType,no sleeve,hasPocketType,no pocket,1
+hasNeckline,no neckline,hasPocketType,no pocket,1
+hasLength,short,hasPocketType,no pocket,1
+hasSilhouette,backpack silhouette,hasPocketType,no pocket,1
+belongsToCategory,upperbody,hasPocketType,no pocket,1
+depicts,bag,hasPocketType,no pocket,1
+hasPattern,solid pattern,hasSleeveType,no sleeve,1
+hasFabricTreatment,no finishing or techniques,hasSleeveType,no sleeve,1
+hasLeatherType,no leather,hasSleeveType,no sleeve,1
+hasMaterialType,fabric material,hasSleeveType,no sleeve,1
+hasOpeningType,zipper opening,hasSleeveType,no sleeve,1
+hasPocketType,no pocket,hasSleeveType,no sleeve,1
+hasNeckline,no neckline,hasSleeveType,no sleeve,1
+hasLength,short,hasSleeveType,no sleeve,1
+hasSilhouette,backpack silhouette,hasSleeveType,no sleeve,1
+belongsToCategory,upperbody,hasSleeveType,no sleeve,1
+depicts,bag,hasSleeveType,no sleeve,1
+hasFabricTreatment,no finishing or techniques,hasNeckline,no neckline,1
+hasPocketType,no pocket,hasNeckline,no neckline,1
+hasSleeveType,no sleeve,hasNeckline,no neckline,1
+hasLength,short,hasNeckline,no neckline,1
+hasPattern,solid pattern,hasLength,short,1
+hasFabricTreatment,no finishing or techniques,hasLength,short,1
+hasLeatherType,no leather,hasLength,short,1
+hasMaterialType,fabric material,hasLength,short,1
+hasOpeningType,zipper opening,hasLength,short,1
+hasPocketType,no pocket,hasLength,short,1
+hasSleeveType,no sleeve,hasLength,short,1
+hasNeckline,no neckline,hasLength,short,1
+depicts,bag,hasLength,short,1
+hasFabricTreatment,no finishing or techniques,hasSilhouette,backpack silhouette,1
+hasPocketType,no pocket,hasSilhouette,backpack silhouette,1
+hasSleeveType,no sleeve,hasSilhouette,backpack silhouette,1
+hasFabricTreatment,no finishing or techniques,belongsToCategory,upperbody,1
+hasPocketType,no pocket,belongsToCategory,upperbody,1
+hasSleeveType,no sleeve,belongsToCategory,upperbody,1
+hasFabricTreatment,no finishing or techniques,depicts,bag,1
+hasMaterialType,fabric material,depicts,bag,1
+hasPocketType,no pocket,depicts,bag,1
+hasSleeveType,no sleeve,depicts,bag,1
+hasLength,short,depicts,bag,1
+hasOpeningType,zipper,hasMaterialType,polyester,1
+hasPocketType,side pocket,hasMaterialType,polyester,1
+hasSleeveType,short-sleeve,hasMaterialType,polyester,1
+belongsToCategory,whole body,hasMaterialType,polyester,1
+hasMaterialType,polyester,hasOpeningType,zipper,1
+hasPocketType,side pocket,hasOpeningType,zipper,1
+hasSleeveType,short-sleeve,hasOpeningType,zipper,1
+hasLength,medium length,hasOpeningType,zipper,1
+belongsToCategory,whole body,hasOpeningType,zipper,1
+hasMaterialType,polyester,hasPocketType,side pocket,1
+hasOpeningType,zipper,hasPocketType,side pocket,1
+hasSleeveType,short-sleeve,hasPocketType,side pocket,1
+hasLength,medium length,hasPocketType,side pocket,1
+hasSilhouette,backpack silhouette,hasPocketType,side pocket,1
+belongsToCategory,whole body,hasPocketType,side pocket,1
+depicts,backpack,hasPocketType,side pocket,1
+hasMaterialType,polyester,hasSleeveType,short-sleeve,1
+hasOpeningType,zipper,hasSleeveType,short-sleeve,1
+hasPocketType,side pocket,hasSleeveType,short-sleeve,1
+belongsToCategory,whole body,hasSleeveType,short-sleeve,1
+hasOpeningType,zipper,hasLength,medium length,1
+hasPocketType,side pocket,hasLength,medium length,1
+belongsToCategory,whole body,hasLength,medium length,1
+hasPocketType,side pocket,hasSilhouette,backpack silhouette,1
+belongsToCategory,whole body,hasSilhouette,backpack silhouette,1
+hasMaterialType,polyester,belongsToCategory,whole body,1
+hasOpeningType,zipper,belongsToCategory,whole body,1
+hasPocketType,side pocket,belongsToCategory,whole body,1
+hasSleeveType,short-sleeve,belongsToCategory,whole body,1
+hasLength,medium length,belongsToCategory,whole body,1
+hasSilhouette,backpack silhouette,belongsToCategory,whole body,1
+depicts,backpack,belongsToCategory,whole body,1
+hasPocketType,side pocket,depicts,backpack,1
+belongsToCategory,whole body,depicts,backpack,1
