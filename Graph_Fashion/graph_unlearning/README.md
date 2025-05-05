@@ -1,5 +1,5 @@
 ### graph_unlearning/
-This folder contains the entire pipeline for **graph-based unlearning experiments**, adapted from our [Search-Based Data Influence Analysis repository](https://github.com/teoaivalis/Search-Based_Data_Influence_Analysis.git).
+This folder contains the entire pipeline for **graph-based unlearning experiments**, adapted from [Search-Based Data Influence Analysis repository](https://github.com/teoaivalis/Search-Based_Data_Influence_Analysis.git).
 
 Also there are the python scripts used to "clean" the descriptions for the generated images and to insert them in the Neo4j Database.
 
