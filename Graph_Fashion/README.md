@@ -1,12 +1,12 @@
 # Graph Fashion Experiments
 
-This directory contains all scripts and resources used to generate and analyse knowledge graphs (KGs) from fashion images using our **Auto-KG Generation pipeline**, powered by a multimodal Large Language Model (LLM).
+This directory contains all scripts and resources used to generate and analyse knowledge graphs (KGs) from fashion images using our **AutoGraphX pipeline**, powered by a multimodal Large Language Model (LLM).
 
 We employ **LLaMA 3.2 Vision** (via the Ollama library), guided by the [Fashionpedia Ontology](https://fashionpedia.github.io/home/), to extract semantic triples (subject–predicate–object) from each image. These triples are cleaned and structured into **star-shaped knowledge graphs**, stored in a Neo4j database. This symbolic representation enables structured comparison between generated and training images, offering interpretable insights into training data influence.
 
 ## Pipeline Overview
 
-**Auto-KG Generation Process:**
+**AutoGraphX Generation Process:**
 
 ![Auto-KG Generation Pipeline](kg_pipeline.png)
 
