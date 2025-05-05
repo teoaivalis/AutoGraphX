@@ -5,7 +5,7 @@
 **Keywords:** Knowledge Graphs Generation, Multimodal LLMs, Data Influence Analysis, Graph-Based Retrieval.
 
 
-# Auto-KG Generation Pipeline
+# AutoGraphX Generation Pipeline
 
 Our proposed method for knowledge graph generation using multimodal LLMs is illustrated in the figure below.
 ![Auto-KG Generation Pipeline](kg_pipeline.png)
