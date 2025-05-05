@@ -1,6 +1,6 @@
 # Local Model
 
-Our local experiments build upon the [Local Dalle-pytorch framework](https://github.com/teoaivalis/Search-Based_Data_Influence_Analysis/tree/main/Local_Dalle), which we faithfully reproduced as a baseline. We then extended this setup by integrating our proposed Auto-KG Generation method for interpretability and training data influence analysis.
+Our local experiments build upon the [Local Dalle-pytorch framework](https://github.com/teoaivalis/Search-Based_Data_Influence_Analysis/tree/main/Local_Dalle), which we faithfully reproduced as a baseline. We then extended this setup by integrating our proposed AutoGraphX Generation method for interpretability and training data influence analysis.
 
 ## Install
 
