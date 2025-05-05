@@ -2,7 +2,7 @@
 
 # Define Neo4j credentials
 NEO4J_USER="neo4j"
-NEO4J_PASS="br7ntoz426"
+NEO4J_PASS="----"
 
 INPUT_DIR="./cleaned_triples_for_generated_images"
 OUTPUT_DIR="./neo4j_results_per_generated_image"
