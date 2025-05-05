@@ -9,7 +9,3 @@
 
 Our proposed method for knowledge graph generation using multimodal LLMs is illustrated in the figure below.
 ![Auto-KG Generation Pipeline](kg_pipeline.png)
-
-
-
-Contact For inquiries or assistance, you can reach me at : teoaivalis@iit.demokritos.gr
